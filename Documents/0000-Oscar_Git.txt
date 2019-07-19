@@ -1,0 +1,110 @@
+一、申請GitHub帳號(已經有了)
+
+二、下載Git Download-->https://git-scm.com/downloads
+
+三、開啟Git CMD 切換到你要的目錄
+
+
+四、設定Git帳號
+
+git config --global user.email "true@hot-dot.com.tw"
+git config --global user.name "True"
+
+
+五、初始化Git環境
+
+$ git init
+
+此時會產生一個.git的隱藏資料夾
+
+可用指令 git status 檢查目前狀態
+紅色表示目前沒有commit的資料，後面有斜線/的是資料夾的意思
+
+
+
+六、把專案資料夾add進暫存區
+
+全部資料加入暫存區的指令
+git add .
+
+然後要接著commit
+git commit -m "First Commit"
+
+檢查狀態
+git status
+
+
+可參考這裡說明：
+https://gitbook.tw/chapters/using-git/working-staging-and-repository.html
+
+
+
+
+七、用git log檢查紀錄
+越新的資訊會在越上面，從這段訊息，大概可以看得出來：
+
+1.Commit 作者是誰。（人是誰殺的）
+2.什麼時候 Commit 的。（什麼時候殺的）
+3.每次的 Commit 大概做了些什麼事。（怎麼殺的）
+
+
+git log --oneline --graph
+
+
+八、用git reset回復最後一次的Commit
+
+git reset --hard HEAD
+
+可以參考這邊說明
+https://gitbook.tw/chapters/using-git/reset-commit.html
+
+
+
+九、建立忽略資料夾
+
+在專案資料夾底下增加一個參考檔案.gitignore
+裡面內容是會被忽略的清單
+
+用文字文件編輯，範例如下：
+
+ignore_foldere/
+
+
+0000-Oscar_Git.txt
+
+
+可參考:
+https://gitbook.tw/chapters/using-git/ignore.html
+
+
+十、上傳到GitHub
+
+首先，需要設定一個端節的節點，例如：
+git remote add origin https://github.com/true-chen/Git_Config.git
+(註：https://github.com/true-chen/Git_Config.git這段是從GitHub抄下來的)
+
+然後把檔案推到伺服器上去
+git push origin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
