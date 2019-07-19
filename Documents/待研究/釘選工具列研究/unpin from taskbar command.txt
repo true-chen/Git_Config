@@ -1,0 +1,32 @@
+@echo off
+
+if exist
+C:\Users\HD-User\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows Media Player.lnk
+
+
+Google "unpin from taskbar command"
+
+
+
+Command to Pin or Unpin Program from Taskbar
+http://www.msfn.org/board/topic/154143-command-to-pin-or-unpin-program-from-taskbar/
+
+
+
+
+Pin Items to the Start Menu or Windows 7 Taskbar via Script
+http://blogs.technet.com/b/deploymentguys/archive/2009/04/08/pin-items-to-the-start-menu-or-windows-7-taskbar-via-script.aspx
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+執行 regedit
+於 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters]下修改 dword "DisabledComponents" 的值(如果沒有請手動新增)，設定數值的意義如下 --
+1 = 停用通道介面 
+2 = 停用 v6 轉 v4
+3 = 停用 ISATAP 
+8 = 停用 Teredo 
+16 = 停用 LAN 與 PPP 介面 
+32 = 提高 IPv4 的優先權
+255 = 完全停用 IPv6 (推薦用這個)
+
+請重新開機。然後再到網路和共用中心將 IPv6 取消勾選
+
+如果想方便使用，請將以下文字貼至記事本並將其另存為 .reg 檔案(預設值為 255)：
+===================開始線====================
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters]
+"DisabledComponents"=dword:000000ff
+===================結束線====================

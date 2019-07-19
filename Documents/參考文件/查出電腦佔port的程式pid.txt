@@ -1,0 +1,7 @@
+netstat -ano
+再查PID
+tasklist /FI "PID eq 3780"
+
+
+另外
+netstat -b 好像可以看到資料

@@ -1,0 +1,2360 @@
+[Language]
+Description= Romania(Bucuresti)
+Author = Borodi Gheorghe 
+    (borodigheorghe@gmail.com)
+
+[Globals]
+10001=Fisiere
+10002=Editeaza
+10003=Vezi
+10004=Ajutor
+10005=Iesi
+10023=Ajutor Continut
+10018=Prima pagina
+10019=Despre
+10006=Stop
+10007=Reimprospatare
+10008=Proprietati
+10009=Nume
+10010=Deschide
+10012=OK
+10013=Anulat
+10014=Inchis
+10015=Da
+10016=Nu
+10017=Cauta...
+10020=Exporta...
+10021=Deschide dosar
+10022=Sarcini
+10024=Urmatoru
+10025=Inapoi
+10026=Optiuni
+19026=Marime totala
+19027=Spatiu liber
+14023=Statut
+10027=Descriere
+10028=Sfirsit
+10029=Cos de gunoi
+14009=Detalii
+10030=Adauga
+10031=Anuleaza
+10032=Programul
+10033=Data creerii
+10034=Sterge
+10035=Recomanda la Prieteni
+10036=Cumpara acum
+10037=Introduceti un cod de inregistrare
+15009=Selecteaza tot
+15010=Nu Selecta
+15011=Inverseaza selectia
+15014=Selecteaza
+10038=Meniu
+10039=Selecteaza pentru actualizari
+10040=Limba
+10041=Sunteti sigur ca doriti sa trimiteti aceste elemente selectate in Cosul de gunoi?
+10043=Cateva fisiere nu pot fi sterse. Asigurati-va ca fisierele nu sunt folosite in prezent si ca discul nu este plin sau scris protejat.
+10044=Atentie
+10045=Iinformatii
+10046=Eroare
+10047=Confirmare
+10048=Initializare
+
+10050=Recomanda
+10051=Aplica
+10052=Instrumente
+10053=Programul nu va rula din cauza unui fisier lipsa sau deteriorat,incercati din nou instalarea pentru a rezolva problema.  Click 'Da' sa downloadezi ultima versiune de la Glary Utilities.
+
+[Integrator]
+10801=Curatenie & Reparare
+10802=Optimizati & Imbunatatiti
+10803=Intimitate & Securitate
+10804=Fisiere & Dosare
+10805=Instrumente de sistem
+
+10806=Statut
+10807=Programul de Stare
+10808=Versiunea Curenta:
+10809=Ultimile Actualizari:
+10810=Baza de date Date:
+10811=Stare licenta
+10812=Tip:
+10813=Free Editie
+10814=Editie Profesionala
+10815=Data de expirare:
+10816=Niciodata
+10817=Inregistrati-va produsul platit, facind clic pe butonul de mai jos.
+10818=Inregistrare
+10819=AutoCare Setari
+
+10799= Module
+
+10820=Setari
+10821=General
+10822=Limba:
+10823=Porneste automat Glary Utilities la pornirea Windows.
+10824=Minimizarea in bara, atunci cind inchideti fereastra programului
+10825=Context Meniu
+10826=Selectati meniurile contextuale pe care doriti sa le integreze in Windows Explorer.
+10827=Automatic Actualizari
+10828=Executare Actualizarea pe Web la o ora programata.
+10829=Programare:
+10830=Nu este disponibil pentru Free Edition
+10831=Schimba programarea:
+10832=Auto Care
+10833=Sterge urmele de confidentialitate la logoff sau oprire Windows.
+10834=Urme de confidentialitate
+10835=Selecteaza urmele pe care doriti sa le stergeti  la logoff sau oprire Windows.
+10836=Automatic 1-Click Intretinere
+10837=Executa 1-Click Intretinere la un timp programat.
+10838=Centru de Restaurare
+10839=Protectia Centrului de Restaurare
+10840=Selectati modulele pe care doriti sa le aveti protejate prin Centrul de Restaurare aici.
+10841=Module disponibile:
+10842=Optiuni de copie de rezerva
+10843=Sterge copie de rezerva automat:
+10844=Limitarea nr de copii de rezerva la:
+10845=Ignora lista
+10846=Dupa o Saptamina
+10847=Dupa 2 Saptamini
+10848=Dupa 3 Saptamini
+10849=Dupa o Luna
+10850=Dupa 2 Luni
+10851=Dupa 3 Luni
+10852=Automatic 1-Click Optiuni de intretinere
+10853=Scanare numai pentru probleme
+10854=Scanarea si repararea problemelor
+10855=Selectati urmele pe care doriti sa le stergeti
+10856=Arata sfaturi balon atunci cind se minimalizeaza in bara
+10857=Verifica pentru actualizari atunci cind programul incepe
+
+10900=Anulare modificari
+10901=Va rugam sa selectati o copie de rezerva la ce doriti sa restaurati si dati clic butonul  'Restaurare '.
+10902=Sistem Restaurare
+10903=Creare Punct de Restaurare
+10914=Noul  Punct de restaurare a fost creat cu succes.
+10904=Crearea punctului de restaurare a A esuat! System Restore poate fi dezactivat pe acest sistem, sau nu aveti permisiunile de acces.
+10905=Pentru a activa System Restore, efectuati urmatorii pasi: Start Control Panel -> System -> System Restore tab.Debifati "Turn off System Restore on all drives" caseta pentru a activa System Restore. Faceti clic pe OK.
+10906=Va rugam sa selectati un punct de restaurare in primul rind!
+10907=Va rugam salvati modificarile si inchideti toate programele deschise.Windows va reporni automat in timpul procesului de restaurare.
+10908=Va rugam selectati o copie de rezerva in primul rind!
+10911=Copiile de rezerva
+10912=Sunteti sigur ca doriti sa restaurati %s?
+10913=Restaurat cu succes.
+10915=Va rugam selectati un punct de restaurare pe care doriti sa-l restaurati,apoi dati click pe butonul 'Restore'.
+
+10909=Sugestie
+10910=Glary Utilities este inca in desfasurare.
+
+10916=FAQ
+10917=Aspect
+10918=Versiunea Portabila
+10919=Ajutor de Urgenta
+
+[License Dialog]
+20001=Aceasta este o versiune de incercare limitata de timp.
+20002=Puteti testa functionalitatile a software-ului pentru %s zile fara obligatii.
+20003=daca va place software-ul si doriti sa-l utilizati in afara perioadei de testare, dati click "Comanda acum".
+20004=Perioada de test: zi %s cu %s2
+20005=Aceasta versiune trial a expirat. Ai avut posibilitatea de a testa functionalitatea completa a software-ului pentru %s zile.
+20006=daca va place software-ul si ati dori sa continuati utilizarea acestuia, dati click "Comanda acum".
+20007=Perioada de Test a Expirat
+20008=Neinregistrat
+20009=Drepturi de autor(c)
+20010=Acest produs este licentiat pentru:
+20011=Atentie: Acest program de calculator este protejat de legea drepturilor de autor si a tratatelor internationale.Reproducerea neautorizata sau distributia acestui program poate duce la pedepse civile sau penale severe si va fi urmarit penal IN LIMITELE MAXIME posibil in temeiul legii.
+20012=Web Site
+20013=Comanda Acum
+20014=Introdu Codul
+20015=Mentine Testarea
+20016=Numele tau:
+20017=Cod de Inregistrare
+20018=daca nu aveti un cod de inregistrare pentru deblocarea acestei versiuni trial , aveti posibilitatea sa
+20019=Pentru unul on-line.
+20020=Codul de Inregistare introdus este invalid. Va rugam sa verificati codul pentru a va asigura ca acesta a fost introdus corect.
+20021=Multumim urmatoarelor persoane pentru contributiile lor
+20022=Upgrade Acum!
+20023=Va rugam introduceti informatiile dvs. de licenta
+20024=Tip Licenta:
+20025=Pentru a obtine licenta,
+20026=Home Page:
+
+20027=Upgrade Acum
+20037=Va rugam introduceti numele dvs!
+20038=Codul licenta:
+20039=Activare acum
+20040=Nu aveti o licenta?
+20041=Click aici obtine unul.
+20042=Am pierdut codul de licenta.
+20043=Introduceti informatiile dvs. de licenta
+20044=Numele de licenta:
+20045=Data de expirare:
+20046=%s zi(le) ramase
+20047=Expira %s zi(le)
+20048=Reinnoiti
+20049=Export Licenta
+20050=Glary Utilities  Administrare de Licenta
+20051=E.g. AC6E-D9C6-FAB8-A8C8
+20052=Administrare de Licenta
+20053=Informatiile de licenta au fost salvate cu succes:
+
+[Updater]
+30001=Imposibilitatea de a prelua informatii de la %s
+30002=Pe computer se executa cea mai recenta versiune %s. Nici o actualizare nu este disponibila pentru moment.
+30003=Tu folosesti  %s : %s2.
+30004=O versiune mai noua %s este disponibila pentru descarcare: %s2. Va rugam sa faceti click pe "OK" sa deschideti o pagina cu detalii descarcare, sau pe Anulare daca nu doriti sa actualizati in acest moment.
+30005=Actualizat cu succes
+30006=Preluarea versiune actualizata (%s)...
+30007=Preluarea de referinta a fisierelor actualizate  (%s)...
+30008=Verificare pentru actualizari ...
+30009=Pregatit
+30010=Efectuarea WebActualizari ...
+30011=Estimare a timpului ramas:
+30012=Rata de transfer:
+30013=Necunoscut
+30014=%s sec
+30015=%s la %s2 copiate
+30016=%s/Sec
+30017=Trebuie sa actualizati la versiunea PRO %s pentru a utiliza aceasta caracteristica. Actualizati acum?
+30018=%s este disponibil acum.Faceti click pe acest mesaj pentru instalare.
+30019=%s min %s2 sec
+30020=Preluarea fisier actualizat in limba (%s)...
+
+[Context Menu]
+40001=Analiza Spatiu pe disc cu Glary Utilities
+40002=Uneste cu Glary Utilities
+40003=Impartiti cu Glary Utilities
+40004=Decriptare cu Glary Utilities
+40005=Criptare cu Glary Utilities
+40006=Wipe cu Glary Utilities
+40007=Cauta Dosare goale cu Glary Utilities
+
+40008=Disk Defragmentat cu Glary Utilities
+40009=Defragmentare disc cu Glary Utilities
+40010=Defragmentare Dosar cu Glary Utilities
+40011=Defragmentare Fisier cu Glary Utilities
+
+[Registry Cleaner]
+11001=Reparare Registri
+11901=Curata registry pentru a imbunatati performantele sistemului dumneavoastra.
+11002=Selectati sectiunile pentru scanare
+
+11003=Actiune
+11004=Scanare registry pentru probleme
+11005=Repara registry
+11006=Restaurare reparatii anterioare
+11007=Instrumente
+
+11008=Problemele selectate au fost reparate cu succes.
+11009=Sunteti sigur ca doriti sa adaugati elementul in lista de ignore?Acest articol nu va fi gasit din nou.
+11010=Fisierul a fost salvat la:
+11011=Rezumatul problemelor gasite:
+11012=1 problema de gasita
+11013=%s probleme gasite
+11014=1 problema selectata pentru reparare
+11015=%s probleme selectate pentru reparare
+11016=Nu au fost gasite probleme
+11017=Nu sunt probleme selectate pentru reparare
+11018=(%s probleme gasite)
+11019=Analizare
+11020=Selectie:
+11021=Corectie:
+11022=Deschide in Regedit
+11023=Deschide aceasta intrare in Regedit
+11024=Sterge intrarea asta
+11025=Lasati aceasta intrare fara schimbare
+11026=Exclude aceasta intrare intotdeauna (Nu va mai fi gasita din nou)
+11027=Proprietati
+11028=Deschide aceasta comanda rapida Proprietati
+11029=Sterge comanda rapida
+11030=Lasati aceasta comanda rapida, fara schimbare
+
+11031=Terminat Scanare
+11032=Repara
+11033=Clic Reparare rezolva automat-click Inchis vizualiza detalii.
+11034=Reparatia terminata
+11036=Reparare
+
+11037=Restaureaza
+11038=Va rugam sa selectati o copie de rezerva la ce doriti sa restaurati si dati clic butonul  'Restaurare '.
+11039=Copie de rezerva
+11040=Sunteti sigur ca doriti sa restaurati %s a sistemul registry?
+11041=%s a fost restaurata cu succes in registru.
+
+11042=Intrarea %s puncte la fisierul lipsa sau dosar  %s2
+11043=Aceasta inregistrare de puncte intr-o cheie care lipsesc %s
+11044=Aceasta cheie de registru nu contine date, acesta poate fi sters.
+11045=Aceasta cheie de registru punct lipsa pentruCLSID %s
+11046=Aceasta cheie de registru punct lipsa pentru fisiere icoane %s
+11047=Intrarea meniul contextual %s punct lipsa pentru program %s2
+11048=Acest registru este incomplet deoarece comanda subcheie lipseste.
+11049=Aceasta cheie de registru este incompleta, deoarece nu contine date care sunt necesare pentru Windows.
+11050=Aceasta cheie de registru punct lipsa pentru InprocServer %s. CLSID asociate pot fi sterse.
+11051=Aceasta cheie de registru  punct lipsa pentru LocalServer32 %s.  CLSID asociate pot fi sterse.
+11052=Aceasta cheie de registru punc lipsa pentru tip librarie %s
+11053=Aceasta cheie de registru punct lipsa pentru dosar %s
+11054=Cheia de registry %s nu contine date.Tipul la Biblioteca asociata poate fi sters.
+11055=Aceasta cheie de registru punct lipsa pentru fisier %s
+11056=Fisierul indicat %s nu a putut fi gasit.
+11057=Fisierul %s care este asociat cu intrarea %s2 nu exista.
+11058=Intrarea  %s punct lipsa la help fisier %s2
+11059=Lipsa fisier partajat %s
+11060=Fisierul partajat %s nu mai este utilizat.
+11061=Aceasta intrare Cale Imagine punct lipsa la fisier %s. Serviciile asociate pot fi sterse.
+11062=Aceasta intrare  %s punct lipsa fisier %s2
+11063=Aceasta comanda rapida punct lipsa la tinta %s
+11064=Aceasta cheie de registru contine o trimitere la dosarul meniul Start  %s , care au fost eliminate sau sterse.
+11065=Intrarea %s punct lipsa program %s2
+11066=Aceasta intrare de dezinstalare nu contine datele necesare catre Windows pentru a Elimina programul sau componenta.
+11067=Programul de dezinstalare necesar  %s nu a putut fi gasit
+11068=Intrarea %s punct lipsa dosar %s2
+
+11069=Sterge Key
+11070=Sterge valoarea:
+11071=Sterge fisierul::
+
+11072=Ignora Lista Administrare
+11073=Lista de intrari este in prezent ignorata la scanarea Registrului.daca vrei %s pentru a include una dintre aceste intrari,scoateti bifa acesteia.
+11074=Registry Key
+
+11075=Selecteaza dosarul de destinatie pentru modificarile de copie de rezerva efectuate de reparatii
+11076=Limitarea nr de copii de rezerva la:
+11077=%s exista deja. Vrei sa-l inlocuiasca?
+11078=Inlocuire
+11079=Rezumatul problemelor gasite: (%s probleme gasite, %s2 probleme selectate pentru reparare)
+11080=Rezumatul problemelor gasite: (1 problema gasita, 1 problema selectata pentru reparare)
+11081=(1 problema gasita)
+11082=Rezumatul problemelor gasite: (Nu sunt au fost gasite probleme, nici o problema selectata pentru reparare)
+11083=Scanare...
+11084=Nu  au fost gasite probleme, nici o problema selectata pentru reparare.
+11085=%s a fost gasita problema, %s2 problema selectata pentru reparare.
+11086=%s au fost gasite probleme, %s2 probleme selectate pentru reparare.
+11087=Reparare...
+11088=Export Registry Fisiere
+11089=Curent key:
+11090=Exportare key:
+11091=%sproblema(e)selectate pentru reparare
+11092=Exportat cu succes!
+
+[Disk Analysis]
+19001=Analizor pentru Spatiu pe disc
+19901=Arata utilizarea de spatiu pe disc de catre fisiere si dosare
+19003=Explorare
+19004=Comanda prompta
+19005=Sterge(la Cosul de Gunoi)
+19006=Arata bara de instrumente
+19007=Arata bara de stare
+19008=Arata tipul de fisiere
+19009=Arata fisierele mari
+19010=Fisiere
+19011=Dosare
+19012=Caracteristica
+19013=Procentaje
+19014=Tip fisiere
+19015=Descriere
+19016=Nume fisier
+19017=Dosar
+19018=Modificat
+19019=Se incarca Tipuri de fisiere ...
+
+19020=[Fisiere]
+19021=Computerul Meu
+
+19022=Selecteaza Unitati
+19023=Toate unitatile locale
+19024=Unitati individuale
+19025=Un Dosar
+19028=Folosit/Total
+19029=Selecteaza Dosar:
+
+1801001=Analiza
+1801002=Inapoi
+1801003=Computer
+1801005=Arata extensia
+1801006=Toate tipurile
+1801007=Video
+1801008=Comprimat
+1801009=Muzica
+1801010=Imaginii
+1801011=Documente
+1801012=Altele
+1801013=Extensie
+1801014=Numar de fisiere
+1801016=Tip
+1801017=Locatie
+1801018=Data modificarii
+1801019=Marime libera
+
+1801020=bara de instrumente
+1801021=Navigare
+1801022=Detalii
+1801023=Arata toate filele
+1801024=Dosare si File
+
+1801025=Analiza unitati acum
+1801026=Unitatea nu a fost inca analizata. \nDeoarece unitatea nu a fost inca analizata, Nu sunt informatii cu privire la utilizarea spatiului pe disc,tip de fisier sau cele mai mari fisiere care sunt disponibile, timpul analizei,informatii cu privire la unitatile selectate, fisierele si dosarele din continutul acestora si utilizarea spatiului pe disc sunt colectate si afisate.
+1801027=Verifica numai acesta
+
+1801028=Marime fisier:
+1801029=Marime totala:
+1801030=Accesat pe:
+1801031=Modificat pe:
+1801032=Creat pe:
+1801033=%s elemente selectate
+1801034=Marime
+1801035=Continut total
+1801036=Necunoscut
+1801037=Spatiul utilizat:
+1801038=Analizeaza
+1801039=Nu analiza
+
+1802001=Terminare
+1802002=A esuat
+1802003=Intrerupt
+1802004=Analiza de locatii de stocare
+1802005=Va rugam sa asteptati Analiza disc termina analizarea locurilor de depozitare selectate.
+
+1803001=Invalida lista cai:\n
+1803002=Lista cai Fisier:\n
+1803003=%s elementele nu pot fi scanate
+
+1804001=Unitatea selectata nu a fost inca analizata.Trebuie sa fie efectuata analiza acum?
+
+1805001=Sunteti sigur ca doriti sa mutati aceste %s elemente in cosul de gunoi?
+1805002=Sterge
+1805003=Stergere %s elemente
+
+[Startup Administrare]
+14001=Pornire Administrare
+14901=Gestioneaza programele care ruleaza automat la pornire
+14002=Dezactivarea acestei intrari
+14003=Activarea acestei intrari
+14004=Adauga program...
+14005=Sterge intrarea asta
+14006=Editeaza intrarea...
+14007=Arata Detalii bara
+14008=Refresh lista de pornire
+14010=Alte lansari automate
+14011=Activitatile programate
+14012=Servicii locale
+14013=Programe care sunt deschise atunci cind Windows porneste sau un utilizator se conecteaza
+14014=Nu sunt elemente selectate.
+14015=Intrari Invalide. Acestea se poate sa fi fost sterse.
+14016=<Nici o informatie>
+14017=Produs:
+14018=Compania:
+14019=Adauga un element de pornire
+14020=Sunteti sigur ca doriti sa stergeti Intrari De Pornire
+14021=Editati elementul de pornire selectat
+
+14022=Cale
+14024=Locatie
+14035=Evaluare
+14025=Activeaza
+14026=Dezactiveaza
+
+14027=Lista de pornire Raport creat la %s catre %s2
+14028=Total %s Articole
+14029=Raportul a fost salvat la %s
+
+14030=Cauta Google...
+
+14031=Porneste Configuratie articol
+14032=Introduce un nume
+14033=Introduce o comanda de linie
+14034=Fisierul specificat nu a putut fi gasit. Chiar vrei sa continui?
+
+14043=Necunoscut
+14036=Demn de incredere
+14037=Alegerea utilizatorului
+14038=Neutru
+14039=Nu este necesar
+14040=Periculos
+14041=Comenteaza aceasta
+14042=Informatii suplimentare
+
+14044=Comenteaza
+14045=Comentariul tau despre aceasta intrare
+14046=Opinia ta despre aceasta intrare
+14047=Acest lucru va schimba ratingul de risc
+14048=Trimite comentariul
+
+14049=Timpul de intarziere
+14050=Porneste Acum
+14051=Programe care sunt intirziate la pornire.
+14052=In sus
+14053=In jos
+14054=Pentru a intirzia o aplicatie, selectati aceasta din lista de mai sus, sau aveti posibilitatea sa glisati si sa fixati aceasta in lista de mai jos.
+14055=Pentru a neintirzia o aplicatie, selectati aceasta din lista de mai jos, sau sa glisati si sa fixati aceasta in lista de mai sus.
+14056=Detectat Duplicat de intrare
+14057=Se pare ca %s a adaugat insusi inapoi in procesul de pornire Windows Dupa ce a plasat in lista de pornire intirziata.
+14058=Pentru a rezolva aceasta problema, trebuie sa deschideti %s si cautati pentru o optiune care spune ca  'Incepeti cu Windows' sau ceva similar si dezactivati-l.
+14059=daca aceasta optiune nu exista, atunci va trebui sa intrati in contact cu autorul %s care Adauga in mod automat insusi,si sa le cereti in cazul in care se poate Adauga o caracteristica pentru a dezactiva %s de la pornirea cu Windows automat.
+14060=daca nu este posibil sa se opreasca %s de la pornire cu Windows, atunci ar fi mai bine sa lasati pur si simplu pentru Windows se ocupe si eliminati %s din lista de pornire intarziata.
+14061=Doriti sa eliminati %s din lista de pornire intarziata?
+14062=Intirziat
+14063=Intirziere
+14064=Neintirziere
+14065=Sec
+
+2501001=Detailii bara
+2501002=bara de stare
+2501003=Ruleaza
+2501004=Oprire
+2501006=Intrare De Pornire exista deja.\nMai vrei sa-l inlocuiasca?
+2501007=Nu a reusit sa stabileasca date pentru '%s'
+
+[Disk Cleaner]
+13901=Elimina date vechi de pe discuri si recupereaza spatiu pe disc
+13002=Curatire disc
+13003=Optiuni Suplimentare
+13004=Selecteaza unitatile pe care le doriti pentru curatire.
+13005=Faceti clic pe Urmatorul cind ati terminat selectarea diskului.
+13006=Va rugam sa asteptati pina cind %s termina scanarea disckurilor selectate.
+13010=Faceti clic pe Urmatorul cind ati terminat selectarea diskului.
+13007=Poti folosi Curatire disc pentru a elibera pina la  %s de spatiu pe disc pe disc %s2
+13008=Suma totala de spatiu pe disc care o castigati:
+13009=Copie rezerva  %s inainte de curatare.
+13110=Vezi fisierele
+13011=Faceti click pe Urmatorul pentru a incepe procesul de curatare.
+13012=Componente Windows
+13013=Puteti elibera mai mult spatiu pe disc prin eliminarea componentelor Windows optionale pe care nu le utilizati.
+13014=Curatati ...
+13015=Restaureaza
+13016=Puteti restaura fisierele temporare scoase din fisierul Copie de rezerva.
+13017=Restabilire ...
+
+13018=Curatare finalizata cu succes.
+13019=O copie de siguranta a fost creata.
+13020=Faceti clic pe Finish pentru a reveni la pagina principala.
+
+13021=Va rugam sa selectati cel putin o unitate de cautare.
+
+13022=Scanare...
+13023=Terminare
+13024=Initializare...
+13025=Cosul de gunoi contine fisierele pe care le-ati sters din computer.Aceste fisiere nu se elimina definitiv pina cind nu goliti Cosul de gunoi.
+13026=Fisiere Temporare
+13027=Fisierele temporare sunt utilizate de programe ca un spatiu de depozitare intermediara si de obicei, indepartat dupa utilizare.
+13028=Zero-Byte Fisiere
+13029=Zero-Byte Fisiere nu detine niciun fel de date, si de obicei pot fi sterse.
+13064=Fisiere Internet temporare
+13065=Dosarul Temporary Internet Files contine pagini web stocate pe hard disk pentru vizualizare rapida.Setarile personalizate pentru paginile Web vor fi lasate intacte.
+
+13030=Golirea Cos de Gunoi...
+13031=Curatarea fisierelor Internet temporare ...
+13032=Stergerea fisierelor temporare ...
+13033=Stergerea fisierelor zero-byte ...
+
+13034=Va rugam sa selectati fisierele pe care doriti sa le stergeti.
+13035=Nici un fisier selectat.
+13036=Deschide fisiere
+13058=Total %s fisiere
+13059=Creat:
+13060=Modificat:
+13061=Ultima accesare:
+
+13037=General
+13038=Exclude
+13039=Include
+
+13040=Revizuirea listei de tipuri vechi de fisiere de mai jos si selectati sau deselectati elemente pentru a include in cautare prin bifarea sau debifarea casetelor corespunzatoare.
+13041=Tip fisiere
+13042=Daca nu sunteti sigur de aceste optiuni, este recomandat sa le lasati ca implicite.
+13043=Toate fisierele din aceste dosare nu ar trebui sa fie considerate ca nedorite.
+13044=Dosar
+13045=Toate fisierele din aceste dosare ar trebui sa fie mereu considerate ca vechi, indiferent de tip.
+
+13046=Poti folosi metacaractere, e.g., *.tmp
+13047=Nume fisier se termina cu:
+13048=Va rugam sa introduceti un nume de extensie.
+13049=Poti folosi metacaractere.
+13050=Nu trebuie sa fie gol
+
+13051=Va rugam sa selectati o copie de rezerva la ce doriti sa restaurati si dati clic butonul  'Restaurare '.
+
+13052=Restaurare Personalizata
+13053=Va rugam sa verificati marcarea intrarilor care doriti a fi restaurate, si dati clic Restaurare.
+13054=Restaurat cu succes.
+
+13055=Obiecte
+13056=Fisiere
+13057=Cale
+13062=Tip
+
+13063=Adauga un tip de Fisier vechi
+
+1301001=Start\r\n Curatire
+1301002=Scanare
+1301003=Restaureaza
+1301004=Cale
+1301005=copie de rezerva Verificat
+1301006=Selecteaza tot
+1301007=Nu Selecta
+1301008=Verifica Implicit
+1301009=Ultima data cind ati curatat diskul a fost la:
+1301010=%s/%s2/%s3
+1301011=Mod rapid si usor pentru a curata fisierele inutile de pe PC.
+1301012=Total spatiu salvat: %s
+1301013=Felicitari! Drive-urile erau curate.
+1301014=Curatarea fisierelor inutile poate economisi spatiu pe disc.
+1301015=Rezultat
+1301016=Lista Fisiere
+1301017=Rescanare
+1301018=Exclude acest fisier
+
+1302001=Windows
+1302002=Sistem temporar
+1302003=Utilizator temporar
+1302004=Depozit secret miniatura
+1302005=Fisiere provizorii De memorie
+1302006=Eroare Raport Fisiere
+1302007=Sistemul de fisiere jurnal
+1302008=Depozit secret Desktop de la distanta
+1302009=Cos de gunoi
+1302010=Meniul de start Comenzi rapide Invalide
+1302011=Desktop Comenzi rapide Invalide
+1302012=IIS Fisiere Jurnal
+1302013=Preluati Date vechi
+1302014=Font Depozit secret
+1302015=Downloaded Programe
+1302016=Windows Actualizari
+1302017=Browsere
+1302018=Internet Explorer
+1302019=Mozilla Firefox depozit ascuns
+1302020=Google Chrome depozit ascuns
+1302021=Opera depozit ascuns
+1302022=Aplicatii
+1302023=Google Earth depozit ascuns
+1302024=Picasa depozit ascuns
+1302025=ACDSee depozit ascuns
+1302026=Disk Drives
+1302027=Va rugam sa alegeti cel putin un disk pentru a fi scanat
+1302028=Vrei sa faci o copie de rezerva fisierelor inainte de curatare?
+1302029=Copiea de rezerva a esuat, Vrei sa continue de curatat?
+1302030=Fisiere numere: %s Marime Fisiere %s2
+1302031=%s bifate
+1302032=Scanarea completata. %s fisiere,total %s2 gasit.
+1302033=Este recomandat de curatat diskul acum.
+1302034=Felicitari! Tu ai un computer curat!
+1302035=Pastrarea PC-ul curat este un obicei bun. Va rugam sal pastrati !
+1302036=Scanarea a fost anulata!
+1302037=Ati ales  %s  fisiere,total %s2
+1302038=Curatarea completata.Cu totul %s Vechi fisiere au fost curatate.
+1302039=Curatare completa.
+1302040=%s este in uz, nu pot fi sterse acum.
+1302041=Fisiere vechi : %s
+1302042=Particularizare Fisiere si Dosare
+1302043=Nume Particularizat
+1302044=Particularizare Fisiere si Dosare
+1302045=Locatie
+1302046=Exemplu: *.tmp|*.log
+1302047=Exemplu: *.sys|*.txt
+1302048=Include numai fisierele doar
+1302049=Include fisiere si subdosare
+1302050=Pentru a fi in siguranta, nu puteti curata fisierele din dosarul de sistem Windows.
+1302051=Sigur doriti sa goliti acest dosar?
+1302052=Pentru a fi in siguranta, va rugam sa nu alegeti fisierele de sistem Windows.
+1302053=Selectarea fisierelor suplimentare si dosarul pe care doriti sa-l eliminati(Doar utilizatorii avansati).
+1302054=Va rugam sa alegeti fisierele sau dosarele pe care doriti sa le eliminati.
+1302055=Dosarul sau Fisierul personalizat deja exista, totusi doriti sa-l adaugati?
+1302056=Dosarul sau Fisierul personalizat deja exista,totusi doriti sa-l schimbati?
+1302057=PC-ul nu are multe fisiere vechi. Pastrarea PC-ul curat este un obicei bun. Va rugam sa pastrati-l !
+
+
+1303001= 1303001=Copie de Siguranta...
+
+1304001=Nu poate afisa date!
+
+1305001=Incepe scanarea:
+1305002=Rezultatul scanarii:
+1305003=Nu a gasit fisierele vechi
+1305004=%s fisiere,un total de  %s2
+1305005=Sfirsit Scanare:
+1305006=Rezultat total:
+1305007=%s fisiere, %s2 pentru a fi eliminat
+1305008=Incepe curat
+1305009=Termina curat
+1305010=Curat %s fisiere,total %s2
+1305011=%s fisier nu poate fi curatat.
+1305012=Scrie Timpul:
+1305013=Total %s fisiere, %s2.
+
+1305014=%s trebuie pentru sa fie inchis pentru a curata depozitul secret Internet.\nVrei Glary Utilities sa inchida %s?
+1305015=Firefox
+
+[Uninstaller]
+12001=Managerul de Dezinstalari
+12901=Dezinstaleaza complet Programele de care nu mai ai nevoie
+12002=Copie de Siguranta dezinstalari Info
+12003=Restaurare dezinstalari Info
+12004=Export Lista aplicatii
+12005=Dezinstaleaza acest program
+12006=Dezinstalarea programelor bifate
+12007=Modificarea proprietatilor
+12008=Restaurare intrari eliminate
+12009=Arata linia de comanda
+12010=Programele Curente instalate:
+12011=Sorteaza dupa:
+12012=Instalati Date
+12013=AutoFix intrari invalide
+12014=Dezinstalari in grup
+12015=Cautare pentru programe
+12016=Click aici pentru informatii de asistenta.
+12017=Linia de comanda
+12038=Eliminati intrare
+
+12018=Schimbati
+12019=Anuleaza
+12020=Modificare / Eliminare
+
+12021=Total %s programe
+12022=Nu se poate Elimina Dosarul %s , Acesta este utilizat de catre o alta persoana sau program.Doriti sa-l eliminati la urmatoarea pornire?
+12023=Acum!
+
+12024=Modifica acest program sau eliminati-l din computer, %s click Modificare / Eliminare.
+12025=Modifica acest program sau eliminati-l din computer, %s click Modificare sau Eliminare.
+12026=Eliminati acest program de pe computer, %s faceti click pe Eliminare.
+
+12027=Instalat pe
+12028=Registry fisiere(*.reg)
+12031=Fisiere Text(*.txt)
+12029=Informatii Dezinstalri restaurate din %s cu succes
+12030=Sunteti sigur ca doriti sa Eliminati %s de pe computer?
+12032=Raport creat pe
+12033=Programele instalate pe computer (Total %s Programe):
+12034=Fisierul a fost salvat la:
+12035=Toate programele instalate pe sistemul dvs. sunt OK, nu exista intrari invalide gasite.
+12036=Sunteti sigur ca doriti sa Eliminati %s din lista de programe instalate?
+
+12037=A aparut o eroare in timpul incercarii de a Elimina %s. Este posibil sa fi fost deja dezinstalat.Doriti sa Eliminati %s2 din lista de programe instalate?
+12039=%s este un program "Ascuns" si, probabil, a fost utilizat de catre sistem.Sunteti sigur ca doriti sa-l dezinstalati cu adevarat?
+12040=Exista inca fisiere ramase in directorul de instalare "%s". Pentru a fi sigur ca nu Elimina fisiere de date utile,puteti rasfoi directorul, facind clic"Cautare in directoare" buton.Daca sunteti sigur ca ele sunt inutile, click "Sterge tot" buton.
+12041=Cautare in directoare
+12042=Sterge tot
+12043=Copie de Siguranta a acestei intrari inainte de a sterge.
+
+12044=Sirul de cautare nu a putut fi gasit.
+12045=Cauta
+12046=Cauta Urmatorul
+12047=Ce a gasit:
+
+12048=Au fost gasite urmatoarele intrari incorecte .Doriti sa stergeti aceste intrari de registry?(Puteti, de asemenea, sa le stergeti manual mai tirziu)
+12049=Intrari invalide
+12050=Copie de Siguranta a acestei intrari inainte de a sterge.
+
+12051=Va rugam sa selectati o intrare program pe care doriti sa o restaurati si faceti clic pe butonul "Restaurare".
+12052=Restaureaza
+12053=Intrare program
+12054=Copie Siguranta de Date
+12055=Sunteti sigur ca doriti sa restaurati intrarea programului %s la registry de sistem?
+
+12056=Utilizati urmatoarele informatii pentru a obtine suport tehnic pentru
+12058=Editorul
+12059=Versiune:
+12060=Contact:
+12061=Suport Informatii:
+12062=Citestema:
+12063=Actualizarile produsului:
+12064=Comentarii:
+12065=ID-ul produsului:
+12066=Firma inregistrata:
+12067=Inregistrati Proprietar:
+12068=Instalati Locatie:
+
+12069=Programe (*.exe;*.com;*.bat)
+12070=Toate fisierele (*.*)
+12071=Linia de comanda introdusa poate fi invalida.Sigur totusi doriti sa continuati?
+
+12072=Rulati programul de instalare
+12073=Linie de comanda pentru programul de dezinstalare:
+12074=A aparut o eroare in timp ce incercati sa eliminati %s.Nu aveti acces sa %s2 .
+12075=Puteti specifica noul program de dezinstalat de mai jos.
+
+12076=Copie De rezerva Aceastei intrari
+12077=Suport Info
+12078=Arata Actualizarile pentru Windows
+
+12080=Icoane
+12081=Lista
+12082=Detalii
+
+12083=Toate programele
+12084=Programe instalate recent
+12085=Programe mari
+12086=Programe rar folosite
+12087=Windows actualizari
+
+12088=Ultima folosire:
+12089=Informatiile Dezinstalate salvate la:
+
+[Duplicate Files Finder]
+15001=Gasire fisiere Duplicate
+15901=Cautare pentru spatiu-risipit si erori produse de fisierele duplicat
+15002=Scanare pentru fisiere duplicat
+15003=Deschidere fisier
+15004=Deschide cu ...
+15005=Exploreaza Dosar
+15006=Propietati fisier
+15007=Generare raport
+15008=Stergeti fisierele bifate
+15012=Puteti bifa unul din fiecare grup
+15013=Exclude acest dosar din cautarile viitoare
+15015=Cale
+15016=%s la %s2 Elementele marcate pentru stergere.
+15017=Group Fisiere duplicat
+15018=Sunteti sigur ca doriti sa excludeti toate elementele din dosarul selectat %s din toate cautarile ulterioare?
+15019=Nici o bifare pentru stergere.
+
+15020=Expertul de scanare
+15021=Va rugam sa selectati driverele sau dosarele pe care doriti sa le scanati.
+15022=Drivere
+15023=Dosare
+15024=Ad. Dosar
+15025=Fisierele duplicat se potrivesc cu criteriile
+15026=Acelasi Nume fisier
+15027=Aceasi marime
+15028=Acelasi tip fisier
+15029=Ignor fisier dim. mai mica
+15030=Cautati doar pentru fisiere comune de mai jos
+15031=Scan toate fisierele
+15032=Tip fisiere
+15033=Exclude aceste dosare de la cautare:
+15034=Dosar
+15035=Scanarea pentru fisiere duplicat ...
+
+15036=Nu sunt drivere selectate. Va rugam sa selectati cel putin un disk pentru a continua.
+15037=Nu exista dosare selectate. Va rugam sa adaugati cel putin un dosar pentru a continua.
+15038=Nu exista tipuri de fsiere selectate.Va rugam sa bifati cel putin un tip de fisier pentru a continua.
+15039=Aranjarea fisierelor.Aceasta poate dura ceva timp, in functie de numarul de fisiere.Va rugam sa asteptati ...
+15040=Un numar %s fisiere au fost scanate si %s2 duplicate au fost gasite.
+
+15041=Adauga un nou Nume de fisier pentru a cauta
+15042=Puteti folosi metecaractere, e.g., *.avi
+15043=Nume fisier se termina cu:
+15044=Va rugam sa introduceti un nume de extensie.
+
+15045=Introduceti Dosar
+15046=Selectati dosar
+15047=Puteti folosi metecaractere *,?
+15048=Nu trebuie sa fie gol
+
+1501001=Configurati scanarea pentru parametri
+1501002=Alegere inteligenta
+1501003=%d la %d Elemente marcate pentru stergere
+1501004=%s exista deja.\nVrei sa-l inlocuiasca?
+1501005=Confirma Salvare Ca
+1501006=Sterge Fisiere
+
+1502002=Exclude Fisiere
+
+1503001=Fisierele duplicat criterii matematice
+
+1504001=Scanare
+1504002=Marime totala
+1504003=Foloseste Marimea
+1504004=Marime libera
+1504005=Cale Fisiere
+
+1505001=Locul de amplasare
+1505002=Statut
+1505003=Asteptare
+1505004=Se incarca
+1505005=Total %d fisiere au fost scanate si %d duplicate au fost gasite.
+1505006=Aranjarea fisierelor,va rugam sa aveti rabdare ...
+
+1506001=General
+1506002=Exclude Fisiere
+
+[Empty Dosare Finder]
+16001=Gasire Dosare goale
+16901=Gaseste si elimina dosarele goale din windows
+16002=Scanare pentru dosare goale
+16003=Lista de dosare excluse
+16004=Sterge dosarele bifate
+16005=Exclude dosarele bifate(Nu vor mai fi gasite din nou)
+16006=Exclude
+16007=Dosar
+16008=Sunteti sigur ca doriti sa adaugati elementele bifate la lista de ignore? Aceste elemente nu vor fi gasite din nou.
+
+16009=Ignora Lista Administrare
+16010=Lista de intrari este in prezent ignorata la scanarea pentru dosarele goale.Daca doriti sa includeti una din aceste intrari, atunci indepartati bifa acesteia.
+
+16011=Scaneaza Acum
+16012=Bifati casutele de unitatii (le) care le doriti sa fie scanate
+1601001=Pregatirea arbore dosar gol ...
+
+1602001=Pregatirea Lista dosar ...
+1602002=Scanarea terminata.
+1602003=Scanarea %s
+1602004=Se incarca discuri ...
+1602005=Sortare fisiere...
+1602006=Salvare date...
+1602007=Initializare...
+1602008=Scanarea dosarelor goale ...
+1602009=Sortarea dosarelor goale ...
+
+[Shortcuts Fixer]
+17001=Comenzi rapide Fixer
+17901=Corecteaza erorile din meniul de start & comenzi rapide pe desktop
+17002=Scanare
+17003=Fixare Comenzi rapide
+17004=Sterge
+17005=Tinta
+17006=Locatie
+17007=Cautati pentru tinta de comenzi rapide care lipsesc
+17008=Scaneaza Acum
+17009=Optiuni Scanare
+17010=Scanare doar meniul Start si desktop
+17011=Scanare pentru dosare goale din Start Menu
+17012=Bifati casutele de unitatii (le) care le doriti sa fie scanate
+17013=Nimic gasit.
+
+1701001=Scanare Rapida
+1701002=Scanare Avansata
+1701003=Stop Scanare
+1701004=Fix toate bifarile
+1701007=Eroare
+1701008=Fixat
+1702001=Locatie:
+1702002=Tinta:
+1702003=Argumente:
+1702004=Descriere:
+1702005=Faceti clic pe "Aplicare" pentru a salva modificarile.
+1702006=Ati selectat un dosar.
+1703001=Anuleaza
+1703002=Click "%s" pentru a Elimina comenzile rapide selectate din listat;{\r\n}Click "%s2"pentru a muta comenzile rapide selectate la Cosul de Gunoi;{\r\n}Click "%s3" pentru a sterge definitiv comenzile rapide selectate.
+1703003=Copii De Rezerva pentru comenzile rapide selectate inainte de stergere
+
+[Tracks Eraser]
+18001=Stergere Urme
+18901=Stergere toate urmele,dovezi, cookie-uri, istorie internet si mai multe
+18002=Sterge urmele verificate
+18003=Arata numai urmele disponibile care pot fi sterse
+18004=Sterge aceste urme
+18005=Nu sunt urme bifate. Pentru a sterge urmele,va rugam verificati fiecare piesa pe care doriti sa o stergeti folosind caseta din stinga numelui piesei.
+18006=Sunteti sigur ca doriti sa stergeti %s setari urme?
+18007=Urmele au fost sterse cu succes.
+18008=Sunteti sigur ca doriti sa curatati urmele %s dumneavoastra
+
+18009=IE Cookie Administrare
+18010=IE Tastati URLs
+18011=Verificati marcarea cookie-urile pe care doriti sa le pastrati cind curatati cookie-uri de Internet Explorer
+18012=Website
+18013=Rata Inalta
+18014=Ultima Modificare
+18015=Expirare
+18016=Adresa completa
+18017=Stergeti acum cookie-urile Ne bifate
+18018=Verificati marcarea adreselor URL pe care doriti sa le pastrati atunci cind curatati Internet Explorer-Istorie URL
+18019=Urls
+18020=Sterge URL-uri Ne bifate
+
+18021=Stergere
+
+18022=Windows
+18023=Elimina istorie, cele mai recent utilizate liste(MRU Liste) si alte dovezi ale Microsoft Windows.
+18024=Windows  Documente Recente
+18025=Sterge lista de documente recente si fisierele deschise de masina.Aceasta lista este, de obicei, situata in Start Menu > Documentele Mele Recente
+18026=Windows Rulare Start Meniu
+18027=Sterge istoria ultimilor comenzi pe care le-ati introdus in Windows Start > Ruleaza caracteristica.
+18028=Microsoft Dialog Comun - File/Folder Lists
+18029=Dialog comun Microsoft este o componenta standard utilizata de multe aplicatii software pentru a oferi,fisier, dosar, culoare, si de selectare a imprimantei.Aceasta guma de sters urmele, sterge istoria din selectiile facute pe calculatorul dumneavoastra.Avind in vedere ca Comun Dialog Control Microsoft este utilizat pentru OPEN / SAVE fisiere de dialog windows,aceasta guma de sters urmele, va sterge din dosarul deschis ultima istorie pentru majoritatea aplicatiilor.Sterge ultimile dosare si fisiere lista pe care le cautati pe calculatorul dumneavoastra.
+18030=Cautare Start Meniu
+18031=Sterge intreaga istorie a cautarilor efectuate in Windows Search in meniul Start.
+18032=Memoria temporara Windows
+18033=Lucrul cu fisiere implica in mod normal utilizarea operatiunilor de "copy" si "paste".Memoria temporara Windows isi aminteste ultima operatiune de copiere si poate contine informatii relevante despre activitatile cum ar fi parola, card de credit sau informatii cu caracter personal.
+18034=Fisiere temporare Windows
+18035=Goleste Directoru Temporar Windows.
+18036=Cos de Gunoi Windows
+18037=Goleste Windows Cos de Gunoi.
+18038=WindowsUnitati de retea cartografiate
+18039=Cind mapati unitatile de retea pentru a obtine acces la ele prin litere de unitate,Windows isi aminteste toate maparile dumneavoastra in registru.
+18040=Start Menu Click Istorie
+18041=Windows stocheaza lista de elemente mai recent date click pe meniul Start.Selectati aceasta optiune pentru a curata "Start Menu faceti clic pe Istoric" lista iese.
+18042=Locurile Mele din Retea
+18043=Cind tu folosesti Locurile Mele din Retea pentru a accesa serverele de la distanta,toate actiunile tale recente sunt stocate,oricine poate vedea ce locuri de retea folositi doar uitandu-se la lista de MRU situat in dosarul  My Network Places.
+
+18044=Internet Explorer
+18045=Elimina istoria, utilizata cel mai recent(MRU Lists),fisierele temporare de internet si alte dovezi de la navigator-ul web Internet Explorer.
+18046=Internet Explorer - URL Istoric
+18047=Elimina istoricul de URL-ul tastat de la bara de adrese de Internet Explorer.Cind sunt stocate in acest istoric, Internet Explorer incearca sa ghiceasca site-ul pe care incercati sa-l vizitati folosind "Intelligence"Pe masura ce tastati  www.gl -va ghici  www.glarysoft.com,sau orice alta adresa care incepe cu www.gl vizitat in trecut.
+18048=Internet Explorer  Istoric
+18049=Elimina din istoria site-urile vizitate folosind Internet Explorer de pe masina.Elimina din istoria site-urile vizitate folosind Internet Explorer.
+18050=Internet Explorer Cookies
+18051=Site-uri web stocheaza informatii intr-un fisier text de mici dimensiuni,numit un "cookie" pe hard disk. Cookies contin informatii despre tine si preferintele tale.Sau ar putea contine doar o inregistrare de pagini din cadrul site-ului vizitat, pentru a ajuta site-ul la vizualizare pentru data viitoare cind il vizitati.Din moment ce unele cookie-uri sunt utile, poate doriti sa le pastrati. Click "Optiuni"pentru a selecta cookie-uri de care aveti nevoie, pentru a le pastra.Toate cele nemarcate vor fi sterse.
+18052=Forme inteligente- Auto Completare Parola
+18053=Elimina intreaga istorie a formelor de auto completare  & parolele de la Internet Explorer.Daca este configurat, Internet Explorer va stoca datele pentru forme comune,numele de utilizator si parolele online.Acestea vor fi automat populate atunci cind va intoarceti la locurile unde aceste date sunt salvate.Aceasta guma de sters urmele, sterge aceste date si va protejeaza de la alti utilizatori de pe masina dvs. de logare in profilurile on-line.
+18054=Fisiere Internet temporare
+18055=Sterge toate fisierele temporare salvate pe care Internet Explorer le creeaza atunci cind vizitati site-uri web sau de descarcarcare de continut.
+
+18056=Plug-ins
+18057=Multe dintre aplicatii terte parti tin o evidenta a dosarelor cele mai recent deschise sau executate prin intermediul lor.Folosind aceste plugin-uri,puteti scapa din istoric MRU din multe aplicatii cunoscute.
+
+18058=Mozilla Firefox
+18059=Elimina istoric, utilizata cel mai recent(MRU Lists),documentele temporare de internet si alte dovezi din navigator-ul Firefox.
+18060=Istoric-Mozilla Firefox
+18061=Elimina toate adresele tastate in bara de adrese Firefox.
+18062=Mozilla Firefox - Cookies
+18063=Elimina cookie-uri salvate in dosarul cache Firefox.
+18064=Mozilla Firefox -Depozit secret Internet
+18065=Elimina fisierele Depozit secret internet din Firefox.
+18066=Mozilla Firefox - Salvare Formular de informare
+18067=Elimina datele salvate din formular din Firefox atunci cind completeaza formularele pagini web.
+18068=Mozilla Firefox - Salvare Parola
+18069=Elimina date parolele salvate din Firefox atunci cind completeaza formularele pagini web.
+18070=Mozilla Firefox - Istoric Download Administrare
+18071=Elimina evidenta recenta de fisiere descarcate in Download Administrare.
+18072=Mozilla Firefox - Cautare Istoric
+18073=Elimina sirul de cautare tastat in bara de cautare Firefox.
+
+18074=Stergerea trasee pentru %s. Acest lucru ar putea dura citeva momente ...
+18075=Stergerea trasee pentru %s...
+
+18076=Index.dat files
+18077=fisierele index.dat sunt fisiere ascunse de pe computer care contin toate trasele de activitate a dvs. on-line,unde ai fost pe internet, ce site-uri ati vizitat, lista de URL-uri,fisierele si documentele pe care le-ati accesat recent.
+18078=Scanarea traseelor pentru %s.Acest lucru ar putea dura citeva momente ...
+18079=Scanarea pistelor pentru  %s...
+18080=Creare Raport...
+18081=RAPORT DE ANALIZĂ
+18082=%s elementele care urmeaza sa fie eliminate din Windows registry.
+18083=%s (%s2 fisiere) care vor fi eliminate.
+18084=Detalii de fisiere care trebuie sterse:
+18085=Analiza
+
+18086=Piste
+18087=Rezultat
+
+18088=Google Chrome
+18089=Elimina istoric, folosit cel mai recent(MRU Lists), documentele temporare de internet si alte dovezi din navigator-ul web Google Chrome.
+18090=Google Chrome - Istoric
+18091=Elimina toate adresele tastate in bara de adrese Google Chrome.
+18092=Google Chrome - Cookies
+18093=Elimina cookie-uri in directorul Google Chrome cache.
+18094=Google Chrome - Internet Depozit Secret
+18095=Elimina fisierele Internet Depozit Secret din Google Chrome.
+18096=Google Chrome -Salvare Formular de informare
+18097=Elimina datele salvate din formular din Google Chrome atunci cind completeaza formularele pagini web.
+18098=Google Chrome - Download Istoric
+18099=Elimina evidenta recenta de fisiere descarcate in Download Administrare.
+
+18100=Este Neaparat Necesar sa inchideti %inainte de a continua.Stergere Urme  nu poate sterge urmele folosite din alte programe.
+
+2101001=%s bifate.
+2101002=Nu sunt trasee selectate.Pentru a analiza urmele, va rugam sa verificati fiecare piesa pe care doriti sa o analizeze folosind caseta de la stinga numelui piesei.
+
+2102001=Windows Live-Bara de Instrumente
+2102002=Elimina recent istoricul de cautare din Bara de Instrumente-Live  Windows.
+2102003=Google-Bara de Instrumente
+2102004=Elimina recent istoricul de cautare din bara de instrumente Google pentru Internet Explorer.
+2102005=Google-Bara spatiu de lucru
+2102006=Elimina istoricul recent de cautare din Google-Bara spatiu de lucru.
+2102007=Kazaa-Cautare Istoric
+2102008=Elimina  Fisierele Cautare Istoric din Kazaa .
+2102009=eMule
+2102010=Sterge istoricul cautarilor eMule.
+2102011=MSN Messenger
+2102012=Elimina Istoricu Depozit Secret din MSN Messenger .
+2102013=Sound Forge 6.0
+2102014=Elimina Istoricul Depozit Secretdin Sound Forge 6.0 .
+2102015=Fresh Download
+2102016=Elimina istoricul de descarcare FreshDownload .
+2102017=Windows Media Player
+2102018=Sterge Fisiere recente URL-uri si de istorie pentru Windows Media Player filme si muzica.
+2102019=Real Player
+2102020=Curata istoria  de fisiere de muzica si film redate recent de Real Player.
+2102021=Quicktime Player
+2102022=Curata Istoric  de fisiere video redate recent de Quick Time Player.
+2102023=SWiSH
+2102024=Elimina istoria fisierelor deschise recent de SWiSH.
+2102025=Windows Movie Maker
+2102026=Elimina istoria fisierelor deschise recent de Windows Movie Maker.
+2102027=BSPlayer
+2102028=Elimina istoria fisierelor deschise recent de BSPlayer.
+2102029=Media Player Classic
+2102030=Curata istoria  fisierelor de muzica si film redate recent de Media Player Classic.
+2102031=Axialis IconWorkshop
+2102032=Elimina depozit secret si istoria fisierelor deschise recent din Axialis IconWorkshop.
+2102033=Ulead Smart Saver Pro 3.0
+2102034=Elimina istoria fisierelor deschise recent de Ulead Smart Saver Pro 3.0.
+2102035=Macromedia Flash Player
+2102036=Elimina istoria fisierelor deschise recent de  Macromedia Flash Player.
+2102037=Macromedia Flash MX
+2102038=Elimina istoria fisierelor deschise recent de Macromedia Flash MX.
+2102039=Macromedia Flash 5.0
+2102040=Elimina istoria fisierelor deschise recent de Macromedia Flash 5.0.
+2102041=Macromedia Flash 4.0
+2102042=Elimina istoria fisierelor deschise recent de Macromedia Flash 4.0.
+2102043=Adobe Flash Player
+;2102044=
+2102045=AVI Preview
+2102046=Elimina istoria fisierelor deschise recent de AVI Preview.
+2102047=Paint Shop Pro 7.0
+2102048=Goleste istoricul fisierelor create / deschise / sau editate de Paint Shop Pro 7.0.
+2102049=Paint Shop Pro 8.0
+2102050=Goleste istoricul fisierelor create / deschise / sau editate de Paint Shop Pro 8.0.
+2102051=Paint Shop Pro 9.0
+2102052=Goleste istoricul fisierelor create / deschise / sau editate de Paint Shop Pro 9.0.
+2102053=Office XP
+2102054=Elimina istoria fisierelor deschise recent de Microsoft Office XP.
+2102055=Office 2000
+2102056=Elimina istoria fisierelor deschise recent de Microsoft Office 2000.
+2102057=Office 2003
+2102058=Elimina istoria fisierelor deschise recent de  Microsoft Office 2003.
+2102059=Office 2007
+2102060=Elimina istoria fisierelor deschise recent de Microsoft Office 2007.
+2102061=MS Management Console
+2102062=Elimina istoria fisierelor deschise recent de MS Management Console.
+2102063=MS Wordpad
+2102064=Goleste istoricul de fisiere create / deschise / sau editate de WordPad.
+2102065=MS Paint
+2102066=Sterge istoria fisierelor deschise de Microsoft Paint.
+2102067=Microsoft Visual Basic 6.0
+2102068=Goleste istoria recenta a fisierelor pentru Visual Basic 6.0 dezvoltatori.
+2102069=Remote Desktop
+2102070=Elimina datele memoriei depozit secret salvate de Remote Desktop.
+2102071=PowerArchiver
+2102072=Goleste istoricul de fisiere comprimate / necomprimate de PowerArchiver.
+2102073=WinISO
+2102074=Sterge istoria fisierelor deschise de WinISO.
+2102075=WinRAR
+2102076=Goleste istoricul de fisiere comprimate / necomprimate de WinRAR.
+2102077=7-Zip
+2102078=Goleste istoricul de fisiere comprimate / necomprimate de 7-Zip.
+2102079=WinZip
+2102080=Goleste istoricul de fisiere comprimate / necomprimate de WinZip.
+2102081=SpyBot Search si Destroy
+2102082=Elimina datele memoriei depozit secret salvate de Spybot Search si Destroy.
+2102083=WinAce 2.0
+2102084=Elimina istoria WinAce.
+2102085=Norton AntiVirus
+2102086=Elimina fisierele jurnal salvate de Norton AntiVirus.
+2102087=Adobe Acrobat Reader 5.0
+2102088=Elimina istoria de fisiere PDF pe care le-ati vazut folosind Adobe Acrobat 5.0.
+2102089=Adobe Acrobat Reader 6.0
+2102090=Elimina istoria de fisiere PDF pe care le-ati vazut folosind Adobe Acrobat 6.0.
+2102091=XML Spy
+2102092=Elimina istoria fisierelor XML pe care le-ati vizualizat folosind Spy XML.
+2102093=Installshield Developer 7.0
+2102094=Sterge istoria fisierelor deschise de InstallShield Developer 7.0.
+2102095=Macromedia Homesite 5.0
+2102096=Sterge istoria fisierelor deschise de Macromedia Homesite 5.0.
+2102097=Ahead Nero Burning ROM
+2102098=Goleste istoricul fisiere / dosare deschise de Ahead Nero Burning ROM.
+2102099=ZipMagic
+2102100=Goleste istoricul de fisiere comprimate / necomprimate de ZipMagic.
+2102101=PicoZip
+2102102=Goleste istoricul de fisiere comprimate / necomprimate de PicoZip.
+
+
+[Memorie Optimizer]
+21001=Optimizare Memorie
+21901=Monitorizeaza si optimizeaza memoria libera in fundal
+21002=Optimizare
+21003=Optimizare Manuala
+21004=Memoria fizica utilizare grafica:
+21018=%s la %s2 Liber
+21005=Folosire CPU
+21006=Va rugam sa specificati volumul de memorie pe care doriti sa o eliberati si apoi faceti click pe Optimizare.
+21007=Cantitate de memorie:
+21008=Optimizati
+21009=Curatare
+21010=Marime curenta memorie temporara
+21011=Activare Optimizarea automata
+21012=Optimizare automata atunci cind memoria este la:
+21013=Mareste memoria libera la:
+21014=Optimizati NUMAI daca CPU-utilizare este de mai jos:
+21015=Incarca in mod automat la pornirea Windows-ului
+21016=Recomandat
+21017=Optimizarea ...
+21019=Arata fereastra principala
+
+[File Shredder]
+22001=Tocator fisiere
+22901=Stergerea fisierelor permanenta, astfel incit nimeni nu le poate recupera
+22002=Utilitate pentru a distruge date confidentiale, astfel incit acestea nu pot fi recuperate si vizualizate de catre altii.Acest instrument utilizeaza metoda siguranta maxima American Dod 5220.22-M developed by US Department of Defence pentru eliminarea in siguranta a datelor.
+22003=Tip
+22012=Data de Modificare
+22004=Ad. Fisier(e)
+22005=Ad. Dosar
+22006=Sterge Acum
+22007=Repetati operatia Sterge:
+22008=Fisier Dosar
+22009=Sunteti pe cale de a sterge toate datele selectate de pe lista.Tu nu vei fi capabil de a recupera aceste fisiere folosind orice instrumente ai putea avea.
+22010=Stergerea
+22011=Eliminat
+22019=Wipe-Spatiu liber
+22013=Atunci cind fisierele sunt sterse si golite de la cosul de gunoi, ele nu sunt cu adevarat eliminate de pe hard disk.Fisierele pot fi usor recuperate din software-ul de recuperare de date.Pentru a va asigura ca fisierele sunt sterse in totalitate, ar trebui sa stergeti spatiu liber de pe hard disk in mod regulat.Aceasta optiune distruge astfel de fisiere care sunt deja sterse de tine, astfel incit ele nu pot fi recuperate.
+22014=Selectati unitatea de la care doriti de a sterge spatiu liber:
+22015=Wipe Acum
+22016=Wiping spatiu liber pe %s
+22017=Operatiunea a fost anulata de utilizator.
+22018=Operatiune finalizata cu succes.
+22020=Selectati dosarul de destinatie:
+22021=Va rugam sa selectati o unitate de disc.
+
+[Internet Explorer Assistant]
+23001=Asistent Cautare
+23901=Administreaza Internet Explorer Suplimente si restabileste setarile deturnate
+23002=IE BHOs
+23003=Bare de instrumente IE
+23004=IE Bara Explorer
+23005=IE Extra Context Meniuri
+23006=IE Extra Butoane
+23007=IE Downloaded ActiveX
+23008=Restaurare deturnare
+23009=[Blocat]
+23010=Editorul
+23011=Cale Fisiere
+23012=Comanda
+23013=Blocati acest element
+23014=Deblocati acest element
+23015=Elimina definitiv acest element
+23016=Sunteti sigur ca doriti sa restaurati %s ?
+23017=Sigur doriti sa blocati %s in Internet Explorer?
+23018=Sunteti sigur ca doriti sa eliminati definitiv %s in Internet Explorer?
+23019=Atentie, fisier lipsa
+23020=Browser Ajutorer Objects
+23021=Internet Explorer-Bara de Unelte
+23022=Internet Explorer-Bara Explorer
+23023=Internet Explorer-Extra Context Meniu
+23024=Internet Explorer-Extra Button
+23025=Downloadare ActiveX Programe
+23026=Deteriorat
+23027=Instalat
+
+23028=Setare
+23029=Setari Curente
+23030=Restaurare Setare la
+23031=Schimba restaurarea setarii la o noua adresa URL ...
+23032=Restaureaza
+23033=Implicit IE
+23034=Sunteti sigur ca doriti sa restaurati setarile selectate?
+23035=%s setarile navigator Internet Explorer au fost schimbate cu succes.
+23036=Schimba restaurarea setarilor Internet Explorer
+23037=Schimbati restaurarea setarilor Internet Explorer pentru %s. URL-ul din domeniul de mai jos este URL-ul Internet Explorer implicit pentru aceasta setare.Puteti introduce orice alta pagina sau URL-ul in acest domeniu, altul decit cel implicit.
+23038=Pagina de start
+23039=Acesta este URL-ul paginii web, care va fi afisat atunci cind se deschide o noua fereastra a navigatorului Internet Explorer.
+23040=Cautare Pagina
+23041=Acesta este motorul de cautare implicit atunci cind faceti clic pe butonul de cautare in Internet Explorer
+23042=Pagina Implicita URL
+23043=Acesta este URL-ul paginii web implicit folosit de Internet Explorer.
+23044=Pagina Locala
+23045=Aceasta este pagina care se va incarca daca un site nu este gasit atunci cind acesta intra in bara de adrese de Internet Explorer.
+23046=Bara de Cautare
+23047=Aceasta este pagina care va fi afisata atunci cind faceti clic pe pictograma Cautare in Internet Explorer.bara de cautare ofera posibilitatea de a stoca informa?ii detaliate.
+23048=Cautare Inplicita URL
+23049=Aceasta este pagina care va fi afisata atunci cind Internet Explorer incearca sa efectueze o cautare.
+23050=Pagina de start (Toti utilizatorii)
+23051=Aceasta este pagina care va fi afisata cind se deschide o noua fereastra de navigator de Internet Explorer.
+23052=Cautare Pagina (Toti utilizatorii)
+23053=Acesta este motorul de cautare implicit atunci cind faceti clic pe butonul de cautare in Internet Explorer.
+23054=Pagina Implicita URL (Toti utilizatorii)
+23055=Este URL-ul paginii implicite folosite de Internet Explorer.Acest lucru este pentru toti utilizatorii acestui computer.
+23056=Pagina Locala (Toti utilizatorii)
+23057=Aceasta este pagina care se va incarca daca un site nu este gasit atunci cind acesta intra in bara de adrese de Internet Explorer.Acest lucru este pentru toti utilizatorii acestui computer.
+23058=Bara de Cautare (Toti utilizatorii)
+23059=Aceasta este pagina care va fi afisata atunci cind faceti clic pe pictograma Cautare in Internet Explorer.bara de cautare ofera posibilitatea de a stoca informatii detaliate.Acest lucru este pentru toti utilizatorii acestui computer.
+23060=Cautare Inplicita URL (Toti utilizatorii)
+23061=Aceasta este pagina care va fi afisata atunci cind Internet Explorer incearca sa efectueze o cautare. Acest lucru este pentru toti utilizatorii acestui computer.
+23062=Cautare Personalizata (Toti utilizatorii)
+23063=Aceasta este pagina care este afisata in caseta de cautare Internet Explorer atunci cind rulati o cautare personalizata.Asistentul de cautare ofera utilizatorilor cu o singura cautare, unificat in diferite tipuri de cautari. Aceasta setare este pentru toti utilizatorii acestui computer.
+23064=Asistent de Cautare (Toti utilizatorii)
+23065=Aceasta este pagina de asistent de cautare afisata de Internet Explorer.Asistentul de cautare ofera utilizatorilor cu o singura cautare, unificat in diferite tipuri de cautari. Aceasta setare este pentru toti utilizatorii acestui computer.
+23066=Cautare URL
+23067=URL-urile de cautare sunt un mod convenabil de a folosi diferite motoare de cautare pe Internet.De exemplu, este posibil sa aveti o adresa URL de cautare numit stiri care cauta grupuri de stiri on-line.Daca tastati un cuvint cheie (i) in bara de adrese pentru a cauta automat grupuri de stiri on-line pentru toate articolele legate de aceste cuvinte cheie.
+23068=Cautare URL (Toti utilizatorii)
+23069=URL-urile de cautare sunt un mod convenabil de a folosi diferite motoare de cautare pe Internet.De exemplu, este posibil sa aveti o adresa URL de cautare numit stiri care cauta grupuri de stiri on-line.Daca tastati un cuvint cheie (i) in bara de adrese pentru a cauta automat grupuri de stiri on-line pentru toate articolele legate de aceste cuvinte cheie.Acest lucru este valabil pentru toti utilizatorii acestui computer.
+23070=Pagina goala
+23071=pagina nu poate fi afisata-Aceasta este pagina afisata de Internet Explorer atunci cind nu se poate gasi un site web sau pagina.
+23072=Esuare Navigare Desktop
+23073=Aceasta este pagina de Internet Explorer care este afisata in cazul in care calculatorul nu poate accesa Internetul.
+23074=Navigare Anulata
+23075=Aceasta este pagina de Internet Explorer care este afisata cind anulati navigarea.
+23076=Navigare Esuata
+23077=Aceasta este pagina de Internet Explorer care este afisata in cazul in care calculatorul nu poate accesa Internetul.
+23078=Offline Informatii
+23079=Aceasta este pagina de Internet Explorer care este afisata in cazul in care calculatorul nu poate accesa Internetul sau o pagina Web nu este disponibila sau este offline.
+23080=Nu posta Depozit Secret
+23081=Atentie: pagina a expirat-Aceasta este pagina de avertizare atunci cind Internet Explorer nu poate citi continutul din Depozit Secret.
+
+[Process Administrare]
+24001=Administrare de Procese
+24901=Monitoarizare procese active si optional le oprim.
+24002=Sarcini Noi (Executare. ..)
+24003=Iesiti din Windows
+24004=Restart Computer
+24005=Oprire Computer
+24006=Sfirsitul Procesului
+24007=Blocare Proces
+24008=Blocare Lista
+24009=Google este
+24010=Comenteaza aceasta
+24011=Arata Detalii
+24012=Nume
+24013=Evaluare
+24014=Executabile
+24015=Prioritate
+24016=Subiecte
+24017=CPU
+24018=Timp CPU
+24019=Memorie
+24020=Companie
+24021=Pornire
+24022=Procese
+24023=Set Prioritate
+24024=Timp Real
+24025=Inalt
+24026=Peste Normal
+24027=Normal
+24028=Sub Normal
+24029=Scazut
+24030=AVERTISMENT: Schimbarea de clasa de prioritate a acestui proces poate provoca rezultate nedorite, inclusiv instabilitatea sistemului.Sunteti sigur ca doriti sa modificati clasa de prioritate?
+24031=Informatii Generale
+24032=Module Folosite
+24033=Date
+24034=Valoare
+24035=Informatii de Proces
+24036=ID
+24037=Fisiere
+24038=Argumente
+24039=Dosar
+24040=Subiecte
+24041=Prioritate
+24042=Memorie folosita
+24043=Pornit de
+24044=Initiat de
+24045=Informatii Versiune
+24046=Tip Fisier
+24047=Companie
+24048=Descriere
+24049=Versiune
+24050=Numele intern
+24051=Drepturi de autor
+24052=Marca comerciala
+24053=Nume original de fisier
+24054=Nume Produs
+24055=Versiune Produs
+24056=Comentarii
+24137=Sigur
+24139=Riscant
+24057=Chiar vrei sa puna capat procesului %s?
+24058=Chiar vrei sa blocheze procesul %s?
+24059=Doriti sa reporniti computerul acum?
+24060=Doriti sa inchideti computerul acum?
+24061=Procesele care ruleaza:
+24062=CPU Utilizare:
+24063=Utilizare memorie:
+24064=Sistem Service
+24065=Inlocuiti Task Administrare
+24066=Mereu in top
+
+[Context Menu Administrare]
+25001=Context Meniu Administrare
+25901=Gestioneaza intrarile de meniu contextual pentru fisiere, dosare ...
+25002=Fisiere & Dosare
+25003=Nou
+25004=Trimite la
+25005=Faceti clic pe casuta Dinaintea elementului, fie a activa sau dezactiva.Pentru a Elimina definitiv, click '%s' butonul de mai jos.
+25006=Nu a fost gasit
+25007=Sunteti sigur ca doriti sa eliminati '%s'  permanent?
+25008=Toate fisierele(*)
+25009=Dosare
+25010=Directori
+25011=Drivere
+25012=Dosarele Muzica
+25013=Dosarele Video
+25014=Dosarele de imagini
+25015=Toate obiectele Fisiere de Sistem
+25016=Computerul Meu
+25017=Cos de gunoi
+25018=Fundal
+25019=Comenzi rapide
+
+[File Encrypter si Decrypter]
+27001=Criptor Fisiere
+27901=Protejeaza fisierele dvs. impotriva accesului si utilizarii neautorizate.
+27002=Cripteaza fisier
+27003=Decripteaza fisier
+27004=Va rugam sa alegeti fisierul pe care doriti sa-l criptati:
+27005=Parola de criptare:
+27006=Verificare Parola
+27007=Sugestie parola (Enigma):
+27008=Creati un fisier EXE auto-decriptare (Interfata utilizator va fi in limba engleza)
+27009=Stergeti fisierul original dupa criptarea de succes
+27010=Criptarea acum!
+27011=Va rugam sa alegeti fisierul pe care il doriti la decriptare:
+27012=Parola pentru decriptare:
+27013=Sugestie parola
+27014=Extrage la:
+27015=Deschide Dosarul tinta dupa decriptarea de succes
+27016=Decripteaza acum!
+27017=Va rugam sa faceti clic pe butonul "Cautare" pentru a alege Fisierul pe care il doriti a fi criptat!
+27018=Fisierul Selectat nu exista. Va rugam sa alegeti altul .
+27019=Va rugam sa introduceti o parola intre 6 si 16 caractere lungime!
+27020=Va rugam sa introduceti aceeasi parola in ambele domenii!
+27021=Urmatorul fisier exista deja, se suprascrie?
+27022=Fisierul a fost criptat la %s cu succes.
+27023=Fisiere criptate
+27024=Fisierul selectat nu a fost criptat cu acest program. Va rugam sa alegeti altul .
+27025=Va rugam sa faceti clic pe butonul "Cautare" pentru a alege un fisier pe care doriti la decriptati!
+27026=Fisierul selectat nu exista. Va rugam sa alegeti altul.
+27027=Va rugam sa selectati dosarul in care doriti sa plasati fisierul restaurat.
+27028=Nu am putut crea dosarul de destinatie %s
+27029=Fisierul  %s exista deja,il rescrieti ?
+27030=Fisierul a fost decriptat la %s cu succes.
+27031=Parola incorecta.Va rog incercati din nou.
+27032=Va rugam sa selectati dosarul in care doriti sa plasati fisierul restaurat.
+27033=Operatiune esuata.Va rog incercati din nou.
+27034=Criptarea  este in curs de desfasurare. Acest lucru poate dura citeva momente, va rugam sa aveti rabdare.
+27035=Decriptarea este in curs de desfasurare. Acest lucru poate dura citeva momente, va rugam sa aveti rabdare.
+27036=Acest fisier este criptat cu vechea versiune a programului pentru decriptare, descarcati versiunea veche a programului de decriptare, pe care doriti sa le descarcati?
+<<<<<<< .mine
+=======
+27037=Fisierul criptat este salvat la:
+27038=Selecteaza dosarul in care doriti sa plasati fisierul criptat.
+27039=Dosarul destinatie nu exista, acesta a fost creat?
+27040=Deschide dosarul tinta dupa criptarea de succes
+27041=Adaugati fisierul (e)
+27042=Suport tragere fisiere .
+27043=Fisier (e) locale
+27044=Stare
+27045=Progresul
+27046=Fisier criptat
+27047=Pregatit
+27048=Asteptam ...
+27049=Criptarea ...
+27050=Criptare cu succes.
+27051=Fisierul Sursa nu exista sau este sters.
+27052=Fisierul tinta exista deja.
+27053=Nu am putut sterge fisierul sursa.
+27054=Va rugam sa faceti clic pe butonul "Adaugati fisierul (e)" pentru a selecta fisierul dorit a fi criptat sau tragere un fisier la lista pentru a fi criptat.
+27055=Nu a vrut sa cripteze fisierul, selectati si incercati din nou.
+27056=Eliminare fisier (e) locale
+>>>>>>> .r2315
+27057=Selecteaza tot
+27058=Nici unul
+27059=Exclude
+27060=Sterge elementul selectat
+27061=Doriti sa eliminati fisierul selectat %s din lista de criptare a fisierelor?
+
+[File Splitter si Joiner]
+28001=Divizor fisiere
+28901=Divizeaza fisiere mari in fisiere mai mici de gestionat, iar apoi le reuniti.
+28002=Divizeaza fisiere
+28003=Reunire fisiere
+28004=Va rugam sa alegeti fisierul dorit sa il divizati in fisiere mai mici
+28005=Va rugam sa introduceti calea catre dosarul de destinatie in care doriti sa plasati fisierul divizat
+28006=Va rugam sa alegeti dimensiunea maxima pentru fisiere individuale pentru fi create
+28007=Floppy disk (1.44MB)
+28008=100MB Zip(TM)  disk
+28009=1GB Jaz(TM) disk
+28010=4.7GB Un singur strat DVD
+28011=Dimensiunea fisierului Definita de utilizator
+28012=Despre %s Piesele fisier(ului) vor fi create.
+28013=Adauga Unirea Functionala a fisierelor divizate stabilite
+28014=Divizare acum!
+28015=Va rugam sa selectati unul dintre fisierele pe care il doriti pentru reasamblare la fisierul original. Puteti selecta oricare dintre fisiere, celelalte vor fi incluse in mod automat.
+28016=Set de informatii piesa:
+28017=Va rugam sa introduceti calea catre dosarul de destinatie in care doriti copierea fisierului de restaurat.
+28018=Uneste acum!
+28019=Nu am putut crea fisierul %s
+28020=Nu am putut deschide fisierul %s
+28021=Va rugam sa faceti clic butonul "Navigheaza" pentru a alege un fisier pe care doriti sa il divizati in fisiere mai mici!
+28022=Fisierul nu exista! Va rugam sa faceti clic butonul "Navigheaza" pentru a alege un fisier pe care doriti sa il divizati in fisiere mai mici!
+28023=Fisierul selectat este deja mai mic decit dimensiunea maxima.
+28024=Va rugam sa faceti clic butonul "Navigheaza" pentru a alege dosarul de destinatie!
+28025=Nu am putut crea dosarul de destinatie %s
+28026=Nu exista spatiu suficient liber pe unitatea de destinatie %s
+28027=Fisierul a fost divizat in %s cu succes. Fisierul original nu a fost sters.
+28028=Va rugam sa selectati dosarul in care doriti copierea fisierului de divizat
+28029=Fisiere impartite
+28030=Nume fisier:
+28031=Marime:
+28032=Contoar piese:
+28033=Fisierul selectat nu este parte a unui fisier divizat stabilit. Va rugam sa alegeti un altul.
+28034= Nu s-au gasit urmatoarele piese de fisiere:
+28035= Fisierul exista deja! Suprascrie fisier?
+28036= Fisierul Original reasamblat cu succes.
+28037= Va rugam sa selectati dosarul in care doriti sa plasati fisierul restaurat.
+28038= Operatia a esuat. Va rugam sa incercati din nou.
+28039= Divizarea Fisierului este in curs de desfasurare. Acest lucru poate dura citeva momente, va rugam sa aveti rabdare.
+28040= Ansamblarea Fisierului este in curs de desfasurare. Acest lucru poate dura citeva momente, va rugam sa aveti rabdare.
+28041= A fost adaugat acest dosar.
+
+[1-Click Maintenance]
+29001=1-Click Intretinere
+29601=Curatare Registrii
+29602=Fixat Comenzi Rapide
+29603=Administrare de pornire
+29604=Curatat Fisiere Temporare
+29605=Stergere Trasee
+29606=Indepartare Spyware
+
+10603=Corectii intrari invalide sau incorecte de registru
+10605=Curata comenzi rapide invalide
+10607=Curata intrarile de pornire periculoase
+10609=Curatati fisierele temporare si recuperati spatiu pe disk
+10611=Sterge activitatea din istoric si urmele pe internet
+10613=Elimina spyware si adware
+10614=Analizare...
+10615=Arata Detalii
+10616=Scanare Probleme
+10617=Nu au fost gasite probleme.
+10618=Afost gasita 1 problema.
+10619= %s probleme gasite.
+10620= %s fisiere gasite.
+10621= Nu sunt fisiere gasite.
+10622= %s piese selectate.
+10623= 1 piesa selectata.
+10624= Nu sunt piese selectate.
+10625= Analizare...
+10626= Faceti clic pe Repararea Probleme sa continue.
+10627= Reparare Probleme
+10628= Probleme rezolvate.
+10629= Spatiu recuperat
+10630= Stergere urme.
+10631= Fixare...
+10632= Curatare...
+10633= Stergere...
+10634= %s probleme reparate.
+10635= %s urme sterse.
+10636= %s Recuperate.
+10637= Va rugam sa selectati fisierele pe care doriti sa le stergeti.
+10638= Vizualizare fisiere
+10639= Total %s fisiere, %s2 Recuperate.
+10640= Va rugam sa selectati piesele pe care doriti sa le stergeti.
+10641= Va rugam sa selectati intrarile de registry dorite de reparat. Faceti clic pe un element cu butonul mouse-ului drept pentru a vizualiza optiunile suplimentare.
+10645= Va rugam sa selectati intrarile comenzilor rapide pe care doriti sa le stergeti. Faceti clic pe un element cu butonul mouse-ului drept pentru a vizualiza optiunile suplimentare.
+10642= Va rugam sa selectati intrarile de pornire pe care doriti sa le stergeti.
+10644= Va rugam sa selectati intrarile pe care doriti sa le stergeti.
+10643= Anulat 1-Click Intretinere
+10646= Rescanare
+10647= Dati click pe "Reparare Probleme" sa continue, click pe "Rescanare" sa scanati pentru problemele din nou.
+
+[Glary Undelete]
+31001= Anulati stergerea fisiere
+31901= Mod Rapid si eficient de a recupera fisierele sterse accidental
+31002= Cauta
+31003= Filtre
+31004= Dosare
+31005= Tipuri de fisiere
+31006= Nume
+31007= Stare
+31008= Calea originala
+31009= Marime
+31010= Tip
+31011= Ultima modificare
+31012= Restaurare
+31013= Scaneaza drivere, va rugam asteptati...
+31014= Selectati dosar de cautare:
+31015= Foarte Bine
+31016= Bine
+31017= Mediu
+31018= Sarac
+31019= Suprascriere
+31020= Selectati dosar destinatie:
+31021= Restaurarea la aceeasi unitate poate reduce sansa de succes la recuperare, Sunteti sigur ca doriti sa continuati?
+31022= Deja exista in dosar %s, Sunteti sigur ca doriti sa suprascrieti?
+31023= Deja exista in dosar %s, Sunteti sigur ca doriti sa suprascrieti?
+31024= Filtru: DESCHIS
+31025= Filtru: INCHIS
+31026= A gasit: %s, Articole selectate: %s2
+31027= Cautare
+31028= Progresul actual: %s%, %s2 fisiere gasite.
+31029= Nu pot porni scanarea: %s
+31030= Restabilire %s..., %s2 fisiere restaurate.
+31031= Nu a putut crea fisier %s
+31032= Dupa Nume fisier
+31033= Totul sau o parte a numelui. Aveti posibilitatea sa utilizati metacaractere, e.g., *.doc
+31034= ? Potrivi una din oricare
+31035= * Potrivesc orice numar de oricare
+31036= Prin Marime
+31037= Mai mult de
+31038= Mai putin de
+31039= Dupa Data
+31040= Din
+31041= la
+31042= Prin Stare
+31043= Toate Tipurile
+
+31044= Nici o previzualizare valabila
+31045= Previzualizare
+31046= Click pentru marire
+31047= Click pentru a inchide
+31048= Disk Local
+
+[Registry Defrag]
+32001= Defragmentare Registri
+32901= Defragmentare registry Windows pentru a accelera computerul
+32002= Bine ati venit la Defragmentare Registry
+32003= Windows Registry poate fi fragmentat in timp, ocupa mai mult spatiu pe disk pe hard disk decit este necesar si incetineste timp de pornire.Defragmentare Registri compacteaza si optimizeaza Windows registry prin eliminarea lacunelor inutile si irosirea spatiu pe disk. Acest lucru poate imbunatati foarte mult performantele computerului
+32004= - Limitarea fragmentarii
+32005= - Corectare Erori structurale
+32006= - Recupera spatiul de memorie nefolosit
+32007= Faceti clic pe Urmatorul pentru a analiza gradul de fragmentare.
+32008= Marime dupa optimizare:
+32009= Diferenta Marime:
+32010= Defragmentare Registri poate reduce dimensiunea de registry cu%s
+32011= Faceti clic pe Urmatorul pentru a incepe defragmentarea (Necesita Repornire). Faceti clic pe Anulare daca nu doriti sa optimizeze registru, sau daca doriti pentru a optimiza la o data ulterioara.
+32012= Defragmentare Registri a detectat ca defragmentarea registru Nu este necesara in acest moment. Este recomandat sa defragmentezi registrul Windows cel putin o data pe luna.
+32013= Click Close to finish working with the program
+32014= ATENTIE: Registry defragmentare necesita ca nici un program sa se execute in timpul analizei registry.
+32015= Va rugam sa salvati toate programele care ruleaza inainte de a incepe.
+32016= Va rugam sa dezactivati​​, de asemenea, programul antivirus pe durata analizei. Firewall-ul, nu este necesar sa fie dezactivat.
+32017= Dupa ce ati inchis toate celelalte programe, faceti clic pe OK sa continue.
+32018= Defragmentarea Nu este posibila, deoarece o parte din registri este protejata de modificari. Pentru a rezolva aceasta problema puteti inchide toate programele care ruleaza, dezactivati antivirusul si antispyware si incercati din nou. Nu uitati sa re-activa antivirus si antispyware dupa defragmentare registry.
+32019= AVERTIZARE: Computerul trebuie sa fie repornit pentru a finaliza optimizarea.
+32020= Vrei sa optimizeze acum?
+32021= Analizarea registry
+32022= Va rog asteptati...
+32023= Computerul poate sa nu reactioneze timp de citeva minute, in timp ce analiza este finalizata. Puteti opri procesul de scanare cu apasarea butonului Esc...
+32024= Windows Registry a fost optimizat cu succes.
+
+[System Information]
+33001= Informatii de Sistem
+33901= Colecteaza informatii despre hardware si software
+33002= Creare un raport
+33003= Creare un raport(Total)
+33004= Prezentare generala
+33005= Sistemul de operare
+33006= Dispozitive de sistem
+33007= Memorie
+33008= Drivere
+33009= Ecran
+33010= Retea
+33011= Alte dispozitive
+33012= General
+33013= Procesor
+33014= Placa de baza
+33015= Windows Versiune
+33016= Data instalarii
+33017= Ecran
+33018= Monitor
+33019= Video Adaptor
+33020= Intrari
+33021= Mouse
+33022= Tastatura
+33023= Disk Drive
+33024= DVD/CD-ROM Drive
+33025= Proprietati sistem de operare(OS)
+33026= OS Nume
+33027= OS Limba
+33028= OS Versiune
+33029= Proprietarul inregistrat
+33030= Organizatia inregistrata
+33031= Produs ID
+33032= Produs Key
+33033= OS Data Instalarii
+33034= OS Radacina
+33035= Sesiunea curenta
+33036= Numele sistemului
+33037= Nume utilizator
+33038= Domeniu conectare
+33039= Timpul de functionare
+33040= Versiune componente
+33041= Internet Explorer
+33042= Windows Media Player
+33043= DirectX
+33044= Sistem Dosare
+33045= Pondere Dosare
+33046= Placa de Baza
+33047= Placa de Baza Nume
+33048= Placa de Baza Fabricant
+33049= BIOS Proprietati
+33050= BIOS Versiune
+33051= Date Sistem BIOS
+33052= Date Video BIOS
+33053= CPU Proprietati
+33054= CPU Identificare
+33055= CPU Nume Generic
+33056= CPU Furnizor
+33057= Numar de serie
+33058= CPU Frecventa
+33059= L1 Code Cache
+33060= L1 Data Cache
+33061= L2 Cache
+33062= CPU Soclu
+33063= Nuclee pe pachet
+33064= Logice pe nucleu
+33065= Detalii de configurare
+33066= CPU Folosire
+33067= CPU Istoric Folosire
+33068= Memorie Fizica
+33069= Memorie Virtuala
+33070= Total Memorie
+33071= Memorie Libera
+33072= Memorie Folosita
+33073= Memorie selectata
+33074= Aplicatii
+33075= Memorie Folosita
+33076= Cale
+33077= Detalii volum
+33078= Litera Disk
+33079= Tip dispozitiv
+33080= Numar de serie
+33081= Sistem de fisiere
+33082= Total de Biti
+33083= Biti Liberi
+33084= Biti Folositi
+33085= Sistem de fisiere
+
+33086= Compresie de fisiere activata
+33087= Volumul este Compresat
+33088= Nume fisier Lung Activat
+33089= Nume fisier Unicode Activat
+33090= Criptare Sistem de fisiere
+
+33091= Informatii Logice
+33092= Numere de Clusters
+33093= Clusters Libere
+33094= Clusters Folosite
+33095= Biti per Cluster
+33096= Sectoare per Cluster
+33097= Sectoare Folosite
+33098= Sectoare Libere
+
+33099= Detalii de configurare
+33100= Biti per Sector
+33101= Total Sectoare
+
+33102= Total Spatiu Disk
+33103= Liber Spatiu Disk
+33104= Folosit Spatiu Disk
+
+33105= Proprietati adaptor video
+33106= Descrierea dispozitivului
+33107= Adaptor sir
+33108= BIOS sir
+33109= Chip Tip
+33110= DAC Tip
+33111= Data Driver
+33112= Versiune Driver
+33113= Furnizor Driver
+33114= Marime memorie Driver
+
+33115= Proprietati monitor
+33116= Monitor Nume
+33117= Model
+33118= Data Fabricare
+33119= Numar de serie
+33120= Marime Max.Vizibl Ecran 
+33121= Gama
+
+33122= Modele Video suportate
+
+33123= Adaptor de retea Descriere
+
+33124= Proprietati Adaptor de retea
+33125= Adaptor de retea
+33126= Tip Interfata
+33127= Adresa hardware
+33128= Nume conexiune
+33129= Viteza conexiunii
+33130= MTU
+33131= Biti Primiti
+33132= Biti Trimisi
+33133= Adresele Adaptor de retea
+33134= IP/Subnet Mask
+33135= Gateway
+33136= DNS
+
+33137= Date Primite
+33138= Date Trimise
+
+33139= Dispozitive audio
+33140= Porturi
+33141= USB
+33142= USB Controller
+33143= Imprimante
+
+33144= Nume
+33145= Valoare
+
+33148= Sistem Dosare
+33149= Partajare Dosare
+33150= Clic-dreapta pe un dosar pentru al deschide in Windows Explorer
+33151= Deschidere dosar
+33152= Proprietati
+33153= SEC
+33154= (%s Ora %s2 Minute %s3 Secunde)
+
+[GLARYUTILITIES]
+1001001= Restabilire
+1001002= Sugestiile si reclamatiile dvs
+1001003= Minimizare
+1001004= Versiune:
+30021= Versiune %s valabila. Actualizare Acum!
+
+[OVERVIEW]
+1002001= Prezentare generala
+1002002= Porniti intretinere automata
+1002003= Sterge urmele de confidentialitate la oprire Windows
+1002004= Verifica actualizari atunci cind programul porneste
+1002005= Porniti curat si reparat profund
+1002006= Timp de pornire Windows
+1002007= Dezactivati programele inutile la pornire pentru a face ca Windows sa porneasca mai repede
+1002008= Administrare de pornire
+1002009= Tu il utilizezi %s
+1002010= Upgrade Acum
+1002011= Aportul meu la Timp de pornire Windows
+1002012= Ore
+1002013= Minute
+1002014= Secunde
+1002015= Select. Traseu
+1002016= Licentiat lui:
+1002017= Administreaza Licenta
+1002018= Expirare
+
+[ONECLICK]
+1003001=Reparare disc
+1003002=Defragmentare Registry
+1003003=Imunizare Malware
+1003004=Optimizarea sistemului
+1003005=Defragmentare Hard Diskuri
+
+[ADVANCED TOOLS]
+1004001= Instrumente avansate
+1004002= Windows Registry
+1004003= Reparere
+1004004= Defragmentare
+1004005= Copie Rezerva
+1004006= Restaurare
+   
+1004007= Spatiu Disk
+1004008= Curatare
+1004009= Elimina duplicatele
+1004010= Elimina dosare goale
+1004011= Elimina comenzi rapide defecte
+1004012= Explorare diskuri
+   
+1004013= Anumite Trucuri de Sistem
+1004014= Trucuri de Sistem
+1004015= Optimizarea la pornirea sistemului
+1004016= Memorie libera curat
+1004017= Accelerarea internet
+1004018= Mod Turbo(accelerat)
+   
+1004019= Secret
+1004020= Sterge Istoria
+1004021= Rupe fisiere
+1004022= Wipe spatiu liber
+1004023= Encriptare fisiere
+   
+1004024= Drivere
+1004025= Copie de siguranta
+1004026= Restaurare
+1004027= Dezinstalare
+1004028= Cauta pentru actualizari
+   
+1004029= Administrare de fisiere
+1004030= Divizare Fisiere
+1004031= Restaurare fisiere sterse
+1004032= Cautare rapida
+   
+1004033= Hard diskuri
+1004034= Defragmentare
+1004035= Pornire defragmentare
+1004036= Cauta pentru erori
+   
+1004037= Control Sistem
+1004038= Elementele de pornire
+1004039= Services
+1004040= Sarcini planificate
+1004041= Meniuri contextuale
+1004042= Procese
+1004043= Asistent Navigator
+   
+1004044= Stare Sistem
+1004045= Informatii despre sistem
+1004046= Copie de siguranta computer
+1004056= Repararea Fisierelor de sistem
+1004047= Restaurare Sistem
+1004048= Anulati modificarile
+   
+1004049= Anti-malware
+1004050= Elimina malwares
+1004051= Imunizare
+   
+1004052= Programe
+1004053= Dezinstalare
+1004054= Cauta pentru actualizari
+1004055= Mai multe software
+1004057=
+
+[QUICKLAUNCHBAR]
+1005001= Click +/- pentru a adauga sau elimina un element in bara de andocare    
+1005002= Exista deja aici
+1005003= Nu e loc destul in Dock, aveti posibilitatea sa eliminati unul facind clic pe -
+
+[SKINSCENTER]
+1006001= Centeru pentru aspect
+1006002= Biblioteca imagini
+1006003= Culori tari
+1006004=Urmatorul fisier exista deja, se suprascrie?
+1006005=Toate fisierele suport
+
+
+[CHECKDISK]
+2400001= Verificare Disk
+2401001= Va rugam sa selectati discul pentru verificat
+2401002= Repara erorilor automata a fisierelor de sistem
+2401003= Scanare si incercare de recuperare a sectoarelor defecte
+2401004= Verificare Disk
+2401010= Denumire Disk
+2401011= Ultima Analiza
+2401012= Starea
+2401013= Analizare
+2401014= Raport
+2401015= Citeste
+2401016= Trebuie sa verificati
+2401017= Verificare %s
+2401018= Verificarea de disk Întrerupta
+2401019= Au fost gasite erori
+2401020= Nu Au fost gasite erori
+2401021= Verificare erori de disk
+2401022= Ascunde detalii
+2401023= Arata detalii
+2401024= Verificare Disk analizeaza sistemul fisierelor de disk si pentru erori.
+2401025= Erorile detectate vor fi remediate automat, pentru a preveni pierderea de date.
+2401026= Optiuni
+;2401027= Repara erorilor automata a fisierelor de sistem
+;2401028= Scanare si incercare de recuperare a sectoarelor defecte
+2401029= Start Analizare
+2401030= Stop
+2401031= Programul de verificre programata a diskului esuata!
+2401032= Verificare Disk a fost programata la data viitoare cind veti porni computerul.
+2401033= Verificare Disk Omisa.
+2401034= Verificare Disk Anulata.
+2401035= Verificare Disk Interupta.
+2401036= Verificare disk finalizata. Nici o eroare constatata.
+2401037= Verificare Disk gasit %s erori de disc, dupa cum urmeaza:
+
+2403001= Verificare Disk %s
+2403002= Face acest lucru pentru urmatoarele %s conflicte
+2403003= Vor fi ignorate in %s secunde.
+
+2405001= Functie Negasita.
+2405002= Verificarea diskului a intilnit o eroare. Necesita repornirea aplicatiei.
+2405003= Verificare sistemului de fisierelor la %s
+2405004= Tipul fisierelor de sistem este %s.
+
+2406001= Salvati Raport
+
+2407001= Rezultat
+2407002= Programarea Verificarii diskului
+2407003= Reporniti acum
+2407004= Afiseaza raportul
+2407005= Windows va rezolva la urmatoarea pornire.
+
+2408001= Windows nu poate verifica discul in timp ce este folosit
+2408002= Demontare Fortata\nVrei demontarea acest volum intii? Nota: Toate manerele deschise in acest volum vor deveni invalide.
+2408003= Programarea Verificarii diskului\nVrei sa verifici pentru erori de hard la urmatoarea pornire a computerului?
+2408004= Sari peste
+
+[RESTORE CENTER]
+
+2602001= Crearea unui punct de restaurare...
+2603001= Introduceti descrierea pentru a va ajuta sa identificati punctul de restaurare. Data si ora curenta sunt adaugate automat.
+2603002= Creare
+2603003= Va rugam sa introduceti descrierea.
+2604001= Pregatirea pentru a restaura sistemul ...
+2605001= Restaurare %s elemente.
+
+
+[SETTINGS]
+2801001= Setari generale
+2801002= Elementele de mai jos vor fi ignorate cind executati o scanare.
+2801003= Suplimentar
+2801004= Calea Locas prin intermediul registrului de identificare, sugereaza si repara erorile.
+2801005= Sugestii Afisare bara de Dock
+2801006= Multiple declansari definite
+2801007= Sarcina ne programata
+
+
+[Quick Search]
+3700001= Cautare Rapida
+3700002= 
+
+//frmMain
+3701001= Fisier
+3701002= Editare
+3701003= Vezi
+3701004= Ajutor
+3701005= Deschide
+3701006= Deschide Dosar
+3701007= Export
+3701008= Inchide
+3701009= Copiaza
+3701010= Calea potrivita
+3701011= Optiuni
+3701012= Marime Text
+3701013= Aranjare icoane dupa
+3701014= Reimprospatare
+3701015= Marire
+3701016= Micsorare
+3701017= Normal
+3701018= Nume
+3701019= Cale
+3701020= Marime
+3701021= Data modificarii
+3701022= Pagina Home
+3701023= Despre
+3701024= Modificare Categorie
+3701025= Arata tot
+3701026= Comenzi rapide
+3701027= Documente   
+3701028= Picturi        
+3701029= Video        
+3701030= Muzica     
+3701031= Programare 
+3701032= Arata %s fisierele
+3701033= Include Fisier 
+3701034= Include Dosar
+3701035= %s items found
+3701036= Scanare %s ...
+3701037= Tip   
+3701038= Descriere fisier 
+3701039= Versiune fisier 
+3701040= Versiune produs 
+3701041= Numele companiei 
+3701042= Text fisier(*.txt)|*.txt|Toate fisierele(*.*)|*.*
+3703043= Exista fisierul
+3703044= Sfaturi
+
+//frmSetting
+3702001= Optiuni
+3702002= Categorii
+3702003= General
+3702004= Porneste automat la Log on Windows
+3702005= Doublu-click 'Ctrl' tasta pentru a ascunde sau a afisa caseta de cautare
+3702006= Limba:
+3702007= Numele categoriei
+3702008= Extensii fisiere
+3702009= Adauga
+3702010= Modifica
+3702011= Elimina
+3702012= OK
+3702013= Anulare
+3702014= Va rugam sa selectati o categorie!
+3702015= Aceasta categorie nu poate fi stearsa
+
+//frmGroupSetting
+3703001= Numele categoriei:
+3703002= Extensii fisiere:
+3703003= Extensii fisiere:
+3703004= Extensie
+3703005= Tip fisier
+3703006= Introduceti extensia (*. Doc)
+3703007= Numele categoriei nu poate fi gol!
+3703008= Extensiile de fisier nu pot fi goale!
+3703009= Numele categoriei %s exista deja, va rugam sa re-introduceti numele categoriei.
+3703010= Adauga categorie
+3703011= Modifica o categorie
+
+//UnitFunction
+3704001=Nu exista nici un text in Memoria Temporara!
+
+//frmAbout
+3705001= Despre
+3705002= Versiune:
+3705003= Website:
+3705004= Copyright @ 2013, Glarysoft ltd. Toate drepturile rezervate
+
+//tray icon
+3706001= Deschide Cautare Rapida
+
+//Task
+3707001= Glary Utilities 3 Cautare Rapida
+
+[Disk Defrag]
+3400001= Disk Defragmentare
+3400002= Discuri pentru a accelera performanta PC-ului
+
+//frmMain
+3401001= Nume unitate
+3401002= Sistem de fisiere
+3401003= Capacitate
+3401004= Spatiu liber
+3401005= Fragmentat
+3401006= Statut
+3401007= Timp Pornire Defrag. 
+3401008= Fisier
+3401009= Instrumente
+3401010= Ajutor
+3401011= Defrag. un fisier...
+3401012= Defrag. un dosar...
+3401013= Analiza
+3401014= Defrag.
+3401015= Defrag. si Optimizare (mai lent, folosit o data pe saptamina)
+3401016= Iesire
+3401017= Prioritate
+3401018= Prioritate scazuta
+3401019= Prioritate Normala
+3401020= Prioritate Inalta
+3401021= Optiuni
+3401022= Pagina Home
+3401023= Verifica pentru actualizari
+3401024= Despre
+3401025= Defragmentare
+3401026= Analiza
+3401027= Defrag si Optimize (slower, use once a week)
+3401028= Pauza
+3401029= Reluare
+3401030= Stop
+3401031= Opriti PC dupa defragmentare
+3401032= Selectat Tot
+3401033= Nimic Selectat
+3401034= Stare
+3401035= Raporteaza
+3401036= Spatiu Folosit
+3401037= Spatiu Liber
+3401038= Procesare
+3401039= Spatiu Liber
+3401040= Spatiu Folosit
+3401041= Ne Fragmentat
+3401042= Fisiere Nemutabile
+3401043= Fisiere Fragmentate
+3401044= Ocupat
+3401045= MFT Zona Rezervata
+3401046= Citeste
+3401047= Analizeaza
+3401048= Defragmenteaza
+3401049= Optimizeaza
+3401050= Analizeaza
+3401051= Defragmenteaza
+3401052= Optimizat
+3401053= Analiza Completa
+3401054= Defragmentare Completa
+3401055= Optimizare Completa
+3401056= Analiza Interupta
+3401057= Defragmentare Interupta
+3401058= Optimizare Interupta
+3401059= Timp Pornire Defrag. este activat la acest volum.
+3401060= Timp Pornire Defrag. nu este activat la acest volum.
+3401061= Dezactivare
+3401062= Activare
+3401063= Configurare
+3401064= Defragmentare pagina fisier, fisier hibernare
+3401065= Defragmentare MFT
+3401066= Defragmentare sistem fisiere
+3401067= Timp Pornire Defrag. Istorie (Doublu Click sa vezi detailii)
+3401068= Data
+3401069= Total Marime
+3401070= Defragmentat
+3401071= Total Fisiere && Dirs:
+3401072= Fragmente:
+3401073= Rata Fragmentare:
+3401074= Nume Fisier
+3401075= Fragmente
+3401076= Marime
+3401077= Cale
+3401078= Da
+3401079= Nu
+3401080= Fisier(s)
+3401081= Selecteaza Dosar
+3401082= Sugestie
+3401083= Defragmentare disc este inca in desfasurare.
+3401084= Driver necunoscut
+3401085= Directorul radacina nu poate fi adaugat in lista de excluderi. Va rugam sa selectati un alt director.
+3401086= Selectati Invers
+3401087= Stop unul
+3401088= Stop Totul
+3401089= A nu se defragmenta Solid State Disk
+
+//frmOption
+3402000= Optiuni
+3402001= General
+3402002= Defragmentare
+3402003= Auto defrag.
+3402004= Planificare
+3402005= Timp Pornire Defrag.
+3402006= Optimizare
+3402007= Excluderi
+3402008= Limba:
+3402009= Start automat la autentificare Windows
+3402010= Minimizarea in bara, atunci cind inchideti fereastra programului
+3402011= Afisare sfaturi balon atunci cind a minimizat in bara
+3402012= Integrarea Defragmentare disc in meniul contextual Windows Explorer
+3402013= Verifica automat pentru actualizari
+3402014= Defragmentare simultana de discuri
+3402015= Implicit
+3402016= Defrag. Inteligenta
+3402017= Aurora
+3402018= Windows Standard
+3402019= Accesibilitate
+3402020= Curcubeu
+3402021= Adiere Marina
+3402022= Numai fisierele defragmentate incit:
+3402023= Au fragmente mai mici decit
+3402024= Au mai mult de
+3402025= Sunt mai mari decit
+3402026= Sunt mai mici decit
+3402027= fragmente
+3402028= Mutati fisiere mari la sfirsitul unitatii
+3402029= Dimensiunea minima fisier:
+3402030= Fisierele care nu au fost accesate in ultima luna
+3402031= Fisierele din Cosul de gunoi
+3402032= Fisierele din tipurile selectate
+3402033= Categorii
+3402034= Tip
+3402035= Adauga
+3402036= Editeaza
+3402037= Sterge
+3402038= Excludeti fisierele pe care nu doriti sa le defragmentati. de exemplu. fisiere video. {#13#10}Acesta va accelera defragmentarea. 
+3402039= Adauga Fisiere
+3402040= Adauga Dosare
+3402041= Defragmentarea automata este Dezactivata
+3402042= Defragmentarea automata este Activata
+3402043= Cind Defragmentarea auto este activata, se va Defragmentarea hard disk in mod automat pentru a mentine computerul care ruleaza la viteza maxima.
+3402044= Defragmentarea automata atunci cind sistemul este inactiv pentru %s minut(e)
+3402045= Pauza atunci cind procesorul sau utilizarea discului depaseste %s%
+3402046= Drivere
+3402047= Ultima defragmentare:
+3402048= Fisiere defragmentate:
+3402049= Rulare la o programare
+3402050= Actiune:
+3402051= Frecventa:
+3402052= Timp:
+3402053= Defrag. Doar
+3402054= Defrag. si Optimizare
+3402055= Zilnic
+3402056= Saptaminal
+3402057= Lunar
+3402058= Luni
+3402059= Marti
+3402060= Miercuri
+3402061= Joi
+3402062= Vineri
+3402063= Simbata
+3402064= Duminica
+3402065= Activeaza Timp Pornire Defragmentare
+3402066= Modelul defragmentararii:
+3402067= Metoda
+3402068= Pornire zilnica
+3402069= Intii pornire zilnica
+3402070= In fiecare %s zi prima pornire
+3402071= Max. fisiere log:
+3402072= Începe verificarea discului(Chkdsk) inainte de utilizare timp pornire de defragmentare 
+        
+3402073= Defrag.Avansata
+3402074= Defrag. Rapida
+3402075= Select. Dosar
+3402076= Va rugam sa verificat unitatea pe care ati dorit sa o defragmentati!
+3402077= Sfaturi
+3402078= Va rugam sa selectati o categorie! 
+3402079= Intr-adevar doriti sa stergeti aceasta categorie?
+3402080= Adauga Categorie fisier
+3402081= Editeaza Categorie fisier
+3402082= OK
+3402083= Anulat
+3402084= Timp pornire de defragmentare Fisiere, defragmentarari care nu pot fi eliminate in conditii de siguranta in timp ce se executa Windows.
+3402085= Stop VSS cind defragmentati volum NTFS
+
+//frmConfig
+3403001= Arhive
+3403002= Filme
+3403003= Imagini Disk
+
+//frmCategory
+3404001= Categoria Nume nu poate fi goala! 
+3404002= Eroare format de tip! De exemplu: (*.doc/*.doc,...,*.Txt).
+
+//frmFileType
+3405001= Categorii: 
+3405002= Tip:
+3405010= Categoria nume %s exista deja, va rugam sa re-introduceti numele categoriei.
+
+[SpyRemover]
+2701001= Eliminarea Malware
+2701002= Eliminarea Malware
+2701003= Scanare rapida si eliminare programele spyware si adware
+2701004= Scan.
+2701005= Eliminare
+2701006= Restaurare
+2701007= Rescanare
+2701008= Va rugam sa selectati o copie de rezerva pe care doriti sa le restaurati si faceti clic pe butonul "Restabilire".
+2701010= Tip
+2701011= Statut
+2701012= Copii de rezerva
+2701013= Sunteti sigur ca doriti sa restaurati %s la registry de sistem?
+2701014= %s a fost restaurata cu succes in registru.
+2701015= Scanare %s
+2701016= Scanare fisiere: %s
+2701017= Malware au fost curatate cu succes!
+2701018= Restaurare
+2701019= Scanare Malware
+2701020= Scanare Completa
+2701021= %s malwares gasite
+2701022= Negasite malware
+2701023= 1 malware gasit
+2701024= Nici un obiect verificat
+2701025= %s obiect verificat
+2701026= %s obiecte verificate
+2701027= Malware Info
+2701028= Negasite malware!
+2702001= Detailii
+2702002= Va rugam sa selectati intrarile pe care doriti sa le stergeti.
+	 
+[BOOT TIME]
+2901001= Numai pentru referinta.
+2901002= Windows Are timpul de pornire Foarte Incet, %s de utilizatori mai incet.
+2901003= Windows Are timpul de pornire Incet, %s de utilizatori mai incet.
+2901004= Windows Are timpul de pornire General, %s de utilizatori mai incet.
+2901005= Windows Are timpul de pornire Rapid, %s de utilizatori mai incet.
+2901006= Windows Are timpul de pornire Foarte Rapid, %s de utilizatori mai incet.
+2901007= Reusit sa obtina date, valoarea de referinta nu poate fi calculata.
+2901008= Notiuni de baza timpul de pornire, va rugam asteptati...
+
+[DRIVER BACKUP]
+2200001= Driver Administrare
+2201001= Copie de rezerva
+2201002= Dezinstaleaza
+2201003= Restabilire
+
+2201004= Selectati drivere care doriti sa le dezinstalati si apoi click buton "Restabilire".
+2201005= Selectati drivere care doriti sa le dezinstalati si apoi click buton "Dezinstalare".
+2201006= Alegeti dosar destinatie unde ati salvat fisier copie de rezerva:
+2201007= Salveaza fisier Copie de rezerva la:
+2201008= Driver Copie de rezerva
+2201009= %s Crearea a esuat!
+2201010= Sunteti sigur ca doriti sa dezinstalati acest dispozitiv?
+2201011= Nume dispozitiv
+2201012= Versiune
+2201013= Date Copie de rezerva
+2201014= Computerul trebuie repornit!
+
+
+[Software Actualizari]
+4000001= Software Actualizari
+4000002= 
+
+4001001= Citeste mai mult...  
+4001002= Anulat
+4001003= Continua
+4001004= Ruleaza Software Actualizari la pornire Windows
+4001005= Scan.
+4001006= Rescanare
+4001007= 100% scanare completa.
+4001009= 
+4001010= Pregatit de pornire ...
+4001011= Scanarea computer ...
+4001012= Trimiterea de date pentru analiza ...
+4001013= Deschiderea rezultatelor ...
+4001014= Click 'Scanare' buton sa scanati computerul pentru software-ul instalat!
+4001015= Viziteaza www.glarysoft.com
+4001016= Restabilire din tray
+4001017= Esire
+4001019= Faceti clic pe acest mesaj sa poti vedea mai mult.
+4001020= Vezi detailii
+4001021= Scaneaza pentru actualizari
+
+4001022= Tu ai 1 noua actualizare valabila.
+4001023= Tu ai %s noi actualizari valabile. 
+4001024= Tu ai 1 beta actualizare valabila. 
+4001025= Tu ai %s beta actualizari valabile. 
+
+4001026= Tu ai 1 nou actualizare si 1 beta actualizare valabila.
+4001027= Tu ai 1 nou actualizare si %s beta actualizari valabile. 
+4001028= Tu ai %s nou actualizari si 1 beta actualizare valabila. 
+4001029= Tu ai %s nou actualizari si %s2 beta actualizari valabile.
+4001030= Nu sunt actualizari in prezent valabile.

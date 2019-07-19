@@ -1,0 +1,2622 @@
+; translated from english.lng Glary Utilities v 5.0.0.1
+; and revision of the translation slovenian.lng (transl. Jadran Rudec) Glary Utilities v 4.0.0.53
+; translator: dr Vinko Kastelic (dr.vinko@gmail.com)
+; Last change: 19.05.2014
+
+
+[Language]
+Description= Slovenian
+
+[Globals]
+10001= Datoteka
+10002= Uredi
+10003= Pogled
+10004= Pomoè
+10005= Izhod
+10023= Vsebina pomoèi
+10018= Domaèa stran
+10019= Vizitka
+10006= Ustavi
+10007= Osveži
+10008= Lastnosti
+10009= Ime
+10010= Odpri
+10011= Velikost
+10012= V redu
+10013= Preklièi
+10014= Zapri
+10015= Da
+10016= Ne
+10017= Prebrskaj...
+10020= Izvoz...
+10021= Odpri mapo
+10022= Opravila
+10024= Naprej
+10025= Nazaj
+10026= Možnosti
+19026= Skupna velikost
+19027= Nezaseden prostor
+14023= Status
+10027= Opis
+10028= Konèaj
+10029= Koš
+14009= Podrobnosti
+10030= Dodaj
+10031= Odstrani
+10032= Privzeto
+10033= Datum nastanka
+10034= Izbriši
+10035= Priporoèite prijateljem
+10036= Nakup zdaj
+10037= Vnesite registracijsko kodo
+15009= Oznaèi vse
+15010= Odznaèi vsee
+15011= Obrni oznaèeno
+15014= Oznaèi
+10038= Meni
+10039= Preveri za posodobitve
+10040= Jeziki
+10041= Ali ste preprièani, da želite poslati te izbrane postavke v Koš?
+10043= Nekaterih datotek ni mogoèe izbrisati. Preprièajte se, da datoteke trenutno niso v uporabi in da disk ni poln ali zašèiten pred zapisovanjem.
+10044= Opozorilo
+10045= Informacija
+10046= Napaka
+10047= Potrditev
+10048= Inicializacija
+
+10050= Priporoèeno
+10051= Uveljavi
+10052= Orodja
+10053= Program ne bo deloval zaradi manjkajoèe ali poškodovane datoteke. Poskusite znova namestiti program, da odpravite težavo. Kliknite gumb 'Da', za prenos najnovejše razlièice Glary Utilities.
+10055= Zgodovina
+10054= Poglej zgodovino
+
+[Integrator]
+10801= Èišèenje & Popravilo
+10802= Optimizacija & Izboljšanje
+10803= Zasebnost & Varnost
+10804= Datoteke & Mape
+10805= Sistemska orodja
+
+10806= Status
+10807= Status programa
+10808= Trenutna razlièica:
+10809= Zadnja posodobitev:
+10810= Datum zbirke podatkov:
+10811= Status licence
+10812= Vrsta:
+10813= Brezplaèna izdaja
+10814= Profesionalna izdaja
+10815= Datum veljavnosti:
+10816= Nikoli
+10817= Registrirajte vaš plaèan izdelek s klikom na spodnji gumb.
+10818= Registriraj
+10819= Nastavitve samodejne nege
+
+10799= Moduli
+
+10820= Nastavitve
+10821= Splošno
+10822= Jezik:
+10823= Samodejno naloži Glary Utilities ob zagonu Windows-ov.
+10824= Pomanjšaj v programsko vrstico, ko se zapre okno programa
+10825= Kontekstni meni
+10826= Izberite kontekstne menije, ki jih želite vkljuèiti v Windows Explorer-ja.
+10827= Samodejno posodobi
+10828= Izvedi spletno posodobitev ob naèrtovanem èasu.
+10829= Urnik:
+10830= Ni na voljo v brezplaèni izdaji
+10831= Spremeni Urnik
+10832= Samodejna nega
+10833= Odstrani sledi zasebnosti ob odjavi iz Windows-ov ali zaustavitvi sistema.
+10834= Sledi zasebnosti
+10835= Izberite sledi, ki jih želite odstraniti
+10836= Samodejno 'Vzdrževanje z 1-klikom'
+10837= Izvedi 'Vzdrževanje z 1-klikom' ob naèrtovanem èasu.
+10838= Center za obnovitev
+10839= Zašèita s Centrom za obnovitev
+10840= Tukaj izberite module, ki jih želite zašèititi s Centrom za obnovitev.
+10841= Razpoložljivi moduli:
+10842= Možnosti varnostne kopije
+10843= Samodejno izbriši varnostne kopije:
+10844= Omeji število varn. kopij na:
+10845= Seznam prezrtih
+10846= Po enem tednu
+10847= Po 2 tednih
+10848= Po 3 tednih
+10849= Po enem mesecu
+10850= Po 2 mesecih
+10851= Po 3 mesecih
+10852= Možnosti samodejnega 'Vzdrževanja z 1-klikom'
+10853= Poišèi le težave
+10854= Poišèi in popravi težave
+10855= Izberite sledi, ki jih želite odstraniti
+10856= Prikaži oblaèke z namigi ob pomanjšanju v opravilno vrstico
+10857= Preveri za posodobitve ob zagonu programa
+
+10900= Razveljavi spremembe
+10901= Izberite varnostno kopijo, s katero želite obnovo in kliknite gumb 'Obnovi'.
+10902= Obnovitev sistema
+10903= Ustvari toèko obn. sistema
+10914= Nova toèka obnovitve sistema je uspešno ustvarjena.
+10904= Izdelava toèke obnovitve sistema ni uspela! Obnovitev sistema je mogoèe izklopljena na tem sistemu, ali nimate dovoljenja za dostop.
+10905= Èe želite omogoèiti 'Obnovitev sistema', opravite naslednje korake: Start Nadzorna pošèa -> Sistem -> zavihek 'Obnovitev sistema'. Poèistite potrditveno polje "Izkljuèi Obnovitev sistema na vseh pogonih", da omogoèite obnovitev sistema. Kliknite gumb 'V redu'.
+10906= Najprej izberite obnovitveno toèko!
+10907= Shranite spremembe in zaprite vse odprte programe. Windows-i se bodo samodejno ponovno zagnali med procesom obnavljanja.
+10908= Najprej izberite varnostno kopijo!
+10911= Varnostne kopije
+10912= Ali ste preprièani, da želite obnoviti %s?
+10913= Obnovitev je bila uspešna.
+10915= Izberite obnovitveno toèko, ki jo želite obnoviti, in nato kliknite gumb 'Obnovi'.
+
+10909= Namig
+10910= Glary Utilities še vedno teèe.
+
+10916= Pogosta vprašanja
+10917= Preobleke
+10918= Prenosna razlièica
+10919= Nujna podpora
+
+[License Dialog]
+20001= To je èasovno omejena preizkusna razlièica.
+20002= Lahko preizkusite vse funkcije programske opreme %s dni, brez kakršnih koli obveznosti.
+20003= Èe vam je program všeè in bi želeli uporabljati po testnem obdobju, kliknite gumb 'Naroèi zdaj'.
+20004= Preizkusni period: dan %s od %s2
+20005= Ta preizkusna razlièica je potekla. Imeli ste možnost, da preizkusite vse funkcije programa %s dni.
+20006= Èe vam je program všeè in bi želeli uporabljati v prihodnje, kliknite gumb 'Naroèi zdaj'.
+20007= Preizkusno obdobje je poteklo
+20008= Ni registrirano
+20009= Avtorske pravice(c)
+20010= Ta izdelek je licenciral:
+20011= Opozorilo: Ta raèunalniški program je zašèiten z avtorskimi pravicami in mednarodnimi predpisi. Nepooblašèeno razmnoževanje ali distribucija tega programa, lahko povzroèi resne civilne in kazenske sankcije in bodo preganjani v najveèji možni meri v skladu z zakonom.
+20012= Spletna stran
+20013= Naroèi zdaj
+20014= Vpišite kodo
+20015= Obdrži preizkusno
+20016= Vaše ime:
+20017= Registracijska koda
+20018= Èe nimate registracijske kode za odklepanje te preizkusne razlièice, lahko
+20019= naroèite prek spleta.
+20020= Registracijska koda, ki ste jo vnesli, ni veljavna. Preverite kodo in se preprièajte, da je pravilno vpisana.
+20021= Velika zahvala naslednjim osebam za njihove prispevke
+20022= Nadgradi zdaj!
+20023= Vnesite licenène podatke
+20024= Vrsta licence:
+20025= Èe želite pridobiti licenco,
+20026= Domaèa stran:
+
+20027= Nadgradi zdaj
+20037= Vpišite vaše ime!
+20038= Licenèna koda:
+20039= Aktiviraj zdaj
+20040= Še nimate licence?
+20041= Kliknite sem, da bi dobili eno.
+20042= Izgubil sem licenèno kodo.
+20043= Aktiviranje Glary Utilities Pro Edition
+20044= Naziv licence:
+20045= Datum veljavnosti:
+20046= %s dni do konca
+20047= Poteèe po %s dneh
+20048= Obnovi
+20049= Izvozi licenco
+20050= Glary Utilities License Manager
+20051= Npr. AC6E-D9C6-FAB8-A8C8
+20052= License Manager
+20053= Licenèni podatki so uspešno shranjeni v:
+
+[Updater]
+30001= Ni možno pridobiti podatkov iz %s
+30002= Trenutno uporabljate zadnjo razlièico %s. Trenutno ni na voljo nobena posodobitev programa.
+30003= Uporabljate %s : %s2.
+30004= Na voljo je nova razlièica %s za prenos: %s2. Kliknite gumb 'V redu' za odpiranje strani s podrobnostmi prenosa ali kliknete gumb 'Preklièi', èe trenutno ne želite nadgraditi programa.
+30005= Uspešna posodobitev
+30006= Pridobivam posodobljeno razlièico (%s)...
+30007= Pridobivam referenco posodobljene datoteke (%s)...
+30008= Preverjam za posodobitve...
+30009= Pripravljen
+30010= Izvajam posodobitev prek spleta...
+30011= Ocenjen predviden èas:
+30012= Hitrost prenosa:
+30013= Neznano
+30014= %s sek
+30015= %s od %s2 kopij
+30016= %s/sek
+30017= Za uporabo te funkcije boste morali nadgraditi program v PRO razlièico %s. Naj nadgradim zdaj?
+30018= %s je sedaj na voljo. Za namestitev kliknite to sporoèilo.
+30019= %s min %s2 sek
+30020= Pridobivam posodobitev jezikovne datoteke (%s)...
+30021= Razlièica %s je na voljo. Posodobi zdaj!
+30022= Posodobi Glary Utilities
+30023= Na voljo je nova razlièica Glary Utilities!
+30024= Glary Utilities %s je na voljo - vi imate %s2. Bi radi prenesli novo razlièico zdaj?
+30025= Opombe ob izdaji:
+30026= Preskoèi to razlièico
+30027= Opomni me pozneje
+30028= Prenos
+30029= V prihodnje samodejno prenesi posodobitve
+
+[Context Menu]
+40001= Analiziraj prostor na disku z Glary Utilities
+40002= Združi z Glary Utilities
+40003= Razdeli z Glary Utilities
+40004= Dešifriraj z Glary Utilities
+40005= Šifriraj z Glary Utilities
+40006= Trajno obriši z Glary Utilities
+40007= Najdi prazne mape z Glary Utilities
+
+40008= Defragmentiraj disk z Glary Utilities
+40009= Defragmentiraj disk z Glary Utilities
+40010= Defragmentiraj mapo z Glary Utilities
+40011= Defragmentiraj datoteko z Glary Utilities
+
+[Registry Cleaner]
+11001= Popravilo registra
+11901= Za izboljšanje sistema poèisti register .
+11002= Izberite odseke za pregled
+
+11003= Ukrep
+11004= Preglej register
+11005= Popravi register
+11006= Obnovi prejšnje popravke
+11007= Orodja
+
+11008= Izbrane težave so bile uspešno oodpravljene.
+11009= Ali ste preprièani, da želite dodati postavko na seznam za prezrtje? Ta postavka ne bo veè iskana.
+11010= Datoteka je bila shranjena v:
+11011= Povzetek najdenih težav:
+11012= 1 najdena težava
+11013= %s najdenih težav
+11014= 1 izbrana težava za popravilo
+11015= %s izbranih težav za popravilo
+11016= Ni najdenih težav
+11017= Ni izbranih težav za popravilo
+11018= (%s najdenih težav)
+11019= Analiziram
+11020= Sekcija:
+11021= Popravek:
+11022= Odpri z Regedit
+11023= Odpri ta vnos z Regedit
+11024= Izbriši ta vnos
+11025= Obdrži ta vnos brez sprememb
+11026= Vedno izkljuèi ta vnos (nikoli veè ne išèi)
+11027= Lastnosti
+11028= Odpri te lastnosti bližnjice
+11029= Izbriši to bližnjico
+11030= Obdrži to bližnjico brez sprememb
+
+11031= Pregled je konèan
+11032= Popravi
+11033= Kliknite gumb 'Popravi' za samodejno popravo ali kliknite gumb 'Zapri' za ogled podrobnosti.
+11034= Popravilo je konèano
+11035= Pregledujem
+11036= Popravljam
+
+11037= Obnovi
+11038= Izberite varnostno kopijo, na katero želite obnoviti in za tem kliknite gumb 'Obnovi'.
+11039= Varnostna kopija
+11040= Ali ste preprièani, da želite obnoviti %s v sistemskem registru?
+11041= %s je uspešno obnovljena v registru.
+
+11042= Vnos %s kaže na manjkajoèo datoteko ali mapo %s2
+11043= Ta  kljuè registra kaže na manjkajoè kljuè %s
+11044= Ta  kljuè registra ne vsebuje podatkov in je lahko izbrisan.
+11045= Ta  kljuè registra kaže na manjkajoè CLSID %s
+11046= Ta  kljuè registra kaže na manjkajoèo ikono datoteke %s
+11047= Vnos kontekstnega menija %s kaže na manjkajoè program %s2
+11048= Ta register ni popoln, ker manjka ukaz podkljuèa.
+11049= Ta  kljuè registra ni kompleten, ker ne vsebuje nobenih podatkov, ki jih rabi Windows-i.
+11050= Ta  kljuè registra kaže na manjkajoè InprocServer %s. Povezan CLSID se lahko izbriše.
+11051= Ta  kljuè registra kaže na manjkajoè LocalServer32 %s. Povezan CLSID se lahko izbriše.
+11052= Ta  kljuè registra kaže na manjkajoèo vrsto knjižnice %s
+11053= Ta  kljuè registra kaže na manjkajoèo mapo %s
+11054= Ta kljuè registra %s ne vsebuje podatkov. Pridruženo vrsto knjižnice je mogoèe izbrisati.
+11055= Ta  kljuè registra kaže na manjkajoèo datoteko %s
+11056= Navedene datoteke %s ni bilo mogoèe najti.
+11057= Datoteka %s pridružena vnosu %s2 ne obstaja.
+11058= Vnos %s kaže na manjkajoèo datoteko pomoèi %s2
+11059= Manjka datoteka v skupni rabi %s
+11060= Datoteka v skupni rabi %s ni veè v uporabi.
+11061= Ta vnos ImagePath kaže na manjkajoèo datoteko %s. Pridružena storitev se lahko izbriše.
+11062= Vnos %s kaže na manjkajoèo datoteko %s2
+11063= Ta bližnjica kaže na manjkajoè cilj %s
+11064= Ta kljuè registra vsebuje sklic na mapo menija Start %s, ki je premaknjena ali izbrisana.
+11065= Vnos %s kaže na manjkajoè program %s2
+11066= Ta vnos za odstranitev ne vsebuje nobenih potrebnih podatkov za odstranjvanje programa ali komponente.
+11067= Zahtevan program za odstranitev %s ni bil najden
+11068= Vnos %s kaže na manjkajoèo mapo %s2
+
+11069= Izbriši kljuè :
+11070= Izbriši vrednost :
+11071= Izbriši datoteko :
+
+11072= Upravitelj seznama prezrtih
+11073= Seznam trenutno prezrtih vnosov med pregledom registra. Èe želite, vkljuèiti eden izmed teh vnosov odstranite njegovo kljukico.
+11074=  Kljuè registra
+
+11075= Izberite ciljno mapo za popravilo sprememb varnostne kopije
+11076= Omeji število varnostnih kopij na:
+11077= %s že obstaja. Ali jo želite zamenjati?
+11078= Zamenjaj
+11079= Povzetek najdenih težav: (%s najdenih težav, %s2 izbranih težav za popravilo)
+11080= Povzetek najdenih težav: (1 najdena težava, 1 težava izbrana za popravilo)
+11081= (1 najdena težava)
+11082= Povzetek najdenih težav: (Ni najdenih težav, ni izbranih težav za popravilo)
+11083= Išèem...
+11084= Ni najdenih težav, ni izbranih težav za popravilo.
+11085= %s najdenih težav, %s2 izbranih težav za popravilo.
+11086= %s najdenih težav, %s2 izbranih težav za popravilo.
+11087= Popravljam...
+11088= Izvozi datoteko Registra
+11089= Trenutni kljuè:
+11090= Izvožen kljuè:
+11091= %s izbranih težav za popravilo
+11092= Uspešno izvožen!
+11093= %s ugotovljene težave, %s2 odpravljenih težav.
+11094= %s ugotovljena težava, %s2 odpravljena težava.
+11095= Danes odpravljeno: %s težav, skupaj: %s2 težav. 
+11096= Danes odpravljeno: %s težava, skupaj: %s2 težav.
+11097= Danes odpravljeno: %s težava, skupaj: %s2 težava.
+11098= %s težav
+11099= 1 težava
+11100= Brez težav
+11101= Izberite vsaj eno postavko za skeniranje!
+11102= Izberite vsaj eno postavko za èišèenje!
+11103= Kliknite 'Skeniraj register' za skeniranje vašega registra za težave.
+11104= %s ugotovljene težave, %s2 težav izbranih za popravilo.
+11105= %s odpravljenih težav
+11106= %s odpravljena težava
+
+[Disk Analysis]
+19001= Analizator prostora na diskih
+19901= Kaže zaseden prostor na disku z vašimi datotekami in mapami
+19003= Raziskovalec
+19004= Ukazna vrstica
+19005= Izbriši(v Koš)
+19006= Prikaži Orodno vrstico
+19007= Prikaži Statusno vrstico
+19008= Prikaži vrste datotek
+19009= Prikaži velike datoteke
+19010= Datoteke
+19011= Mape
+19012= Atribut
+19013= Odstotek
+19014= Vrsta datoteke
+19015= Opis
+19016= Ime datoteke
+19017= Mapa
+19018= Spremenjena
+19019= Nalagam vrste datotek...
+
+19020= [Files]
+19021= Moj raèunalnik
+
+19022= Izberi pogone
+19023= Vsi lokalni pogoni
+19024= Posamièni pogoni
+19025= Mapa
+19028= Uporabljeno/Skupaj
+19029= Izberi mapo:
+
+1801001= Analiziraj
+1801002= Nazaj
+1801003= Raèunalnik
+1801004= 
+1801005= Prikaži Razširitve
+1801006= Vse vrste
+1801007= Videi
+1801008= Stisnjeno
+1801009= Glasba
+1801010= Slike
+1801011= Dokumenti
+1801012= Drugo
+1801013= Datoteèna pripona
+1801014= Število datotek
+1801016= Vrsta
+1801017= Lokacija
+1801018= Datum spremembe
+1801019= Prostor na voljo
+
+1801020= Orodna vrstica
+1801021= Navigacija
+1801022= Podrobnosti
+1801023= Prikaži vse datoteke
+1801024= Mape in datoteke
+
+1801025= Analiziraj pogon zdaj
+1801026= Pogon še ni bil analiziran. \nKer pogon še ni bil analiziran, ni podatkov o uporabi prostora na diskih, vrsti ali najveèjih datotekah. Med analizo so zbrane in prikazane informacije o izbranih pogonih, datotekah in mapah, ki zasedejo prostor na diskih.
+1801027= Oznaèi samo to
+
+1801028= Velikost datoteke:
+1801029= Skupna velikost:
+1801030= Dostopana:
+1801031= Spremenjena:
+1801032= Ustvarjena:
+1801033= %s izbranih vnosov
+1801034= Velikost:
+1801035= Skupaj vsebina
+1801036= Neznano
+1801037= Zasedeno:
+1801038= Analizirano
+1801039= Ni analizirano
+
+1801040= Razširi mapo ko je izbrana
+
+1802001= Konèano
+1802002= Ni uspelo
+1802003= Prekinjeno
+1802004= Analiza lokacij za shranjevanje
+1802005= Poèakajte na konec analize izbranih lokacij za shranjevanje.
+
+1803001= Neveljaven seznam poti:\n
+1803002= Seznam poti do datoteke:\n
+1803003= %s postavk ni bilo možno pregledati.
+
+1804001= Pogon, ki ste ga izbrali še ni bil analiziran. Ali analiza mora biti opravljena zdaj?
+
+1805001= Ali ste preprièani, da želite premakniti %s postavk v Koš?
+1805002= Izbriši
+1805003= Brišem %s postavke
+
+[Startup Manager]
+14001= Upravitelj zagonov
+14901= Upravlja s programi, ki se samodejno zaženejo ob zagonu Windows
+14002= Onemogoèi ta vnos
+14003= Omogoèi ta vnos
+14004= Dodaj program...
+14005= Izbriši ta vnos
+14006= Uredi vnos...
+14007= Prikaži Vrstico s podrobnostmi
+14008= Osveži Seznam zagonov
+14010= Drug samodejni zagon
+14011= Naèrtovana opravila
+14012= Lokalne storitve
+14013= Programi, ki se zaženejo ob zagonu Windows-ov ali ob prijavi uporabnika v sistem
+14014= Ni izbranih postavk.
+14015= Neveljaven vnos. Lahko je izbrisan.
+14016= <Ni informacij>
+14017= Izdelek:
+14018= Podjetje:
+14019= Dodaj zagonsko postavko
+14020= Ali ste preprièani, da želite brisati zagonski vnos
+14021= Uredi izbrano zagonsko postavko
+
+14022= Pot
+14024= Lokacija
+14035= Ocena
+14025= Omogoèeno
+14026= Onemogoèeno
+
+14027= Ustvarjeno poroèilo Seznama zagonov %s z %s2
+14028= Skupaj %s postavk
+14029= Poroèilo je bilo shranjeno v %s
+
+14030= Poišèi v Google...
+
+14031= Konfiguracija zagonskih postavk
+14032= Vnesite ime.
+14033= Vnesite ukazno vrstico.
+14034= Doloèena datoteka ni bila najdena. Ali res želite nadaljevati?
+
+14043= Neznano
+14036= Zanesljivo
+14037= Uporabnikova izbira
+14038= Nevtralno
+14039= Ni zahtevano
+14040= Nevarno
+14041= Komentirajte
+14042= Veè informacij
+
+14044= Komentar
+14045= Vaš komentar o tem vnosu
+14046= Vaše mnenje o tem vnosu
+14047= To bo spremenilo oceno tveganja
+14048= Pošlji komentar
+
+14049= Èas zagona z zakasnitvijo
+14050= Zaèni zdaj
+14051= Programi z zagonom z zakasnitvijo
+14052= Gor
+14053= Dol
+14054= Za zagon aplikacije z zakasnitvijo le to izberite z zgornjega seznama ali jo povlecite in spustite na spodnji seznam.
+14055= Za prekinitev zagona z zakasnitvijo aplikacijo izberite s spodnjega seznama ali jo povlecite in spustite na na zgornji seznam.
+14056= Odkriti so podvojeni vnosi
+14057= Videti je, da se je %s sam dodal nazaj v zagonski proces Windows po tem, ko ste ga postavili na seznam zagona z zakasnitvijo.
+14058= Èe želite to popraviti, morate odpreti %s in poiskati možnost 'Zaženi z Windows-i' ali temu podobno in jo onemogoèite.
+14059= Èe ta možnost ne obstaja, potem boste morda morali priti v stik z avtorjem %s, ki se samodejno dodaja in ga vprašati ali in, èe lahko dodate samodejno funkcijo za onemogoèanje %s seznama zagonov z Windows-i.
+14060= Èe ni možno ustaviti %s iz zagona z Windows-i, potem bi bilo bolje, da preprosto pustite, da Windows-i odstranijo %s s seznama zagonov z zakasnitvijo.
+14061= Ali želite odstraniti %s s seznama zagonov z zakasnitvijo?
+14062= Zagon z zakasnitvijo
+14063= Zakasnitev
+14064= Brez zakasnitve
+14065= Sek
+
+2501001= Vrstica s podrobnostmi
+2501002= Statusna vrstica
+2501003= Izvedba
+2501004= Ustavljeno
+2501005= Zaseden pomnilnik
+2501006= Zagonski vnos že obstaja.\nAli ga še vedno želite zamenjati?
+2501007= Nastavitev podatkov za '%s' ni uspela
+2501008= Podrobnosti
+2501009= Èas nalaganja
+2501010= Zagonski programi
+2501011= Naèrtovana opravila
+2501012= Vtièniki
+2501013= Storitve aplikacij
+2501014= Storitve Windows-ov
+
+2501015= Bodite prvi in komentirajte ta zagonski program
+2501016= %s uporabnikov priporoèa, da onemogoèite ali odložite ta zagon programa
+
+2501017= Zagon omogoèen
+2501018= Izbran zagonski program je omogoèen
+2501019= Zagon onemogoèen
+2501020= Izbran zagonski program je onemogoèen
+
+2501021= sek
+2501022= min
+2501023= %s programi zagnani ob zagonu Windows-ov ali ob prijavi uporabnika
+
+2501024= Razveljavi spremembe
+2501025= Napredna pospešitev
+2501026= Zagonski èas na voljo po naslednjem zagonu
+2501027= Uporabnost
+
+2501028= Zagon z zakasnitvijo
+2501029= Izbran program za zagon z zakasnitvijo
+
+2502002= Izbriši vse
+2502003= Izbriši
+2502004= Èas
+2502005= Obnovi
+2502006= Operacija
+
+2502101= Danes
+2502102= Veè
+
+
+2503002= Uporabno
+2503003= Neuporabno
+
+2503004= Prosimo, vpišite vaš komentar. Hvala.
+2503005= Prosimo, vpišite svoje ime. Hvala.
+2503006= Povezava za veè podrobnosti (neobvezno)
+2503007= Vaše ime
+2503008= Vaš predlog smo uspešno prejeli.
+
+[Disk Cleaner]
+13001= Èišèenje diskov
+13901= Odstranjuje neuporabne podatke z vaših diskov in poveèa nezaseden prostor na diskih
+13002= Èišèenje diskov
+13003= Veè možnosti
+13004= Izberite pogone, ki jih želite oèistiti.
+13005= Kliknite gumb 'Naprej', ko ste konèali izbor vaših pogonov.
+13006= Poèakajte, da %s dokonèa pregled izbranih pogonov.
+13010= Kliknite gumb 'Naprej', ko ste konèali izbor vaših pogonov.
+13007= Lahko uporabite 'Èišèenje diskov' za sprostitev %s prostora na diskih na pogonu %s2
+13008= Skupna kolièina pridobljenega prostora na diskih:
+13009= Pred èišèenjem ustvarite varnostno kopijo %s .
+13110= Ogled datotek
+13011= Za zaèetek èišèenja kliknite gumb 'Naprej'.
+13012= Komponente Windows-ov
+13013= Lahko sprostite veè prostora na diskih z odstranjevanjem izbirnih komponent Windows-ov, ki jih ne uporabljate.
+13014= Èišèenje...
+13015= Obnovi
+13016= Lahko obnovite odstranjene zaèasne datoteke iz varnostne kopije.
+13017= Obnovi...
+
+13018= Èišèenje je uspešno konèano.
+13019= Varnostna kopija je bila ustvarjena.
+13020= Za vrnitev na glavno stran kliknite gumb 'Konèaj'.
+
+13021= Izberite vsaj en pogon za iskanje.
+
+13022= Pregledujem...
+13023= Konèano
+13024= Zaèenjam...
+13025= Koš vsebuje datoteke, ki ste jih izbrisali iz vašega raèunalnika. Te datoteke niso trajno odstranjene po spraznjenju Koša.
+13026= Zaèasne datoteke
+13027= Zaèasne datoteke, uporabljajo jih programi kot vmesni prostor za shranjevanje, se ponavadi same odstranijo po uporabi.
+13028= Datoteke nièelne dolžine
+13029= Datoteke nièelne dolžine nimajo nobenih podatkov in jih obièajno lahko izbrišete.
+13064= Zaèasne spletne datoteke
+13065= Mapa 'Zaèasne spletne datoteke' vsebuje shranjene spletne strani na vašem raèunalniku za hitri pregled le-teh. Vaše prilagojene nastavitve za spletne strani, bodo ostale nedotaknjene.
+
+13030= Praznim Koš...
+13031= Èistim zaèasne spletne datoteke...
+13032= Brišem zaèasne datoteke...
+13033= Brišem datoteke nièelne dolžine...
+
+13034= Izberite datoteke, ki jih želite izbrisati.
+13035= Ni izbrana nobena datoteka.
+13036= Odpri datoteko
+13058= Skupaj %s datotek
+13059= Ustvarjena:
+13060= Spremenjena:
+13061= Zadnji dostop:
+
+13037= Splošno
+13038= Izkljuèi
+13039= Vkljuèi
+
+13040= Preglejte seznam vrst neuporabnih datotek spodaj in izberite ali preklièite postavke v ustreznih poljih.
+13041= Vrsta datoteke
+13042= Èe niste preprièani o teh možnostih je priporoèljivo, da jih pustite kot so privzeto nastavljene.
+13043= Vse datoteke v teh mapah nikoli ne bodo obravnavane kot neuporabne
+13044= Mapa
+13045= Datoteke v teh mapah bodo vedno obravnavane kot neuporabne.
+
+13046= Lahko uporabite maske, npr.: *.tmp
+13047= Ime datoteke se konèa z:
+13048= Vnesite ime pripone.
+13049= Lahko uporabite nadomestne znake.
+13050= Ne sme biti prazno.
+
+13051= Izberite datoteko varnostne kopije, ki jo želite obnoviti in kliknite gumb 'Obnovi'.
+
+13052= Obnovitev po meri
+13053= Oznaèite vnose, ki jih želite obnoviti in kliknite gumb 'Obnovi'.
+13054= Obnovitev je bila uspešna.
+
+13055= Objekti
+13056= Datotek
+13057= Pot
+13062= Vrsta
+
+13063= Dodaj vrsto neuporabne datoteke
+
+1301001= Zaèni s èišèenjem
+1301002= Pregled
+1301003= Obnovi
+1301004= Pot
+1301005= Oznaèena varnostna kopija
+1301006= Oznaèi vse
+1301007= Neoznaèeno
+1301008= Oznaèi privzeto
+1301009= Nedavno ste poèistili vaše diske: 
+1301010= %s/%s2/%s3
+1301011= Hiter in enostaven naèin za èišèenje neuporabnih datotek v vašem PC-ju.
+1301012= Skupaj prihranjen prostor: %s
+1301013= Èestitamo! Vaši pogoni so èisti.
+1301014= Èišèenje neuporabnih datotek lahko prihrani prostor na diskih.
+1301015= Rezultat
+1301016= Seznam
+1301017= Ponovi pregled
+1301018= Izkljuèi to datoteko
+
+1302001= Windows
+1302002= Zaèasno - sistem
+1302003= Zaèasno - uporabnik
+1302004= Predpomnilnik slièic
+1302005= Pomnilnik Dump datotek
+1302006= Datoteke s poroèili o napakah
+1302007= Datoteke sistemskega dnevnika
+1302008= Predpomnilnik oddaljenega namizja
+1302009= Koš
+1302010= Neveljavne bližnjice menija Start
+1302011= Neveljavne bližnjice Namizja
+1302012= Datoteke IIS dnevnika
+1302013= Stari Prefetch podatki
+1302014= Predpomnilnik pisav
+1302015= Preneseni programi
+1302016= Posodobitve Windows
+1302017= Brskalniki
+1302018= Internet Explorer
+1302019= Predpomnilnik Mozilla Firefox
+1302020= Predpomnilnik Google Chrome
+1302021= Predpomnilnik Opera
+1302022= Aplikacije
+1302023= Predpomnilnik Google Earth
+1302024= Predpomnilnik Picasa
+1302025= Predpomnilnik ACDSee
+1302026= Diskovni pogoni
+1302027= Izberite vsaj 1 pogon za pregled
+1302028= Ali želite ustvariti Varnostno kopijo datotek pred èišèenjem?
+1302029= Varnostna kopija ni narejena. Ali želite nadaljevati s èišèenjem?
+1302030= Število datotek: %s velikost datotek: %s2
+1302031= %s oznaèenih postavk
+1302032= Pregled je konèan. %s datotek, skupaj najdeno %s2.
+1302033= Priporoèljivo je, da oèistite svoje pogone zdaj.
+1302034= Èestitamo! Imate èist raèunalnik!
+1302035= Èišèenje vašega raèunalnika je dobra navada. Ne opušèajte jo!
+1302036= Pregled je bil preklican!
+1302037= Izbrali ste %s datotek, skupaj %s2.
+1302038= Èišèenje je konèano. Skupaj je bilo oèišèeno %s neuporabnih datotek.
+1302039= Èišèenje je konèano.
+1302040= %s je v uporabi. Ni je možno zdaj brisati.
+1302041= Neuporabnih datotek : %s
+1302042= Datoteke in mape po meri
+1302043= Ime po meri
+1302044= Datoteke in mape po meri
+1302045= Lokacija
+1302046= Primer: *.tmp|*.log
+1302047= Primer: *.sys|*.txt
+1302048= Vkljuèi le datoteke
+1302049= Vkljuèi datoteke in podmape
+1302050= Èe želite biti varni ne smete poèistiti datotek v sistemskem imeniku Windows.
+1302051= Ali ste preprièani, da želite izprazniti ta imenik?
+1302052= Èe želite biti varni ne izberite sistemske datoteke Windows.
+1302053= Izberite dodatne datoteke in mape, ki jih želite odstraniti (Za napredne uporabnike).
+1302054= Izberite datoteke ali mape, ki jih želite odstraniti.
+1302055= Datoteka ali mapa po meri že obstaja. Ali jo še vedno želite dodati?
+1302056= Datoteka ali mapa po meri že obstaja. Ali jo še vedno želite spremeniti?
+1302057= Vaš raèunalnik nima veliko neuporabnih datotek. Redno èišèenje raèunalnika je dobra navada. Ne opušèajte jo! 
+
+
+1303001= Varnostna kopija...
+
+1304001= Ni možno prikazati podatke!
+
+1305001= Zaèni pregled: 
+1305002= Rezultati pregleda: 
+1305003= Ni najdenih neuporabnih podatkov
+1305004= %s datotek, skupaj od %s2
+1305005= Konec pregleda: 
+1305006= Skupni rezultat: 
+1305007= %s datotek, %s2 bo odstranjeno
+1305008= Zaèetek èišèenje
+1305009= Konec èišèenja
+1305010= Poèisti %s datotek, skupaj %s2
+1305011= %s datotek ni možno odstraniti.
+1305012= Èas zapisa:
+1305013= Skupaj %s datotek, %s2.
+
+1305014= %s mora biti zaprt za èišèenje predpomnilnika.\nAli želite, da Glary Utilities zapre %s?
+1305015= Firefox
+1305016= Google Chrome
+1305017= Opera
+
+1306001= Danes oèišèeno: %s, skupaj: %s2.
+1306002= %s najdeno, %s2 povrnjeno.
+1306003= Ali ste preprièani, da želite obnoviti %s?
+1306004= %s je uspešno obnovljeno.
+1306005= %s odstranjenih neuporabnih datotek.
+1306006= kliknite 'Pregled' za pregled vašega sistema za neuporabnimi datotekami
+1306007= %s datotek(e), skupaj  najdeno %s2.
+1306008= %s povrnjeno
+1306009= Skupaj odstranjeno %s neuporabnih datotek(e) .
+
+[Uninstaller]
+12001= Odstranjevalnik
+12901= V celoti odstrani programe, ki jih veè ne potrebujete
+12002= Varnostna kopija Informacij za odstranjevanje
+12003= Obnovi Informacije za odstranjevanje
+12004= Izvozi seznam aplikacij
+12005= Odstrani ta program
+12006= Odstrani oznaèene programe
+12007= Spremeni lastnosti
+12008= Obnovi odstranjene vnose
+12009= Prikaži Ukazno vrstico
+12010= Trenutno namešèeni programi:
+12011= Razvrsti po:
+12012= Datum namestitve
+12013= Samodejno popravi neveljavne vnose
+12014= Serijsko odstranjevanje
+12015= Poišèi programe
+12016= Kliknite sem za informacije o podpori.
+12017= Ukazna vrstica
+12038= Odstrani vnos
+
+12018= Spremeni
+12019= Odstrani
+12020= Spremeni/Odstrani
+
+12021= Skupaj %s programov
+12022= Ni možno odstraniti mapo %s. Uporablja jo druga oseba ali program. Ali jo želite odstraniti ob naslednjem zagonu programa?
+12023= Novo!
+
+12024= Za spremembo tega programa ali njegovo odstranitev iz raèunalnika, %s kliknite gumb 'Spremeni/Odstrani'.
+12025= Za spremembo tega programa ali njegovo odstranitev iz raèunalnika, %s klinite gumb 'Spremeni' ali 'Odstrani'.
+12026= Za odstranitev tega programa iz raèunalnika, %s klinite gumb 'Odstrani'.
+
+12027= Namešèeno
+12028= Registrske datoteke(*.reg)
+12031= Besedilna datoteke(*.txt)
+12029= Informacij za odstranjevanje so uspešno obnovljene iz %s
+12030= Ali ste preprièani, da želite odstraniti %s iz vašega raèunalnika?
+12032= Ustvarjeno poroèilo 
+12033= Namešèeni programi v vašem raèunalniku (Skupaj %s programov):
+12034= Datoteka je bila shranjena v:
+12035= Vsi namešèeni programi v vašem raèunalniku so v redu. Ni najdenih neveljavnih vnosov.
+12036= Ali ste preprièani, da želite odstraniti %s s seznama namešèenih programov?
+
+12037= Prišlo je do napake med poskusom odstranjevanja %s. Morda je že odstranjen. Bi radi odstranili %s2 s seznama namešèenih programov?
+12039= %s je "skrit" program in ga verjetno uporablja sistem. Ali ste preprièani, da ga res želite odstraniti?
+12040= Še vedno obstajajo preostale datoteke v namestitvenem imeniku "%s". Da bi se preprièali, da ne boste odstranili datotek s koristnimi podatki lahko prebrskate imenik s klikom na gumb 'Prebrskaj imenik'. Èe ste preprièani, da so neuporabni, kliknite gumb 'Izbriši vse'.
+12041= Prebrskaj imenik
+12042= Izbriši vse
+12043= Ustvari varnostno kopijo tega vnosa pred brisanjem.
+
+12044= Iskani niz ni bil najden.
+12045= Najdi
+12046= Najdi naslednje
+12047= Najti kaj:
+
+12048= Sledeèi neveljavni vnosi so bili najdeni. Ali želite izbrisati te vnose iz registra?(Lahko jih tudi kasneje izbrišete roèno).
+12049= Neveljavni vnosi
+12050= Ustvarite varnostno kopijo teh vnosov pred brisanjem.
+
+12051= Izberite programski vnos, ki ga želite obnoviti in kliknite gumb 'Obnovi'.
+12052= Obnovi
+12053= Programski vnos
+12054= Datum Varnostne kopije
+12055= Ali ste preprièani, da želite obnoviti programski vnos %s v sistemskem Registru?
+
+12056= Uporabite naslednjo informacijo za pridobitev tehniène podpore za
+12058= Založnik
+12059= Razlièica:
+12060= Kontakt:
+12061= Informacija podpore:
+12062= Preberi me:
+12063= Posodobitve izdelka:
+12064= Komentarji:
+12065= ID izdelka:
+12066= Registrirano podjetje:
+12067= Registriran lastnik:
+12068= Mesto namestitve:
+
+12069= Programi (*.exe;*.com;*.bat)
+12070= Vse datoteke (*.*)
+12071= Vnešena ukazna vrstica je lahko neveljavna. Ali ste preprièani, da še vedno žete nadaljevati?
+
+12072= Zaženi namestitveni program
+12073= Ukazna vrstica za odstranjevanje programa:
+12074= Prišlo je do napake med poskusom odstranjevanja %s. Nimate dostopa do %s2 .
+12075= Spodaj lahko doloèite nov program za odstranjevanje.
+
+12076= Varnostna kopija za ta vnos
+12077= Informacija o podpori
+12078= Prikaži posodobitve Windows
+
+12080= Ikone
+12081= Seznam
+12082= Podrobnosti
+
+12083= Vsi programi
+12084= Nedavno namešèeni programi
+12085= Veliki programi
+12086= Redko uporabljani programi
+12087= Posodobitve Windows
+
+12088= Nedavno uporabljeno:
+12089= Informacije za odstranjevanje so shranjene v:
+12090= Onemogoèi posodobitev zadnjega dostopa 
+
+[Duplicate file Finder]
+15001= Iskalec podvojenih datotek
+15901= Poišèe zapravljen prostor in napake zaradi podvojenih datotek
+15002= Poišèi podvojene datoteke
+15003= Odpri datoteko
+15004= Odpri z...
+15005= Razišèi mapo
+15006= Lastnosti datoteke
+15007= Ustvari poroèilo
+15008= Izbriši izbrane datoteke
+15012= Preveri po eno v vsaki skupini
+15013= Izkljuèi to mapo iz bodoèih iskanj
+15015= Pot
+15016= %s od %s2 postavk oznaèenih za brisanje.
+15017= Skupina podvojenih datotek
+15018= Ali ste preprièani, da bi radi izkljuèili vse postavke v izbrani mapi %s od vseh nadaljnjih iskanj?
+15019= Ni izbranih postavk oznaèenih za brisanje.
+
+15020= Èarovnik za iskanje
+15021= Izberite pogone in mape, ki jih želite preiskati.
+15022= Pogoni
+15023= Mape
+15024= Dodaj mapo
+15025= Kriteriji ujemanja podvojenih datotek
+15026= Isto ime datoteke
+15027= Ista velikost
+15028= Enak èas nastanka datotek
+15029= Prezri manjše datoteke kot
+15030= Spodaj poišèi le najpogostejše datoteke
+15031= Poišèi vse datoteke
+15032= Vrsta datoteke
+15033= Izkljuèi te mape iz iskanja:
+15034= Mapa
+15035= Išèem podvojene datoteke...
+
+15036= Tukaj ni izbran noben pogon. Izberite vsaj 1 pogon za nadaljevanje.
+15037= Tukaj ni izbrana nobena mapa. Izberite vsaj 1 mapo za nadaljevanje.
+15038= Tukaj ni izbrana nobena vrsta datotek. Izberite vsaj 1 vrsto datoteke za nadaljevanje.
+15039= Urejam datoteke. To lahko traja nekaj èasa, odvisno od števila datotek. Poèakajte, prosim...
+15040= Pregledano je bilo skupaj %s datotek in najdenih %s2 podvojenih datotek.
+
+15041= Dodaj novo ime datoteke za iskanje
+15042= Lahko uporabite nadomestne znake, npr., *.avi
+15043= Ime datoteke se konèa z:
+15044= Vnesite ime pripone.
+
+15045= Vnesite mapo
+15046= Izberite mapo
+15047= Lahko uporabite nadomestne znake *,?
+15048= Ne sme biti prazno.
+15049= Datum spremembe
+15050= Dodana je bila ta vrsta datoteke.
+
+1501001= Nastavi parameter za pregled
+1501002= Preveri razumno
+1501003= %d od %d vnosov oznaèenih za brisanje
+1501004= %s že obstaja.\n Ali jo želite zamenjati?
+1501005= Potrdi 'Shrani kot'
+1501006= Izbriši datoteko
+1501007= Documenti
+1501008= Glasba
+1501009= Slike
+1501010= Programer
+1501011= Videi
+1501012= Drugo
+1501013= Poroèilo o podvojenosti datotek ustvarjeno na %s z %s2
+1501014= Skupaj %s datotek
+1501015= Datoteka je bila shranjena v:
+1501016= Izkljuèi
+1501017= Seznam izkljuèenih map
+1501018=Ali ste preprièani, da želite odstraniti vse podvojene datoteke?
+
+1502002= Izkljuèi datoteko
+
+1503001= Kriterij ujemanja podvojenih datotek
+
+1504001= Pregled
+1504002= Skupna velikost
+1504003= Uporabljena velikost
+1504004= Velikost na voljo
+1504005= Pot datoteke
+
+1505001= Mesto shranjevanja
+1505002= Status
+1505003= Èakam
+1505004= Nalagam
+1505005= Skupaj je pregledano %d datotek in najdeno %d podvojenih datotek.
+1505006= Urejam datoteke. Bodite potrpežljivi...
+
+1506001= Splošno
+1506002= Izkljuèi datoteko
+
+[Empty Folders Finder]
+16001= Iskalnik praznih map
+16901= Poišèe in odstrani prazne mape v vašem raèunalniku
+16002= Iskanje praznih map
+16003= Seznam izkljuèenih map
+16004= Izbriši oznaèene mape
+16005= Izkljuèi oznaèene mape (nikoli veè ne išèi)
+16006= Izkljuèi
+16007= Mapa
+16008= Ali ste preprièani, da želite dodati oznaèene postavke na seznam prezrtih? Te postavke ne bodo veè najdene.
+
+16009= Upravitelj seznama prezrtih
+16010= Seznam vnosov, ki so trenutno bili prezrti med pregledom in iskanjem praznih map. Èe želite vkljuèiti enega izmed teh vnosov poèistite vnosno polje.
+
+16011= Preglej zdaj
+16012= Oznaèite pogon(e), ki jih želite pregledati
+
+1601001= Pripravljam drevo s praznimi mapami...
+
+1602001= Pripravljam seznam map...
+1602002= Iskanje je konèano.
+1602003= Pregledujem %s
+1602004= Nalagam diske...
+1602005= Razvršèam datoteke...
+1602006= Shranjujem podatke...
+1602007= Zaèenjam...
+1602008= Išèem prazne mape...
+1602009= Razvršèam prazne mape...
+
+[Shortcuts Fixer]
+17001= Popravilo bližnjic
+17901= Popravi napake v vašem meniju Start & bližnjice na namizju
+17002= Pregled
+17003= Popravi bližnjico
+17004= Izbriši
+17005= Cilj
+17006= Lokacija
+17007= Poišèi manjkajoèe cilje bližnjic
+17008= Preglej zdaj
+17009= Možnosti pregledovanja
+17010= Preglej le meni Start in Namizje
+17011= Poišèi prazne mape menija Start
+17012= Oznaèite pogon(e), ki jih želite pregledati
+17013= Niè ni najdeno.
+
+1701001= Hitri pregled
+1701002= Napredni pregled
+1701003= Ustavi pregled
+1701004= Popravi vse izbrano
+1701007= Napaka
+1701008= Popravljeno
+1702001= Lokacija:
+1702002= Cilj:
+1702003= Argumenti:
+1702004= Opis:
+1702005= Kliknite gumb 'Uveljavi' za shranjevanje sprememb.
+1702006= Izbrali ste mapo.
+1703001= Odstrani
+1703002= Kliknite na "%s" za odstranitev izbrane bližnjice s seznama;{\r\n}Kliknite na "%s2" za premik izbrane bližnjice v Koš;{\r\n}Kliknite na "%s3" za trajno brisanje izbrane bližnjice.
+1703003= Ustvarite varnostno kopijo izbrane bližnjice pred njenim brisanjem.
+
+[Tracks Eraser]
+18001= Odstranjevalec sledi
+18901= Odstrani vse sledi, dokaze, piškotke, spletno zgodovino in še veè
+18002= Odstrani oznaèene sledi
+18003= Prikaži le izbrisljive sledi, ki so na voljo
+18004= Odstrani te sledi
+18005= Ni oznaèenih sledi. Za odstranitev sledi oznaèite vsako sled, ki bi jo radi odstranili (uporabite potrditveno polje levo od imena sledi).
+18006= Ali ste preprièani, da želite odstraniti %s nastavitev sledi?
+18007= Sledi so bile uspešno odstranjene.
+18008= Ali ste preprièani, da bi radi poèistili vaših %s sledi?
+
+18009= Upravitelj piškotov IE
+18010= Vpisani URL naslovi v IE
+18011= Oznaèite piškotke, ki jih želite obdržati pri èišèenju piškotkov Internet Explorerja
+18012= Spletna stran
+18013= Ocena
+18014= Nedavno spremenjena
+18015= Poteèe
+18016= Polni naslov
+18017= Izbriši zdaj neoznaèene piškotke
+18018= Oznaèite URL naslove, ki bi jih radi obdržali med èišèenjem Internet Explorer - Zgodovina URL naslovov
+18019= Url naslovi
+18020= Izbriši neoznaèene URL naslove
+
+18021= Brišem
+
+18022= Windows
+18023= Odstrani zgodovino, nedavno uporabljene sezname(MRU seznami) in druge evidence Microsoft Windows.
+18024= Nedavno uporabljeni dokumenti Windows
+18025= Poèisti seznam Nedavno uporabljenih dokumentov in datotek, ki so bili odprti v tem raèunalniku. Ta seznam se po navadi nahaja v mapi: Meni Start > Moji nedavni dokumenti.
+18026= Meni Start - Zaženi
+18027= Poèisti zgodovino zadnjih ukazov, ki ste jih vnesli v možnost Window: Start > Zaženi.
+18028= Microsoft skupni dialog - Datoteka/Seznam map
+18029= Microsoft skupni dialog je standardna sestavina številnih programskih aplikacij uporabljena za zagotavljanje, datotek, map, barve, pri izbiri tiskalnika. Ta Odstranjevalec sledi poèisti zgodovino izbire, ki jo boste oznaèili v vašem raèunalniku. Ker je Microsoftov skupni nadzorni dialog uporabljen za veèino pogovornih oken za funkcije ODPRI/SHRANI datoteke, ta Odstranjevalec sledi bo poèistil mapo z vašimi zgodovinami Nedavno odprtih aplikacij. Poèisti zadnje sezname map in datoteke, ki ste jih iskali u vašem raèunalniku.
+18030= Poišèi v meniju Start
+18031= Izbriše celotno zgodovino iskanj, ki ste jih izvajali v operacijskem sistemu Windows: 'Poišèi' v meniju Start.
+18032= Odložišèe Windows
+18033= Delo z datotekami obièajno vkljuèuje uporabo operacij "kopiraj" in "prilepi". Odložišèe Windows zapomni zadnjo operacijo kopiranja , ki lahko vsebujejo ustrezne informacije o vaših dejavnostih, kot so gesla, kreditne kartice ali osebne podatki.
+18034= Zaèasne datoteke sistema Windows
+18035= Izprazni zaèasni imenik sistema Windows.
+18036= Windows Koš
+18037= Izprazni Koš sistema Windows.
+18038= Omrežni pogoni v skupni rabi
+18039= Kadar preslikate vaše pogone za dostop do le-teh prek èrk pogonov, Windows zapomni VSE vaše preslikave v Registru. Znebite se teh informacij z uporabo te nastavitve.
+18040= 'Kliknite na zgodovino' menija Start
+18041= Windows shranjuje seznam zadnjih pogostih vnosov s klikom miške v meniju Start. Izberite to možnost za èišèenje seznama menija Start 'Kliknite na zgodovino'.
+18042= Moja omrežna mesta
+18043= Kadar uporabljate Moja omrežna mesta za dostop do odaljenih strežnikov, vse vaše zadnje skupne rabe so shranjene in lahko kdo vidi katere omrežne nastavitve uporabljate, ker so vidne na MRU seznamu, ki se nahajajo v mapi 'Moja omrežna Mesta'. Izberite to možnost, da jih oèistite.
+
+18044= Internet Explorer
+18045= Odstranjuje zgodovino, zadnje pogosto uporabljene sezname(MRU seznami), zaèasne spletne datoteke in druge evidence iz spletnega brskalnika Internet Explorer.
+18046= Internet Explorer - Zgodovina URL naslovov
+18047= Odstranjuje zgodovino vaših vtipkanih URL naslovov v naslovni vrstici Internet Explorerja. Ko je shranjena ta zgodovina Internet explorer poskuša uganiti spletno stran, ki ste jo poskusili ibiskati z uporabo "Inteligence" KOT, èe vpišete www.gl - to bo verjetno www.glarysoft.com ali kateri koli drugi naslov, ki se zaène z www.gl , ki ste ga obiskali v preteklosti.
+18048= Zgodovina Internet Explorerja
+18049= Odstranjuje zgodovino vaših obiskanih spletnih strani z Internet Explorerjem u vašem raèunalniku. 
+18050= Piškotki Internet Explorerja
+18051= Spletne strani shranjujejo informacije v majhne besedilne datoteke, imenovane "piškotek" na vaš trdi disk. Piškotki vsebujejo informacije o vas in vaših nastavitvah. Ali morda vsebujejo le evidenco o tem, katere strani znotraj spletne strani ste obiskali, da bi prilagodili pogled za vas naslednjiè, ko jo boste obiskali. Ker so nekateri piškotki koristni, jih boste morda želeli obdržati. Kliknite gumb 'Možnosti', da izberete piškotke, ki jih je treba ohraniti. Vsi neoznaèeni piškotki bodo izbrisani.
+18052= Pametni obrazci - Samodokonèanje gesel
+18053= Odstranjuje celotno zgodovino obrazcev za samodokonèanje vnosa gesel iz Internet Explorerja. Èe je nastavljeno, bo Internet Explorer shranjeval podatke za skupne obrazce, uporabniška imena in gesla na spletu. Ta bodo samodejno zapolnjena s podatki, ko se vrnete na mesta, kjer so ti podatki zanje shranjeni. Ta Odstranjevalec sledi poèisti omenjene podatke in vas šèiti pred drugimi uporabniki vašega raèunalnika, ko se prijavite v svoj spletni profil.
+18054= Zaèasne spletne datoteke
+18055= Briše vse shranjene zaèasne datoteke, ki jih ustvarja Internet Explorer, ko obišèete spletne strani ali prenašate kakšno spletno vsebino
+
+18056= Vtièniki
+18057= Veliko aplikacij tretjih oseb obdrži zapise o nedavno odprtih ali izvršenih datotek. Uporaba teh vtiènikov, lahko unièi zgodovine MRU številnih priljubljenih aplikacij.
+
+18058= Mozilla Firefox
+18059= Odstranjuje zgodovino, zadnje pogosto uporabljene sezname(MRU Seznami), zaèasne spletne datoteke in druge evidence spletnega brskalnika Firefox.
+18060= Mozilla Firefox - Zgodovina
+18061= Odstranjuje vse tiste vpisane naslove, ki ste jih vpisali v naslovno vrstico Firefoxa.
+18062= Mozilla Firefox - Piškotki
+18063= Odstranjuje shranjene piškotke v mapi predpomnilnika Firefoxa.
+18064= Mozilla Firefox - Spletni predpomnilnik
+18065= Odstranjuje spletne datoteke iz predpomnilnika Firefoxa.
+18066= Mozilla Firefox - Shranjeni podatki obrazcev
+18067= Odstranjuje shranjene podatke obrazcev s Firefoxom, ko zapolnjujete obrazce spletnih strani.
+18068= Mozilla Firefox - Shranjena gesla
+18069= Odstranjuje shranjena gesla s Firefoxom, ko zapolnjujete obrazce spletnih strani.
+18070= Mozilla Firefox - Zgodovina Upravitelja prenosov
+18071= Odstranjuje sledi zadnjih prenešenih datotek v Upravitelju prenosov.
+18072= Mozilla Firefox - Zgodovina iskanj
+18073= Odstranjuje vpisano besedilo v iskalno vrstico Firefoxa.
+
+18074= Brišem sledi %s. To lahko traja nekaj trenutkov...
+18075= Brišem sledi %s...
+
+18076= Index.dat datoteke
+18077= Index.dat datoteke so skrite datoteke v vašem raèunalniku, ki vsebujejo vs e sledi vaše spletne dejavnosti, kaj ste obiskali na spletu, katere strani ste obiskali, Seznam URL-naslovov, datoteke in dokumente do katerih ste Nedavno dostopali.
+18078= Išèem sledi %s. To lahko traja nekaj trenutkov...
+18079= Išèem sledi %s...
+18080= Kreiram poroèilo...
+18081= POROÈILO ANALIZA
+18082= %s vnosov bo odstranjenih iz Registra Windows.
+18083= %s datotek in %s2 postavke zbirke podatkov, ki bodo odstranjeni.
+18084= Podrobnosti o datotekah, ki bodo izbrisane:
+18085= Analiziraj
+
+18086= Sledi
+18087= Rezultat
+
+18088= Google Chrome
+18089= Odstranjuje zgodovino, zadnje pogosto uporabljene sezname(MRU Seznami), zaèasne spletne datoteke in druge evidence spletnega brskalnika Google Chrome.
+18090= Google Chrome - Zgodovina
+18091= Odstranjuje vse tiste vpisane naslove, ki ste jih vpisali v naslovno vrstico Google Chrome.
+18092= Google Chrome - Piškotki
+18093= Odstranjuje shranjene piškotke v mapi predpomnilnika Google Chrome.
+18094= Google Chrome - Spletni predpomnilnik
+18095= Odstranjuje spletne datoteke iz predpomnilnika Google Chrome.
+18096= Google Chrome - Shranjeni podatki obrazcev
+18097= Odstranjuje shranjene podatke obrazcev z Google Chrome, ko zapolnjujete obrazce spletnih strani.
+18098= Google Chrome - Zgodovina prenosov
+18099= Odstranjuje sledi zadnjih prenešenih datotek v Upravitelju prenosov.
+
+18100= Zelo je priporoèljivo, da zaprete %s preden nadaljujete. Odstranjevalec sledi ne more odstraniti sledi, ki jih uporabljajo drugi programi.
+
+2101001= %s oznaèenih vnosov.
+2101002= Ni izbranih sledi. Za analizo sledi oznaèite (uporabite potrditveno polje levo od imena sledi) vsako sled, ki jo želite analizirati.
+
+2102001= Orodna vrstica Windows Live
+2102002= Odstranjuje zgodovino zadnjih iskanj z Orodno vrstico Windows Live.
+2102003= Orodna vrstica Google
+2102004= Odstranjuje zgodovino zadnjih iskanj z Orodno vrstico Google za Internet Explorer.
+2102005= Google Deskbar
+2102006= Odstranjuje zgodovino zadnjih iskanj z Google Deskbar.
+2102007= Zgodovina iskanj s Kazaa
+2102008= Poèisti zgodovino iskanj datotek s Kazaa.
+2102009= eMule
+2102010= Poèisti zgodovino iskanj datotek z eMule.
+2102011= MSN Messenger
+2102012= Odstranjuje predpomnilnik zgodovine MSN Messengerja.
+2102013= Sound Forge 6.0
+2102014= Odstranjuje predpomnilnik zgodovine Sound Forge 6.0.
+2102015= Fresh Download
+2102016= Odstranjuje predpomnilnik zgodovine FreshDownload.
+2102017= Windows Media Player
+2102018= Poèisti dendavne datoteke, URLS, in zgodovino filmov in glasbe windows media playerja.
+2102019= Real Player
+2102020= Poèisti zgodovino nedavnega predvajanja glasbe in filmov z Real Playerjem.
+2102021= Quicktime Player
+2102022= Poèisti zgodovino nedavnega predvajanja glasbe in filmov s Quicktime Playerjem.
+2102023= SWiSH
+2102024= Odstranjuje zgodovino nedavno odprtih datotek z SWiSH.
+2102025= Windows Movie Maker
+2102026= Odstranjuje zgodovino nedavno odprtih datotek z Windows Movie Maker-jem.
+2102027= BSPlayer
+2102028= Odstranjuje zgodovino nedavno odprtih datotek z BSPlayer-jem.
+2102029= Klasièen Media Player
+2102030= Poèisti zgodovino nedavnega predvajanja glasbe in filmov s klasiènim Media Player-jem.
+2102031= Axialis IconWorkshop
+2102032= Odstranjuje zgodovino nedavno odprtih datotek iz predpomnilnika z Axialis IconWorkshop.
+2102033= Ulead Smart Saver Pro 3.0
+2102034= Odstranjuje zgodovino nedavno odprtih datotek z Ulead Smart Saver Pro 3.0.
+2102035= Macromedia Flash Player
+2102036= Odstranjuje zgodovino nedavno odprtih datotek z Macromedia Flash Player.
+2102037= Macromedia Flash MX
+2102038= Odstranjuje zgodovino nedavno odprtih datotek z Macromedia Flash MX.
+2102039= Macromedia Flash 5.0
+2102040= Odstranjuje zgodovino nedavno odprtih datotek z Macromedia Flash 5.0.
+2102041= Macromedia Flash 4.0
+2102042= Odstranjuje zgodovino nedavno odprtih datotek z Macromedia Flash 4.0.
+2102043= Adobe Flash Player
+;2102044=
+2102045= AVI Preview
+2102046= Odstrani zgodovino nedavno odprtih datotek z AVI Preview.
+2102047= Paint Shop Pro 7.0
+2102048= Poèisti zgodovino ustvarjenih datotek/odprtih ali urejanih s Paint Shop Pro 7.0.
+2102049= Paint Shop Pro 8.0
+2102050= Poèisti zgodovino ustvarjenih datotek/odprtih ali urejanih s Paint Shop Pro 8.0.
+2102051= Paint Shop Pro 9.0
+2102052= Poèisti zgodovino ustvarjenih datotek/odprtih ali urejanih s Paint Shop Pro 9.0.
+2102053= Office XP
+2102054= Odstranjuje zgodovino nedavno odprtih datotek z Microsoft Office XP.
+2102055= Office 2000
+2102056= Odstranjuje zgodovino nedavno odprtih datotek z Microsoft Office 2000.
+2102057= Office 2003
+2102058= Odstranjuje zgodovino nedavno odprtih datotek z Microsoft Office 2003.
+2102059= Office 2007
+2102060= Odstranjuje zgodovino nedavno odprtih datotek z Microsoft Office 2007.
+2102061= MS Management Console
+2102062= Odstranjuje zgodovino nedavno odprtih datotek z MS Management Console.
+2102063= MS Wordpad
+2102064= Poèisti zgodovino ustvarjenih datotek/odprtih ali urejanih z WordPad.
+2102065= MS Paint
+2102066= Poèisti zgodovino odprtih datotek z Microsoft Paint.
+2102067= Microsoft Visual Basic 6.0
+2102068= Poèisti nedavno zgodovino datotek za Visual Basic 6.0 developers.
+2102069= Remote Desktop
+2102070= Odstranjuje shranjene predpomnilniške podatke shranjene z Navideznim namizjem.
+2102071= PowerArchiver
+2102072= Poèisti zgodovino stisnjenih datotek/razširjanih s PowerArchiver.
+2102073= WinISO
+2102074= Poèisti zgodovino odprtih datotek z WinISO.
+2102075= WinRAR
+2102076= Poèisti zgodovino stisnjenih datotek/razširjanih z WinRAR.
+2102077= 7-Zip
+2102078= Poèisti zgodovino stisnjenih datotek/razširjanih s 7-Zip.
+2102079= WinZip
+2102080= Poèisti zgodovino stisnjenih datotek/razširjanih z WinZip.
+2102081= SpyBot Search in Destroy
+2102082= Odstranjuje shranjene podatke iz predpomnilnika s SpyBot Search in Destroy.
+2102083= WinAce 2.0
+2102084= Odstranjuje zgodovino WinAce.
+2102085= Norton AntiVirus
+2102086= Odstranjuje dnevniške datoteke shranjene z Norton AntiVirus.
+2102087= Adobe Acrobat Reader 5.0
+2102088= Odstranjuje zgodovino PDF datotek, ki ste jih pregledovali z Adobe Acrobat 5.0.
+2102089= Adobe Acrobat Reader 6.0
+2102090= Odstranjuje zgodovino PDF datotek, ki ste jih pregledovali zAdobe Acrobat 6.0.
+2102091= XML Spy
+2102092= Odstranjuje zgodovino XML datotek, ki ste jih pregledovali z XML Spy.
+2102093= Installshield Developer 7.0
+2102094= Poèisti zgodovino odprtih datotek z Installshield Developer 7.0.
+2102095= Macromedia Homesite 5.0
+2102096= Poèisti zgodovino odprtih datotek z Macromedia Homesite 5.0.
+2102097= Ahead Nero Burning ROM
+2102098= Poèisti zgodovino odprtih datotek/map z Ahead Nero Burning ROM.
+2102099= ZipMagic
+2102100= Poèisti zgodovino datotek stisnjenih/razširjanih z ZipMagic.
+2102101= PicoZip
+2102102= Poèisti zgodovino datotek stisnjenih/razširjanih s PicoZip.
+2102103= Adobe Acrobat Reader 7.0
+2102104= Odstrani zgodovino PDF datotek, ki ste si jih ogledali s pomoèjo programa Adobe Acrobat 7.0.
+2102105= Adobe Reader 8.0
+2102106= Odstrani zgodovino PDF datotek, ki ste si jih ogledali s pomoèjo programa Adobe Acrobat 8.0.
+2102107= Adobe Reader 9.0
+2102108= Odstrani zgodovino PDF datotek, ki ste si jih ogledali s pomoèjo programa Adobe Acrobat 9.0.
+2102109= Adobe Reader 10.0
+2102110= Odstrani zgodovino PDF datotek, ki ste si jih ogledali s pomoèjo programa Adobe Acrobat 10.0.
+2102111= Adobe Reader 11.0
+2102112= Odstrani zgodovino PDF datotek, ki ste si jih ogledali s pomoèjo programa Adobe Acrobat 11.0.
+
+2102113= Opera - Zgodovina
+2102114= Odstrani zgodovino obiskanih spletnih strani s pomoèjo Opera.
+2102115= Opera - Piškotki
+2102116= Odstrani piškotke, shranjene v mapi predpomnilnika Opera.
+2102117= Opera - Internetni predpomnilnik
+2102118= Odstrani internetne datoteke iz predpomnilnika Opera.
+2102119= Opera - Shranjeni podatki obrazca 
+2102120= Odstrani podatke iz obrazca shranjene z Opera, ko ste izpolnili obrazce spletni strani.
+2102121= Opera - Zgodovina prenosov
+2102122= Odstranjuje sledi zadnjih prenešenih datotek v Upravitelju prenosov.
+
+2102123= Opera
+2102124= Odstrani zgodovino, nedavno uporabljene sezname(MRU seznami) in druge evidence spletnega brskalnika Opera.
+
+2103001= Oznaèi vse
+2103002= Odznaèi vse
+2103003= Oznaèi privzeto
+2103004= Odpri v RegEdit
+2103005= Dodaj na seznam Izkljuèi
+2103006= Upravitelj seznama prezrtih
+2103007= Danes izbrisano: %s postavka, skupaj: %s2.
+2103008= Danes izbrisano: %s postavk, skupaj: %s2.
+2103009= %s najdeno datotek, skupaj %s2.
+2103010= %s težav z zasebnostjo
+2103011= %s težava z zasebnostjo
+2103012= %s postavk podatkov, ki jih je treba odstraniti.
+2103013= Danes izbrisano: %s postavk, skupaj: %s2.
+2103014= Danes izbrisano: %s postavka, skupaj: %s2.
+2103015= %s najdeno postavk, %s2 izbrisanih postavk. 
+2103016= %s najdena postavka, %s2 izbrisana postavka. 
+2103017= Ni težav z zasebnostjo
+2103018= %s odpravljena težava z zasebnostjo
+2103019= %s odpravljenih težav z zasebnostjo 
+2103020= %s postavka(e) odstranjeno iz Windows registra. %s2 datotek(a) in %s3 postavke zbirke podatkov, ki bodo odstranjeni 
+2103021= Kliknite na 'Analiziraj' za pregled vašega sistema za težave z zasebnostjo.
+
+[Memory Optimizer]
+21001= Optimizer pomnilnika
+21901= V ozadju nadzoruje in optimizira nezaseden pomnilnik
+21002= Optimizacija
+21003= Roèna optimizacija
+21004= Graf uporabe fiziènega pomnilnika:
+21018= %s%(%s2 MB) od %s3 MB na voljo
+21005= Uporaba CPU
+21006= Doloèite kolièino pomnilnika, ki jo želite sprostiti, nato kliknite gumb 'Optimiziraj'.
+21007= Kolièina pomnilnika:
+21008= Optimiziraj
+21009= Poèisti Odložišèe
+21010= Trenutna velikost Odložišèa:
+21011= Omogoèi samodejno optimizacijo
+21012= Samodejno optimiziraj, ko je prostega pomnilnika:
+21013= Poveèaj prost pomnilnik za:
+21014= Optimiziraj le, èe je uporaba CPU pod :
+21015= Samodejno naloži ob zagonu Windows
+21016= Priporoèeno
+21017= Optimiziram...
+21019= Prikaži Glavno okno
+
+[File Shredder]
+22001= Rezalnik datotek
+22901= Trajna odstranitev datotek, tako da jih nihèe ne more obnoviti
+22002= Pripomoèek za unièenje obèutljivih podatkov, tako da jih ni mogoèe veè obnoviti ali videti. To orodje uporablja izredno varnostno metodo Dod 5220.22-M Ministrstva za obrambo ZDA, razvito za varno odstranitev podatkov.
+22003= Vrsta
+22012= Datum spremembe
+22004= Dodaj datoteke
+22005= Dodaj mapo
+22006= Odstrani zdaj
+22007= Ponovi operacijo brisanja:
+22008= Mapa datoteke
+22009= Odstranili boste vse izbrane podatke na seznamu. Ne boste mogli obnoviti teh datotek z uporabo orodij za obnovitev, ki jih morda imate. Ali ste preprièani, da želite nadaljevati?
+22010= Brišem
+22011= izbrisano
+22019= Trajno obriši nezaseden prostor
+22013= Kadar so datoteke izbrisane in spraznjene iz Koša le-te niso resnièno odstranjene s trdega diska. Datoteke lahko enostavno obnovite s programjem za obnovo podatkov. Za trajno brisanje teh datotek redno obrišite nezaseden prostor na trdem disku. Ta možnost povsem unièi podatke, ki ste jih izbrisali v Koš in jih ni veè možno obnoviti.
+22014= Izberite pogon, ki ga želite trajno poèistiti za poveèanje nezasedenega prostora :
+22015= Trajno obriši zdaj
+22016= Trajno brisanje nezasedenega prostora na %s
+22017= Operacijo je prekinil uporabnik.
+22018= Postopek je bil uspešno zakljuèen.
+22020= Izberite ciljno mapo:
+22021= Izberite disk.
+22022= Trajno obriši MFT Nezaseden prostor - Pogon %s
+
+[Internet Explorer Assistant]
+23001= Pomoènik za brskanje
+23901= Upravlja z dodatki Internet Explorerja in obnovi 'ugrabljene' nastavitve
+23002= IE BHOs
+23003= Orodne vrstice IE
+23004= Vrstice IE Explorerja
+23005= Posebni vsebinski meniji IE
+23006= Posebni gumbi IE
+23007= IE preneseni ActiveX
+23008= Obnovitev 'ugrabitve' (Hijack)
+23009= [Blokirano]
+23010= Založnik
+23011= Pot do datoteke
+23012= Ukaz
+23013= Blokiraj to postavko
+23014= Odblokiraj to postavko
+23015= Trajno odstrani to postavko
+23016= Ali ste preprièani, da želite obnoviti %s ?
+23017= Ali ste preprièani, da želite blokirati %s v Internet Explorer-ju?
+23018= Ali ste preprièani, da želite trajno odstraniti %s iz Internet Explorer-ja?
+23019= Opozorilo, datoteka manjka
+23020= Browser Helper Objekti
+23021= Orodne vrstice Internet Explorer-ja
+23022= Vrstice Internet Explorer-ja
+23023= Posebni vsebinski meni Internet Explorerj-a
+23024= Poseben gumb Internet Explorer-ja
+23025= Prenešeni ActiveX programi
+23026= Poškodovan
+23027= Namešèen
+
+23028= Nastavitev
+23029= Trenutna nastavitev
+23030= Obnovi nastavitev v
+23031= Spremenite obnovljeno nastavitev na nov URL...
+23032= Obnovi
+23033= IE privzeto
+23034= Ali ste preprièani, da želite obnoviti izbrane nastavitve?
+23035= %s nastavitev brskalnika Internet Explorerj-a je bilo uspešno spremenjeno.
+23036= Spremeni nastavitev obnovitve Internet Explorer-ja
+23037= Spremeni nastavitev obnovitve Internet Explorer-ja za %s. URL naslov v spodnjem polju je privzet URL naslov Internet Explorer-ja za njegove nastavitve. Lahko vnesete katero koli drugo stran ali URL naslov v tem podroèju, ki ni privzeta.
+23038= Zaèetna stran
+23039= To je URL naslov spletne strani, ki bo prikazan ob odprtju novega okna brskalnika Internet Explorer.
+23040= Iskalna stran
+23041= To je privzet iskalnik kadar kliknete gumb 'Poišèi' v Internet Explorerju.
+23042= URL privzete strani
+23043= To je URL naslov privzete spletne strani, ki jo uporablja Internet Explorer.
+23044= Lokalna stran
+23045= To je stran, ki se bo naložila, èe iskana spletna stran ne bo najdena, ko vnesete njen URL naslov v naslovno vrstico Internet Explorerja.
+23046= Iskalna vrstica
+23047= To je stran, ki bo prikazana kadar kliknite na ikono 'Poišèi' v Internet Explorerju.Iskalna vrstica omogoèa sposobnost za shranjevanje podrobnih informacij.
+23048= Privzeti URL naslov za iskanje
+23049= To je stran, ki bo prikazana, ko Internet Explorer poskuša izvesti iskanje.
+23050= Zaèeta stran (vsi uporabniki)
+23051= To je stran, ki bo prikazana, ko se odpre novo okno brskalnika Internet Explorer.
+23052= Iskalna stran (vsi uporabniki)
+23053= To je privzeti iskalnik, kadar kliknite gumb 'Poišèi' v Internet Explorerju. Ta nastavitev velja za vse uporabnike tega raèunalnika.
+23054= URL naslov privzete strani (vsi uporabniki)
+23055= To je privzet URL naslov spletne strani uporabljen za Internet Explorer. Ta nastavitev velja za vse uporabnike tega raèunalnika.
+23056= Lokalna stran (vsi uporabniki)
+23057= To je stran, ki bo naložena, èe ni najdena spletna stran kadar jo vpišete v naslovno vrstico Internet Explorerja. Ta nastavitev velja za vse uporabnike tega raèunalnika.
+23058= Iskalna vrstica(vsi uporabniki)
+23059= To je stran, ki bo prikazana kadar Kliknite na ikono 'Poišèi' v Internet Explorerju. Iskalna vrstica omogoèa sposobnost za shranjevanje podrobnih informacij. Ta nastavitev velja za vse uporabnike tega raèunalnika.
+23060= Privzet URL naslov za iskanje (vsi uporabniki)
+23061= To je stran, ki bo prikazana, ko Internet Explorer poskuša iskanje. Ta nastavitev velja za vse uporabnike tega raèunalnika.
+23062= Iskanje po meri (vsi uporabniki)
+23063= To je stran, ki bo prikazana v iskalnem polju Internet Explorerja, ko zaženete prilagojeno iskanje. Pomoènik za iskanje uporabnikom zagotavlja enotno iskanje po razliènih vrstah iskanja. Ta nastavitev je za VSE uporabnike tega raèunalnika.
+23064= Pomoènik za iskanje (vsi uporabniki)
+23065= To je Pomoènik za iskanje, prikazan v Internet Explorerju. Pomoènik za iskanje uporabnikom zagotavlja enotno iskanje po razliènih vrstah iskanja. Ta nastavitev je za VSE uporabnike tega raèunalnika.
+23066= Poišèi URL naslov
+23067= Išèi URL naslove so priroèen naèin za uporabo razliènih spletnih iskalnikov. Na primer, lahko imate iskalni URL imenovan novice, ki išèe spletne novièarske skupine. Èe vnesete kljuène besede v naslovni vrstici samodejno iskanje spletnih novièarskih velja skupin za VSE izdelke, povezane s temi kljuènimi besedami.
+23068= Poišèi URL naslov (vsi uporabniki)
+23069= Išèi URL naslove so priroèen naèin za uporabo razliènih spletnih iskalnikov. Na primer, lahko imate iskalni URL imenovan novice, ki išèe spletne novièarske skupine. Èe vnesete kljuène besede v naslovni vrstici samodejno iskanje spletnih novièarskih velja skupin za VSE izdelke, povezane s temi kljuènimi besedami. To velja za VSE uporabnike tega raèunalnika.
+23070= Prazna stran
+23071= Stran ni mogoèe prikazati - ta stran bo prikazana v Internet Explorerju, ko ne morete najti spletno stran ali stran.
+23072= Ni uspela navigacija namizja
+23073= Ta stran v Internet Explorerju bo prikazana, èe raèunalnik nima dostopa do interneta.
+23074= Navigacija je preklicana
+23075= Ta stran v Internet Explorerju bo prikazana, ko preklièete navigacijo.
+23076= Ni uspela navigacija
+23077= Ta stran v Internet Explorerju bo prikazana, èe vaš raèunalnik nima dostopa do interneta.
+23078= Informacije brez povezave
+23079= Ta stran v Internet Explorerju bo prikazana, èe vaš raèunalnik nima dostopa do interneta ali spletna stran ni na voljo brez povezave.
+23080= Objava ni predpomnjena
+23081= Opozorilo: Stran je potekla - To je opozorilna stran, ko Internet Explorer ne more prebrati vsebine iz svojega predpomnilnika.
+23100= Ali ste preprièani, da želite trajno odstraniti izbrane postavke?
+23101= Vtièniki
+23102= Razširitve
+23103= Iskalniki
+23104= Zgodovine
+23105= Piškotki
+23106= Naslov
+23107= Števec obiskov
+23109= Osnovna domena
+23110= kljuè gostitelja
+23111= Kljuèna beseda
+23117= Ali ste preprièani, da želite blokirati %s in mozilla firefox?
+23118= Are you sure you want to permanently remove %s v mozilla firefox?
+23121= Mozilla Firefox vtièniki
+23122= Mozilla Firefox Razširitve
+23123= Mozilla Firefox Iskalniki
+23124= Mozilla Firefox zgodovine
+23125= Mozilla Firefox piškotki
+23126= Mozilla Firefox Domaèa stran
+23131= Google Chrome vtièniki
+23132= Google Chrome Razširitve
+23133= Google Chrome Iskalniki
+23134= Google Chrome zgodovine
+23135= Google Chrome piškotki
+23136= Google Chrome Domaèa stran
+23141= Premakni gor
+23142= Premakni dol
+23143= Dodaj stran
+23144= Odstrani stran
+23146= Glavna stran Vnos
+23147= Vnesi novo Domaèo stran za %s brskalnik.
+23149= Pregledovalnik
+23150= To je zelo priporoèljivo, da zaprete\n\n %s \n\nbpreden nadaljujete, pomoènik brskalnika ne more pravilno delovati.
+23151= %s postavke so bile trajno odstranjene
+23152= Operacija ni uspela, poskusite znova ko zaprete %s brskalnik
+23153= uporabnik preklical operacijo
+23154= Pogovorno okno napredka brisanja postavk
+23155= Odstrani postavke
+23217= Ali ste preprièani, da želite blokirati %s v Google Chrome?
+23218= Ali ste preprièani, da želite trajno odstraniti %s v Google Chrome?
+
+[Process Manager]
+24001= Upravitelj procesov
+24901= Nadzoruje delujoèe procese in jih po izbiri ustavi.
+24002= Nova opravila(Zaženi...)
+24003= Izhod iz Windows
+24004= Ponovni zagon raèunalnika
+24005= Zaustavitev sistema
+24006= Konèaj proces
+24007= Blokiraj proces
+24008= Blokiraj seznam
+24009= Poišèi na Google
+24010= Komentirajte
+24011= Podrobnosti
+24012= Ime
+24013= Ocena
+24014= Izvršljiva
+24015= Prioriteta
+24016= Niti
+24017= CPU
+24018= Èas CPU
+24019= Pomnilnik
+24020= Podjetje
+24021= Zagnan
+24022= Procesi
+24023= Nastavi prioriteto
+24024= V realnem èasu
+24025= Visoka
+24026= Nad obièajna
+24027= Obièajna
+24028= Pod obièajna
+24029= Nizka
+24030= Opozorilo: Sprememba razreda prioritete tega procesa lahko povzroèi neželjene rezultate vkljuèno z nestabinostjo sistema. Ali ste preprièani, da želite spremeniti razred prioritete?
+24031= Splošne informacije
+24032= Uporabljeni moduli
+24033= Podatki
+24034= Vrednost
+24035= Informacije o procesu
+24036= ID
+24037= Datoteka
+24038= Argumenti
+24039= Mapa
+24040= Niti
+24041= Prioriteta
+24042= Uporaba pomnilnika
+24043= Zagnan ob
+24044= Zagnan z
+24045= Informacije o razlièici
+24046= Vrsta datoteke
+24047= Podjetje
+24048= Opis
+24049= Razlièica
+24050= Notranje ime
+24051= Avtorske pravice
+24052= Blagovna znakmka
+24053= Originalno ime datoteke
+24054= Ime izdelka
+24055= Razlièica izdelka
+24056= Komentarji
+24137= Varno
+24139= Tvegano
+24057= Ali res želite prekiniti proces %s?
+24058= Ali res želite blokirati proces %s?
+24059= Ali želite zdaj ponovno zagnati vaš raèunalnik?
+24060= Ali želite zdaj zaustaviti vaš raèunalnik?
+24061= Zagnani procesi:
+24062= Uporaba CPU:
+24063= Uporaba pomnilnika:
+24064= Sistemska storitev
+24065= Zamenjaj Upravitelja opravil
+24066= Vedno na vrhu
+
+[Context Menu Manager]
+25001= Upravitelj kontekstnih menijev
+25901= Upravlja z vnosi kontekstnih menijev datotek, map...
+25002= Datoteke & Mape
+25003= Nova
+25004= Pošlji v
+25005= Kliknite na potrditveno polje, da ga omogoèite ali onemogoèite. Za trajno odstranitev kliknite na spodnji gumb '%s'.
+25006= Ni najdeno
+25007= Ali ste preprièani, da želite trajno odstraniti '%s'?
+25008= Vse datoteke(*)
+25009= Mape
+25010= Imeniki
+25011= Pogoni
+25012= Mape z glasbo
+25013= Mape z video
+25014= Mape s slikami
+25015= Vsi objekti datoteènega sistema
+25016= Moj raèunalnik
+25017= Koš
+25018= Ozadje
+25019= Bližnjice
+
+[File Encrypter and Decrypter]
+27001= Šifrirnik datotek
+27901= Zašèiti vaše datoteke pred nepooblašèenim dostopom in uporabo.
+27002= Šifriraj datoteko
+27003= Dešifriraj datoteko
+27004= Izberite datoteko, ki jo želite šifrirati:
+27005= Geslo za šifriranje:
+27006= Preveri geslo:
+27007= Namig za geslo(uganka):
+27008= Ustvari samodejno dešifrirno EXE datoteko(Uporabniški vmesnik bo v anglešèini)
+27009= Izbriši originalno datoteko po uspešnem šifriranju
+27010= Šifriraj zdaj!
+27011= Izberite datoteko, ki jo želite dešifrirati:
+27012= Geslo za dešifriranje:
+27013= Namig za geslo
+27014= Razširi v:
+27015= Odpri ciljno mapo po uspešnem dešifriranju
+27016= Dešifriraj zdaj!
+27017= Kliknite gumb 'Prebrskaj' za izbor datoteke, ki jo želite šifrirati!
+27018= Izbrana datoteka ne obstaja. Izberite drugo.
+27019= Vpišite geslo dolžine med 6 in 16 znakov!
+27020= Vnesite enako geslo v oba poljas!
+27021= Naslednja datoteka že obstaja. Naj prepišem èez njo?
+27022= Datoteka je bila uspešno šifrirana v %s.
+27023= Šifrirane datoteke
+27024= Izbrana datoteka ni šifrirana s tem programom. Izberite drugo.
+27025= Kliknite gumb 'Prebrskaj' za izbor datoteke, ki jo želite dešifrirati!
+27026= Izbrana datoteka ne obstaja. Izberite drugo.
+27027= Izberite mapo kamor želite postaviti obnovljeno datoteko.
+27028= Ne morem ustvariti ciljno mapo %s
+27029= Datoteka %s že obstaja. Naj prepišem èez njo?
+27030= Datoteka je uspešno šifrirana v %s.
+27031= Nepravilno geslo. Poskusite znova.
+27032= Izberite mapo kamor želite postaviti obnovljeno datoteko.
+27033= Operacija ni uspela. Poskusite znova.
+27034= Poteka šifriranje. To lahko traja nekaj trenutkov, zato bodite potrpežljivi.
+27035= Poteka dešifriranje. To lahko traja nekaj trenutkov, zato bodite potrpežljivi.
+27036=Ta datoteka je bila šifrirana s starejšo razlièico programa za dešifriranje. Ali želite prenesti staro razlièico programa za dešifriranje?
+27037=Šifrirana datoteka je shranjena v:
+27038=Izberite mapo kamor želite postaviti šifrirano datoteko.
+27039=Ciljna mapa ne obstaja. Ali jo želite ustvariti?
+27040=Odpri ciljno mapo po uspešnem šifriranju
+27041=Dodaj datoteke
+27042=Podprto je 'povleci in spusti datoteko'.
+27043=Želite odstraniti lokalne datoteke?
+27044=Status
+27045=Napredek
+27046=Šifriraj datoteko
+27047=Pripravljen
+27048=Èakam...
+27049=Šifriram...
+27050=Šifriranje je bilo uspešno.
+27051=Izvirna datoteka ne obstaja ali je brisana.
+27052=Ciljna datoteka že obstaja.
+27053=Ne morem brisati izvirno datoteko.
+27054=Kliknite gumb 'Dodaj datoteke' za izbor datoteke, ki jo želite šifrirati ali povlecite datoteko na seznam za šifriranje.
+27055=Èe ne želite šifrirati to datoteko, izberite drugo in poskusite znova.
+27056=Odstrani datoteke
+27057= Oznaèi vse
+27058= Niè ne oznaèi
+27059= Obrni oznaèbo
+27060= Odstrani izbran vnos
+27061= Ali želite odstraniti izbranih %s datotek s seznama za šifriranje?
+
+[File Splitter in Joiner]
+28001= Razdelilnik datotek
+28901= Razdeli velike datoteke v majhne, bolj upravljive datoteke, in jih znova združi.
+28002= Razdeli datoteko
+28003= Združi datoteko
+28004= Izberite datoteko, ki jo želite razdeliti v manjše datoteke
+28005= Vnesite pot do ciljne mape kamor boste postavili razdeljeno datoteko
+28006= Doloèite najveèjo velikost posamiènih majhnih datotek, ki bodo ustvarjene
+28007= Floppy disk (1.44MB)
+28008= 100MB Zip(TM) disk
+28009= 1GB Jaz(TM) disk
+28010= 4.7GB Single-layer DVD
+28011= Uporabniško doloèena velikost datoteke
+28012= Ustvajenih bo %s majhnih kosov posamiènih datotek.
+28013= Dodaj možnost samozdruževanja v nabor razdeljenih datotekt
+28014= Razdeli zdaj!
+28015= Izberite eno od datotek, ki jih želite ponovno sestaviti v prvotno datoteko. Lahko izberete eno od datotek, druge pa bodo samodejno vkljuèene.
+28016= Informacije o naboru kosov:
+28017= Vnesite pot do ciljne mape kamor boste postavili obnovljeno datoteko.
+28018= Združi zdaj!
+28019= Ne morem ustvariti datoteko %s
+28020= Ne morem odpreti datoteko %s
+28021= Kliknite gumb 'Prebrskaj' za izbor datoteke, ki jo želite razdeliti v manjše kose datotek!
+28022= Datoteka ne obstaja! Kliknite gumb 'Prebrskaj' za izbor datoteke, ki jo želite razdeliti v manjše kose datotek!
+28023= Izbrana datoteka je že manjša od najveèje velikosti.
+28024= Kliknite gumb 'Prebrskaj' za izbor ciljne mape!
+28025= Ne morem ustvariti ciljno mapo %s
+28026= Ni dovolj prostora na ciljnem disku %s
+28027= Datoteka je uspešno razdeljena v %s. Originalna datoteka ni bila brisana.
+28028= Izberite mapo kamor želite postaviti razdeljeno datoteko
+28029= Razdeljene datoteke
+28030= Ime datoteke:
+28031= Velikost:
+28032= Število kosov:
+28033= Izbrana datoteka ni del iz deljenih datotek. Izberite drugo.
+28034= Ni bilo mogoèe najti naslednji del datoteke:
+28035= Datoteka že obstaja! Naj prepišem èez obstojeèo datoteko?
+28036= Originalna datoteka je uspešno sestavljena.
+28037= Izberite mapo kamor želite postaviti obnovljeno datoteko.
+28038= Operacija ni uspela. Poskusite znova.
+28039= Delitev datoteke je v teku. To lahko traja nekaj trenutkov, zato bodite potrpežljivi.
+28040= Združitev datoteke je v teku. To lahko traja nekaj trenutkov, zato bodite potrpežljivi.
+28041= Dodana je bila ta mapa.
+
+[1-Click Maintenance]
+29001= Vzdrževanje z 1-klikom
+29601= Èistilec Registra
+29602= Popravilo bližnjic
+29603= Upravitelj zagonov
+29604= Èistilec zaèasnih datotek
+29605= Odstranjevalec sledi
+29606= Odstranjevalec vohunov
+
+10603= Popravi neveljavne ali nepravilne vnose v Registru
+10605= Poèisti neveljavne bližnjice
+10607= Poèisti nevarne zagonske vnose
+10609= Poèisti zaèasne datoteke in obnovi prostor na diskih
+10611= Odstranjuje zgodovino vaše aktivnosti in spletne sledi
+10613= Odstranjuje vohunske in adware programe
+10614= Analiziram...
+10615= Podrobnosti
+10616= Preišèi raèunalnik
+10617= Ni najdenih težav.
+10618= 1 najdena težava.
+10619= %s najdenih težav.
+10620= %s najdenih datotek.
+10621= Ni najdenih datotek.
+10622= %s izbranih sledi
+10623= 1 izbrana sled.
+10624= Ni izbranih sledi.
+10625= Analiziram...
+10626= Klik gumb 'Popravi težave' za nadaljevanje.
+10627= Popravi težave
+10628= Razrešene težave.
+10629= Obnovljen prostor.
+10630= Sledi so odstramjene.
+10631= Popravljam...
+10632= Èistim...
+10633= Brišem...
+10634= %s popravljenih težav.
+10635= %s odstranjenih sledi.
+10636= %s povrnjeniih.
+10637= Izberite datoteke, ki jih želite brisati.
+10638= Pregled datotek
+10639= Skupaj %s datotek, %s2 nadomestljivih.
+10640= Izberite sledi, ki jih želite odstraniti.
+10641= Izberite registrske vnose, ki jih želite popraviti. Kliknite na vnos z desnim gumbom miške, da vidite dodatne možnosti.
+10645= Izberite bližnjice, ki jih želite brisati. Kliknite na vnos z vašim desnim gumbom miške, da vidite dodatne možnosti.
+10642= Izberite zagonske, ki jih želite brisati.
+10644= Izberite vnose, ki jih želite brisati.
+10643= Preklièi Vzdrževanje z 1-klikom
+10646= Ponovi pregled
+10647= Gumb 'Popravi težave' za nadaljevanje. Gumb 'Ponovi pregled' za ponovno iskanje.
+
+[Glary Undelete]
+31001= Obnovi brisane datoteke
+31901= Hitro na uèinkovit naèin za obnovitev pomotoma izbrisanih datotek
+31002= Poišèi
+31003= Filter
+31004= Mape
+31005= Vrste datotek
+31006= Ime
+31007= Stanje
+31008= Originalna pot
+31009= Velikost
+31010= Vrsta
+31011= Zadnja sprememba
+31012= Obnovi
+31013= Pregledujem pogone. Poèakajte, prosim...
+31014= Izberi mapo za iskanje:
+31015= Zelo dobro
+31016= Dobro
+31017= Srednje
+31018= Slabo
+31019= Prepisano
+31020= Izberite ciljno mapo:
+31021= Obnovitev na isti pogon lahko zmanjša možnost uspešne obnovitve. Ali ste preprièani, da želite nadaljevati?
+31022= že obstaja v mapi %s. Ali ste preprièani, da želite prepisati žez njo?
+31023= že obstaja v mapi %s. Ali ste preprièani, da želite prepisati žez njo?
+31024= Filter: VKLJ.
+31025= Filter: IZKLJ.
+31026= Najdeno: %s, Izbranih vnosov: %s2
+31027= Išèem
+31028= Trenutni napredek: %s%, %s2 najdenih datotek.
+31029= Ni možen zaèetek pregleda: %s
+31030= Obnavljam %s..., %s2 obnovljenih datotek.
+31031= Ni možno ustvariti datoteko %s
+31032= Po imenu datotek
+31033= Vse ali del imena datoteke. Lahko uporabite maske, npr., *.doc
+31034= ? Ujemanje enega od èesarkoli
+31035= * Ujemanje ene številke od èesarkoli
+31036= Po velikosti
+31037= Veè kot
+31038= Manj kot
+31039= Po datumu
+31040= Iz
+31041= v
+31042= Po stanju
+31043= Vse vrste
+
+31044= Predogled ni na voljo
+31045= Predogled
+31046= Klikni za poveèavo
+31047= Klikni za zapretje
+31048= Lokalni disk
+
+[Registry Defrag]
+32001= Defragmenter Registra
+32901= Defragmentira Register Windows za pospešitev raèunalnika
+32002= Defragmenter Registra
+32003= Register Windows lahko postane razdrobljen v daljšem èasovnem obdobju in zaradi tega zasede veè prostora na trdem disku, kot jeto potrebno ter podaljšuje èas zagona. Defragmenter Registra stisne in optimizira Register Windows z odpravo vrzeli in po neuporabnem zapravljenega prostora. To lahko moèno izboljša delovanje raèunalnika.
+32004= - zmanjša razdrobljenost
+32005= - odpravi strukturne napake
+32006= - obnovi neuporabljen pomnilniški prostor
+32007= Kliknite gumb 'Naprej' za analizo obsega razdobljenosti.
+32008= Velikost po otimizaciji:
+32009= Razlika v velikosti:
+32010= Defragmenter Registra lahko zmanjša velikost Registra za %s
+32011= Kliknite gumb 'Naprej' za zaèetek defragmentacije (Potreben je ponovni zagon PC). Kliknite gumb 'Preklièi', èe noèete optimizirati vaš Register ali, èe ga želite optimizirati kasneje.
+32012= Defragmenter Registra je ugotovil, da defragmentacija ni potrebna Trenutno. Priporoèljivo je, da defragmentirate Register Windows vsaj enkrat na mesec.
+32013= Kliknite gumb 'Zapri' za zapustitev programa
+32014= POZOR: Defragmenter zahteva, da v èasu analize Registra ni zagnan noben drug program.
+32015= Shranite svoje delo in zaprite delujoèe programe, preden nadaljujete.
+32016= Onemogoèite protivirusni program v èasu analize. Ponavadi požarni zid ni treba, da je onemogoèen.
+32017= Po tem, ko ste zaprli VSE druge programe, kliknite gumb 'V redu' za nadaljevanje.
+32018= Defragmentacija ni možna, ker je del Registra zašèiten pred spremembami. Èe želite odpraviti to težavo, lahko zaprete VSE izvajajoèe programe, onemogoèite protivirusno zašèito in anti-spyware in poskusite znova. Ne pozabite znova omogoèiti protivirusno in protivohunsko zašèito po defragmentaciji Registra.
+32019= Opozorilo: Znova morate zagnati raèunalnik za dokonèanje optimizacije.
+32020= Ali želite zdaj optimizirati?
+32021= Analiziram Register
+32022= Poèakajte, prosim...
+32023= Vaš raèunalnik se morda ne bo odzival nekaj minut dokler analiza ne bo konèana. Laho ustavite pregled s pritiskom na tipko 'Esc'...
+32024= Register Windows je uspešno optimiziran.
+
+[System Information]
+33001= Informacije o sistemu
+33901= Zbere informacije o vaši strojni in programski opremi
+33002= Ustvari poroèilo
+33003= Ustvari poroèilo(VSE)
+33004= Predogled
+33005= Operacijski sistem
+33006= Sistemske naprave
+33007= Pomnilnik
+33008= Pogoni
+33009= Grafièna kartica
+33010= Omrežje
+33011= Druge naprave
+33012= Splošno
+33013= Procesor
+33014= Matièna plošèa
+33015= Razlièica Windows
+33016= Datum namestitve
+33017= Grafièna kartica
+33018= Monitor
+33019= Video kartica
+33020= Vhod
+33021= Miška
+33022= Tipkovnica
+33023= Diskovni pogon
+33024= DVD/CD-ROM pogon
+33025= Lastnosti operacijskega sistema
+33026= Naziv OS
+33027= Jezik OS
+33028= Razlièica OS
+33029= Registriran lastnik
+33030= Registrirana organizacija
+33031= ID izdelka
+33032= Kljuè izdelka
+33033= Datum namestitve OS
+33034= Koren OS
+33035= Tekoèa seja
+33036= Ime raèunalnika
+33037= Uporabniško ime
+33038= Prijavna domena
+33039= Èas delovanja
+33040= Razlièica komponent
+33041= Internet Explorer
+33042= Windows Media Player
+33043= DirectX
+33044= Sistemske mape
+33045= Mape v skupni rabi
+33046= Matièna plošèa
+33047= Naziv matiène plošèe
+33048= Proizvajalec matiène plošèe
+33049= Lastnosti BIOS
+33050= Razlièica BIOS
+33051= Datum sistemskega BIOS-a
+33052= Datum Video BIOS-a
+33053= Lastnosti CPU
+33054= Identifikacija CPU
+33055= Generièno ime CPU
+33056= Prodajalec CPU
+33057= Serijska številka
+33058= Takt CPU
+33059= L1 predpomnilnik kode
+33060= L1 predpomnilnik kode
+33061= L2 predpomnilnik
+33062= Vtiènica CPU
+33063= Jedro na paket
+33064= Logièno na jedro
+33065= Podrobnosti konfiguracije
+33066= Uporaba CPU
+33067= Zgodovina uporabe CPU
+33068= Fizièni pomnilnik
+33069= Navidezni pomnilnik
+33070= Skupaj pomnilnika
+33071= Prost pomnilnik
+33072= Zaseden pomnilnik
+33073= Izbran pomnilnik
+33074= Aplikacija
+33075= Uporaba pomnilnika
+33076= Pot
+33077= Podrobnosti o pogonu
+33078= Èrka pogona
+33079= Vrsta naprave
+33080= Serijska številka
+33081= Datoteèni sistem
+33082= Skupaj Bytov
+33083= Na voljo Bytov
+33084= Uporabljeno Bytov
+33085= Datoteèni sistem
+
+33086= Omogoèeno stiskanje datotek
+33087= Pogon je stisnjen
+33088= Omogoèena je dolga datoteka
+33089= Omogoèeno je Unicode ime datoteke
+33090= Šifriran datoteèni sistem
+
+33091= Logiène informacije
+33092= Število grozdov
+33093= Grozdov na voljo
+33094= Uporabljeno grozdov
+33095= Bytov na grozd
+33096= Sektorjev na grozd
+33097= Uporabljeno sektorjev
+33098= Sektorjev na voljo
+
+33099= Podrobno o konfiguraciji
+33100= Bytov na sektor
+33101= Skupaj sektorjev
+
+33102= Skupaj Prostor na diskih
+33103= Nezaseden prostor na diskih
+33104= Uporabjen prostor na diskih
+
+33105= Lastnosti video kartice
+33106= Opis naprave
+33107= Niz kartice
+33108= Niz BIOS-a
+33109= Vrsta èipa
+33110= Vrsta DAC
+33111= Datum gonilnikov
+33112= Razlièica gonilnikov
+33113= Proizvajalev gonilnikov
+33114= Velikost pomnilnika
+
+33115= Lastnosti monitorja
+33116= Ime monitorja
+33117= Model
+33118= Datum izdelave
+33119= Serijska številka
+33120= Najv. velikost vidnega prikaza
+33121= Gamma
+
+33122= Podprt video model
+
+33123= Opis omrežne kartice
+
+33124= Lastnosti omrežne kartiece
+33125= Omrežna kartica
+33126= Vrsta vmesnika
+33127= Strojni naslov
+33128= Ime povezave
+33129= Hitrost povezave
+33130= MTU
+33131= Prejeto bajtov
+33132= Poslano bajtov
+
+33133= Naslov omrežne kartic
+33134= IP/Maska Subneta
+33135= Prehod
+33136= DNS
+
+33137= Prejeto podatkov
+33138= Poslano podatkov
+
+33139= Zvoène naprave
+33140= Vrata
+33141= USB
+33142= USB krmnilnik
+33143= Tiskalniki
+
+33144= Ime
+33145= Vrednost
+
+33148= Sistemske mape
+33149= Mape v skupni rabi
+33150= Desni klik na mapo za njeno odprtje v Windows Explorer-ju
+33151= Odpri mapo
+33152= Lastnosti
+33153= SEK
+33154= (%s ur %s2 minut %s3 sekund)
+
+33155= OS Tip
+33156= %s bit
+
+[GLARYUTILITIES]
+1001001= Obnovi
+1001002= Povratna informacija
+1001003= Pomanjšaj
+1001004= Razlièica:
+1001005= Všeè mi je
+
+[OVERVIEW]
+1002001= Predogled
+1002002= Vklopi samodejno vzdrževanje
+1002003= Odstrani sledi zasebnosti ob zaustavitvi sistema
+1002004= Preveri za posodobitve ob zagonu programa
+1002005= Vklopi globinsko èišèenje in popravilo
+1002006= Èas zagona sistema Windows
+1002007= Onemogoèi neuporabne zagone programov za hitrejši dvig sisema Windows
+1002008= Upravitelj zagonov
+1002009= Uporabljate %s
+1002010= Posodobi zdaj
+1002011= Deli èas zagona sistema
+1002012= Ur
+1002013= Minut
+1002014= Sekund
+1002015= Izberi sledi
+1002016= Licenciral:
+1002017= Upravitelj licenc
+1002018= Potekla
+1002019= Samodejno preveri za posodobitve programske opreme
+1002020= Rezultati po meri
+
+[ONECLICK]
+1003001= Popravilo diskov
+1003002= Defragmentiraj register
+1003003= Imunizacija pred škodljivimi programi
+1003004= Optimizacija sistema
+1003005= Defragmentiraj trde diske
+
+[ADVANCED TOOLS]
+1004001= Napredna orodja
+1004002= Register Windows
+1004003= Popravilo
+1004004= Defragmentiraj
+1004005= Varnostna kopija
+1004006= Obnovi
+
+1004007= Prostor na diskih
+1004008= Èišèenje
+1004009= Odstrani podvojene
+1004010= Odstrani prazne mape
+1004011= Odstrani prekinjene bližnjice
+1004012= Razišèi diske
+
+1004013= Sistemski dodatki
+1004014= Sistemski dodatki
+1004015= Optimiziraj zagon sistema
+1004016= Sprosti pomnilnik
+1004017= Pohitri splet
+1004018= Turbo naèin
+
+1004019= Zasebnost
+1004020= Odstrani zgodovino
+1004021= Rezalnik datotek
+1004022= Trajno obriši nezaseden prostor
+1004023= Šifriranje datotek
+
+1004024= Gonilniki
+1004025= Varnostna kopija
+1004026= Obnovi
+1004027= Odstrani
+1004028= Preveri za posodobitve
+
+1004029= Upravljanje datotek
+1004030= Razdeli datoteke
+1004031= Obnovi izbrisane datoteke
+1004032= Hitro iskanje
+
+1004033= Trdi diski
+1004034= Defragmentiraj
+1004035= Defragmentiraj zagon sistema
+1004036= Poišèi napake
+
+1004037= Nadzor sistema
+1004038= Zagonske postavke
+1004039= Storitve
+1004040= Naèrtovana opravila
+1004041= Kontekstni meniji
+1004042= Procesi
+1004043= Pomoènik brskalnika
+
+1004044= Status sistema
+1004045= Informacije o sistemu
+1004046= Varnostna kopija vašega raèunalnika
+1004056= Popravilo sistemskih datotek
+1004047= Obnovitev sistema
+1004048= Razveljavi spremembe
+ 
+1004049= Prepreèevanje škodljivih programov
+1004050= Odstrani škodljive programe
+1004051= Imuniziraj raèunalnik
+
+1004052= Programi
+1004053= Odstrani
+1004054= Poišèi posodobitve
+1004055= Najdi veè programov
+1004057=
+
+[QUICKLAUNCHBAR]
+1005001= Kliknite na +/- èeželite dodati ali odstraniti ikono v opravilni vrstici
+1005002= Že obstaja tukaj
+1005003= Ni zadosti prostora v opravilni vrstici. Lahko odstranite eno s klikom na '-'.
+1005004= Ni zadosti prostora v opravilni vrstici. Ikono lahko odstranite tako, da jo povleèete iz opravilne vrstice.
+
+[SKINSCENTER]
+1006001= Središèe za preobleke
+1006002= Knjižnica slik
+1006003= Polne barve
+1006004= Ta datoteka že obstaja, jo prepišem?
+1006005= Vse podprte datoteke
+1006006= Po meri
+
+1007001= Vaša poskusna licenca je potekla.
+1007002= kliknite to sporoèilo za aktiviranje Glary Utilities Pro zdaj.
+1007003= Your license has expired. 
+1007004= kliknite to sporoèilo za reaktiviranje Glary Utilities Pro zdaj.
+
+[CHECKDISK]
+2400001= Preveri Disk
+2401001= Izberite disk za pregled
+2401002= Samodejno odpravi napake datoteènega sistema
+2401003= Preglej in poskusi popraviti slabe sektorje
+2401004= Preveri Disk
+2401010= Ime pogona
+2401011= Zadnja analiza
+2401012= Status
+2401013= Analiziraj
+2401014= Poroèilo
+2401015= Pripravljen
+2401016= Potrebno je preverjanja napak
+2401017= Preverjam %s
+2401018= Preverjanje diska je prekinjeno
+2401019= Najdene so napake
+2401020= Ni najdenih napak
+2401021= Napaka preverjanja diska
+2401022= Skrij podrobnosti
+2401023= Prikaži podrobnosti
+2401024= Preveri Disk preverja vaše pogone in napake datoteènega sistema.
+2401025= Odkrite napake bodo samodejno odpravljene, da se prepreèi izguba podatkov.
+2401026= Možnosti
+;2401027= Samodejno popravi napake sistemskih datotek
+;2401028= Iskanje in poskus popravka slabih sektorjev
+2401029= Zaèni
+2401030= Ustavi
+2401031= Preverjanje diskov v naèrtovanem èasu ni uspelo!
+2401032= Preveri Disk je naèrtovano na èas naslednjega zagona raèunalnika.
+2401033= Preveri Disk je preskoèeno.
+2401034= Preveri Disk je preklicano.
+2401035= Preveri Disk je prekinjeno.
+2401036= Prverjanje napak na diskih je konèano. Ni najdenih napak.
+2401037= Preveri Disk je našel %s napak na disku, kot sledi:
+
+2403001= Preverjam disk %s
+2403002= Opravi za naslednjih %s konfliktov
+2403003= Preskoèeno bo v %s sekundah.
+
+2405001= Funkcija ni najdena.
+2405002= Preverjanje diska je naletelo na napako. Potreben je ponovni zagon aplikacije.
+2405003= Preverjam datoteèni sistem na %s
+2405004= Vrsta datoteènega sistema je %s.
+
+2406001= Shrani poroèilo
+
+2407001= Rezultat
+2407002= Urnik preverjanja diskov
+2407003= Ponovno zaženi raèunalnik zdaj
+2407004= Prikaži poroèilo
+2407005= Sistem Windows bo popravil disk ob naslednjem zagonu.
+
+2408001= Windows ne more preveriti diska med uporabo!
+2408002= Prisilno izpni disk\nAli želite najprej izpeti ta pogon? OPOMBA:Vsi odprti 'roèaji' za ta pogon bodo postali neveljavni.
+2408003= Urnik preverjanja diskov\nAli želite preveriti napake trdih diskov ob naslednjem zagonu raèunalnika?
+2408004= Preskoèi
+
+[RESTORE CENTER]
+
+2602001= Ustvarjam obnovitveno toèko...
+2603001= Vnesite opis za lažjo prepoznavo obnovitvene toèke. Tekoèi datum in èas bosta samodejno dodani.
+2603002= Ustvari
+2603003= Vnesite opis.
+2604001= Pripravljam obnovitev vašega sistema ...
+2605001= Obnovljeno je %s postavk.
+
+
+[SETTINGS]
+2801001= Splošne nastavitve
+2801002= Spodnje postavke bodo izpušèene po opravljenem pregledu.
+2801003= Dodatno
+2801004= Pribori si pot skozi register za odkrivanje, predlaganje in odpravo napak.
+2801005= Prikaži namige opravilne vrstice
+2801006= Doloèeni veèkratni sprožilci 
+2801007= Opravila ni v Urniku
+2801008= Preskoèi opozorilo Nadzora raèuna uporabnika
+2801009= V podmeniju za prikaz kontekstnega menija
+
+2802001= Urnik:
+2802002= Èas zaèetka:
+2802003= Ne zaèni opravilo, èe raèunalnik deluje na baterije.
+2802004= Ustavi opravilo, èe se zaène delovanje na baterijo.
+2802005= Zbudi raèunalnik za izvajanje tega opravila.
+2802006= Upravljanje napajanja
+
+2803001= Dnevnik
+2803002= Možnosti Dnevnika
+2803003= Shranjeni Dnevniki
+2803004= Odpri mapo
+2803005= Poglej Dnevnik
+2803006= Izbriši
+2803007= Poèisti vse
+2803008= Ustvari dnevnike kadar pride do spremembe v raèunalniku
+2803009= Maks datotek:
+
+[Quick Search]
+3700001= Hitro iskanje
+3700002= 
+
+//frmMain
+3701001= Datoteka
+3701002= Uredi
+3701003= Pogled
+3701004= Pomoè
+3701005= Odpri
+3701006= Odpri mapo
+3701007= Izvoz
+3701008= Zapri
+3701009= Kopiraj
+3701010= Ujemanje poti
+3701011= Možnosti
+3701012= Velikost pisave
+3701013= Uredi ikone po
+3701014= Osveži
+3701015= Poveèaj
+3701016= Zmanjšaj
+3701017= Normalno
+3701018= Ime
+3701019= Pot
+3701020= Velikost
+3701021= Datum spremembe
+3701022= Domaèa stran
+3701023= Vizitka
+3701024= Uredi kategorijo
+3701025= Prikaži vse
+3701026= Bližnjice
+3701027= Dokumenti
+3701028= Slike 
+3701029= Videi
+3701030= Glasba 
+3701031= Programer 
+3701032= Prikaži %s datotek
+3701033= Vkljuèi datoteko 
+3701034= Vkljuèi imenik
+3701035= %s najdenih vnosov
+3701036= Pregledujem %s ...
+3701037= Vrsta 
+3701038= Opis datoteke
+3701039= Razlièica datoteke
+3701040= Razlièica izdelka 
+3701041= Ime podjetja 
+3701042= Besedilna datoteka(*.txt)|*.txt|Vse datoteke(*.*)|*.*
+3703043= Datoteka obstaja
+3703044= Namigi
+3703045= %s izbranih postavk
+3701046= Nalaganje %s ...
+3701047= Kopiraj pot v odložišèe
+3701048= Kopiraj polno ime v odložišèe
+
+//frmSetting
+3702001= Možnosti
+3702002= Kategorija
+3702003= Splošno
+3702004= Zaženi samodejno ob prijavi v Windows
+3702005= Dvokliknite tipko 'Ctrl' za skrivanje ali prikaz iskalnega polja
+3702006= Jezik:
+3702007= Ime kategorije
+3702008= Datoteèna pripona
+3702009= Dodaj
+3702010= Uredi
+3702011= Odstrani
+3702012= V redu
+3702013= Preklièi
+3702014= Izberite kategorijo!
+3702015= To kategorijo ni možno brisati
+3702016= Diski
+3702017= Izberite disk za iskanje
+3702018= Ime pogona
+3702019= Datoteèni sistem
+3702020= Kapaciteta
+3702021= Uporabljen prostor
+
+//frmGroupSetting
+3703001= Ime kategorije:
+3703002= Datoteène pripone:
+3703003= Datoteèna pripona:
+3703004= Pripona
+3703005= Vrsta datoteke
+3703006= Vpišite pripono(*.doc)
+3703007= Ime kategorije ne sme biti prazno!
+3703008= Datoteèna pripona ne sme biti prazna!
+3703009= Ime kategorije %s že obstaja. Znova vpišite ime kategorije.
+3703010= Dodaj kategorijo
+3703011= Uredi kategorijo
+
+//UnitFunction
+3704001= Ni besedila v Odložišèu!
+
+//frmAbout
+3705001= Vizitka
+3705002= Razlièica:
+3705003= Spletna stran:
+3705004= Avtorske pravice @ 2013, Glarysoft ltd. Vse pravice so pridržane
+
+//tray icon
+3706001= Odpri Hitro iskanje
+
+//Task
+3707001= Glary Utilities Hitro iskanje
+
+[Disk Defrag]
+3400001= Defragmentiraj disk
+3400002= Diski za pohitritev delovanja PC
+
+3400003= Vaš raèunalnik deluje na baterije. Priporoèamo vam, da ne defragmentirate. Èe ga želite defragmentirati v nastavitvah zbrišite oznako Ustavi defragmentacijo med uporabo baterije.
+
+//frmMain
+3401001= Ime pogona
+3401002= Datoteèni sistem
+3401003= Kapaciteta
+3401004= Nezaseden prostor
+3401005= Razdrobljeno
+3401006= Status
+3401007= Defrag. èasa zagona sist.
+3401008= Datoteka
+3401009= Orodja
+3401010= Pomoè
+3401011= Defragmentiraj datoteko...
+3401012= Defragmentiraj mapo...
+3401013= Analiziraj
+3401014= Defragmentiraj
+3401015= Defragmentiraj in optimiziraj (poèasneje, uporabite enkrat tedensko)
+3401016= Izhod
+3401017= Prioriteta
+3401018= Nizka prioriteta
+3401019= Normalna prioriteta
+3401020= Visoka prioriteta
+3401021= Možnosti
+3401022= Domaèa stran
+3401023= Preveri za posodobitve
+3401024= Vizitka
+3401025= Defragmentiraj
+3401026= Analiziraj
+3401027= Defragmentiraj in optimiziraj (poèasneje, uporabite enkrat tedensko)
+3401028= Premor
+3401029= Nadaljuj
+3401030= Ustavi
+3401031= Izklopi raèunalnik po defragmentaciji
+3401032= Izberi vse
+3401033= Niè ne izberi
+3401034= Stanje
+3401035= Poroèilo
+3401036= Zaseden prostor
+3401037= Nezaseden prostor
+3401038= Izvajam
+3401039= Nezaseden prostor
+3401040= Zaseden prostor
+3401041= Ni razdrobljeno
+3401042= Nepremakljive datoteke
+3401043= Razdrobljene datoteke
+3401044= Zaposlen
+3401045= Rezervirane cone MFT
+3401046= Pripravljen
+3401047= Analiziram
+3401048= Defragmentiram
+3401049= Optimiziram
+3401050= Analizirano
+3401051= Defragmentirano
+3401052= Optimizirano
+3401053= Analiza je konèana
+3401054= Defragmentacija je konèana
+3401055= Optimizacija je konèana
+3401056= Analiza je prekinjena
+3401057= Defragmentacija je prekinjena
+3401058= Optimizacija je prekinjena
+3401059= Defrag. èasa zagona sist. JE aktivirano na tem pogonu.
+3401060= Defrag. èasa zagona sist. NI aktivirano na tem pogonu.
+3401061= Izklopi
+3401062= Vklopi
+3401063= Konfiguriraj
+3401064= Defragmentiraj izmenjevalno datoteko, datoteko mirovanja
+3401065= Defragmentiraj MFT
+3401066= Defragmentiraj sistemske datoteke
+3401067= Zgodovina defrag. èasa zagona sist. (Dvoklik za ogled podrobnosti)
+3401068= Datum
+3401069= Skupna velikost
+3401070= Defragmentirano
+3401071= Skupaj datotek && imenikov:
+3401072= Fragmentov:
+3401073= Ocena razdrobljenosti:
+3401074= Ime datoteke
+3401075= Fragmenti
+3401076= Velikost
+3401077= Pot
+3401078= Da
+3401079= Ne
+3401080= datotek(e)
+3401081= Izberi mapo
+3401082= Namig
+3401083= Defragmenter diskov še vedno teèe.
+3401084= Neznan gonilnik
+3401085= Korenski imenik ne more biti dodan na seznam izloèenih. Izberite drug imenik.
+3401086= Obrni izbor
+3401087= Ustavi
+3401088= Ustavi vse
+3401089= Ta pogon je Solid State Drives (SSD). Zanje ni potrebna defragmentacija.
+3401090= Disk je polprevodniški (SSD). Defragmentacija lahko zmanjša njegovo življenjsko dobo. Ali ste preprièani, da želite nadaljevati?
+
+//frmOption
+3402000= Možnosti
+3402001= Splošno
+3402002= Defragmentiraj
+3402003= Samodejno defragmentiraj
+3402004= Urnik
+3402005= Defragmentiraj èas zagona sistema
+3402006= Optimiziraj
+3402007= Izkljuèeno
+3402008= Jezik:
+3402009= Zaženi samodejno ob prijavi v Windows
+3402010= Pomanjšaj v opravilno vrstico, ko se zapre okno programa
+3402011= Prikaži oblaèke z namigi ob pomanjšanju v opravilno vrstico
+3402012= Vkljuèi Defragmenter diskov v kontekstni meni Windows Explorer-ja
+3402013= Samodejno preveri za posodobitve
+3402014= Soèasna defragmentacija diskov
+3402015= Privzeto
+3402016= Pametna defragmentacija
+3402017= Aurora
+3402018= Windows Standard
+3402019= Dostopnost
+3402020= Rainbow
+3402021= Sea Breeze
+3402022= Defragmentiraj samo detoteke, ki:
+3402023= Imajo manjše fragmente kot
+3402024= Imajo veè kot
+3402025= So veèje kot
+3402026= So manjše kot
+3402027= fragmentov
+3402028= Premakni velike datoteke na konec pogona
+3402029= Najmanjša velikost datoteke:
+3402030= Datoteke, ki niso uporabljane v zadnjem mesecu
+3402031= Datoteke v Košu
+3402032= Datoteke izbranih vrst
+3402033= Kategorija
+3402034= Vrsta
+3402035= Dodaj
+3402036= Uredi
+3402037= Izbriši
+3402038= Izkljuèi datoteke, ki jih ne želim defragmentirati. Npr. video datoteke. {#13#10} bo pospešilo hitrost defragmentacije. 
+3402039= Dodaj datoteke
+3402040= Dodaj mapo
+3402041= Samodejna defragmentacija je Izklj.
+3402042= Samodejna defragmentacija je Vklj.
+3402043= Ko je vkljuèena samodejna defragmentacija bo le-ta samodejno defragmentirala trde diske ter tako pohitrila delovanje raèunalnika.
+3402044= Samodejna defragmentacija ko je sistem nedejaven %s minut
+3402045= Premor, ko uporaba vašega CPU ali diska preseže %s%
+3402046= Pogoni
+3402047= Zadnja defragmentacija:
+3402048= Defragmentirane datoteke:
+3402049= Zaženi po urniku
+3402050= Ukrep:
+3402051= Pogostost:
+3402052= Èas:
+3402053= Samo defragmentiraj
+3402054= Defragmentiraj in optimiziraj
+3402055= Dnevno
+3402056= Tedensko
+3402057= Meseèno
+3402058= Ponedeljek
+3402059= Torek
+3402060= Sreda
+3402061= Èetrtek
+3402062= Petek
+3402063= Sobota
+3402064= Nedelja
+3402065= Omogoèi defragmentacijo èasa zagona sistema
+3402066= Naèin defragmentacije:
+3402067= Metoda
+3402068= Vsakodnevni zagon sistema
+3402069= Vsakodnevno prvi zagon sistema
+3402070= Vsakih %s dni prvi zagon sistema
+3402071= Maks dnevniških datotek:
+3402072= Zaèni s preverjanjem diskov (Chkdsk) pred zagonom defragmentacije èasa zagona sistema
+
+3402073= Napredna defragmentacija
+3402074= Hitra defragmentacija
+3402075= Izberi mapo
+3402076= Izberi pogon, ki ga želite defragmentirati!
+3402077= Namigi
+3402078= Izberite kategorijo! 
+3402079= Ali res želite izbrisati to kategorijo?
+3402080= Dodaj kategorijo datotek
+3402081= Uredi kategorijo datotek
+3402082= V redu
+3402083= Preklièi
+3402084= Defrag. èasa zagona sist. ne more varno premakniti fragmentov med delovanjem Windows.
+3402085= Ustavi VSS med defragmentacijo NTFS pogona
+3402086= Ustavi samodejno defragmentacijo kadar uporabljate baterijo
+
+//frmConfig
+3403001= Arhivi
+3403002= Filmi
+3403003= Slike pogonov
+
+//frmCategory
+3404001= Ime kategorije ne sme biti prazno! 
+3404002= Napaka vrste formata! Npr.: (*.doc/*.doc,...,*.Txt).
+
+//frmFileType
+3405001= Kategorija: 
+3405002= Vrsta:
+3405010= Ime kategorije %s že obstaja. Znova vnesite ime kategorije.
+
+[SpyRemover]
+2701001= Odstranjevalec škodljivih programov
+2701002= Odstranjevalec škodljivih programov
+2701003= Hitro preišèi in odstrani vohunske in škodljive programe
+2701004= Pregled
+2701005= Odstrani
+2701006= Obnovi
+2701007= Ponovi pregled
+2701008= Izberite varnostno kopijo, ki jo želite obnoviti in kliknite gumb 'Obnovi'.
+2701010= Vrsta
+2701011= Status
+2701012= Varnostne kopije
+2701013= Ali ste preprièani, da želite obnoviti %s v sistemskem Registru?
+2701014= %s je bilo uspešno obnovljeno v Registru.
+2701015= Pregledujem %s
+2701016= Pregledano datotek: %s
+2701017= Škodljivi programi so uspešno poèišèeni!
+2701018= Obnovi
+2701019= Poišèi škodljive programe
+2701020= Iskanje je konèano
+2701021= %s najdenih škodljivih programov
+2701022= Ni najdenih škodljivih programov
+2701023= 1 škodljivi program je najden
+2701024= Noben vnos ni oznaèen
+2701025= %s oznaèenih vnosov
+2701026= %s oznaèenih vnosov
+2701027= Informacije o škodljivih programih
+2701028= Ni najdenih škodljivih programov!
+2702001= Podrobnosti
+2702002= Izberite vnose, ki jih želite brisati.
+	 
+[BOOT TIME]
+2901001= Samo za referenco.
+2901002= Vaš zagonski èas sistema je zelo poèasen, %s uporabnikov je poèasnejših.
+2901003= Vaš zagonski èas sistema je poèasen, %s uporabnikov je poèasnejših.
+2901004= Vaš zagonski èas sistema je obièajen, %s uporabnikov je poèasnejših.
+2901005= Vaš zagonski èas sistema je hiter, %s uporabnikov je poèasnejših.
+2901006= Vaš zagonski èas sistema je zelo hiter, %s uporabnikov je poèasnejših.
+2901007= Ne m orem pridobiti podatke. Vrednost reference ni možno oceniti.
+2901008= Pridobivam zagonski èas sistema. Poèakajte, prosim...
+
+[DRIVER BACKUP]
+2200001= Upravitelj gonilnikov
+2201001= Varnostna kopija
+2201002= Odstrani
+2201003= Obnovi
+
+2201004= Izberite gonilnike, ki jih želite namestiti in zatem kliknite gumb 'Obnovi'.
+2201005= Izberite gonilnike, ki jih želite odstraniti in za tem kliknite gumb 'Odstrani'.
+2201006= Izberite ciljno mapo kamor želite shraniti datoteko varnostne kopije:
+2201007= Shrani datoteko varn. kopije v:
+2201008= Varnostna kopija gonilnikov
+2201009= %s neuspelih ustbvarjanj!
+2201010= Ali ste preprièani, da želite odstraniti to napravo?
+2201011= Ime naprave
+2201012= Razlièica
+2201013= Datum varnostne kopije
+2201014= Potreben je ponovni zagon vašega raèunalnika!
+
+
+[Software Update]
+4000001= Posodobitev programa
+4000002= Rezultati po meri
+4000003= Skrij beta razlièice
+4001001= Preberi veè...
+4001002= Preklièi
+4001003= Nadaljuj
+4001004= Zaženi posodobitev programa ob zagonu Windows
+4001005= Pregled
+4001006= Ponovi pregled
+4001007= 100% pregled je konèan.
+4001009= Rezultati po meri
+4001010= Pripravljam zaèetek ...
+4001011= Pregledujem raèunalnik ...
+4001012= Pošiljam podatke za analizo ...
+4001013= Odpiram rezultate ...
+4001014= Kliknite gumb 'Pregled' za iskanje namešèenih programov v raèunalniku!
+4001015= Obišèite stran www.glarysoft.com
+4001016= Obnovi iz opravilne vrstice
+4001017= Izhod
+4001019= Kliknite na to sporoèilo, da vidite veè.
+4001020= Poglej podrobnosti
+4001021= Poišèi posodobitve
+
+4001022= Na voljo imate 1 novo posodobitev.
+4001023= Na voljo imate %s novih posodobitev. 
+4001024= Na voljo imate 1 beta posodobitev.
+4001025= Na voljo imate %s beta posodobitev.
+
+4001026= Na voljo imate 1 novo posodobitev in 1 beta posodobitev.
+4001027= Na voljo imate 1 novo posodobitev in %s beta posodobitev. 
+4001028= Na voljo imate %s novih posodobitev in 1 beta posodobitev. 
+4001029= Na voljo imate %s novih posodobitev in %s2 beta posodobitev.
+4001030= Trenutno ni na voljo nobena posodobitev.
+
+4001040= Prikaži vse izdaje
+4001041= Skrij vse izdaje
+4001042= Skrij to izdajo
+4001043= Namešèena razlièica:
+
+[Portable Maker]
+5001001= Glary Utilities Portable Maker
+5001002= S klikom na gumb 'Ustvari' bo prenosna razlièica Glary Utilities ustvarjena za vas. Shranjena bo (privzeto) na vaše namizje. Lahko pa
+5001003= kliknite tukaj za spremembo privzete poti
+5001004= Ustvari
+5001005= Odpri mesto datoteke
+5001006= Prenosna razlièica je uspešno ustvarjena. Kliknite 'Odpri mesto datoteke', da bi jo našli. Razširite zip datoteko in zaženite 'Integrator_Portable.exe'. Prosimo, upoštevajte, da prenosna razlièica vkljuèuje le funkcije Free Edition.
+
+[error report]
+6001001= %s je naletel na težavo in se mora zapreti. Opravièujemo se za nevšeènosti.
+6001002= Prosimo povejte Glarysoft o tej težavi.
+6001003= Ustvarili smo poroèilo o napaki, ki ga lahko pošljete k nam. Poroèilo bomo obravnavali zaupno in anonimno.
+6001004= Èe želite videti podatke v sporoèilu,
+6001005= kliknite tukaj
+6001006= Pošlji poroèilo o napaki
+6001007= Ne pošiljaj
+6001008= Vrste
+6001009= Prosimo, izberite datoteko, ki jo želite poslati!
+6001010= Ni bilo mogoèe poslati poroèila o napaki, prosimo, pošljite seznam datotek, kot priloge k: {\r\n}%s{\r\n}Hvala za vaše sodelovanje!

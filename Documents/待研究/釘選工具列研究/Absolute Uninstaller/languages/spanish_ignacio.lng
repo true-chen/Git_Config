@@ -1,0 +1,2363 @@
+[Language]
+Description = Español
+Author: Ignacio Solves - enero 2014
+(laescuela.ignacio@gmail.com)
+
+[Language]
+Description= Spanish
+
+[Globals]
+10001= Archivo
+10002= Edición
+10003= Ver
+10004= Ayuda
+10005= Salir
+10023= Contenido de Ayuda
+10018= Página Inicial
+10019= Acerca de
+10006= Detener
+10007= Refrescar
+10008= Propiedades
+10009= Nombre
+10010= Abrir
+10011= Tamaño
+10012= OK
+10013= Cancelar
+10014= Cerrar
+10015= Sí
+10016= No
+10017= Buscar...
+10020= Exportar...
+10021= Abrir Carpeta
+10022= Tareas
+10024= Siguiente
+10025= Atrás
+10026= Opciones
+19026= Tamaño Total
+19027= Espacio Libre
+14023= Estado
+10027= Descripción
+10028= Finalizar
+10029= Papelera
+14009= Detalles
+10030= Añadir
+10031= Eliminar
+10032= Predeterminado
+10033= Fecha de Creación
+10034= Borrar
+10035= Recomendar a Amigos
+10036= Compre Ahora
+10037= Introduzca Código de Registro
+15009= Verificar Todo
+15010= No Comprobar
+15011= Invertir Comprobación
+15014= Comprobar
+10038= Menú
+10039= Comprobar Actualizaciones
+10040= Idiomas
+10041= ¿Realmente desea enviar los elementos seleccionados a la Papelera?
+10043= Algunos archivos no pueden borrarse. Asegúrese de que los archivos no están en uso y que el disco no está lleno o protegido contra escritura. 
+10044= Atención
+10045= Información
+10046= Error
+10047= Confirmación
+10048= Iniciación
+
+10050= Recomendar
+10051= Aplicar
+10052= Herramientas
+10053= El programa no funciona debido a que falta un archivo o está dañado. Por favor intente de nuevo la instalación para corregir el problema. Haga clic en "Sí" para descargar la versión más reciente de Glary Utilities.
+
+[Integrator]
+10801= Limpiar y Reparar
+10802= Optimizar y Mejorar
+10803= Privacidad y Seguridad
+10804= Archivos y Carpetas
+10805= Herramientas del Sistema
+
+10806= Estado
+10807= Estado del Programa
+10808= Versión Actual:
+10809= Última Actualización:
+10810= Fecha de la Base de Datos:
+10811= Estado de la Licencia
+10812= Tipo:
+10813= Edición Gratuita
+10814= Edición Profesional
+10815= Fecha de Vencimiento:
+10816= Nunca
+10817= Registre su producto pagado haciendo clic en el botón inferior.
+10818= Registrar
+10819= Ajustes de AutoReparación
+
+10799= Módulos
+
+10820= Ajustes
+10821= General
+10822= Idioma:
+10823= Cargar Glary Utilities automáticamente en el arranque de Windows.
+10824= Minimizar a la bandeja cuando se cierre el programa.
+10825= Menú Contextual
+10826= Seleccione los menús contextuales que desee integrar en Windows Explorer.
+10827= Actualización Automática
+10828= Ejecutar Actualización desde la Web a horas programadas.
+10829= Hora prevista:
+10830= No Disponible en la edición Gratuita
+10831= Cambiar Programación en tiempo
+10832= Auto Reparación
+10833= Borrar rastros de datos privados al salir de Windows.
+10834= Rastros de Datos Privados
+10835= Seleccionar rastros que desee borrar al salir de Windows
+10836= Mantenimiento Automático en 1-Clic
+10837= Ejecutar Mantenimiento en 1-Clic a horas programadas.
+10838= Centro de Restauración
+10839= Protección del Centro de Restauración
+10840= Seleccione aquí los módulos que desea tener protegidos por el Centro de Restauración.
+10841= Módulos disponibles:
+10842= Opciones de Copia de Seguridad
+10843= Borrar copias de seguridad automáticamente:
+10844= Limitar el número de copias de seguridad a:
+10845= Lista a Ignorar
+10846= Después de una semana
+10847= Después de 2 semanas
+10848= Después de 3 semanas
+10849= Después de un mes
+10850= Después de 2 meses
+10851= Después de 3 meses
+10852= Opciones del Mantenimiento Automático en 1-Clic
+10853= Buscar solamente problemas
+10854= Buscar y reparar problemas
+10855= Seleccione las pistas que desea borrar
+10856= Mostrar el globo de sugerencias cuando se minimice a la bandeja
+10857= Comprobar actualizaciones cuando arranca el programa
+
+10900= Deshacer Cambios
+10901= Por favor seleccione la copia de seguridad que desea restaurar y haga clic en el botón 'Restaurar'.
+10902= Restaurar el Sistema
+10903= Crear Puntos de Restauración
+10914= El Nuevo Punto de Restauración se ha creado satisfactoriamente.
+10904= ¡Fallo en la creación del Punto de Restauración! La Restauración del Sistema puede estar desactivada en este sistema o no tiene los permisos de acceso.
+10905= Para habilitar la Restauración del Sistema, siga los siguientes pasos: Panel de Control de Arranque -> Sistema -> Pestaña de Restaurar Sistema. Elimine la opción "Desactivar Restauración de Sistema en todos los discos" para habilitar la Restauración del Sistema. Clic OK.
+10906= Por favor, seleccione antes un punto de restauración.
+10907= Por favor guarde los cambios y cierre los programas abiertos. Windows se reiniciará automáticamente durante el proceso de restauración.
+10908= Por favor, seleccione antes una copia de seguridad.
+10911= Copias de Seguridad
+10912= ¿Realmente desea restaurar %s?
+10913= Restaurado satisfactoriamente.
+10915= por favor, seleccione el punto de restauración al que desea regresar y haga clic en el botón 'Restaurar'.
+
+10909= Sugerencia
+10910= Glary Utilities está aún en marcha.
+
+10916= Preguntas Frecuentes
+10917= Apariencia
+10918= Versión Trasladable
+10919= Soporte de Emergencia
+
+[License Dialog]
+20001= Esta es una versión de prueba por tiempo limitado.
+20002= Puede comprobar la funcionalidad total del programa durante %s días sin obligación.
+20003= Si le agrada el programa y quisiera utilizarlo una vez transcurrido el tiempo de prueba, pulse sobre "Comprar Ahora".
+20004= Periodo de prueba: día %s de %s2
+20005= La versión de prueba ha caducado. Ha podido comprobar la funcionalidad total del programa durante %s días.
+20006= Si le agrada el programa y desea seguir utilizándolo, pulse sobre "Comprar Ahora".
+20007= Periodo de prueba expirado
+20008= No Registrado
+20009= Copyright(c)
+20010= Este producto está autorizado a:
+20011= Atención: Este programa de ordenador está protegido por derechos legales y tratados internacionales. La reproducción no autorizada o la distribución de este programa puede llevar consigo graves sanciones civiles y penales, que serán perseguidas legalmente.
+20012= Sitio Web
+20013= Compre Ahora
+20014= Introduzca Código
+20015= Continúe la prueba
+20016= Su nombre:
+20017= Código de Registro
+20018= Si no tiene un Código de Registro para desbloquear esta versión de prueba, puede
+20019= Comprar una online.
+20020= El Código de Registro introducido no es válido. Por favor compruebe el código para asegurarse de que fue introducido correctamente.
+20021= Gracias a las siguientes personas por su contribución
+20022= ¡Mejore Ahora!
+20023= Por favor, introduzca la información de su licencia
+20024= Tipo de Licencia:
+20025= Para obtener su licencia,
+20026= Página Principal:
+
+20027= Mejore Ahora
+20037= Por favor, introduzca su nombre
+20038= Código de licencia:
+20039= Activar ahora
+20040= ¿No tiene licencia?
+20041= Clic aquí para obtener una.
+20042= He perdido mi código de licencia.
+20043= Introduzca la información de su licencia
+20044= Nombre de la Licencia:
+20045= Fecha de Caducidad:
+20046= Quedan %s día(s)
+20047= Caducó hace %s día(s)
+20048= Renovar
+20049= Licencia de Exportación
+20050= Gestor de la licencia de Glary Utilities
+20051= P.ej. AC6E-D9C6-FAB8-A8C8
+20052= Gestor de la Licencia
+20053= La información de la Licencia se ha guardado correctamente en:
+
+[Updater]
+30001= Sin acceso a la información desde %s
+30002= Su equipo tiene la versión más reciente de %s. No hay actualización disponible por el momento.
+30003= Está usando %s : %s2.
+30004= Hay disponible una versión nueva de %s para descargar: %s2. Por favor pulse "OK" para abrir la página con los detalles de la descarga, o "Cancelar" si no desea actualizar en este momento.
+30005= Actualizado correctamente
+30006= Obteniendo versión actualizada (%s)...
+30007= Obteniendo archivo actualizado de Referencia (%s)...
+30008= Comprobando si hay actualizaciones...
+30009= Listo
+30010= Ejecutando Actualización desde Web...
+30011= Tiempo restante estimado:
+30012= Velocidad de Transferencia:
+30013= Desconocido
+30014= %s seg
+30015= Copiado %s de %s2
+30016= %s/Seg
+30017= Debe pasar a la versión PRO de %s para usar esta prestación. ¿Pasar ahora?
+30018= %s está disponible ahora. Clic sobre este mensaje para instalar.
+30019= %s min %s2 seg
+30020= Obteniendo archivo actualizado de idioma (%s)...
+
+[Context Menu]
+40001= Analizar el Espacio en Disco con Glary Utilities
+40002= Unir archivos con Glary Utilities
+40003= Dividir archivos con Glary Utilities
+40004= Descodificar con Glary Utilities
+40005= Codificar con Glary Utilities
+40006= Limpiar con Glary Utilities
+40007= Buscar Carpetas Vacías con Glary Utilities
+
+40008= Desfragmentar Discos con Glary Utilities
+40009= Desfragmentar el Disco con Glary Utilities
+40010= Desfragmentar la Carpeta con Glary Utilities
+40011= Desfragmentar el Archivo con Glary Utilities
+
+[Registry Cleaner]
+11001= Reparar Registro
+11901= Limpie su Registro para mejorar el rendimiento de su sistema.
+11002= Seleccione las secciones a analizar
+
+11003= Acción
+11004= Buscar problemas en registro
+11005= Reparar sus registro
+11006= Deshacer cambios anteriores
+11007= Herramientas
+
+11008= Los problemas seleccionados han sido reparados con éxito.
+11009= ¿Realmente desea añadir el elemento a la lista de ignorar? Este elemento no será buscado de nuevo.
+11010= El archivo ha sido guardado en:
+11011= Sumario de problemas encontrados:
+11012= Encontrado 1 problema
+11013= Encontrados %s problemas
+11014= 1 problema seleccionado para reparar
+11015= %s problemas seleccionados para reparar
+11016= No se encuentran problemas
+11017= No hay problemas seleccionados para reparar
+11018= (encontrados %s problemas)
+11019= Analizando
+11020= Sección:
+11021= Corrección:
+11022= Abrir con Regedit
+11023= Abrir esta entrada en Regedit
+11024= Borrar esta entrada
+11025= Dejar esta entrada sin cambios
+11026= Excluir siempre esta entrada (Nunca buscarla de nuevo)
+11027= Propiedades
+11028= Abrir acceso a abreviadas
+11029= Borrar este acceso
+11030= Dejar este acceso sin cambios
+
+11031= Análisis finalizado
+11032= Reparar
+11033= Clic en 'Reparar' para solventarlos automáticamente o 'Cerrar' para ver los detalles.
+11034= Reparación finalizada
+11035= Analizando
+11036= Reparando
+
+11037= Recuperar
+11038= Por favor, seleccione la copia de seguridad que desea recuperar y pulse el botón 'Restaurar'.
+11039= Copia de Seguridad
+11040= ¿Realmente desea restaurar %s al registro de sistema?
+11041= %s ha sido correctamente restaurado en el registro.
+
+11042= La entrada %s apunta al inexistente archivo o carpeta %s2
+11043= Esta entrada apunta a la clave inexistente %s
+11044= Esta clave del registro no contiene datos y puede ser borrada.
+11045= Esta clave de registro apunta al inexistente CLSID %s
+11046= Esta clave de registro apunta al inexistente archivo de icono %s
+11047= La entrada del menú contextual %s apunta al inexistente programa %s2
+11048= El registro está incompleto porque falta el Command de la subclave.
+11049= Esta clave de registro está incompleta porque no contiene dato alguno necesario para Windows.
+11050= Esta clave de registro apunta al inexistente InprocServer %s. El CLSID asociado puede eliminarse.
+11051= Esta clave de registro apunta al inexistente LocalServer32 %s. El CLSID asociado puede eliminarse.
+11052= Esta clave de registro apunta al inexistente Type library %s
+11053= Esta clave de registro apunta a la inexistente carpeta %s
+11054= La clave de registro %s no contiene datos. La Type library asociada puede ser eliminada.
+11055= Esta clave de registro apunta al inexistente archivo %s
+11056= El archivo %s no se encuentra.
+11057= El archivo %s que está asociado con la entrada %s2 no existe.
+11058= La entrada %s apunta al inexistente archivo de ayuda %s2
+11059= Falta el archivo compartido %s
+11060= El archivo compartido %s ya no está en uso.
+11061= Esta entrada ImagePath apunta al inexistente archivo %s. Los Servicios asociados pueden eliminarse.
+11062= La entrada %s apunta al inexistente archivo %s2
+11063= Este acceso apunta al inexistente destino %s
+11064= Esta clave del registro contiene una referencia a la carpeta del menú Inicio %s , que ha sido eliminada o borrada.
+11065= La entrada %s apunta al inexistente programa %s2
+11066= Esta entrada de desinstalación no contiene datos necesarios para Windows para eliminar el programa o componente.
+11067= No se encuentra el programa requerido de desinstalación %s 
+11068= La entrada %s apunta a la inexistente carpeta %s2
+
+11069= Borrar clave :
+11070= Borrar valor :
+11071= Borrar archivo :
+
+11072= Gestor de Lista de Ignorados
+11073= Lista de entradas que son ignoradas cuando se analiza el Registro. Si desea que %s incluya una de estas entradas, elimine su marca.
+11074= Clave de Registro
+
+11075= Selecciones una carpeta de destino para hacer copia de seguridad de los cambios efectuados en la reparación
+11076= Limite el número de copias de seguridad a:
+11077= %s ya existe. ¿Desea reemplazarlo?
+11078= Reemplazar
+11079= Sumario de problemas encontrados: (%s problemas encontrados, %s2 problemas seleccionados para reparar)
+11080= Sumario de problemas encontrados: (1 problema encontrado, 1 problema seleccionado para reparar)
+11081= (1 problema encontrado)
+11082= Sumario de problemas encontrados: (No se han encontrado problemas, no hay problemas seleccionados para reparar)
+11083= Explorando...
+11084= No se han encontrado problemas, no hay problemas seleccionados para reparar.
+11085= %s problemas encontrados, %s2 problemas seleccionados para reparar.
+11086= %s problemas encontrados, %s2 problemas seleccionados para reparar.
+11087= Reparando...
+11088= Exportar Archivo de Registro
+11089= Clave actual:
+11090= Clave exportada:
+11091= %s problema(s) seleccionados para reparar
+11092= Exportado correctamente.
+
+[Disk Analysis]
+19001= Analizador de Espacio en Disco
+19901= Muestra el espacio en disco usado por sus archivos y carpetas
+19003= Explorador
+19004= Aviso de Comando
+19005= Borrar (a Papelera)
+19006= Mostrar Barra de Herramientas
+19007= Mostrar Barra de Estado
+19008= Mostrar Tipos de Archivos
+19009= Mostrar archivos Grandes
+19010= Archivos
+19011= Carpetas
+19012= Atributos
+19013= Porcentaje
+19014= Tipo de archivo
+19015= Descripción
+19016= Nombre de archivo
+19017= Carpeta
+19018= Modificado
+19019= cargando Tipos de Archivo...
+
+19020= [Files]
+19021= Mi PC
+
+19022= Seleccione Discos
+19023= Todos los Discos Locales
+19024= Discos Individuales
+19025= Una Carpeta
+19028= Usado/Total
+19029= Seleccionar Carpeta:
+
+1801001= Analizar
+1801002= atrás
+1801003= PC
+1801004= 
+1801005= Mostrar Extensiones
+1801006= Todos los Tipos
+1801007= Videos
+1801008= Comprimidos
+1801009= Música
+1801010= Imágenes
+1801011= Documentos
+1801012= Otros
+1801013= Extensiones
+1801014= Número de archivos
+1801016= Tipo
+1801017= Ubicación
+1801018= Fecha Modificada
+1801019= Espacio libre
+
+1801020= Barra de Herramientas
+1801021= Navegación
+1801022= Detalles
+1801023= Mostrar Todos los archivos
+1801024= Carpetas y Archivos
+
+1801025= Analizar disco ahora
+1801026= El Disco no ha sido analizado. \nPorque el disco no ha sido analizado aún, no hay información sobre el uso de espacio en disco, ni del tipo de archivo, ni del archivo más grande. Durante el análisis, se mostrará la información sobre los discos seleccionados, los archivos y carpetas que contienen y el uso del espacio en disco.
+1801027= Comprobar solamente éste
+
+1801028= Tamaño de archivo:
+1801029= Tamaño total:
+1801030= Último acceso:
+1801031= Modificado en:
+1801032= Creado en:
+1801033= %s elementos seleccionados
+1801034= Tamaño:
+1801035= Contenido total
+1801036= Desconocido
+1801037= Espacio usado:
+1801038= Analizado
+1801039= No analizado
+
+1802001= Finalizado
+1802002= Fracasado
+1802003= Interrumpido
+1802004= Análisis de las ubicaciones de almacenamiento
+1802005= Por favor, espere a que el Análisis de Disco termine de analizar las ubicaciones de almacenamiento seleccionadas.
+
+1803001= Lista de rutas no válidas:\n
+1803002= Lista de rutas de Archivo:\n
+1803003= %s elementos no pueden analizarse
+
+1804001= La unidad que ha seleccionado no ha sido aún analizada. ¿Debe efectuarse el análisis ahora?
+
+1805001= ¿Realmente desea mover estos %s elementos a la Papelera?
+1805002= Borrar
+1805003= Borrando %s elementos
+
+[Startup Manager]
+14001= Gestor de arranque
+14901= Gestiona los programas que arrancan automáticamente en el Inicio
+14002= Inhabilitar esta entrada
+14003= Habilitar esta entrada
+14004= Añadir programa...
+14005= Borrar esta entrada
+14006= Editar Entrada...
+14007= Mostrar la Barra de Detalles
+14008= Refrescar la Lista de Inicio
+14010= Otros Autoarranques
+14011= Tareas Programadas
+14012= Servicios locales
+14013= Programas que se ejecutan cuando Windows arranca o un usuario se identifica.
+14014= No hay Elementos seleccionados.
+14015= Entrada no válida. No puede borrarse.
+14016= <Sin información>
+14017= Producto:
+14018= Empresa:
+14019= Añadir un Elemento al Arranque
+14020= ¿Realmente desea eliminar la entrada del Arranque?
+14021= Editar el Elemento Seleccionado del Arranque
+
+14022= Ruta
+14024= Ubicación
+14035= Valoración
+14025= Habilitado
+14026= Inhabilitado
+
+14027= Informe de Lista de Arranque creada el %s por %s2
+14028= Total %s Elementos
+14029= El Informe se ha guardado en %s
+
+14030= Búsqueda Google...
+
+14031= Configuración del elemento de Arranque
+14032= Por favor, introduzca un nombre.
+14033= Por favor, introduzca una línea de comando.
+14034= El archivo especificado no se encuentra. ¿Desea continuar?
+
+14043= Desconocido
+14036= Fiable
+14037= Elección del usuario
+14038= Neutro
+14039= No se requiere
+14040= Peligroso
+14041= Comentarios
+14042= Más información
+
+14044= Comentario
+14045= Su comentario acerca de esta entrada
+14046= Su opinión acerca de esta entrada
+14047= Esto cambiará la valoración de riesgo
+14048= Enviar Comentario
+
+14049= Tiempo de Retardo
+14050= Iniciar ahora
+14051= Programas con arranque retardado.
+14052= Arriba
+14053= Abajo
+14054= Para retardar una aplicación, Por favor selecciónela en la lista de arriba o puede arrastrarla y pasarla a la lista de abajo.
+14055= Para eliminar el retardo de una aplicación, Por favor selecciónela en la lista de abajo o puede arrastrarla y pasarla a la lista de arriba.
+14056= Detectada Entrada Duplicada
+14057= Parece que %s se ha pasado automáticamente al proceso de Arranque de Windows después de que fuera colocada en la lista de retardos.
+14058= Para arreglar esto, debe abrir %s y buscar una opción 'Start with Windows' o algo similar e inhabilitarla.
+14059= Si esta opción no existe, quizá deba entrar en contacto con el autor de %s, que se está automáticamente añadiendo, y preguntar si pueden añadir la opción que inhabilite su arranque automático con Windows.
+14060= Si no es posible detener %s al arranque de Windows, lo mejor será dejar que Windows la maneje y eliminar %s de la lista de arranques diferidos.
+14061= ¿Desea eliminar %s de la lista de arranque diferido?
+14062= Retardado
+14063= Retardo
+14064= Sin retardo
+14065= Seg
+
+2501001= Barra de Detalles
+2501002= Barra de Estado
+2501003= En marcha
+2501004= Detenido
+2501005= Memoria Utilizada
+2501006= La entrada en el Arranque ya existe.\n¿Quiere reemplazarla de todos modos?
+2501007= Fallo al modificar datos para '%s'
+
+[Disk Cleaner]
+13001= Limpieza de Disco
+13901= Elimina datos basura de sus discos y recupera espacio en disco
+13002= Limpieza de Disco
+13003= Más Opciones
+13004= Seleccionar las unidades que desea limpiar.
+13005= Pulse 'Siguiente' cuando haya terminado de seleccionar las unidades.
+13006= Por favor, espere hasta que %s termine de analizar las unidades seleccionadas.
+13010= Pulse 'Siguiente' cuando haya terminado de seleccionar las unidades.
+13007= Puede usar la limpieza de Disco para liberar hasta %s del espacio en la unidad %s2
+13008= Cantidad total de espacio en disco que gana:
+13009= Haga copia de Seguridad de %s antes de la limpieza.
+13110= Ver Archivos
+13011= Pulse 'Siguiente' para iniciar el proceso de limpieza.
+13012= Componentes de Windows
+13013= Puede liberar más espacio en disco eliminando componentes opcionales de Windows que no utiliza.
+13014= Limpiar...
+13015= Restaurar
+13016= Puede restaurar los archivos temporales eliminados desde su archivo de Copia de Seguridad.
+13017= Restaurar...
+
+13018= Limpieza finalizada satisfactoriamente.
+13019= Se ha creado una Copia de Seguridad.
+13020= Pulse 'Finalizar' para volver a la pantalla principal.
+
+13021= Por favor, seleccione al menos una unidad.
+
+13022= Explorando...
+13023= Finalizado
+13024= Iniciando...
+13025= La Papelera contiene archivos que ha eliminado de su PC. Estos archivos no borran permanentemente hasta que vacíe la Papelera.
+13026= Archivos Temporales
+13027= Los Archivos Temporales son utilizados por programas como un almacenamiento intermedio y normalmente se eliminan tras su uso.
+13028= Archivos Cero-Byte
+13029= Los Archivos Cero-Byte no contienen información alguna y normalmente pueden ser eliminados.
+13064= Archivos Temporales de Internet
+13065= La carpeta de Archivos Temporales de Internet contiene páginas Web almacenadas en su disco duro para facilitar su visualización. Los ajustes personalizados para las páginas web permanecen intactos.
+
+13030= Vaciando Papelera de Reciclaje...
+13031= Limpiando Archivos Temporales de Internet...
+13032= Borrando Archivos Temporales...
+13033= Borrando archivos Cero-Byte...
+
+13034= Por favor, seleccione los archivos que desea borrar.
+13035= No hay archivos seleccionados.
+13036= Abrir archivo
+13058= Total %s archivos
+13059= Creado el:
+13060= Modificado el:
+13061= Último Acceso:
+
+13037= General
+13038= Excluir
+13039= Incluir
+
+13040= Revisar la lista de tipos de archivos basura de abajo y seleccionar elementos a incluir en la búsqueda, marcando o no sus correspondientes casillas.
+13041= Tipo de Archivo
+13042= Si no está seguro de estas opciones, se recomienda dejarlos como vienen de origen.
+13043= Todos los archivos en estas carpetas no deben ser nunca considerados como desechables.
+13044= Carpeta
+13045= Todos los archivos en estas carpetas deben ser siempre considerados como desechables, independientemente del tipo.
+
+13046= Puede utilizar comodines, p.ej. *.tmp
+13047= Nombre de archivo que termina con:
+13048= Por favor, introduzca una extensión al nombre.
+13049= Puede utilizar comodines.
+13050= No deberían limpiarse.
+
+13051= Por favor, seleccione una copia de seguridad que desee restaurar y pulse el botón 'Restaurar'.
+
+13052= Restaurar Personalizado
+13053= Por favor, marque las entradas que desea restaurar y pulse 'Restaurar'.
+13054= Restaurado con éxito.
+
+13055= Objectos
+13056= Archivos
+13057= Ruta
+13062= Tipo
+
+13063= Añada un tipo de archivo basura
+
+1301001= Comenzar\r\n Limpieza
+1301002= Explorar
+1301003= Restaurar
+1301004= Ruta
+1301005= Copia de Seguridad Marcada
+1301006= Marcar Todos
+1301007= No Marcar Ninguno
+1301008= Marcar como Predeterminado
+1301009= La última vez que limpió el disco fue en: 
+1301010= %s/%s2/%s3
+1301011= Rápida y sencilla forma de limpiar de archivos inútiles su PC.
+1301012= Espacio Total recuperado: %s
+1301013= ¡Felicitaciones! Sus unidades estaban limpias.
+1301014= Limpiar de archivos inútiles puede recuperar espacio en disco.
+1301015= Resultado
+1301016= Lista de Archivos
+1301017= Volver a Analizar
+1301018= Excluir este archivo
+
+1302001= Windows
+1302002= Temporales de System
+1302003= Temporales de usuario
+1302004= Caché de Miniaturas
+1302005= Archivos Basura en Memoria
+1302006= Archivos de Informes de errores
+1302007= Archivos de Informes de Sistema
+1302008= Caché de Escritorio Remoto
+1302009= Papelera de reciclaje
+1302010= Accesos no válidos en Menú Inicio
+1302011= Accesos no válidos en Escritorio
+1302012= Archivos de Informes IIS
+1302013= Datos Prefetch Antiguos
+1302014= Caché de Tipos de letra
+1302015= Programas Descargados
+1302016= Actualizaciones de Windows
+1302017= Exploradores
+1302018= Internet Explorer
+1302019= Caché de Mozilla Firefox
+1302020= Caché de Google Chrome
+1302021= Caché de Opera
+1302022= Aplicaciones
+1302023= Caché de Google Earth
+1302024= Caché de Picasa
+1302025= Caché de ACDSee
+1302026= Unidades de Disco
+1302027= Por favor, elija al menos una unidad a explorar
+1302028= Desea hacer copia de seguridad de los archivos antes de limpiar?
+1302029= La Copia de seguridad ha Fallado, ¿desea continuar con la limpieza?
+1302030= Cuenta de Archivos: %s   Tamaño de archivos: %s2
+1302031= %s elementos marcados
+1302032= Comprobación finalizada. %s archivos, total %s2 encontrados.
+1302033= Se recomienda limpiar sus unidades ahora.
+1302034= ¡Felicidades! Tiene un computador limpio.
+1302035= Mantener su PC limpio es una buena costumbre. Por favor, manténgalo así.
+1302036= La exploración debe ser cancelada
+1302037= Ha escogido %s archivos, total %s2.
+1302038= Limpieza terminada. En total se han limpiado %s archivos basura.
+1302039= Limpieza completada.
+1302040= %s está en uso y no puede borrarse ahora.
+1302041= Archivos basura: %s
+1302042= Archivos y Carpetas personales
+1302043= Nombre del Usuario
+1302044= Archivos y Carpetas Personales
+1302045= Ubicación
+1302046= Ejemplo: *.tmp|*.log
+1302047= Ejemplo: *.sys|*.txt
+1302048= Incluir solamente archivos
+1302049= Incluir archivos y subcarpetas
+1302050= Para más seguridad, no debe limpiar los archivos del directorio System de Windows.
+1302051= ¿Está seguro de que desea vaciar este directorio?
+1302052= Para mayor seguridad, por favor no seleccione archivos de sistema Windows.
+1302053= Seleccione archivos y carpetas adicionales que desea eliminar (Usuarios Expertos solamente).
+1302054= Por favor, escoja los archivos y carpetas que desea eliminar.
+1302055= El Archivo o Carpeta personal ya existe ¿desea añadirlo de todos modos?
+1302056= El Archivo o Carpeta personal ya existe ¿desea cambiarlo de todos modos?
+1302057= Su PC no tiene muchos archivos basura. Mantener su PC limpio es una buena costumbre. Por favor, manténgalo así. 
+
+ 
+1303001= Copia de Seguridad...
+
+1304001= No se pueden mostrar los Datos.
+
+1305001= Comienza la exploración: 
+1305002= Resultado de la exploración: 
+1305003= No se han encontrado archivos basura
+1305004= %s archivos, un total de %s2
+1305005= Fin de exploración: 
+1305006= Resultado total: 
+1305007= %s archivos, %s2 a eliminar
+1305008= Comienza la limpieza
+1305009= Fin de limpieza
+1305010= Limpios %s archivos, total %s2
+1305011= %s un archivo no puede limpiarse.
+1305012= Hora de Escritura:
+1305013= En total %s archivos, %s2.
+
+1305014= %s necesita cerrarse para limpiar la Caché de Internet.\n¿Desea que Glary Utilities cierre %s?
+1305015= Firefox
+
+[Uninstaller]
+12001= Gestor de Desinstalación
+12901= Desinstala completamente programas que ya no necesita
+12002= Información de Desinstalación de Copia de Seguridad
+12003= Restaurar Información de Desinstalar
+12004= Exportar Lista de la Aplicación
+12005= Desinstalar este programa
+12006= Desinstalar los programas marcados
+12007= Modificar propiedades
+12008= Restaurar Entradas Eliminadas
+12009= Mostrar Línea de Comando
+12010= Programas instalados actualmente:
+12011= Ordenados por:
+12012= Fecha de Instalación
+12013= Corregir entradas no válidas
+12014= Desinstalar por lotes
+12015= Buscar programas
+12016= Clic aquí para información de soporte.
+12017= Línea de Comando
+12038= Eliminar Entrada
+
+12018= Cambiar
+12019= Eliminar
+12020= Cambiar/Eliminar
+
+12021= Total %s programas
+12022= No se puede eliminar la carpeta %s , Está en uso por otra persona o programa. ¿Desea eliminarla en el próximo inicio?
+12023= ¡Nuevo!
+
+12024= Para cambiar este programa o eliminarlo de su PC, %s clic en Cambiar/Eliminar.
+12025= Para cambiar este programa o eliminarlo de su PC, %s clic en Cambiar/Eliminar.
+12026= Para eliminar este programa de su PC, %s clic en Eliminar.
+
+12027= Instalado 
+12028= Archivos de Registro(*.reg)
+12031= Archivos de Texto(*.txt)
+12029= Información de Desinstalación restaurada con éxito desde %s 
+12030= ¿Realmente desea eliminar %s de su PC?
+12032= Informe creado 
+12033= Programas instalados en su PC (Total %s Programas):
+12034= Este archivo se ha guardado en:
+12035= Todos los programas instalados en su sistema están bien, no se encuentran entradas no válidas.
+12036= ¿Realmente desea eliminar %s de la lista de programas instalados?
+
+12037= Ha ocurrido un error al intentar eliminar %s. Puede que ya se haya desinstalado. ¿Desea eliminar %s2 de la lista de programas instalados?
+12039= %s es un programa "Oculto" y probablemente lo usa el sistema. ¿Realmente desea desinstalarlo?
+12040= Hay todavía archivos en el directorio de instalación "%s". Para asegurarse de no eliminar archivos de datos útiles, puede analizar el directorio haciendo clic en "Analizar el directorio". Si está seguro de que son inservibles, clic en el botón "Borrar Todos".
+12041= Analizar el directorio
+12042= Borrar Todo
+12043= Haga copia de seguridad de esta entrada antes de borrarla.
+
+12044= No se encuentra la cadena que busca.
+12045= Buscar
+12046= Buscar Siguiente
+12047= Encontrar que:
+
+12048= Se han encontrado las siguientes entradas no válidas. ¿Desea borrar estas entradas del registro(También puede borrarlas manualmente más tarde)
+12049= Entradas No válidas
+12050= Haga copia de Seguridad de estas entradas antes de borrarlas.
+
+12051= Por favor, seleccione una entrada de programa que desee restaurar y pulse el botón 'Restaurar'.
+12052= Restaurar
+12053= Entrada de Programa
+12054= Fecha de la Copia de Seguridad
+12055= ¿Desea realmente restaurar la entrada de programa %s al Registro del Sistema?
+
+12056= Utilice la siguiente información para obtener soporte técnico sobre
+12058= Editor
+12059= Versión:
+12060= Contacto:
+12061= Información de Soporte:
+12062= Léame:
+12063= Actualizaciones del Producto:
+12064= Comentarios:
+12065= ID del Producto:
+12066= Empresa Registrada:
+12067= Propietario Registrado:
+12068= Dirección de Instalación:
+
+12069= Programas (*.exe;*.com;*.bat)
+12070= Todos los archivos (*.*)
+12071= La línea de Comandos que ha introducido puede no ser válida. ¿Desea continuar de todos modos?
+
+12072= Ejecutar Programa de Instalación
+12073= Línea de Comando para programa de Desinstalación:
+12074= Ha ocurrido un error al tratar de eliminar %s. No tiene acceso a %s2 .
+12075= Puede especificar el nuevo programa de desinstalación abajo.
+
+12076= Haga copia de seguridad de esta entrada
+12077= Información de soporte
+12078= Mostrar Actualizaciones de Windows
+
+12080= Icono
+12081= Lista
+12082= Detalles
+
+12083= Todos los programas
+12084= Programas recientemente instalados
+12085= Programas grandes
+12086= Programas raramente utilizados
+12087= Actualizaciones de Windows
+
+12088= Última vez que se usó:
+12089= Información de desinstalación guardada en:
+
+[Duplicate Files Finder]
+15001= Localizador de Archivos Duplicados
+15901= Busca archivos duplicados que malgastan espacio y producen errores
+15002= Buscar archivos duplicados
+15003= Abrir archivo
+15004= Abrir con...
+15005= Carpeta de Exploración
+15006= Propiedades de Archivo
+15007= Generar Informe
+15008= Borrar archivos marcados
+15012= Marcar Uno En Cada Grupo
+15013= Excluir esta carpeta en búsquedas futuras
+15015= Ruta de acceso
+15016= %s de %s2 elementos marcados para borrar.
+15017= Grupo de Archivos Duplicados
+15018= ¿Realmente desea excluir todos los elementos de la carpeta %s seleccionada de posteriores búsquedas?
+15019= No hay elementos marcados para borrar.
+
+15020= Asistente de Exploración
+15021= Por favor, selecciones los discos o carpetas que desea explorar.
+15022= Discos
+15023= Carpetas
+15024= Añadir Carpeta
+15025= Criterio de coincidencia de archivos duplicados
+15026= El mismo nombre de archivo
+15027= El mismo tamaño
+15028= La misma fecha de archivo
+15029= Ignorar archivos con tamaño inferior a
+15030= Buscar solamente los archivos más comunes abajo
+15031= Explorar todos los archivos
+15032= Tipo de Archivo
+15033= Excluir de la búsqueda estas carpetas:
+15034= Carpeta
+15035= Buscando archivos duplicados...
+
+15036= No se han seleccionado discos. Por favor, al menos seleccione una unidad para continuar.
+15037= No se han seleccionado carpetas. Por favor, seleccione al menos una carpeta para continuar.
+15038= No se han seleccionado tipos de archivos. Por favor, al menos marque un tipo de archivo para continuar.
+15039= Organizando los archivos. Puede llevar algún tiempo, dependiendo del número de archivos. Por favor, espere...
+15040= Se ha explorado un total de %s archivos y se han encontrado %s2 duplicados.
+
+15041= Añada un nuevo nombre de archivo a buscar
+15042= Puede usar comodines, p.ej., *.avi
+15043= El nombre del archivo termina en:
+15044= Por favor, introduzca un nombre de extensión.
+
+15045= Introduzca Carpeta
+15046= Seleccione Carpeta
+15047= Puede usar comodines como * y ?
+15048= No lo deje vacío.
+
+1501001= Establezca exploración por parámetro
+1501002= Marque Inteligente
+1501003= %d de %d elementos marcados para borrar
+1501004= %s ya existe.\n¿Desea reemplazarlo?
+1501005= Confirme Guardar Como
+1501006= Borrar archivo
+
+1502002= Excluir Archivo
+
+1503001= Criterio de coincidencia de archivos duplicados
+
+1504001= Explorar
+1504002= Tamaño Total
+1504003= Tamaño de Uso
+1504004= Tamaño Libre
+1504005= Ruta de Acceso al Archivo
+
+1505001= Posición de almacenamiento
+1505002= Estado
+1505003= Esperando
+1505004= Cargando
+1505005= Se han explorado en total %d archivos y se han encontrado %d duplicados.
+1505006= Organizando los archivos. Por favor, espere...
+
+1506001= General
+1506002= Excluir Archivo
+
+[Empty Folders Finder]
+16001= Localizador de Carpetas Vacías
+16901= Busca y elimina carpetas vacías en su Windows
+16002= Búsqueda de Carpetas Vacías
+16003= Lista de Carpetas Excluidas
+16004= Borrar las Carpetas Marcadas
+16005= Excluir las Carpetas Marcadas(No volverlas a buscar)
+16006= Excluir
+16007= Carpeta
+16008= ¿Realmente desea añadir los elementos marcados a la Lista de Ignorados? Estos elementos no se buscarán de nuevo.
+
+16009= Gestor de Lista de Ignorados
+16010= La lista de entradas que se ignoran cuando se busquen carpetas vacías. Si desea incluir una de estas entradas, elimine su marca de ignorada.
+
+16011= Explorar ahora
+16012= Marque las unidades que desea explorar
+
+1601001= Preparando el árbol de carpetas vacías...
+
+1602001= Preparando lista de carpetas...
+1602002= Exploración finalizada.
+1602003= Explorando %s
+1602004= Cargando discos...
+1602005= Ordenando los archivos...
+1602006= Guardando datos...
+1602007= Buscando carpetas vacías...
+1602009= Ordenando las carpetas vacías...
+
+[Shortcuts Fixer]
+17001= Reparador de Accesos directos
+17901= Corrige los errores en los Accesos directos de su menú de inicio y su escritorio
+17002= Reparar Acceso directo
+17004= Borrar
+17005= Destino
+17006= Ubicación
+17007= Buscar accesos directos sin destino
+17008= Explorar Ahora
+17009= Opciones de Búsqueda
+17010= Explorar solamente Menú Inicio y Escritorio
+17011= Buscar carpetas vacías en Menú Inicio
+17012= Marcar los discos que desea explorar
+17013= Nada encontrado.
+
+1701001= Búsqueda rápida
+1701002= Búsqueda Avanzada
+1701003= Detener Búsqueda
+1701004= Reparar Todos los Marcados
+1701007= Error
+1701008= Reparado
+1702001= Ubicación:
+1702002= Destino:
+1702003= Argumentos:
+1702004= Descripción:
+1702005= Clic en "Aplicar" para guardar los cambios.
+1702006= Ha seleccionado una carpeta.
+1703001= Eliminar
+1703002= Clic en "%s" para eliminar los accesos seleccionados de la lista;{\r\n}Clic en "%s2" para trasladar los accesos seleccionados a la Papelera;{\r\n}Clic en "%s3" para eliminar permanentemente los accesos seleccionados.
+1703003= Haga copia de seguridad de los accesos seleccionados antes de borrar
+
+[Tracks Eraser]
+18001= Borrador de Rastros
+18901= Borra todos los rastros, evidencias, cookies, historial de internet y más
+18002= Borrar rastros marcados
+18003= Mostrar solamente los rastros borrables disponibles
+18004= Borrar estos rastros
+18005= No se han encontrado rastros. Para borrar rastros, por favor marque cada rastro que desea borrar usando su casilla a la izquierda del nombre.
+18006= ¿Realmente desea borrar los %s rastros?
+18007= Los rastros han sido borrados con éxito.
+18008= ¿Realmente desea limpiar sus %s rastros?
+
+18009= Gestor de Cookies de IE
+18010= URLs tecleadas en IE
+18011= Marque los que desee mantener cuando se limpien los cookies de Internet Explorer
+18012= Sitio web
+18013= Promedio de Accesos
+18014= Última Modificación
+18015= Caduca
+18016= Dirección Completa
+18017= Borrar ahora los cookies sin marcar
+18018= Marque las URLs que desea mantener cuando limpie el Historial URL de Internet Explorer
+18019= Urls
+18020= Borrar URLs sin Marcar
+
+18021= Borrando
+
+18022= Windows
+18023= Elimina historiales, las listas más recientemente usadas(Listas MRU) y otras evidencias de Microsoft Windows.
+18024= Documentos Recientes de Windows
+18025= Vacía la Lista de Documentos y Archivos abiertos recientemente en el equipo. La lista está normalmente ubicada en Menú Inicio > Mis Documentos Recientes.
+18026= 'Ejecutar' en el Menú Inicio de Windows
+18027= Limpia el historial de los últimos comandos que haya introducido en Menú Inicio > Ejecutar.
+18028= Microsoft Common Dialog - Listas de Archivos/Carpetas
+18029= Microsoft Common Dialog es un componente estándar utilizado por muchas aplicaciones para ofrecer la selección de archivo, carpeta, color e impresora. Este Borrador de Rastros limpia el historial de las selecciones que haya efectuado en el equipo. Ya que el Control Microsoft Common Dialog se usa sobre todo en el diálogo ABRIR/GUARDAR Archivo en Windows, el Borrador de Rastros vaciará la carpeta con el historial de los recientemente abiertos por la mayoría de aplicaciones. Vacía las listas de las últimas carpetas y archivos que haya Abierto/Cerrado en su equipo.
+18030= 'Buscar' en el Menú Inicio
+18031= Vacía el historial completo de las búsquedas que haya efectuado en 'Buscar' del Menú Inicio de Windows.
+18032= 'Portapapeles' de Windows
+18033= Trabajar con archivos lleva consigo el uso de operaciones de  "copiar" y "pegar". El 'Portapapeles' de Windows recuerda la última operación de copia y puede que contenga información relevante sobre sus actividades, como contraseñas, información de tarjetas de crédito o personal.
+18034= Archivos Temporales de Windows
+18035= Vacía el directorio Temporal de Windows.
+18036= Papelera de Reciclaje de Windows
+18037= Vacía la Papelera de Reciclaje de Windows.
+18038= Unidades de Red Asignadas de Windows
+18039= Cuando efectúa la asignación de unidades de red para obtener acceso a ellos por medio de letras, Windows recuerda todas las asignaciones en el registro. elimine esta información usando esta opción.
+18040= Historial de Clics del Menú Inicio
+18041= Windows almacena la lista de los clics más recientes sobre elementos del Menú Inicio. Marque esta opción para limpiar la lista del "Historial de Clics sobre el Menú Inicio".
+18042= Mis Sitios de Red
+18043= Cuando utiliza Mis Sitios de Red para acceder a servidores remotos, todas sus acciones recientes se almacenan, y cualquiera puede ver qué sitios de red utiliza con solo mirar la lista de MRU ubicada en la carpeta Mis Sitios de Red. Marque esta opción para limpiarla.
+
+18044= Internet Explorer
+18045= Elimina el historial, las listas de más recientes (Listas MRU), archivos temporales de internet y otras evidencias dejadas por el Internet Explorer.
+18046= Internet Explorer - Historial de URL
+18047= Elimina su historial de las URL tecleadas en la barra de direcciones de Internet Explorer. Cuando se almacena este historial, Internet Explorer intenta adivinar el sitio web que se intenta visitar utilizando "Inteligencia". Cuando teclea www.gl - presentará www.glarysoft.com, o cualquier otra dirección que comience por www.gl que haya visitado anteriormente.
+18048= Historial de Internet Explorer
+18049= Elimina el historial de sitios web visitados utilizando Internet Explorer en su equipo.
+18050= Cookies de Internet Explorer
+18051= Los sitios web almacenan información en un pequeño archivo de texto, llamado "cookie", en su disco duro. Los Cookies contienen información sobre usted y sus preferencias. O simplemente contiene un registro de qué páginas ha visitado dentro del sitio web, para ayudar al sitio a personalizar su aspecto para usted en su siguiente visita. Puesto que algunos cookies son útiles, quizá desee mantenerlos. Clic en "Opciones" para seleccionar los cookies que necesite mantener. Todos los que no estén marcados serán borrados.
+18052= Formularios Inteligentes - Auto-Completar Contraseñas
+18053= Elimina el historial completo de auto-completar formularios y contraseñas en Internet Explorer. Si está configurado, Internet Explorer almacenará datos de formularios comunes, nombres de usuario y contraseñas. Éstas se harán accesibles de forma automática cuando regrese a los sitios desde los que se han guardado estos datos. El Borrador de Rastros elimina esta información y le protege frente a otros usuarios de su equipo que podrían identificarse en sus perfiles online.
+18054= Archivos Temporales de Internet
+18055= Borra todos los archivos temporales que Internet Explorer crea cuando usted visita sitios web o descarga contenido.
+18056= Complementos (Plug-ins)
+18057= Muchas de las aplicaciones de terceros mantienen un registro de los archivos más recientemente abiertos o ejecutados a través suyo. Usando estos plug-ins, usted puede librarse del historial MRU de muchas aplicaciones populares.
+
+18058= Mozilla Firefox
+18059= Elimina el historial, las listas de los usados más recientemente (Listas MRU), archivos temporales de internet y otras evidencias del navegador Firefox.
+18060= Mozilla Firefox - Historial
+18061= Elimina todas aquellas direcciones tecleadas en la barra de direcciones de Firefox.
+18062= Mozilla Firefox - Cookies
+18063= Elimina los cookies guardados en la carpeta caché de Firefox.
+18064= Mozilla Firefox - Caché de Internet
+18065= Elimina los archivos de internet ocultados por Firefox.
+18066= Mozilla Firefox - Información guardada de Formularios
+18067= Elimina los datos guardados por Firefox de los formularios que usted rellena en las páginas web.
+18068= Mozilla Firefox - Contraseñas Guardadas
+18069= Elimina los datos de contraseñas guardadas por Firefox cuando usted entra en las páginas web.
+18070= Mozilla Firefox - Historial del Gestor de Descargas
+18071= Elimina los rastros de los archivos recientemente descargados en el Gestor de Descargas.
+18072= Mozilla Firefox - Historial de Búsqueda
+18073= Elimina las cadenas a buscar tecleadas en la barra de Búsqueda de Firefox.
+
+18074= Borrando Rastros de %s. Esto puede llevar unos momentos...
+18075= Borrando Rastros de %s...
+
+18076= Archivos Index.dat
+18077= Los archivos Index.dat son archivos ocultos en su sistema que contienen todos los rastros de su actividad online, dónde ha estado usted en internet, qué sitios web ha visitado, lista de las URLs, archivos y documentos a los que ha accedido recientemente.
+18078= Buscando Rastros de %s. Esto puede llevar unos momentos...
+18079= Buscando Rastros de %s...
+18080= Creando Informe...
+18081= INFORME DEL ANÁLISIS
+18082= %s elementos a borrar en el registro de Windows.
+18083= %s (%s2 archivos) a eliminar.
+18084= Detalles de los archivos a borrar:
+18085= Analizar
+
+18086= Rastros
+18087= Resultado
+
+18088= Google Chrome
+18089= Elimina historial, listas de los más recientemente usados (Listas MRU), archivos temporales de internet y otras evidencias del navegador Google Chrome.
+18090= Google Chrome - Historial
+18091= Elimina todas aquellas direcciones tecleadas en la barra de dirección de Google Chrome.
+18092= Google Chrome - Cookies
+18093= Elimina las cookies guardadas en la carpeta caché de Google Chrome.
+18094= Google Chrome - Caché de Internet
+18095= Elimina los archivos de internet ocultados por Google Chrome.
+18096= Google Chrome - Información Guardada de Formularios
+18097= Elimina los datos guardados por Google Chrome de formularios que usted ha rellenado en páginas web.
+18098= Google Chrome - Historial de Descargas
+18099= Elimina rastros de los archivos recientemente descargados en el Gestor de Descargas.
+
+18100= Es muy recomendable que cierre %s antes de continuar. El Borrador de Rastros no puede borrar los rastros que estén siendo utilizados por otros programas.
+
+2101001= %s elementos marcados.
+2101002= No hay rastros marcados. Para analizar rastros, por favor marque los que desee analizar utilizando la casilla a la izquierda del nombre del rastro.
+
+2102001= Barra de Herramientas de Windows Live
+2102002= Elimina el historial reciente de búsquedas de la Barra de Herramientas de Windows Live.
+2102003= Barra de Herramientas Google
+2102004= Elimina el historial de búsquedas recientes de la Barra de Herramientas Google para Internet Explorer.
+2102005= Barra de Escritorio Google
+2102006= Elimina el historial de búsquedas recientes de la Barra de Escritorio de Google.
+2102007= Historial de Búsqueda de Kazaa
+2102008= Vacía el Historial de Búsqueda de Archivos de Kazaa.
+2102009= eMule
+2102010= Vacía el Historial de Búsquedas de eMule Search.
+2102011= MSN Messenger
+2102012= Elimina el historial caché de MSN Messenger.
+2102013= Sound Forge 6.0
+2102014= Elimina el historial del caché de Sound Forge 6.0.
+2102015= Fresh Download
+2102016= Elimina el historial de FreshDownload.
+2102017= Windows Media Player
+2102018= Elimina los Archivos Recientes, URLS, y el historial de películas y música de Windows Media Player.
+2102019= Real Player
+2102020= Limpia el historial de música y películas recientemente reproducidas con Real Player.
+2102021= Quicktime Player
+2102022= Limpia el historial de música y películas recientemente reproducidas con Quicktime Player.
+2102023= SWiSH
+2102024= Elimina el historial de los archivos recientemente abiertos desde SWiSH.
+2102025= Windows Movie Maker
+2102026= Elimina el historial de los archivos recientemente abiertos desde Windows Movie Maker.
+2102027= BSPlayer
+2102028= Elimina el historial de los archivos recientemente abiertos desde BSPlayer.
+2102029= Media Player Classic
+2102030= Limpia el historial de archivos de música y de películas recientemente reproducidos con Media Player Classic.
+2102031= Axialis IconWorkshop
+2102032= Elimina el caché y el historial de los archivos recientemente abiertos desde Axialis IconWorkshop.
+2102033= Ulead Smart Saver Pro 3.0
+2102034= Elimina el historial de los archivos recientemente abiertos desde Ulead Smart Saver Pro 3.0.
+2102035= Macromedia Flash Player
+2102036= Elimina el historial de los archivos recientemente abiertos desde Macromedia Flash Player.
+2102037= Macromedia Flash MX
+2102038= Elimina el historial de los archivos recientemente abiertos desde Macromedia Flash MX.
+2102039= Macromedia Flash 5.0
+2102040= Elimina el historial de los archivos recientemente abiertos desde Macromedia Flash 5.0.
+2102041= Macromedia Flash 4.0
+2102042= Elimina el historial de los archivos recientemente abiertos desde Macromedia Flash 4.0.
+2102043= Adobe Flash Player
+;2102044=
+2102045= AVI Preview
+2102046= Elimina el historial de los archivos recientemente abiertos desde AVI Preview.
+2102047= Paint Shop Pro 7.0
+2102048= Limpia el historial de archivos creados, abiertos o editados por Paint Shop Pro 7.0.
+2102049= Paint Shop Pro 8.0
+2102050= Limpia el historial de archivos creados, abiertos o editados por Paint Shop Pro 8.0.
+2102051= Paint Shop Pro 9.0
+2102052= Limpia el historial de archivos creados, abiertos o editados por Paint Shop Pro 9.0.
+2102053= Office XP
+2102054= Elimina el historial de los archivos recientemente abiertos desde Microsoft Office XP.
+2102055= Office 2000
+2102056= Elimina el historial de los archivos recientemente abiertos desde Microsoft Office 2000.
+2102057= Office 2003
+2102058= Elimina el historial de los archivos recientemente abiertos desde Microsoft Office 2003.
+2102059= Office 2007
+2102060= Elimina el historial de los archivos recientemente abiertos desde Microsoft Office 2007.
+2102061= MS Management Console
+2102062= Elimina el historial de los archivos recientemente abiertos desde MS Management Console.
+2102063= MS Wordpad
+2102064= Limpia el historial de archivos creados, abiertos o editados por WordPad.
+2102065= MS Paint
+2102066= Elimina el historial de los archivos abiertos desde Microsoft Paint.
+2102067= Microsoft Visual Basic 6.0
+2102068= Limpia el historial de archivos recientes por desarrolladores de Visual Basic 6.0.
+2102069= Remote Desktop
+2102070= Elimina los datos guardados en caché por Remote Desktop.
+2102071= PowerArchiver
+2102072= Limpia el historial de archivos comprimidos y descomprimidos por PowerArchiver.
+2102073= WinISO
+2102074= Limpia el historial de archivos abiertos por WinISO.
+2102075= WinRAR
+2102076= Limpia el historial de archivos comprimidos y descomprimidos por WinRAR.
+2102077= 7-Zip
+2102078= Limpia el historial de archivos comprimidos y descomprimidos por 7-Zip.
+2102079= WinZip
+2102080= Limpia el historial de archivos comprimidos y descomprimidos por WinZip.
+2102081= SpyBot Search and Destroy
+2102082= Elimina los datos guardados en caché por SpyBot Search and Destroy.
+2102083= WinAce 2.0
+2102084= Elimina en historial de WinAce.
+2102085= Norton AntiVirus
+2102086= Elimina los archivos de registros guardados por Norton AntiVirus.
+2102087= Adobe Acrobat Reader 5.0
+2102088= Elimina el historial de archivos PDF que ha estado viendo usando Acrobat 5.0.
+2102089= Adobe Acrobat Reader 6.0
+2102090= Elimina el historial de archivos PDF que ha estado viendo usando Adobe Acrobat 6.0.
+2102091= XML Spy
+2102092= Elimina el historial de los archivos XML que ha estado viendo usando XML Spy.
+2102093= Installshield Developer 7.0
+2102094= Limpia el historial de archivos abiertos por Installshield Developer 7.0.
+2102095= Macromedia Homesite 5.0
+2102096= Limpia el historial de archivos abiertos por Macromedia Homesite 5.0.
+2102097= Ahead Nero Burning ROM
+2102098= Limpia el historial de archivos y carpetas abiertos por Ahead Nero Burning ROM.
+2102099= ZipMagic
+2102100= Limpia el historial de archivos comprimidos y descomprimidos por ZipMagic.
+2102101= PicoZip
+2102102=Limpia el historial de archivos comprimidos y descomprimidos por PicoZip.
+
+
+[Memory Optimizer]
+21001= Optimizador de Memora
+21901= Administra y optimiza la memoria libre en segundo plano
+21002= Optimización
+21003= Optimización Manual
+21004= Gráfico de uso de memoria física:
+21018= %s%(%s2 MB) de %s3 MB Libres
+21005= Uso de CPU
+21006= Por favor, indique la cantidad de memoria que desea liberar y pulse 'Optimizar'.
+21007= Cantidad de memoria:
+21008= Optimizar
+21009= Limpiar portapapeles
+21010= Tamaño actual del portapapeles:
+21011= Permitir Auto Optimización
+21012= Optimizar automáticamente cuando la memoria libre sea:
+21013= Incrementar la memoria libre a:
+21014= SOLAMENTE optimizar si el uso de CPU está por debajo de :
+21015= Cargar automáticamente al iniciarse Windows
+21016= Recomendado
+21017= Optimizando...
+21019= Mostrar Ventana Principal
+
+[File Shredder]
+22001= Destructor de Archivos
+22901= Borra archivos de forma permanente para que nadie pueda recuperarlos
+22002= Utilidad para destruir datos delicados para que nadie pueda recuperarlos ni verlos. Esta herramienta utiliza el método más seguro American Dod 5220.22-M desarrollado por el Departamento de Defensa de US para eliminar datos de forma segura.
+22003= Tipo
+22012= Fecha de Modificación
+22004= Añadir Archivo(s)
+22005= Añadir Carpeta
+22006= Borrar Ahora
+22007= Repetir la operación de borrado:
+22008= Archivo Carpeta
+22009= Usted va a borrar todos los datos seleccionados en la lista. No podrá recuperar estos archivos utilizando herramienta alguna para recuperarlos. ¿Está seguro de que desea continuar?
+22010= Borrando
+22011= Borrados
+22019= Limpiar Espacio Libre
+22013= Cuando se borran y vacían archivos desde la papelera de reciclaje, realmente no se eliminan del disco duro. Estos archivos pueden ser fácilmente recuperados por programas de recuperación de datos. Para asegurar que sus archivos son totalmente borrados, debería limpiar el espacio libre de su disco duro periódicamente. Esta opción destruye aquellos archivos que han sido ya borrados, para que no puedan ser recuperados.
+22014= Seleccione la unidad de disco en la que desea limpiar el espacio libre :
+22015= Limpiar Ahora
+22016= Limpiando el espacio libre en %s
+22017= La operación ha sido cancelada por el usuario.
+22018= Operación completada con éxito.
+22020= Seleccione una carpeta de destino:
+22021= Por favor seleccione una unidad de disco.
+
+[Internet Explorer Assistant]
+23001= Asistente del Navegador
+23901= Gestiona los Complementos de Internet Explorer y recupera la configuración pirateada
+23002= BHOs de IE
+23003= Barras de Herramientas de IE
+23004= Barras de Exploración de IE
+23005= Menús Contextuales Extra de IE
+23006= Botones Extra de IE
+23007= ActiveX descargados en IE
+23008= Restaurar Pirateados
+23009= [Bloqueado]
+23010= Autor
+23011= Ruta de Acceso del Archivo
+23012= Comando
+23013= Bloquear este elemento
+23014= Desbloquear este elemento
+23015= Eliminar permanentemente este elemento
+23016= ¿Realmente desea restaurar %s ?
+23017= ¿Realmente desea bloquear %s en Internet Explorer?
+23018= ¿Realmente desea eliminar permanentemente %s en Internet Explorer?
+23019= Atención, falta archivo
+23020= Objetos de la Ayuda del Navegador
+23021= Barras de Herramientas de Internet Explorer
+23022= Barras de Exploración de Internet Explorer
+23023= Menús Contextuales Extra de Internet Explorer
+23024= Botones Extra de Internet Explorer
+23025= Programas ActiveX Descargados
+23026= Dañados
+23027= Instalados
+
+23028= Configuración
+23029= Configuración Actual
+23030= Restaurar Configuración a
+23031= Cambiar restaurar configuración a una nueva URL...
+23032= Restaurar
+23033= Predeterminado IE
+23034= ¿Realmente desea restaurar la configuración que ha seleccionado?
+23035= La configuración %s del navegador Internet Explorer han sido cambiadas con éxito.
+23036= Cambiar la Configuración de Recuperar de Internet Explorer
+23037= Cambiar la configuración de Recuperar Internet Explorer para %s. La URL en el campo de abajo es la URL predeterminada de Internet Explorer URL para esta configuración. Puede introducir otra página o URL diferente a la predeterminada en este campo.
+23038= Página de Inicio
+23039= Ésta es la URL de la página web que se mostrará cuando se abra una ventana nueva en Internet Explorer.
+23040= Página de Búsqueda
+23041= Éste es el motor de búsqueda predeterminado cuando usted pulse el botón Búsqueda en Internet Explorer.
+23042= URL de la Página Predeterminada
+23043= Ésta es la URL de la página predeterminada usada por Internet Explorer.
+23044= Página Local
+23045= Ésta es la página que se cargará si un sitio web no se encuentra cuando se introduce en la barra de direcciones de Internet Explorer.
+23046= Barra de Búsqueda
+23047= Ésta es la página que se mostrará cuando pulse en el icono de Búsqueda en Internet Explorer. La Barra de Búsqueda proporciona la capacidad de almacenar información detallada.
+23048= URL Predeterminada de Búsqueda
+23049= Ésta es la página que se mostrará cuando Internet Explorer intenta efectuar una búsqueda.
+23050= Página de Inicio (todos los usuarios)
+23051= Ésta es la página que se mostrará cuando se abra una ventana nueva en Internet Explorer.
+23052= Página de Búsqueda (todos los usuarios)
+23053= Éste es el motor predeterminado de búsqueda cuando pulse el botón de Búsqueda en Internet Explorer. Esto es para todos los usuarios de este equipo.
+23054= URL de la Página Predeterminada (todos los usuarios)
+23055= Ésta es la URL de la página predeterminada usada por Internet Explorer. Esto es para todos los usuarios de este equipo.
+23056= Página Local (todos los usuarios)
+23057= Ésta es la página que se cargará si un sitio web no se encuentra cuando se introduce en la barra de direcciones de Internet Explorer. Esto es para todos los usuarios de este equipo.
+23058= Barra de Búsqueda (todos los usuarios)
+23059= Ésta es la página que se mostrará cuando pulse en el icono de Búsqueda en Internet Explorer. La Barra de Búsqueda proporciona la capacidad de almacenar información detallada. Esto es para todos los usuarios de este equipo.
+23060= URL Predeterminada de Búsqueda (todos los usuarios)
+23061= Ésta es la página que se mostrará cuando Internet Explorer intenta efectuar una búsqueda.  Esto es para todos los usuarios de este equipo.
+23062= Búsqueda Personalizada (todos los usuarios)
+23063= Esta es la página que se muestra en casilla de búsqueda cuando efectúe una búsqueda personalizada. El Asistente de Búsqueda proporciona a los usuarios una búsqueda sencilla, unificada entre todos los tipos de búsqueda. Esta configuración es para todos los usuarios de este equipo.
+23064= Asistente de Búsqueda (todos los usuarios)
+23065= Esta es la página del asistente de Búsqueda mostrada por Internet Explorer. El Asistente de Búsqueda proporciona a los usuarios una búsqueda sencilla, unificada entre todos los tipos de búsqueda. Esta configuración es para todos los usuarios de este equipo.
+23066= URL de Búsqueda
+23067= Las URLs de Búsqueda son una forma conveniente de usar diferentes motores de búsqueda en Internet. Por ejemplo, puede efectuar la búsqueda de una URL llamada News para buscar los grupos online de noticias. Si teclea palabras clave en la barra de direcciones, automáticamente busca en los grupos online de noticias todos los artículos relacionados con estas palabras clave.
+23068= URL de Búsqueda (todos los usuarios)
+23069= Las URLs de Búsqueda son una forma conveniente de usar diferentes motores de búsqueda en Internet. Por ejemplo, puede efectuar la búsqueda de una URL llamada News para buscar los grupos online de noticias. Si teclea palabras clave en la barra de direcciones, automáticamente busca en los grupos online de noticias todos los artículos relacionados con estas palabras clave. Esto se aplica a todos los usuarios de este equipo.
+23070= Página en Blanco
+23071= La página no puede mostrarse - Ésta es la página que muestra Internet Explorer cuando no puede encontrar una página o sitio web.
+23072= Fallo en el Escritorio de Navegación
+23073= Ésta es la página que Internet Explorer muestra si su PC no puede acceder a Internet.
+23074= Navegación Cancelada
+23075= Ésta es la página que Internet Explorer muestra cuando usted cancela la navegación.
+23076= Fallo de Navegación
+23077= Ésta es la página que Internet Explorer muestra si su equipo pierde el acceso a Internet.
+23078= Información Offline
+23079= Ésta es la página que Internet Explorer muestra si su equipo no puede acceder a Internet o una página Web no está disponible o es offline.
+23080= Post Not Cached
+23081= Atención: La Página ha Expirado - Ésta es la página de aviso cuando Internet Explorer no puede leer contenido desde su caché. 
+
+[Process Manager]
+24001= Gestor de Procesos
+24901= Supervisa los procesos en ejecución y opcionalmente los detiene.
+24002= Nuevas Tareas(Ejecutar...)
+24003= Salir de Windows
+24004= Reiniciar el Equipo
+24005= Apagar el Equipo
+24006= Finalizar Proceso
+24007= Bloquear Proceso
+24008= Lista de Bloqueos
+24009= Ir a Google
+24010= Comentarlo
+24011= Mostrar Detalles
+24012= Nombre
+24013= Valoración
+24014= Ejecutable
+24015= Prioridad
+24016= Flujos (Threads)
+24017= CPU
+24018= Hora de CPU
+24019= Memoria
+24020= Empresa
+24021= Comenzado
+24022= Procesos
+24023= Establecer Prioridad
+24024= Tiempo real
+24025= Alto
+24026= Por encima de lo Normal
+24027= Normal
+24028= Por debajo de lo Normal
+24029= Bajo
+24030= ATENCIÓN: Cambiar la clase de prioridad de este proceso puede causar resultados no deseados, incluyendo inestabilidad del sistema. ¿Realmente desea cambiar la clase de prioridad?
+24031= Información General
+24032= Modules usados
+24033= Datos
+24034= Valor
+24035= Información del Proceso
+24036= ID
+24037= Archivo
+24038= Argumentos
+24039= Carpeta
+24040= Flujos (Threads)
+24041= Prioridad
+24042= Uso de Memoria
+24043= Comenzó
+24044= Iniciado por
+24045= Información de la Versión
+24046= Tipo de Archivo
+24047= Empresa
+24048= Descripción
+24049= Versión
+24050= Nombre Interno
+24051= Copyright
+24052= Marca Registrada
+24053= Nombre del Archivo Original
+24054= Nombre del Producto
+24055= Versión del Producto
+24056= Comentarios
+24137= Más seguro
+24139= Arriesgado
+24057= ¿Realmente desea finalizar el proceso %s?
+24058= ¿Realmente desea bloquear el proceso %s?
+24059= ¿Desea reiniciar el equipo ahora?
+24060= ¿Desea apagar el equipo ahora?
+24061= Procesos en Marcha:
+24062= Uso de CPU:
+24063= Uso de Memoria:
+24064= Servicio de Sistema
+24065= Reemplazar el Gestor de Tareas
+24066= Siempre a la vista
+
+[Context Menu Manager]
+25001= Gestor de Menú Contextual
+25901= Administra las entradas de menús contextuales para archivos, carpetas...
+25002= Archivos y Carpetas
+25003= Nuevo
+25004= Enviar a
+25005= Clic en la casilla junto al elemento para habilitarlo o inhabilitarlo. Para eliminarlo permanentemente, clic el botón '%s' de abajo.
+25006= No Encontrado
+25007= ¿Realmente desea eliminar '%s' permanentemente?
+25008= Todos los archivos(*)
+25009= Carpetas
+25010= Directorios
+25011= Discos
+25012= Carpetas de Música
+25013= Carpetas de Vídeo
+25014= Carpetas de Imágenes
+25015= Todos los Objetos de Archivos de Sistema
+25016= Mi PC
+25017= Papelera de Reciclaje
+25018= En segundo plano
+25019= Accesos directos
+
+[File Encrypter and Decrypter]
+27001= Codificador de Archivos
+27901= Protege sus archivos de accesos o uso no autorizados.
+27002= Codificar archivo
+27003= Descodificar archivo
+27004= Por favor, elija el archivo que desea codificar:
+27005= Contraseña para codificación:
+27006= Verificar Contraseña:
+27007= Indicio para Contraseña(Pregunta clave):
+27008= Crear un archivo EXE de auto-descodificación(La interfaz de usuario estará en inglés)
+27009= Borrar el archivo original después de la codificación con éxito
+27010= Codificar Ahora
+27011= Por favor, elija el archivo que desea descodificar:
+27012= Contraseña para descodificación:
+27013= Indicio de Contraseña
+27014= Extraer a:
+27015= Abrir la carpeta de destino después de la descodificación con éxito
+27016= Descodificar Ahora
+27017= Por favor, pulse el botón 'Buscar' para elegir un archivo que desee codificar
+27018= El archivo seleccionado no existe. Por favor elija otro.
+27019= Por favor, introduzca una contraseña que tenga entre 6 y 16 caracteres
+27020= Por favor, introduzca la misma contraseña en ambos campos
+27021= El siguiente archivo ya existe, ¿sobrescribirlo?
+27022= El archivo ha sido codificado a %s con éxito.
+27023= Archivos Codificados
+27024= El archivo seleccionado no fue codificado con este programa. Por favor elija otro.
+27025= Por favor, pulse el botón 'Buscar' para elegir un archivo que desee descodificar
+27026= El archivo seleccionado no existe. Por favor elija otro.
+27027= Por favor, seleccione la carpeta en la que desea guardar el archivo restaurado.
+27028= No se puede crear la carpeta de destino %s
+27029= El archivo %s ya existe ¿Sobrescribirlo?
+27030= El archivo ha sido descodificado a %s con éxito.
+27031= Contraseña incorrecta. Por favor inténtelo de nuevo.
+27032= Por favor, seleccione la carpeta en la que desea guardar el archivo restaurado.
+27033= Ha fallado la operación. Por favor inténtelo de nuevo.
+27034= Codificación en progreso. Esto puede tardar unos momentos. Por favor, espere...
+27035= Descodificación en progreso. Esto puede tardar unos momentos. Por favor, espere...
+27036= Este archivo está codificado por una versión antigua del programa. Para descodificarlo, descargue la versión antigua del programa de descodificación ¿Desea descargarlo?
+27037= El archivo codificado se ha guardado en:
+27038= Por favor seleccione la carpeta en la que desea guardar el archivo codificado.
+27039= La carpeta de destino no existe, si es que se ha creado
+27040= Abrir la carpeta de destino tras la codificación con éxito
+27041= Añadir Archivo(s)
+27042= Soporta arrastrar archivos.
+27043= Archivos Locales
+27044= Estado
+27045= Progreso
+27046= Archivo codificado
+27047= Listo
+27048= Esperando...
+27049= Codificando...
+27050= Codificado con éxito.
+27051= El archivo original no existe o ha sido borrado.
+27052= El archivo de destino ya existe.
+27053= No se puede borrar el archivo original.
+27054= Por favor, pulse el botón 'Añadir archivo(s)' para seleccionar el archivo que desea codificar o arrástrelo a la lista para codificar.
+27055= Si no desea codificar el archivo, seleccione e intente de nuevo.
+27056= Eliminar Archivo(s)
+>>>>>>> .r2315
+27057= Marcar Todos
+27058= No Marcar Ninguno
+27059= Invertir el Marcado
+27060= Eliminar el elemento seleccionado
+27061= ¿Desea eliminar el archivo seleccionado %s de la lista de codificación?
+
+[File Splitter and Joiner]
+28001= Divisor de Archivo
+28901= Divide archivos grandes en archivos más pequeños y manejables, para reunirlos después.
+28002= Dividir archivo
+28003= Unir archivos
+28004= Por favor, elija el archivo que desea dividir en otros más pequeños
+28005= Por favor, introduzca la ruta de la carpeta de destino en la que quiere almacenar el archivo dividido
+28006= Por favor, escoja el tamaño máximo para los archivos a crear
+28007= Disco flexible (1.44MB)
+28008= Disco Zip(TM) de 100MB
+28009= Disco Jaz(TM) de 1GB
+28010= DVD de cara sencilla de 4.7GB
+28011= Tamaño de archivo definido por el usuario
+28012= Aproximadamente se crearán %s archivos individuales.
+28013= Añada la Funcionalidad de Auto-Reunión al grupo de archivos divididos
+28014= Dividir Ahora
+28015= Por favor, seleccione uno de los archivos que desee unir al archivo original. Puede seleccionar cualquiera de los archivos, los otros se incluirán automáticamente.
+28016= Información del Grupo Dividido:
+28017= Por favor, introduzca la ruta de la carpeta de destino en la que desea ubicar el archivo restaurado.
+28018= Recomponer Ahora
+28019= No puede crearse el archivo %s
+28020= No puede abrirse el archivo %s
+28021= Por favor, pulse el botón 'Buscar' para elegir el archivo que desea dividir en otros más pequeños.
+28022= El archivo no existe. Por favor, pulse el botón 'Buscar' para elegir el archivo que desea dividir en otros más pequeños.
+28023= El archivo seleccionado ya tiene un tamaño inferior al tamaño máximo.
+28024= Por favor, pulse el botón 'Buscar' para elegir una carpeta de destino.
+28025= No puede crearse la carpeta de destino %s
+28026= No hay espacio suficiente en la unidad %s
+28027= El archivo se ha dividido con éxito en %s. El archivo original no se ha borrado.
+28028= Por favor, seleccione la carpeta en la que desea ubicar el archivo dividido
+28029= Archivos Divididos
+28030= Nombre de Archivo:
+28031= Tamaño:
+28032= Número de partes:
+28033= El archivo seleccionado no es parte de un grupo de archivos divididos. Por favor, elija otro.
+28034= No se encuentran los siguientes archivos menores:
+28035= El archivo ya existe. ¿Sobrescribir el archivo?
+28036= Archivo original reunido satisfactoriamente.
+28037= Por favor, seleccione la carpeta en la que desea ubicar el archivo restaurado.
+28038= Ha fallado la operación, Por favor, inténtelo de nuevo.
+28039= División del archivo en curso. Esto puede llevar unos momentos. Por favor, espere...
+28040= Reunión del archivo en curso. Esto puede llevar unos momentos. Por favor, espere...
+28041= Se ha añadido esta carpeta.
+
+[1-Click Maintenance]
+29001= Mantenimiento con 1-Clic
+29601= Limpiador de Registro
+29602= Reparador de Accesos directos
+29603= Gestor de Inicio
+29604= Limpiador de Archivos Temporales
+29605= Borrador de Rastros
+29606= Eliminador de Spyware
+
+10603= Repara entradas de registro no válidas o incorrectas
+10605= Limpia accesos directos no válidos
+10607= Limpia entradas de inicio peligrosas
+10609= Limpia archivos temporales y recupera espacio en disco
+10611= Borra el historial de su actividad y sus rastros en internet
+10613= Elimina spyware y adware
+10614= Analizando...
+10615= Mostrar detalles
+10616= Buscar Elementos
+10617= No se han encontrado problemas.
+10618= Encontrado 1 problema.
+10619= Encontrados %s problemas.
+10620= Encontrados %s archivos.
+10621= No se han encontrado archivos.
+10622= %s pistas seleccionadas.
+10623= 1 pista seleccionada.
+10624= No hay pistas seleccionadas.
+10625= Analizando...
+10626= Pulse 'Reparar Problemas' para continuar.
+10627= Reparar Problemas
+10628= Problemas resueltos.
+10629= Espacio Recuperado
+10630= Pistas Borradas.
+10631= Reparando...
+10632= Limpiando...
+10633= Borrando...
+10634= %s problemas reparados.
+10635= %s pistas borradas.
+10636= %s recuperado.
+10637= Por favor, seleccione los archivos que desea borrar.
+10638= Ver Archivos
+10639= Total %s arvchivos, %s2 recuperable.
+10640= Por favor, seleccione las pistas que desea borrar.
+10641= Por favor, seleccione las entradas del registro que desea reparar. Clic sobre un elemento con el botón secundario del ratón para ver opciones adicionales.
+10645= Por favor, seleccione las entradas de accesos directos que desea borrar. Clic sobre un elemento con el botón secundario del ratón para ver opciones adicionales.
+10642= Por favor, seleccione las entradas de inicio que desea borrar.
+10644= Por favor, seleccione las entradas que desea borrar.
+10643= Cancelar 1-Click Maintenance
+10646= Repetir Exploración
+10647= Por favor, pulse sobre "Reparar Problemas" para continuar. Pulse sobre "Repetir Exploración" para buscar problemas de nuevo.
+
+[Glary Undelete]
+31001= Recuperar Archivos
+31901= Rápida y eficaz forma de recuperar archivos accidentalmente borrados
+31002= Buscar
+31003= Filtrar
+31004= Carpetas
+31005= Tipos de Archivo
+31006= Nombre
+31007= Estado
+31008= Ruta Original
+31009= Tamaño
+31010= Tipo
+31011= Última Modificación
+31012= Restaurar
+31013= Explorando discos. Por favor, espere...
+31014= Seleccione una carpeta a buscar:
+31015= Muy bien
+31016= Bien
+31017= Medio
+31018= Pobre
+31019= Sobrescrito
+31020= Seleccionar una carpeta de destino:
+31021= Restaurar a la misma unidad de disco puede reducir la posibilidad de recuperar con éxito. ¿Está seguro de que desea continuar?
+31022= ya existe en la carpeta %s. ¿Desea sobrescribirlo?
+31023= ya existen en la carpeta %s. ¿Desea sobrescribirlos?
+31024= Filtro: ON
+31025= Filtro: OFF
+31026= Elementos Encontrados: %s, Seleccionados: %s2
+31027= Buscando
+31028= Proceso en curso: %s%, %s2 archivos encontrados.
+31029= No se puede iniciar la búsqueda: %s
+31030= Restaurando %s..., %s2 archivos recuperados.
+31031= No se puede crear el archivo %s
+31032= Por Nombre de Archivo
+31033= Todo o parte del nombre del archivo. Puede usar comodines, p.ej. *.doc
+31034= ? Coincidir uno cualquiera
+31035= * Coincidir cualquier cantidad de cualquiera
+31036= Por Tamaño
+31037= Más de
+31038= Menos de
+31039= Por Fecha
+31040= Desde
+31041= a
+31042= Por Estado
+31043= Todos los Tipos
+
+31044= No hay vista previa disponible
+31045= Vista previa
+31046= Clic para Agrandar
+31047= Clic para Cerrar
+31048= Disco Local
+
+[Registry Defrag]
+32001= Desfragmentar el Registro
+32901= Desfragmenta el registro de Windows para acelerar su PC
+32002= Bienvenido a Desfragmentar el Registro
+32003= El Registro de Windows puede fragmentarse con el paso del tiempo, ocupando más espacio en su disco duro del necesario y ralentizando el tiempo de arranque. Desfragmentar el Registro compacta y optimiza el registro de Windows eliminando espacios vacíos innecesarios o desperdiciado. Esto puede mejorar mucho el rendimiento de su PC.
+32004= - Reduce fragmentación
+32005= - Corrige errores estructurales
+32006= - Recupera espacio de memoria sin utilizar
+32007= Pulse 'Siguiente' para analizar el grado de fragmentación.
+32008= Tamaño tras la optimización:
+32009= Diferencia de tamaño:
+32010= Desfragmentar el Registro puede reducir el tamaño de su registro en %s
+32011= Pulse 'Siguiente' para comenzar la desfragmentación (se requerirá Reiniciar). Pulse 'Cancelar' si no desea optimizar su registro o si desea optimizarlo más tarde.
+32012= Desfragmentar el Registro ha detectado que no se requiere desfragmentar en este momento. Se recomienda que desfragmente el registro al menos una vez al mes..
+32013= Pulse 'Cerrar' para dejar de usar este programa
+32014= ATENCIÓN: Desfragmentar el Registro requiere que no haya programas en marcha durante el análisis del registro.
+32015= Por favor, guarde todo su trabajo y cierre los programas en marcha antes de proceder.
+32016= Por favor, inhabilite también su programa antivirus durante el análisis. Normalmente los Cortafuegos no necesitan inhibirse.
+32017= Después de que haya cerrado todos los programas, pulse OK para continuar.
+32018= La Desfragmentación no es posible, porque parte del registro está protegido contra modificaciones. Para resolver esto, puede cerrar todos los programas en marcha, inhabilitar su antivirus y la protección anti-spyware y probar de nuevo. No olvide habilitar las protecciones antivirus y anti.spyware tras la desfragmentación del registro.
+32019= ATENCIÓN: El PC debe reiniciarse para completar la optimización.
+32020= ¿Desea optimizar ahora?
+32021= Analizando el registro
+32022= Por favor, espere...
+32023= Su PC puede no reaccionar por unos minutos mientras el análisis se completa. Puede detener el proceso pulsando la tecla Esc...
+32024= El Registro de Windows ha sido optimizado con éxito.
+
+[System Information]
+33001= Información del Sistema
+33901= Recopila información sobre su hardware y software
+33002= Crear Informe
+33003= Crear Informe(TODO)
+33004= Vista previa
+33005= Sistema Operativo
+33006= Dispositivos de Sistema
+33007= Memoria
+33008= Discos
+33009= Monitor
+33010= Red
+33011= Otros Dispositivos
+33012= General
+33013= Procesador
+33014= Placa Base
+33015= Versión de Windows 
+33016= Fecha de Instalación
+33017= Display
+33018= Monitor
+33019= Adaptador de Vídeo
+33020= Entrada
+33021= Ratón
+33022= Teclado
+33023= Unidad de Disco
+33024= Discos DVD/CD-ROM
+33025= Propiedades del Sistema Operativo
+33026= Nombre del OS
+33027= Idioma del OS
+33028= Versión del OS
+33029= Propietario Registrado
+33030= Organización Registrada
+33031= ID del Producto
+33032= Clave del Producto
+33033= Fecha de Instalación del OS
+33034= Raíz del OS
+33035= Sesión Actual
+33036= Nombre del PC
+33037= Nombre del Usuario
+33038= Dominio de Entrada
+33039= Tiempo en marcha
+33040= Versión de los Componentes
+33041= Internet Explorer
+33042= Windows Media Player
+33043= DirectX
+33044= Carpetas de Sistema
+33045= Carpetas compartidas
+33046= Placa Base
+33047= Nombre de la Placa Base
+33048= Fabricante de la Placa Base
+33049= Propiedades de la BIOS
+33050= Versión de la BIOS
+33051= Fecha de la BIOS de Sistema
+33052= Fecha de la BIOS de Vídeo
+33053= Propiedades de la CPU
+33054= Identificación de la CPU
+33055= Nombre Genérico de la CPU
+33056= Fabricante de la CPU
+33057= Número de Serie
+33058= Frecuencia de la CPU
+33059= Código Caché L1
+33060= Data Caché L1
+33061= Caché L2
+33062= Zócalo de CPU
+33063= Paquete por Núcleo
+33064= electrónica por Núcleo
+33065= Detalles de Configuración
+33066= Uso de la CPU
+33067= Historial de Uso de la CPU
+33068= Memoria Física
+33069= Memoria Virtual
+33070= Memoria Total
+33071= Memoria Libre
+33072= Memoria Utilizada
+33073= Memoria Seleccionada
+33074= Aplicación
+33075= Uso de la Memoria
+33076= Ruta de Acceso
+33077= Detalles del Volumen
+33078= Letra del Disco
+33079= Tipo de Dispositivo
+33080= Número de Serie
+33081= Sistema de Archivos
+33082= Bytes Totales
+33083= Bytes Libres
+33084= Bytes Utilizados
+33085= Sistema de Archivos
+
+33086= Compresión de Archivos Habilitada
+33087= El Volumen está Comprimido
+33088= Nombre Largo de Archivos Habilitado
+33089= Nombre Unicode de Archivos Habilitado
+33090= Sistema de Archivos Codificados
+
+33091= Información de la Electrónica
+33092= Número de Zócalos (Clusters)
+33093= Zócalos Libres
+33094= Zócalos Utilizados
+33095= Bytes por Zócalo
+33096= Sectores por Zócalo
+33097= Sectores Utilizados
+33098= Sectores Libres
+
+33099= Destalles de Configuración
+33100= Bytes por Sector
+33101= Total Sectores
+
+33102= Espacio Total en Disco
+33103= Espacio Libre en Disco
+33104= Espacio Utilizado en Disco
+
+33105= Propiedades del Adaptador de Vídeo
+33106= Descripción del Dispositivo
+33107= Cadena del Adaptador
+33108= Cadena en la BIOS
+33109= Tipo de Chip
+33110= Tipo de DAC
+33111= Fecha del Driver
+33112= Versión del Driver
+33113= Suministrador del Driver
+33114= Tamaño en Memoria
+
+33115= Propiedades del Monitor
+33116= Nombre del Monitor
+33117= Modelo
+33118= Fecha de Fabricación
+33119= Número de Serie
+33120= Tamaño Máx. Visible del Monitor
+33121= Gamma
+
+33122= Modelo de Vídeo Soportado
+
+33123= Descripción del Adaptador de Red
+
+33124= Propiedades del Adaptador de Red
+33125= Adaptador de Red
+33126= Tipo de Interfaz
+33127= Dirección del Hardware
+33128= Nombre de la Conexión
+33129= Velocidad de Conexión
+33130= MTU
+33131= Bytes Recibidos
+33132= Bytes Enviados
+
+33133= Direcciones de los Adaptadores de Red
+33134= Máscara IP/Subnet
+33135= Puerto
+33136= DNS
+
+33137= Datos Recibidos
+33138= Datos Enviados
+
+33139= Dispositivos de Audio
+33140= Puertos
+33141= USB
+33142= Controlador USB
+33143= Impresoras
+
+33144= Nombre
+33145= Valor
+
+33148= Carpetas de Sistema
+33149= Carpetas Compartidas
+33150= Clic secundario en una carpeta para abrirla en Windows Explorer
+33151= Abrir Carpeta
+33152= Propiedades
+33153= SEC
+33154= (%s Horas %s2 Minutos %s3 Segundos)
+
+[GLARYUTILITIES]
+1001001= Restaurar
+1001002= Realimentación
+1001003= Minimizar
+1001004= Versión:
+30021= Versión %s disponible. ¡Actualice ahora!
+
+[OVERVIEW]
+1002001= Vista Previa
+1002002= Activar mantenimiento automático
+1002003= Borrar rastros de privacidad al cerrar Windows
+1002004= Comprobar actualizaciones cuando se inicie el programa
+1002005= Activar limpieza y reparación a fondo
+1002006= Hora de Inicio de Windows
+1002007= Inhabilitar innecesarios programas en arranque para hacer el inicio de Windows más rápido
+1002008= Gestor de Inicio
+1002009= Está utilizando %s
+1002010= Suba de categoría ahora
+1002011= Compartir mi tiempo de inicio de Windows
+1002012= Horas
+1002013= Minutos
+1002014= Segundos
+1002015= Seleccione Pistas
+1002016= Autorizado a:
+1002017= Gestione la Licencia
+1002018= Expirado
+
+[ONECLICK]
+1003001= Reparar Disco
+1003002= Desfragmentar el Registro
+1003003= Inmunizar ante Malware
+1003004= Optimizar del Sistema
+1003005= Desfragmentar los Discos Duros
+
+[ADVANCED TOOLS]
+1004001= Herramientas Avanzadas
+1004002= Registro de Windows
+1004003= Reparar
+1004004= Desfragmentar
+1004005= Hacer Copia de Seguridad
+1004006= Restaurar
+   
+1004007= Espacio en Disco
+1004008= Limpiar
+1004009= Eliminar duplicados
+1004010= Eliminar carpetas vacías
+1004011= Eliminar accesos directos rotos
+1004012= Explorar discos
+   
+1004013= Retoques al Sistema
+1004014= Retoques al Sistema
+1004015= Optimizar arranque del sistema
+1004016= Liberar memoria
+1004017= Acelerar internet
+1004018= Modo Turbo
+   
+1004019= Privacidad
+1004020= Borrar historial
+1004021= Destruir archivos
+1004022= Limpiar espacio libre
+1004023= Codificar archivos
+   
+1004024= Unidades de disco
+1004025= Copia de seguridad
+1004026= Restaurar
+1004027= Desinstalar
+1004028= Buscar actualizaciones
+   
+1004029= Gestión de archivos
+1004030= Dividir archivos
+1004031= Restaurar archivos borrados
+1004032= Búsqueda rápida
+   
+1004033= Discos duros
+1004034= Desfragmentar
+1004035= Desfragmentar arranque
+1004036= Comprobación de errores
+   
+1004037= Control del Sistema
+1004038= Elementos de inicio
+1004039= Servicios
+1004040= Tareas programadas
+1004041= Menús contextuales
+1004042= Procesos
+1004043= Auxiliar del navegador
+   
+1004044= Estado del Sistema
+1004045= Información del Sistema
+1004046= Haga copia de seguridad de su PC
+1004056= Reparar archivos de Sistema
+1004047= Restaurar Sistema
+1004048= Deshacer cambios
+   
+1004049= Anti-malware
+1004050= Eliminar malware
+1004051= Inmunizar
+   
+1004052= Programas
+1004053= Desinstalar
+1004054= Buscar actualizaciones
+1004055= Buscar más software
+1004057=
+
+[QUICKLAUNCHBAR]
+1005001= Clic +/- para añadir o eliminar un elemento de la barra de tareas    
+1005002= Ya existe aquí
+1005003= No hay suficiente espacio en la barra, puede eliminar uno pulsando en -
+
+[SKINSCENTER]
+1006001= Centro de Apariencias
+1006002= Librería de Imágenes
+1006003= Colores Sólidos
+1006004= El siguiente archivo ya existe, ¿sobrescribirlo?
+1006005= Todos los archivos soportados
+
+
+[CHECKDISK]
+2400001= Comprobar Disco
+2401001= Por favor, seleccione el disco a comprobar
+2401002= Reparar automáticamente los errores del sistema de archivos
+2401003= Buscar e intentar recuperar sectores malos
+2401004= Comprobar Disco
+2401010= Nombre de la Unidad
+2401011= Último Análisis
+2401012= Estado
+2401013= Análisis
+2401014= Informe
+2401015= Listo
+2401016= Necesita Comprobar
+2401017= Comprobando %s
+2401018= Comprobación de Disco Interrumpida
+2401019= Errores encontrados
+2401020= No se han encontrado errores
+2401021= Error de Comprobación de Disco
+2401022= Esconder Detalles
+2401023= Mostrar Detalles
+2401024= Comprobar Disco inspecciona su unidad y su sistema de archivos en busca de errores.
+2401025= Los errores detectados serán automáticamente reparados para evitar perdida de datos.
+2401026= Opciones
+;2401027= Reparar automáticamente los errores del sistema de archivos
+;2401028= Buscar e intentar recuperar sectores malos
+2401029= Iniciar Comprobación
+2401030= Detener
+2401031= Ha fallado la comprobación de disco programada.
+2401032= Comprobar Disco estaba programada para el próximo arranque de su PC.
+2401033= No se ha ejecutado Comprobar Disco.
+2401034= Comprobar Disco cancelada.
+2401035= Comprobar Disco Interrumpida.
+2401036= Comprobar Disco completada. No se han encontrado errores.
+2401037= Comprobar Disco ha encontrado los siguientes %s errores de disco:
+
+2403001= Comprobando Disco %s
+2403002= Ejecutar esto para los próximos %s conflictos
+2403003= Se omitirá en %s segundos.
+
+2405001= Función no encontrada.
+2405002= Comprobación de Disco ha sufrido un error. Necesita reiniciar la aplicación.
+2405003= Comprobando sistema de archivos en %s
+2405004= El tipo de sistema de archivos es %s.
+
+2406001= Guardar Informe
+
+2407001= Resultado
+2407002= Programar comprobación de disco
+2407003= Reiniciar ahora
+2407004= Mostrar informe
+2407005= Windows reparará el disco en el siguiente arranque.
+
+2408001= Windows no puede comprobar el disco mientras está en uso
+2408002= Forzar un desmantelamiento\n¿Desea desmantelar esta unidad antes? Nota: Todas las referencias abiertas para esta unidad se invalidarán.
+2408003= Programe comprobación de disco\n¿Desea buscar errores de disco duro la próxima vez que inicie su PC?
+2408004= Ignorar
+
+[RESTORE CENTER]
+
+2602001= Creando un punto de restauración...
+2603001= Introduzca una descripción para ayudarle a identificar el punto de restauración. La fecha y hora actuales se añadirán de forma automática.
+2603002= Crear
+2603003= Por favor, introduzca la descripción.
+2604001= Preparando para restaurar su sistema ...
+2605001= Restaurados %s elementos.
+
+
+[SETTINGS]
+2801001= Configuración General
+2801002= Los elementos de abajo se ignorarán cuando efectúe una comprobación.
+2801003= Adicional
+2801004= Seguir su rastro por el registro para identificar, sugerir y reparar errores.
+2801005= Mostrar Sugerencias en la Barra de Tareas
+2801006= Múltiples actuadores definidos
+2801007= Tarea no programada
+
+
+[Quick Search]
+3700001= Búsqueda Rápida
+3700002= 
+
+//frmMain
+3701001= Archivo
+3701002= Editar
+3701003= Ver
+3701004= Ayuda
+3701005= Abrir
+3701006= Abrir Carpeta
+3701007= Exportar
+3701008= Cerrar
+3701009= Copiar
+3701010= Ruta Coincidente
+3701011= Opciones
+3701012= Tamaño de Texto
+3701013= Organizar Iconos por
+3701014= Refrescar
+3701015= Incrementar
+3701016= Reducir
+3701017= Normal
+3701018= Nombre
+3701019= Ruta
+3701020= Tamaño
+3701021= Fecha Modificada
+3701022= Página Inicial
+3701023= Acerca de
+3701024= Modificar Categoría
+3701025= Mostrar Todos
+3701026= Accesos directos
+3701027= Documentos   
+3701028= Imágenes        
+3701029= Vídeos        
+3701030= Música
+3701031= Programador 
+3701032= Mostrar %s archivos
+3701033= Incluir Archivo 
+3701034= Incluir Directorio
+3701035= %s elementos encontrados
+3701036= Explorando %s ...
+3701037= Tipo   
+3701038= Descripción del archivo 
+3701039= Versión del archivo 
+3701040= Versión del producto 
+3701041= Nombre de la empresa 
+3701042= Archivo de texto(*.txt)|*.txt|Todos los Archivos(*.*)|*.*
+3703043= El archivo existe
+3703044= Sugerencias
+
+//frmSetting
+3702001= Opciones
+3702002= Categoría
+3702003= General
+3702004= Comenzar automáticamente al inicio de Windows
+3702005= Doble-clic en tecla 'Ctrl' para esconder o mostrar la ventana de búsqueda
+3702006= Idioma:
+3702007= Nombre de la Categoría
+3702008= Extensiones del Archivo
+3702009= Añadir
+3702010= Modificar
+3702011= Eliminar
+3702012= OK
+3702013= Cancelar
+3702014= Por favor, seleccione una categoría
+3702015= Esta categoría no puede ser borrada
+
+//frmGroupSetting
+3703001= Nombre de la Categoría:
+3703002= Extensiones de Archivo:
+3703003= Extensión del Archivo:
+3703004= Extensión
+3703005= Tipo de Archivo
+3703006= Introducir extensión(*.doc)
+3703007= El Nombre de la Categoría no puede estar vacío.
+3703008= Las extensiones de Archivo no pueden estar vacías.
+3703009= El Nombre de la Categoría %s ya existe. Por favor vuelva a introducir el nombre.
+3703010= Añadir una Categoría
+3703011= Modificar una Categoría
+
+//UnitFunction
+3704001= No hay texto en el Portapapeles.
+
+//frmAbout
+3705001= Acerca de
+3705002= Versión:
+3705003= Sitio web:
+3705004= Copyright @ 2013, Glarysoft ltd. Todos los derechos reservados
+
+//tray icon
+3706001= Abrir Búsqueda Rápida
+
+//Task
+3707001= Búsqueda Rápida de Glary Utilities 3
+
+[Disk Defrag]
+3400001= Desfragmentar Disco
+3400002= Discos para mejorar el rendimiento del PC
+
+//frmMain
+3401001= Nombre del Disco
+3401002= Sistema de Archivos
+3401003= Capacidad
+3401004= Espacio Libre
+3401005= Fragmentado
+3401006= Estado
+3401007= Desfragmentar en Arranque 
+3401008= Archivo
+3401009= Herramientas
+3401010= Ayuda
+3401011= Desfragmentar un archivo...
+3401012= Desfragmentar una carpeta...
+3401013= Analizar
+3401014= Desfragmentar
+3401015= Desfragmentar y Optimizar (más lento, úselo una vez por semana)
+3401016= Salir
+3401017= Prioridad
+3401018= Prioridad Baja
+3401019= Prioridad Normal
+3401020= Prioridad Alta
+3401021= Opciones
+3401022= Página inicial
+3401023= Comprobar Actualizaciones
+3401024= Acerca de
+3401025= Desfragmentar
+3401026= Analizar
+3401027= Desfragmentar y Optimizar (más lento, úselo una vez por semana)
+3401028= Pausar
+3401029= Continuar
+3401030= Detener
+3401031= Apagar el PC tras la desfragmentación
+3401032= Seleccionar Todo
+3401033= No Seleccionar Ninguno
+3401034= Condición
+3401035= Informe
+3401036= Espacio Usado
+3401037= Espacio Libre
+3401038= Procesando
+3401039= Espacio Libre
+3401040= Espacio Usado
+3401041= No Fragmentado
+3401042= Archivos Inamovibles
+3401043= Archivos Fragmentados
+3401044= Trabajando
+3401045= Zonas Reservadas MFT
+3401046= Listo
+3401047= Analizando
+3401048= Desfragmentando
+3401049= Optimizando
+3401050= Analizado
+3401051= Desfragmentado
+3401052= Optimizado
+3401053= Análisis Completado
+3401054= Desfragmentación Completada
+3401055= Optimización Completada
+3401056= Análisis Interrumpido
+3401057= Desfragmentación Interrumpida
+3401058= Optimización  Interrumpida
+3401059= Desfragmentar en Arranque está activado en esta unidad.
+3401060= Desfragmentar en Arranque no está activado en esta unidad.
+3401061= Apagar
+3401062= Encender
+3401063= Configurar
+3401064= Desfragmentar archivo de página, archivo de hibernación
+3401065= Desfragmentar MFT
+3401066= Desfragmentar archivos de sistema
+3401067= Historial de Desfragmentación en Arranque (Doble Clic para ver detalles)
+3401068= Fecha
+3401069= Tamaño Total
+3401070= Desfragmentado
+3401071= Total Archivos && Dirs:
+3401072= Fragmentos:
+3401073= Porcentaje de Fragmentación:
+3401074= Nombre de Archivo
+3401075= Fragmentos
+3401076= Tamaño
+3401077= Ruta
+3401078= Si
+3401079= No
+3401080= archivo(s)
+3401081= Seleccione Carpeta
+3401082= Sugerencia
+3401083= Desfragmentador de Disco sigue en marcha.
+3401084= Unidad desconocida
+3401085= El directorio raíz no puede incluirse en la lista de exclusiones. Por favor, seleccione otro directorio.
+3401086= Invertir la Selección
+3401087= Detener Uno
+3401088= Detener Todos
+
+//frmOption
+3402000= Opciones
+3402001= General
+3402002= Desfragmentar
+3402003= Auto desfragmentar
+3402004= Programar
+3402005= Desfragmentar en Arranque
+3402006= Optimizar
+3402007= Excluir
+3402008= Idioma:
+3402009= Comenzar automáticamente al iniciar Windows
+3402010= Minimizar a bandeja cuando cierre la ventana del programa
+3402011= Mostrar globo de sugerencias cuando se minimice a la bandeja
+3402012= Integrar Desfragmentar Disco en el menú contextual de Windows Explorer
+3402013= Automáticamente comprobar actualizaciones
+3402014= Desfragmentación simultánea de discos
+3402015= Predeterminado
+3402016= Desfragmentación Inteligente
+3402017= Aurora
+3402018= Windows Standard
+3402019= Accesibilidad
+3402020= Rainbow
+3402021= Sea Breeze
+3402022= Solamente desfragmentar archivos que:
+3402023= Tienen fragmentos más pequeños que
+3402024= Tienen más que
+3402025= Son mayores que
+3402026= Son menores que
+3402027= fragmentos
+3402028= Trasladar los archivos grandes al final de la unidad
+3402029= Mínimo tamaño de archivo:
+3402030= Archivos a los que no se accedió en el último mes
+3402031= Archivos en la papelera de reciclaje
+3402032= Archivos de los tipos seleccionados
+3402033= Categoría
+3402034= Tipo
+3402035= Añadir
+3402036= Editar
+3402037= Borrar
+3402038= Excluir los archivos que no desea desfragmentar. p.ej. archivos de vídeo. {#13#10}Esto acelerará la desfragmentación. 
+3402039= Añadir Archivos
+3402040= Añadir carpeta
+3402041= Autodesfragmentar está Desactivado
+3402042= Autodesfragmentar está Activado
+3402043= Cuando auto-desfragmentar está activo, desfragmentará su disco duro automáticamente para mantener el PC a máxima velocidad.
+3402044= Auto desfragmentar cuando el sistema esté inactivo durante %s minuto(s)
+3402045= Pausar cuando el uso de la CPU o del disco exceda %s%
+3402046= Unidades de disco
+3402047= Última desfragmentación:
+3402048= Archivos desfragmentados:
+3402049= Activar con programación
+3402050= Acción:
+3402051= Frequency:
+3402052= Hora:
+3402053= Solamente Desfragmentar
+3402054= Desfragmentar y Optimizar
+3402055= Diariamente
+3402056= Una vez por semana
+3402057= Una vez al mes
+3402058= Lunes
+3402059= Martes
+3402060= Miércoles
+3402061= Jueves
+3402062= Viernes
+3402063= Sábado
+3402064= Domingo
+3402065= Activar Desfragmentar en Arranque
+3402066= Modelo de Desfragmentación:
+3402067= Método:
+3402068= Todos los días en el arranque
+3402069= En el primer Arranque de todos los días
+3402070= En el primer Arranque cada %s día(s)
+3402071= Máximos Archivos de informe:
+3402072= Ejecutar Check Disk (Chkdsk) antes de la desfragmentación en el arranque 
+        
+3402073= Desfragmentación Avanzada
+3402074= Desfragmentación Rápida
+3402075= Seleccionar Carpeta
+3402076= Por favor, marque la unidad que desea desfragmentar.
+3402077= Sugerencias
+3402078= Por favor, seleccione una categoría 
+3402079= ¿Realmente desea eliminar esta categoría?
+3402080= Añadir categoría de Archivo
+3402081= Editar Categoría de Archivo
+3402082= OK
+3402083= Cancelar
+3402084= La Desfragmentación en el Arranque se efectúa sobre archivos que no se pueden trasladar sin peligro mientras Windows está ejecutándose.
+
+//frmConfig
+3403001= Archivos
+3403002= Películas
+3403003= Imágenes en Disco
+
+//frmCategory
+3404001= El nombre de la Categoría no puede estar vacío. 
+3404002= Error de formato de Tipo. Por ejemplo: (*.doc/*.doc,...,*.Txt).
+
+//frmFileType
+3405001= Categoría: 
+3405002= Tipo:
+3405010= El nombre de Categoría %s ya existe. por favor, vuelva a escribir el nombre de la Categoría.
+
+[SpyRemover]
+2701001= Eliminador de Malware
+2701002= Eliminador de Malware
+2701003= Exploración rápida y eliminar spyware and adware
+2701004= Explorar
+2701005= Eliminar
+2701006= Restaurar
+2701007= Volver a Explorar
+2701008= Por favor, seleccione una copia de seguridad que desee restaurar y pulse el botón 'Restaurar'.
+2701010= Tipo
+2701011= Estado
+2701012= Copias de Seguridad
+2701013= ¿Desea realmente restaurar %s al registro del sistema?
+2701014= %s ha sido restaurado con éxito al registro.
+2701015= Explorando %s
+2701016= Archivos examinados: %s
+2701017= El Malware ha sido limpiado con éxito.
+2701018= Restaurar
+2701019= Buscar Malware
+2701020= Exploración Completada
+2701021= Encontrados %s malwares
+2701022= No se ha encontrado malware
+2701023= Encontrado 1 malware
+2701024= No hay elementos marcados
+2701025= %s elemento marcado
+2701026= %s elementos marcados
+2701027= Información del Malware
+2701028= No se ha encontrado Malware.
+2702001= Detalles
+2702002= Por favor seleccione las entradas que desea borrar.
+	 
+[BOOT TIME]
+2901001= Solamente como referencia.
+2901002= El tiempo de Arranque de Windows es Muy Lento, %s de usuarios son más lentos.
+2901003= El tiempo de Arranque de Windows es Más Lento, %s de usuarios son más lentos.
+2901004= El tiempo de Arranque de Windows es General, %s de usuarios son más lentos.
+2901005= El tiempo de Arranque de Windows es Rápido, %s de usuarios son más lentos.
+2901006= El tiempo de Arranque de Windows es Muy Rápido, %s de usuarios son más lentos.
+2901007= Fallos al leer datos, el valor de referencia no se puede calcular.
+2901008= Obteniendo el tiempo de arranque. Por favor, espere...
+
+[DRIVER BACKUP]
+2200001= Gestor del Driver
+2201001= Copia de Seguridad
+2201002= Desinstalar
+2201003= Restaurar
+
+2201004= Seleccione los drivers que desea instalar y pulse "Restaurar".
+2201005= Seleccione los drivers que desea desinstalar y pulse "Desinstalar".
+2201006= Elija la carpeta de destino en la que ha guardado el archivo de copia de seguridad:
+2201007= Guardar la copia de seguridad en:
+2201008= Copia de seguridad de Driver
+2201009= La creación de %s ha fallado.
+2201010= ¿Realmente desea desinstalar este dispositivo?
+2201011= Nombre del Dispositivo
+2201012= Versión
+2201013= Fecha de la Copia de Seguridad
+2201014= Su PC puede necesitar reiniciarse.
+
+
+[Software Update]
+4000001= Actualización de Software
+4000002= 
+
+4001001= Lea más...  
+4001002= Cancelar
+4001003= Continuar
+4001004= Ejecutar Actualizar Software cuando Windows arranque
+4001005= Explorar
+4001006= Volver a Explorar
+4001007= 100% de la exploración completado.
+4001009= 
+4001010= Listo para iniciar...
+4001011= Explorando el PC...
+4001012= Enviando datos para su análisis ...
+4001013= Abriendo los resultados...
+4001014= Pulsar el botón 'Explorar' para buscar en su PC el software instalado.
+4001015= Visite www.glarysoft.com
+4001016= Restore from tray
+4001017= Salir
+4001019= Pulse sobre este mensaje para ver más.
+4001020= Ver detalles
+4001021= Buscar actualizaciones
+
+4001022= Tiene 1 nueva actualización disponible.
+4001023= Tiene %s nuevas actualizaciones disponibles. 
+4001024= Tiene 1 actualización versión beta disponible. 
+4001025= Tiene %s actualizaciones versión beta disponibles. 
+
+4001026= Tiene 1 nueva actualización y 1 actualización beta disponibles.
+4001027= Tiene 1 nueva actualización y %s actualizaciones beta disponibles. 
+4001028= Tiene %s nuevas actualizaciones y 1 actualización beta disponibles.  
+4001029= Tiene %s nuevas actualizaciones y %s2 actualizaciones beta disponibles.
+4001030= Actualmente no hay actualizaciones disponibles.

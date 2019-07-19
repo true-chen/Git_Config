@@ -1,0 +1,31 @@
+[WIN7] 以iCACLs.exe 快速地修改存取權限
+http://tonysnote.blogspot.com/2011/04/win7-icaclsexe.html
+
+
+http://twweeb.org/windows-admin-all-right/
+Windows管理員取得所有權，順利修改檔案、更改權限、刪除資料
+
+
+
+
+DOS 使用指令變更Windows檔案【資料夾】的屬性及安全性
+http://www.tank.tw/article/system/DOS%20%E4%BD%BF%E7%94%A8%E6%8C%87%E4%BB%A4%E8%AE%8A%E6%9B%B4Windows%E6%AA%94%E6%A1%88%E7%9A%84%E5%B1%AC%E6%80%A7%E5%8F%8A%E5%AE%89%E5%85%A8%E6%80%A7%20.htm
+
+
+Windows小技巧：icacls檢查/變更目錄或檔案權限
+http://www.dotblogs.com.tw/ghoseliang/archive/2013/03/04/95113.aspx
+
+
+移動服務所需的檔案時應連帶複製完整的 NTFS ACLs 資訊
+http://blog.miniasp.com/post/2011/08/19/Using-Robocopy-move-files-with-NTFS-ACLs-information.aspx
+
+
+
+
+
+
+
+
+
+
+

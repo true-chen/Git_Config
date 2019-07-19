@@ -1,0 +1,25 @@
+@echo  off
+
+===============================================
+
+:8m_Wall
+c:
+cd\
+pjlink-ping 192.168.16.200 > C:\ProgramData\HDcommand\8m_Wall\PJ\logfile.txt
+
+type "C:\ProgramData\HDcommand\8m_Wall\PJ\logfile.txt" | find "%1POWR=1"
+
+if errorlevel 1 goto B1
+if errorlevel 0 goto A1
+
+:A1
+c:
+cd\ProgramData\HDcommand\number\
+start ct-num1.exe
+exit
+
+:B1
+c:
+cd\ProgramData\HDcommand\number\
+start ct-num2.exe
+exit

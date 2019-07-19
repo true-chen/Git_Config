@@ -1,0 +1,41 @@
+使用者環境變數
+%username%
+
+
+
+Windows 7環境變數列表
+在『命令提示字元』視窗內，輸入set指令，就能列出電腦上的目前環境變數的設定。
+
+以下是環境變數的說明 
+%ALLUSERSPROFILE%：All Users的資料夾路徑。
+%APPDATA%：目前使用者的Application Data資料夾路徑。
+%CommonProgramFiles%：Common Files的資料夾路徑。
+%COMPUTERNAME%：電腦名稱。
+%ComSpec%:：命令提示字元的路徑。
+%HOMEDRIVER%：使用者目錄的磁碟機。
+%HOMEPATH%：使用者家目錄。
+%LOCALAPPDATA%：目前使用者的Local資料夾
+%LOGONSERVER%：目前使用者所登入的網路控制器名稱。
+%NUMBER_OF_PROCESSORS%：CPU的處理器數量。
+%OS%：作業系統名稱。
+%Path%：執行檔的搜尋路徑。
+%PATHEXT%：執行檔的副檔名。
+%PROCESSOR_ARCHITECTURE%：處理器的架構名稱，如x86。
+%PROCESSOR_IDENTIFIER%：處理器的文字。
+%PROCESSOR_LEVEL%：處理器的model number。
+%PROCESSOR_REVISION%：處理器的Revision number。
+%ProgramData%：與%ALLUSERSPROFILE%相同。
+%ProgramFiles%：應用程式目錄，預設是C:\Program Files。
+%PROMPT%：目前解譯程式的命令提示字串。
+%PSModulePath%：PowerShell Module的路徑。
+%PUBLIC%：公用資料夾的路徑，預設為C:\Users\Public
+%SESSIONNAME%：連上終端伺服器的Session names。
+%SystemDrive%：系統磁碟機，預設為C:。
+%SystemRoot%：系統磁碟機的根目錄，預設為C:\Windows。
+%Temp%：暫存資料夾。
+%Tmp%：暫存資料夾。
+%USERDNSDOMAIN%：DNS網域名稱。
+%USERDOMAIN%：Netbios網域名稱。
+%USERNAME%：目前使用者的帳號。
+%USERPROFILE%：目前使用者的資料夾。
+%windir%：系統磁碟機上的Windows資料夾，預設為C:\Windows。

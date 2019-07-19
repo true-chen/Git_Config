@@ -1,0 +1,26 @@
+在作業系統啟動時執行特定程式(schtasks)
+
+http://www.tonylin.idv.tw/dokuwiki/doku.php/windowsbatch:addscriptonstart
+
+
+Windows 排程指令 SCHTASKS
+http://maxtellyou.blogspot.tw/2011/11/windows-schtasks.html
+
+Use batch file timeout without echoing command?
+http://stackoverflow.com/questions/17829884/use-batch-file-timeout-without-echoing-command
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

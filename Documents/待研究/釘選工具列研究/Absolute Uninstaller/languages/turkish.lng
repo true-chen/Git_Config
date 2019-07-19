@@ -1,0 +1,2665 @@
+[Language]
+Description= Türkçe
+Türkçeleþtiren= FaraDelisi
+
+[Globals]
+10001= Dosya
+10002= Düzen
+10003= Görünüm
+10004= Yardým
+10005= Çýk!
+10023= Yardým Ýçeriði
+10018= Ana Sayfa
+10019= Hakkýnda
+10006= Durdur
+10007= Yinele!
+10008= Özellikleri
+10009= Adý
+10010= Aç!
+10011= Boyut
+10012= Tamam
+10013= Ýptal
+10014= Kapat!
+10015= Evet
+10016= Hayýr
+10017= Gözat!..
+10020= Dýþa aktar!..
+10021= Klasör aç!
+10022= Görevler
+10024= Ýleri
+10025= Geri
+10026= Seçenekler
+19026= Toplam Boyut
+19027= Boþ Alan
+14023= Durum
+10027= Taným
+10028= Bitir!
+10029= Geri Dönüþüm Kutusu
+14009= Ayrýntýlar
+10030= Ekle!
+10031= Kaldýr!
+10032= Varsayýlan
+10033= Oluþum Tarihi
+10034= Sil!
+10035= Arkadaþýna öner!
+10036= Þimdi satýnalýn!
+10037= Kayýtaçarý gir!
+15009= Tümünü seç!
+15010= Seçimi kaldýr!
+15011= Seçimi ters çevir!
+15014= Seç
+10038= Mönü
+10039= Güncellemeleri denetle!
+10040= Diller
+10041= Seçili öðeler 'Geri Dönüþüm Kutusu'na gönderilsin mi?
+10043= Bazý dosyalar silinemedi. Dosyalarýn 'Salt okunur' olmadýðýndan, þu anda kullanýmda olmadýðýndan ya da diskin dolu olmadýðýndan emin olun!.
+10044= Dikkat!
+10045= Bilgi
+10046= Hata
+10047= Onayla
+10048= Baþlat
+
+10050= Varsayýlan
+10051= Uygula!
+10052= Araçlar
+10053= Program, eksik veya bozuk bir dosya nedeniyle çalýþamaz durumda. Sorunu gidermek için yeniden yükleyin!. 'Glary Utilities'in en son sürümünü indirmek için 'Evet'i týklayýn!.
+10055= Geçmiþ
+10054= Geçmiþi görüntüle
+
+10060= Dil deðiþikliðinin etkili olmasý için yazýlýmýn yeniden baþlatýlmasý gerekir.\r\nÝþlemden çýkýlsýn ve yeniden baþlatýlsýn mý?
+10061= Yeni sürüm çýktýðýnda bildirilsin!
+10062= Son sürüme otomatik olarak güncellensin!
+10063= Pro sürümüne yükselt!
+
+[Integrator]
+10801= Temizle! & Onar!
+10802= Ýyileþtir! & Geliþtir!
+10803= Gizlilik & Güvenlik
+10804= Dosyalar & Klasörler
+10805= Sistem Araçlarý
+
+10806= Durum
+10807= Program durumu
+10808= Geçerli sürüm:
+10809= Son güncelleme:
+10810= Veritabaný tarihi:
+10811= Lisans sahibi:
+10812= Sürüm tipi:
+10813= Ücretsiz sürüm
+10814= Professional sürüm
+10815= Bitiþ tarihi:
+10816= Sýnýrsýz
+10817= Alttaki 'Kaydet' tuþuna týklayarak ürününüzü kaydettirin!.
+10818= Kaydet
+10819= Otomatik Bakým Ayarlarý
+
+10799= Modüller
+
+10820= Ayarlar
+10821= Genel Ayarlar
+10822= Dil:
+10823= Windows ile 'Glary Utilities' de baþlasýn!
+10824= Kapatýlðýnda 'Program penceresi' görev tepsisine küçültülsün!
+10825= Baðlam Mönüsü
+10826= Internet Explorer mönüsüne eklenmesini istediðiniz içerik mönülerini seçin!.
+10827= Otomatik güncelle!
+10828= Zamanlanmýþ uygun að güncellemesini çalýþtýr.
+10829= Zamanlama:
+10830= 'Ücretsiz sürüm' için geçerli deðildir.
+10831= Zamanlamayý deðiþtir!
+10832= Otomatik Bakým
+10833= Windows veya oturum kapatýldýðýnda gizli izler-belirtiler silinsin!
+10834= Gizli izler-belirtiler
+10835= Windows veya oturum kapatýldýðýnda silinecek gizli izleri-belirtileri seçin!.
+10836= 1 Týkla Otomatik Bakým
+10837= Zamanlanmýþ '1 Týkla Bakým' çalýþsýn!
+10838= Geri Yükleme Merkezi
+10839= Geri Yükleme Koruma Merkezi
+10840= Geri Yükleme Merkezi tarafýndan burada korunacak modülleri seçin!.
+10841= Varolan modüller:
+10842= Yedekleme Seçenekleri
+10843= Yedeklemeleri otomatik sil!:
+10844= Yedekleme sayýsýný sýnýrlamak için:
+10845= Yoksayýlanlar Listesini düzenlke
+10846= 1 hafta sonra
+10847= 2 hafta sonra
+10848= 3 hafta sonra
+10849= 1 ay sonra
+10850= 2 ay sonra
+10851= 3 ay sonra
+10852= 1 Týkla Otomatik Bakým seçenekleri
+10853= Sorunlarý denetle!
+10854= Sorunlarý denetle ve onar!
+10855= Silmek istediðiniz belirtileri seçin!.
+10856= Görev Tepsisi'ne indirilince ipucu gösterilsin!
+10857= Program baþlayýnca güncelleþtirmeler denetlensin!
+
+10900= Deðiþiklikler gerial!
+10901= Bir 'Geri Yükleme Noktasý' seçin ve 'GeriYükle' düðmesine týklayýn!.
+10902= Sistem Geri Yükleme
+10903= Geri Yükleme Noktasý oluþtur!
+10914= Yeni Geri Yükleme Noktasý baþarýyla oluþturuldu.
+10904= Geri Yükleme Noktasý oluþturulamadý! 'Sistem Geri Yükleme' devre dýþý býrakýlmýþ olabilir ya da eriþime izniniz yok.
+10905= Sistem Geri Yükleme'yi etkinleþtirmek için aþaðýdaki adýmlarý uygulayýn: Baþlat-> Ayarlar-> Denetim Masasý-> Sistem-> 'Sistem Geri Yükleme' sekmesindeki "Tüm sürücülerdeki Sistem Geri Yükleme"yi kapatýn" onay kutusunu temizleyin. Tamam 'ý týklatýn.
+10906= Önce bir geri yükleme noktasý seçin!
+10907= Deðiþikliklerinizi kaydedin ve açýk programlarý kapatýn. Windows geri yükleme iþlemi sýrasýnda otomatik olarak yeniden baþlar.
+10908= Bir ilk yedek seçin!.
+10911= Yedeklemeler
+10912= %s! geri yüklensin mi?
+10913= Geri Yükleme baþarýlý oldu.
+10915= Ýstediðiniz bir 'Geri Yükleme Noktasý' seçin ve 'GeriYükle' düðmesine týklayýn 
+
+10909= Ýpucu
+10910= 'Glary Utilities' hala çalýþýyor.
+
+10916= Sýk Sorulan Sorular
+10917= Arayüzler
+10918= Kurulumsuz Sürüm
+10919= Acil Destek
+
+[License Dialog]
+20001= Bu bir sýnýrlý zamanlý deneme sürümüdür.
+20002= Bir zorunluluk olmaksýzýn %s gün bu yazýlýmýn tam iþlevselliði ile test edebilirsiniz.
+20003= Eðer yazýlýmý, test süresi sonrasýnda da kullanmak isterseniz, "Þimdi Ismarlayýn!." ý týklayýn!.
+20004= Test dönemi: %s'den %s2 gününe kadardýr.
+20005= Bu deneme sürümü yazýlýmýn %s günlük tam iþlevselliðini sýnama süresi doldu.
+20006= Yazýlýmý kullanmaya devam etmek istiyorsanýz, "Þimdi Ismarlayýn!." 'ý týklayýn!.
+20007= Test süresi doldu.
+20008= Kayýtlý deðil.
+20009= Telifhakký(c)
+20010= Bu ürünün lisans sahibi:
+20011= Uyarý: Bu bilgisayar programý, telif haklarý yasasý ve uluslararasý anlaþmalarla korunmaktadýr. Bu programýn, izinsiz çoðaltýlmasý ve daðýtýlmasý, ciddi hukuki ve cezai yaptýrýmlara ve hukuk çerçevesinde mümkün olan en üst düzeyde cezalandýrýlmaya neden olabilir.
+20012= Web Sitesi:
+20013= Þimdi ýsmarlayýn!.
+20014= Açarý girin!.
+20015= Test edin!.
+20016= Adýnýz
+20017= Kayýt Açarý
+20018= Bu deneme sürümü için  bir "Kayýt Açarý"nýz yoksa, edinebilirsiniz.
+20019= Çevrimiçi ýsmarla.
+20020= Girdiðiniz "Kayýt Açarý" geçersiz. Doðru girildiðini denetleyin.
+20021= Aþaðýdaki adý geçen insanlara katkýlarýndan dolayý teþekkür ederiz.
+20022= Þimdi yükselt!
+20023= Lisans bilgilerinizi girin!.
+20024= Lisans tipi:
+20025= Lisans almak için,
+20026= Ana Sayfa:
+
+20027= Þimdi yükselt!.
+20037= Adýnýzý girin!.
+20038= Lisans kodu:
+20039= Þimdi etkinleþtir!.
+20040= Lisans kodunuz yok mu?
+20041= Almak için týklayýn!.
+20042= Lisans kodumu kaybettim?
+20043= Lisans bilgilerinizi girin!.
+20044= Lisans sahibi:
+20045= Lisans süresi sonu:
+20046= %s gün sonra.
+20047= %s günlük süre (s) önce bitti.
+20048= Yenile
+20049= Lisansý dýþa aktar!
+20050= Glary Utilities Lisans Yöneticisi
+20051= E.g. AC6E-D9C6-FAB8-A8C8
+20052= Lisans Bilgileri
+20053= Lisans bilgileri baþarýyla kaydedildi:
+
+[Updater]
+30001= %s dan bilgi alýnamadý
+30002= Bilgisayarýnýzda çalýþan '%s 'ýn son sürümüdür. Kullanýlabilir bir güncelleþtirme yok.
+30003= Kullandýðýnýz %s: %s2.
+30004= %s 'in daha yeni bir sürümü %s2 var. Indirme ayrýntýlarý için "Tamam"ý týklatýn yada þimdi yükseltmek istemiyorsanýz "Ýptal" i týklatýn!.
+30005= Baþarýyla güncellendi
+30006= Güncellenmiþ sürüm (%s) alýnýyor...
+30007= Güncellenmiþ referans dosyasý (%s) alýnýyor...
+30008= Güncelleþtirmeleri denetle!..
+30009= Hazýr
+30010= WebGüncelleme becerisi...
+30011= Tahmini kalan süre:
+30012= Aktarma hýzý:
+30013= Bilinmiyor
+30014= %s sn
+30015= %s 'den %s2 'e kopyalandý
+30016= %s/Sn
+30017= Bu özelliðin kullanýlabilmesi için "%s" 'PRO Sürümü'ne yükseltilmelidir. Þimdi yükseltilsin mi?
+30018= %s kullanýlabilir. Yüklemek için bu mesaja týklayýn!.
+30019= %s dk %s2 sn
+30020= Güncelleþtirmiþ (%s) dil dosyasý alýnýyor...
+30021= %s sürümü bulunamadý, güncelleyin!
+30022= Glary Utilities Güncelleme
+30023= Yeni bir 'Glary Utilities' sürümü var!
+30024= Glary Utilities %s 'ýn kullanýlabilir yeni %s2 sürümü var. Yeni sürümü indirilsin mi?
+30025= Sürüm notlarý:
+30026= Bu sürüm geç
+30027= Sonra hatýrlat!
+30028= Ýndir
+30029= Güncellemeleri otomatik olarak indir!
+
+[Context Menu]
+40001= Glary Utilities ile Diskalaný çözümle!
+40002= Glary Utilities ile birleþtir! 
+40003= Glary Utilities ile böl!
+40004= Glary Utilities ile þifre çöz!
+40005= Glary Utilities ile þifrele!
+40006= Glary Utilities ile sil!
+40007= Glary Utilities ile boþ klasör bul!
+
+40008= Glary Utilities ile Disk birleþtir!
+40009= Glary Utilities ile diski birleþtir!
+40010= Glary Utilities ile klasör birleþtir!
+40011= Glary Utilities ile dosya birleþtir!
+
+[Registry Cleaner]
+11001= KayýtDefteri Onarýmý
+11901= Sisteminizin performansýný artýrmak için 'KayýtDefteri'ni temizleyin!.
+11002= Taranacak bölümleri seçin!
+
+11003= Eylem
+11004= KayýtDefterini denetle!
+11005= KayýtDefterini düzelt!
+11006= Onarým öncesine geridön!
+11007= Araçlar
+
+11008= Seçili sorunlar baþarýyla onarýlmýþtýr.
+11009= Yoksayýlanlar listesine öðe gerçekten eklensin mi? Bu öðeyi daha sonra bulamazsýnýz.
+11010= Dosya kaydedildi:
+11011= Sorun arama özeti:
+11012= 1 sorun bulundu.
+11013= %s sorun bulundu.
+11014= Onarým için 1 sorun seçildi.
+11015= Onarým için %s sorun seçildi.
+11016= Sorun bulunmaddý.
+11017= Onarýmý için herhangi bir sorun seçilmedi.
+11018= (%s sorun bulundu)
+11019= Çözümleniyor
+11020= Bölüm:
+11021= Doðrulama:
+11022= 'Regedit'te aç!
+11023= 'Regedit'e bir giriþ açýn!.
+11024= Bu giriþi sil!
+11025= Bu giriþi deðiþiklik dýþý býrak!
+11026= Bu giriþi iþlem dýþý býrak!(asla tekrar bulma)
+11027= Özellikler
+11028= Bu kýsayol özelliklerini aç!
+11029= Bu kýsayolu sil!
+11030= Bu kýsayolu deðiþiklik dýþý tut!
+
+11031= Denetleme bitti
+11032= Onar!
+11033= Otomatik olarak çözmek için 'Onar'ý yada ayrýntýlarýný görüntülemek için 'Kapat'ý týklatýn!.
+11034= Onarým bitti
+11035= Denetleniyor
+11036= Onarýlýyor
+
+11037= GeriYükle!
+11038= Geriyükleme için istediðiniz 'Yedekleme'yi seçin ve 'GeriYükle' tuþuna basýn.
+11039= Yedekle!
+11040= %s, Sistem 'KayýtDefteri'ne geriyüklensin mi?
+11041= %s 'KayýtDefteri'ne baþarýyla geriyüklendi.
+
+11042= %s2 dosya veya klasör için %s giriþ özellikleri eksik
+11043= Eksik açar %s için KayýtDefteri açar özellikleri
+11044= Bu KayýtDefteri açarýnýn verisi yok, silinebilir.
+11045= Eksik CLSID %s için KayýtDefteri açar özellikleri 
+11046= Eksik simge dosyasý %s için KayýtDefteri açar özellikleri
+11047= Eksik programý %s2 için baðlam mönüsünü %s giriþ özellikleri
+11048= Altaçar Komutu eksik olduðu için bu KayýtDefteri eksiktir.
+11049= Windows'un ihtiyaç duyduðu veriyi içermediði için bu KayýtDefteri açarý eksik.
+11050= InprocSunucu %s için KayýtDefteri açarý özellikleri eksik. Ýlgili CLSID silinebilir.
+11051= YerelSunucu32 %s için KayýtDefteri Açarý özellikleri eksik. Ýlgili CLSID silinebilir.
+11052= Tür kitaplýðý %s için bu KayýtDefteri açarý özellikleri eksik.
+11053= Klasör %s için bu KayýtDefteri Açarý özellikleri eksik.
+11054= KayýtDefteri Açarý %s veri içermiyor. Ortak kitaplýk türü silinebilir.
+11055= Dosya %s için KayýtDefteri Açarý özellikleri eksik.
+11056= Belirtilen %s dosyasý bulunamadý.
+11057= %s dosyasý ile iliþkili olduðu giriþ %s2 yok.
+11058= Yardým dosyasý %s2 için giriþ %s özellikleri eksik.
+11059= Paylaþýlan dosya %s eksik. 
+11060= Paylaþýlan dosya %s artýk kullanýmda deðil.
+11061= Dosya %s için ÝmajYolu özellikleri eksik. Ýliþkili hizmetler silinebilir.
+11062= Dosya %s2 için giriþ %s özellikleri eksik.
+11063= Hedef %s için kýsayol özellikleri eksik.
+11064= Bu Kayýt Bilgisi Açarý, kaldýrýlan yada silinmiþ baslangýç mönü klasörüne bir %s referans içerir.
+11065= Giriþ %s eksik programa  %s2 iþaret eder.
+11066= Bu kaldýrma giriþimi program yada bileþeni ortadan kaldýracak(Windows'un ihtiyaç duyduðu veriyi içermez).
+11067= Gerekli kaldýrma programý %s bulunamadý.
+11068= Giriþ %s eksik klasörü %s2 iþaret eder. 
+
+11069= Açarý sil! :
+11070= Deðeri sil! :
+11071= Dosyayý sil! :
+
+11072= YokSayýlanlar Listesini düzenle!
+11073= 'KayýtDefteri' taramasý için geçerli 'YokSayýlanlar Giriþ Listesi': Ýstediðiniz giriþin onay imini kaldýrýn!.
+11074= KayýtDefteri Açarý.
+
+11075= Onarýlan Deðiþiklikler'i yedeklemek için bir Hedef Klasör seçin!.
+11076= Kýsýtlý Yedekleme Sayýsý:
+11077= %s zaten var. Deðiþtirilsin mi?
+11078= Deðiþtir!
+11079= Bulunan sorunlarýn özeti: (%s sorun bulundu; %s2 '(s)i giderilmesi için seçildi)
+11080= Bulunan sorunlarýn özeti: (1 sorun bulundu; 1 sorun giderilmesi için seçildi)
+11081= (1 sorun bulundu)
+11082= Bulunan sorunlarýn özeti: (Sorun bulunmadý; giderilmesi için seçilen sorun da yok)
+11083= Taranýyor...
+11084= Sorun bulunmadý, onarým için seçilen sorun yok.
+11085= %s sorun bulundu; %s2 '(s)i giderilmesi için seçildi.
+11086= %s sorun bulundu; %s2 '(s)i giderilmesi için seçildi.
+11087= Onarýlýyor...
+11088= 'KayýtDefteri' dosyasýný dýþa aktar!
+11089= Geçerli açar:
+11090= Verili açar:
+11091= %s sorun(lar) giderilmesi için seçildi.
+11092= Baþarýyla dýþa aktarýldý.
+11093= %s sorun bulundu; %s2 'i giderildi.
+11094= %s sorun bulundu; %s2 'i giderildi
+11095= Þimdi: %s; toplamda: %s2 sorun giderildi. 
+11096= Þimdi: %s; toplamda: %s2 sorun giderildi.
+11097= Þimdi: %s; toplamda: %s2 sorun giderildi.
+11098= %s sorun
+11099= 1 sorun
+11100= Sorun yok
+11101= Taranmasý için en az bir öðe seçin!
+11102= Silinmesi için en az bir öðe seçin!
+11103= KayýtDefteri'nin yeniden taranmasý için 'KayýtDefterini denetle!' yi týklayýn.
+11104= %s sorun bulundu; %s2 '(s)i giderilmesi için imlendi.
+11105= %s sorun giderildi.
+11106= %s sorun giderildi.
+
+[Disk Analysis]
+19001= Disk Alaný Çözümleyici
+19901= Dosya ve klasörlerin disk alaný kullanýmýný göster!
+19003= Bilgisayarým
+19004= Komut istemi
+19005= Sil(Geri dönüþüm'e)
+19006= Araççubuðunu göster!
+19007= Durumçubuðunu göster
+19008= Dosya Türlerini göster!
+19009= Büyük Dosyalarý göster!
+19010= Dosyalar
+19011= Klasörler
+19012= Nitelik
+19013= Oran
+19014= Dosya Türü
+19015= Taným
+19016= Dosya Adý
+19017= Klasör
+19018= Deðiþim
+19019= Dosya Türleri yükle!..
+
+19020= [Dosyalar]
+19021= Bilgisayarým
+
+19022= Sürücü seç!
+19023= Tüm yerel sürücüler
+19024= Bireysel sürücüler
+19025= Bir klasör
+19028= Kullanýlan/Toplam
+19029= Klasör seç!:
+
+1801001= Çözümle!
+1801002= Geri
+1801003= Bilgisayar
+1801004= 
+1801005= Uzantýlarý göster!
+1801006= Tüm türler
+1801007= Videolar
+1801008= Sýkýþtýrýlmýþ
+1801009= Muzikler
+1801010= Görüntüler
+1801011= Belgeler
+1801012= Diðer
+1801013= Uzantý
+1801014= Dosya sayýsý
+1801016= Tür
+1801017= Konum
+1801018= Deðiþtirilme tarihi
+1801019= Boþ alan
+
+1801020= Araç çubuðu
+1801021= Yöneltici
+1801022= Ayrýntýlar
+1801023= Tüm dosyalarý göster!
+1801024= Dosyalar ve klasörler
+
+1801025= Sürücüyü çözümle!
+1801026= Sürücü henüz çözümlenmedi.\nDisk alaný kullanýmý, dosya türleri ve büyük dosyalar hakkýnda bilgiler edinilemedi. Çözümlemede, seçilen sürücüler ile ilgili bilgiler, dosyalarýn ve klasörlerin içerikleri ve disk alaný kullanýmý hakkýnda toplanan bilgiler görüntülenir.
+1801027= Sadece denetle!
+
+1801028= Dosya boyutu:
+1801029= Toplam boyut:
+1801030= Eriþilir:
+1801031= Deðiþiklik:
+1801032= Oluþturma:
+1801033= Seçilen %s öðesi
+1801034= Boyut:
+1801035= Ýçerik toplamý:
+1801036= Bilinmiyor
+1801037= Kullanýlan alan:
+1801038= Çözümle!
+1801039= Çözümlenmemiþ
+
+1801040= Bu klasör seçildiðinde çýkarýlýr
+
+1802001= Bitirildi
+1802002= Baþarýsýz
+1802003= Kesildi
+1802004= Depolama yerleri çözümlemesi
+1802005= Seçilen depolama yerleri çözümleniyor. Lütfen sonucu bekleyin!. 
+
+1803001= Yol listesi geçersiz:\n
+1803002= Dosya listesi yolu:\n
+1803003= %s öðeleri taranamýyor
+
+1804001= Seçtiðiniz Sürücü henüz çözümlenmemiþ, çözümleme þimdi yapýlsýn mý?
+
+1805001= Bu %s öðeleri 'Geri Dönüþüm Kutusu'na taþýnsýn mý?
+1805002= Sil
+1805003= %s öðesi siliniyor
+
+[Startup Manager]
+14001= Baþlangýç Yönetimi.
+14901= Baþlangýçta otomatik olarak çalýþan programlarýn yönetimi.
+14002= Bu giriþi çalýþtýrma!
+14003= Bu giriþi çalýþtýr!
+14004= Program ekle!..
+14005= Bu giriþi sil!
+14006= Giriþ düzenle...
+14007= Ayrýntý çubuðunu göster
+14008= Baþlangýç listesini yinele
+14010= Diðer oto çalýþmalar
+14011= Zamanlanmýþ görevler
+14012= Hizmetler
+14013= Windows baþlatýldýðýnda veya bir kullanýcý oturum açtýðýnda baþlayan programlar.
+14014= Öðe seçilmedi.
+14015= Girdi geçersiz. Silinebilir.
+14016= <Bilgi yok>
+14017= Ürün:
+14018= Þirket:
+14019= Bir Baþlangýç Öðesi ekle!.
+14020= Baþlangýç giriþi silinsin mi?
+14021= Seçili 'Baþlangýç Öðesi'ni düzenle!
+
+14022= Yolu
+14024= Konumu
+14035= Deðeri
+14025= Etkin
+14026= Etkisiz
+
+14027= %s'den %s2'e oluþturulan 'Baþlangýç Listesi' raporu
+14028= Toplam %s öðe
+14029= %s raporu kaydedildi
+
+14030= Google'da ara...
+
+14031= Baþlangýç Öðeleri Düzenlemesi
+14032= Bir ad girin!.
+14033= Bir komut satýrý girin!.
+14034= Belirtilen dosya bulunamadý. Devam edilsin mi?
+
+14043= Bilinmiyor
+14036= Güvenilir
+14037= Kullanýcý seçimi
+14038= Tarafsýz
+14039= Gerekiz
+14040= Tehlikeli
+14041= Yorumdur
+14042= Daha fazla bilgi
+
+14044= Yorum
+14045= Bu giriþ hakkýndaki yorumunuz
+14046= Bu giriþi hakkýndaki düþünceleriniz
+14047= Bu risk derecesi deðiþecektir
+14048= Yorum gönder
+
+14049= Gecikme zamaný
+14050= Þimdi baþlat!
+14051= Gecikmeli baþlangýç programlarý.
+14052= Yukarý
+14053= Aþaðý
+14054= Bir uygulamanýn geciktirilmesi için, yukarýdaki listeden seçin, ya da aþaðýdaki listeye sürükleyip býrakýn!.
+14055= Bir uygulamanýn geciktirilmesi için, aþaðýdaki listeden seçin, ya da yukarýdaki listeye sürükleyip býrakýn!.
+14056= Çifte giriþ saptandý.
+14057= Görünen o ki %s, Windows Baþlangýç sürecine kendini geri ekledi sonra gecikmeli baþlatma listesine yerleþti.
+14058= Bu sorunun giderilmesi için, %s 'in açýlýp 'Windows ile Baþlat' seçeneðinin kapatýlmasý veya bu ve benzerlerinin devre dýþý býrakýlmasý gerek.
+14059= Bu seçenek yoksa, kendini otomatik olarak ekleyen %s 'in yazarý ile temasa geçip ondan, %s 'in otomatik olarak Windows ile baþlamasýný devre dýþý býrakacak bir özellik eklemesini isteyebilirsiniz.
+14060= %s 'in Windows ile baþlamasýný durdurmak mümkün olmuyorsa, Windows'un daha iyi olmasý için yapmanýz gereken bir þey kalýyor, o da %s 'i gecikmeli baþlatma listesinden kaldýrmak.
+14061= %s Gecikmeli Baþlatma Listesi'nden kaldýrýlsýn mý?
+14062= Gecikmiþ
+14063= Gecikmeli
+14064= Gecikmesiz
+14065= Sn
+
+2501001= Ayrýntý çubuðu
+2501002= Durum çubuðu
+2501003= Çalýþtý
+2501004= Durduruldu
+2501005= Kullanýlan bellek
+2501006= Bu baþlangýç giriþi zaten var.\nYine de deðiþtirilsin mi?
+2501007= ' %s' için veri ayarlanamadý
+2501008= Ayrýntýlar
+2501009= Yükleme süresi
+2501010= Baþlangýç programlarý
+2501011= Zamanlanmýþ görevler
+2501012= Bileþenler
+2501013= Uygulanan hizmetler
+2501014= Windows hizmetleri
+
+2501015= Bu 'Baþlangýç Programý' nýn ilk yorumcusu olun!
+2501016= Kullanýcýlara, bu %s baþlangýç programýnýn devre dýþý býrakýlmasý veya geciktirilmesi önerilir.
+
+2501017= Sistem Baþlangýcýnda Durumu
+2501018= Seçili program Sisteminizin baþlangýcýnda etkin
+2501019= Sistem Baþlangýcýnda Durumu
+2501020= Seçili program Sisteminizin baþlangýcýnda etkin deðil
+
+2501021= sn
+2501022= dk
+2501023= Sisteminizin baþlangýcýnda etkili olabilecek %s adet program yada kullanýcý günlüðü bulundu!
+
+2501024= Deðiþiklikleri gerial
+2501025= Geliþmiþ önyükleme
+2501026= Önyükleme gelecek baþlatmadan sonra yapýlabilir. 
+2501027= Kullanýlýþlýk
+
+2501028= Gecikmeli baþlangýç
+2501029= Seçilen baþlangýç programý gecikir
+
+2502002= Tümünü sil!
+2502003= Sil!
+2502004= Zaman
+2502005= Geriyükle
+2502006= Ýþlem
+2502007= Ýþlemden sonra tümünü sil
+2502008= Ýþlemden önce tümünü sil
+2502009= Ýþlemdensonra tümünü geriyükle
+
+2502101= Bugün
+2502102= Daha
+
+
+2503002= Yararlý
+2503003= Yararsýz
+
+2503004= Lütfen yorumlarýnýzý yazýn. Teþekkürler.
+2503005= Lütfen adýnýzý yazýn. Teþekkürler.
+2503006= Daha fazla bilgi için baðlanýn (isterseniz)
+2503007= Adýnýz
+2503008= Gönderilen bilgiler, tarafýmýzdan baþarýyla alýndý.
+
+[Disk Cleaner]
+13001= Disk Temizleme
+13901= Gereksiz-kalýntý verileri kaldýrarak diskinizde alan açabilirsiniz.
+13002= Disk Temizliði
+13003= Daha Fazla Seçenek
+13004= Temizlenecek Sürücüleri seçin!.
+13005= Seçili olanlarýn taranmasý için 'Ýleri' ye týklayýn!.
+13006= Lütfen, Seçili Sürücünüzün  %s Taramasý bitene kadar bekleyin!.
+13010= Seçili Sürücünüz'ün iþleminin bitirilmesi için 'Ýleri' ye týklayýn!.
+13007=  %s2 Sürücünüzdeki disk alanýnýn %s 'ý "Disk Temizliði" kullanýlarak boþaltýlabilir.
+13008= Kazanýlan toplam Disk Alaný:
+13009=  %s temizlemeden önce yedekle!
+13110= Dosya göster!
+13011= Temizleme Ýþlemini baþlatmak için 'Ýleri' ye týklayýn!.
+13012= Windows Bileþenleri
+13013= Kullanmadýðýnýz seçmeli 'Windows Bileþenleri' ni kaldýrarak daha fazla 'Disk Alaný'  kazanabilirsiniz.
+13014= Temizlik yap!
+13015= Yeniden yükle!
+13016= Bir 'Yedekleme Dosyasý' ndan kaldýrýlmýþ Geçici Dosyalarý yeniden yükleyebilirsiniz.
+13017= Yeniden Yükle!
+
+13018= Temizlik baþarýyla tamamlandý.
+13019= Bir Yedekleme oluþturuldu.
+13020= Ana sayfaya dönmek için 'Bitir' e týklayýn!.
+
+13021= Lütfen taranmasý için 'Sürücü' seçin!.
+
+13022= Taranýyor...
+13023= Bitirildi
+13024= Baþlatýlýyor...
+13025= Geri Dönüþüm, bilgisayarýnýzdan sildiðiniz dosyalarý içerir. Geri Dönüþümü boþaltana kadar bu dosyalar kalýcý olarak kaldýrýlmýþ deðildir.
+13026= Geçici Dosyalar(Temporary Files)
+13027= Geçici Dosyalar, ortak bir "Depolama Alaný" olarak kullanýlýr ve genellikle kullanýmdan sonra kaldýrýlýr
+13028= Sýfýr-Bayt Dosyalar
+13029= Sýfýr-Bayt Dosyalar, herhangi bir veri tutmaz ve genellikle silinebilir.
+13064= Internet Geçici Dosyalarý
+13065= Internet Geçici Dosya Klasörü, hýzlý görüntülemek amacýyla sabit diskinizde depolanan Web sayfalarýný içerir. Kiþiselleþtirilmiþ Web Sayfasý ayarlarýnýz olduðu gibi býrakýlacaktýr.
+
+13030= Geri Dönüþüm Kutusu boþaltýlýyor...
+13031= Geçici Internet Dosyasý temizleniyor...
+13032= Geçici Internet Dosyasý siliniyor...
+13033= Sýfýr-Bayt Dosyalar siliniyor...
+
+13034= Lütfen silmek istediðiniz dosyayý seçin!.
+13035= Seçili dosya yok.
+13036= Dosya aç!
+13058= Toplam %s dosya
+13059= Oluþturuldu:
+13060= Degiþtirildi:
+13061= Son Eriþim:
+
+13037= Genel
+13038= Hariç
+13039= Dahil
+
+13040= Alttaki Gereksiz Dosya Türleri Listesi' ni yeniden inceleyin. Ýmlenmemiþlerden, silinmesi uygun olanlarý imleyin!.
+13041= Dosya Türü
+13042= Bu seçilenlerden kuþkulu iseniz, 'Varsayýlan' olarak býrakmanýz önerilir.
+13043= Bu klasördeki dosyalarýn tümü, 'Gereksiz' olarak öngörülmemeli. 'Gereksiz' saydýðýnýzý üzerine týklayýp kaldýrýn!.
+13044= Klasör
+13045= Bu Klasördeki Dosyalarýn tümü, türü dikkate alýnmaksýzýn 'Gereksiz' düþünülmeli.
+
+13046= Joker Karakter kullanýnýz, örn., *.tmp
+13047= Dosya adýyla bitir:
+13048= Lütfen bir "Uzatma Adý" yla girin!.
+13049= "Joker Karakter" kullanýn!.
+13050= Boþaltýlamaz.
+
+13051= Lütfen yeniden yüklemek istediðiniz bir 'Yedekleme' seçerek 'Yeniden Yükle' ye týklayýn!.
+
+13052= Özel Yeniden Yükleme
+13053= Lütfen, yeniden yüklemek istediðiniz giriþler için onay imini koyarak, 'Yeniden Yükle' ye týklayýn!.
+13054= Baþarýyla yeniden yüklendi.
+
+13055= Nesneler
+13056= Dosyalar
+13057= Yol
+13062= Tür
+
+13063= Bir önemsiz dosya türü ekle!
+
+1301001= Kaldýr! / Düzelt! / Ýyileþtir! 
+1301002= Denetle!
+1301003= GeriYükle!
+1301004= Yolu
+1301005= Yedekleme Denetimi
+1301006= Tümünü seç!
+1301007= Seçimi kaldýr!
+1301008= Varsayýlan Denetim
+1301009= Bir sonraki "disk temizleme" tarihi: 
+1301010= %s/%s2/%s3
+1301011= Bilgisayardaki gereksiz dosyalarý temizlemenin hýzlý ve kolay yolu.
+1301012= Toplam kurtarýlan alan: %s
+1301013= Tebrikler! Sürücüleriniz temiz.
+1301014= Gereksiz dosyalarý temizleyerek disk alaný kazanabilirsiniz.
+1301015= Sonuç
+1301016= Dosya listesi
+1301017= YineTara!
+1301018= Bu dosyayý yoksay!
+
+1302001= Windows
+1302002= System Geçici Dosyasý
+1302003= User Geçici Dosyasý
+1302004= KüçükResim Önbelleði
+1302005= Bellek Dökümü Dosyalarý
+1302006= Hata Raporu Dosyalarý
+1302007= Sistem Günlük Dosyalarý
+1302008= Uzak Masaüstü Önbelleði
+1302009= Geri Dönüþ Kutusu
+1302010= Baþlat Mönüsü Geçersiz Kýsayollarý
+1302011= Masaüstü Geçersiz Kýsayollarý
+1302012= IIS Günlüðü Dosyalarý
+1302013= Eski Önindirme Verisi
+1302014= Kaynak Önbelleði
+1302015= Ýndirilen Programlar
+1302016= Windows Güncellemeleri
+1302017= Tarayýcýlar
+1302018= Internet Explorer
+1302019= Mozilla Firefox Önbelleði
+1302020= Google Chrome Önbelleði
+1302021= Opera Önbelleði
+1302022= Uygulamalar
+1302023= Google Earth Önbelleði
+1302024= Picasa Önbelleði
+1302025= ACDSee Önbelleði
+1302026= Disk Sürücüleri
+1302027= Tarama için en az bir sürücü seçilmeli
+1302028= Temizlikten önce dosyalar yedeklensin mi?
+1302029= Yedekleme baþarýsýz oldu, temizliðe devam edilsin mi?
+1302030= Dosya Sayýsý: %s   Dosya Boyutu: %s2
+1302031= %s öðe denetlendi
+1302032= Tarama Tamamlandý. %s dosya, toplam %s2 bulundu.
+1302033= Sürücüler þimdi temizlenmesi önerilir.
+1302034= Tebrikler! Bilgisayarýnýz temiz!
+1302035= Bilgisayarý temiz tutmak iyi bir alýþkanlýktýr. Lütfen devam edin!.
+1302036= Tarama iptal edildi!
+1302037= Seçili %s dosya, toplam %s2.
+1302038= Temizlik tamamlandý. %s gereksiz dosya temizlendi.
+1302039= Temizlik tamamlandý.
+1302040= %s kullanýmda, þimdi silinemez.
+1302041= Gereksiz dosyalar : %s
+1302042= Özel Dosyalar ve Klasörler
+1302043= Özel Ad
+1302044= Özel Dosyalar ve Klasörler
+1302045= Konumu
+1302046= Örnek: *.tmp|*.log
+1302047= Örnek: *.sys|*.txt
+1302048= Yalnýz dosyalar dahil
+1302049= Dosyalar ve alt klasörler dahil
+1302050= Güvenli olmasý için, Windows Sistem Dizini Dosyalarý'ný temizlenmeyin!.
+1302051= Bu dizin boþ olsun mu?
+1302052= Güvenli olmasý için, Windows Sistem Dosyalarý'ný seçmeyin!.
+1302053= Kaldýrmasýný istediðiniz ek dosyalarý ve klasörü seçin.(Ýleri Kullanýcýlar)
+1302054= Kaldýrmasýný istediðiniz dosyalarý veya klasörleri seçin!.
+1302055= Özel dosya veya klasör zaten var, yine de eklensin mi?
+1302056= Özel dosya veya klasör zaten var, yine de deðiþtirilsin mi?
+1302057= Bilgisayarýnýzda hiç gereksiz dosya yok. Bilgisayarý temiz tutmak iyi bir alýþkanlýk. Lütfen devam edin!. 
+1302058= Geçici Windows yükleyici
+
+1303001= Yedekle...
+
+1304001= Veri görüntülenemiyor!
+
+1305001= Tarama baþý: 
+1305002= Varsayýlan Tarama: 
+1305003= Hiç ereksiz dosya bulunamadý
+1305004= %s dosyalar, %s2 'ýn toplamý
+1305005= Tarama sonu: 
+1305006= Toplam sonuç: 
+1305007= %s dosya, %s2 kaldýrmak için
+1305008= Temizliðe baþla!
+1305009= Temizlik sonu
+1305010= %s dosyalarý temizle, toplam %s2
+1305011= %s dosyasý temizlenemedi
+1305012= Yazma Zamaný:
+1305013= Toplamda %s dosya, %s2.
+
+1305014= Internet Önbelleðinin temizlenmesi için %s'in kapatýlmasý gerekiyor\nGlary Utilities %s 'i kapatsýn mý?
+1305015= Firefox
+1305016= Google Chrome
+1305017= Opera
+1305018= Önbelleðin temizlenebilmesi için %s'in kapalý olmasý gerekiyor.\n%s2 için %s kapansýn mý?
+
+1306001= Þimdi: %s; toplamda: %s2 'lýk temizlik yapýldý.
+1306002= %s bulundu, %s2 kaldýrýldý.
+1306003= %s 'i gerçekten geri yüklensin mi?
+1306004= %s baþarýyla geri yüklendi.
+1306005= %s gereksiz dosyalarý kaldýrýldý.
+1306006= 'Denetle' ye týklayýp gereksiz dosyalar için sistem taramasý yapýn
+1306007= %s adet; toplamý %s2 dosya bulundu.
+1306008= %s alan kazanýldý.
+1306009= Toplam %s gereksiz dosya kaldýrýldý.
+
+[Uninstaller]
+12001= Kaldýrma Yönetimi
+12901= Artýk gerekmeyen programlarý tamamen kaldýrabilirsiniz.
+12002= Kaldýrma Bilgisini yedekle!
+12003= Kaldýrma Bilgisini yeniden yükle!
+12004= Uygulama Listesini Ver!
+12005= Bu programý kaldýr!
+12006= Seçilmiþ Programlarý kaldýr!
+12007= Özellikleri degiþtir!
+12008= Kaldýrýlmýþ Giriþleri yeniden yükle!
+12009= Komut Satýrýný göster!
+12010= Geçerli kurulmuþ programlar:
+12011= Sýrala!:
+12012= Kurulum Tarihi
+12013= Geçersiz Giriþleri otomatik onar!
+12014= Toplu Kaldýrma
+12015= Programlarý ara!
+12016= Destek Bilgisi için burayý týklayýn!.
+12017= Komut Satýrý
+12038= Giriþi kaldýr!
+
+12018= Deðiþtir!
+12019= Kaldýr!
+12020= Deðiþtir/Kaldýr!
+
+12021= Toplam %s program
+12022=  %s klasör kaldýrýlmýþ deðil. Baþka kiþi yada program tarafýndan kullanýlýyor olabilir. Sonraki baþlayýþta o kaldýrýlsýn mý?
+12023= Yeni!
+
+12024= Bu programý degiþtir yada onu bilgisayardan kaldýr, %s 'Degiþtir/Kaldýr' ý týkla!.
+12025= Bu programý degiþtir yada onu bilgisayardan kaldýr, %s 'Degiþtir/Kaldýr' ý týkla!.
+12026= Bu programý degiþtir yada onu bilgisayardan kaldýr, %s 'Kaldýr' ý týkla!.
+
+12027= Kuruldu:
+12028= KayýtDefteri Dosyalarý(*.reg)
+12031= Metin dosyalarý(*.txt)
+12029= %s 'dan geriyükleme bilgileri baþarýyla kaldýrýldý.
+12030= %s Bilgisayarýnýzdan kaldýrýlsýn mý?
+12032= Rapor oluþturuldu 
+12033= Bilgisayarýnýzda kurulu programlar(Toplam %s Program):
+12034= Dosya kaydedildi: 
+12035= Sisteminize tüm programlar yüklenmiþ, Tamam, geçersiz giriþ bulunmadý
+12036= Kurulu program listenizden %s kaldýrýlsýn mý?
+
+12037= %s kaldýrmak istenirken bir hata oluþtu. Onu kaldýrmýþ olabilirsiniz. Kurulu program listenizden %s2 kaldýrýlsýn mý?
+12039= %s büyük olasýlýkla sistemde kullanýlan 'gizli' bir programdýr. On gerçekten kaldýrýlsýn mý?
+12040=  "%s" kurulum dizininde býrakýlan dosyalar var. Faydalý veri dosyalarý kaldýrýlmýþ deðil. 'Dizin'e Gözat'a týklayýp gözden geçirebilirsiniz. Faydasýz olduðundan eminseniz, 'Tümünü Sil'e týklayýn!.
+12041= Dizin'e Gözat!.
+12042= Tümünü sil!
+12043= Silmeden önce bu giriþi yedekle!
+
+12044= Arama dizgisi bulunamadý
+12045= Bul!
+12046= Sonrakini bul!
+12047= Bul!:
+
+12048= Takip eden geçersiz giriþler bulundu. Bu kayýt giriþleri gerçekten silinsin mi? (Ayrýca onlarý elle de silebilirsiniz)
+12049= Geçersiz Giriþler
+12050= Bu Giriþleri silinmeden önce yedekle!
+
+12051= Lütfen, program giriþlerini yeniden yüklemeyi seçerek 'Yeniden Yükle' tuþuna týklayýn!.
+12052= Yeniden Yükle
+12053= Program Giriþi
+12054= Yedek Tarihi
+12055= Sistem kayýt bilgilerini %s program giriþleri gerçekten yeniden yüklensin mi?
+
+12056= "Teknik Destek" almak için takip eden bilgiyi kullanýn!.
+12058= Yayýncý:
+12059= Sürüm:
+12060= Baðlantý:
+12061= Destek Bilgisi: 
+12062= BeniOku:
+12063= Ürün Güncellemeleri:
+12064= Yorumlar:
+12065= Ürün ID:
+12066= Kayýtlý Þirket:
+12067= Kayýtlý Sahibi:
+12068= Kurulum Konumu:
+
+12069= Programlar (*.exe;*.com;*.bat)
+12070= Tüm dosyalar (*.*)
+12071= Girmiþ olduðunuz "Komut Satýrý" geçersiz olabilir. Gene de devam edilsin mi?
+
+12072= Kurulum Programýný çalýþtýr
+12073= Kaldýrma programý için Komut Satýrý:
+12074=  %s kaldýrmaya çalýþýrken bir hata oluþtu.  %s2 eriþime sahip deðilsiniz .
+12075= Alttan yeni Kaldýrma Programlarý'ný belirtebilirsiniz
+
+12076= Yedekleme Giriþi
+12077= Destek Bilgisi
+12078= Windows Güncelemesi görünsün!
+
+12080= Simge
+12081= Liste
+12082= Ayrýntýlar
+
+12083= Tüm programlar
+12084= Son zamanlarda yüklenen programlar
+12085= Büyük programlar
+12086= Çokaz kullanýlan programlar
+12087= Windows Güncellemeleri
+
+12088= Son kullanýlan:
+12089= Kaldýrýlan Kayýtlý bilgiler:
+12090= Son Eriþim Güncellemesi devre dýþý
+
+[Duplicate Files Finder]
+15001= Kopya(Eþ) Dosya Bulma
+15901= Alan ýsrafçýsý, gereksiz 'Kopya Dosya Hatalarý'ný bulup temizleyebilirsiniz.
+15002= Kopya Dosyalar için tara!
+15003= Dosya aç!
+15004= Birlikte aç!..
+15005= Klasör Gezgini
+15006= Dosya Özellikleri
+15007= Genel Rapor
+15008= Ýmlenmiþ Kopya Dosyalarý sil!
+15012= Her Gruptan birini seç!
+15013= Gelecekteki aramalarda bu dosyayý dýþta tut!
+15015= Yol
+15016= %s 'den %s2 'e parçalar silinmek için imli.
+15017= Kopya Dosya Grubu
+15018= Seçilen dosya içinde bütün  %s parçalarý herhangi bir sonraki aramada ayrý tutulsun mu?
+15019= Silinmesi için imlenmiþ edilmiþ parça yok.
+
+15020= Sihirbazla taranýyor
+15021= Lütfen Sürücüleri seçin yada Klasörleri tarayýn!.
+15022= Sürücüler
+15023= Klasörler
+15024= Klasör ekle!
+15025= Kopya(benzer) Ölçütlü Dosyalar
+15026= Ayný Dosya Adý
+15027= Ayný Boyut
+15028= Ayný Zamanlý Dosya
+15029= Az Boyutlu Dosyalarý yoksay! 
+15030= Sadece en Yaygýn Dosyalarý altta ara!
+15031= Tüm Dosyalarý tara!
+15032= Dosya Türü
+15033= Bu dosyalarý aramadan dýþta tut!:
+15034= Klasör
+15035= Kopya dosyalar taranýyor...
+
+15036= Orada seçili sürücü yok. Lütfen devam etmek için bir sürücü seçin!.
+15037= Orada seçili klasör yok. Küçük boyuttaki dosyalarý yoksay!
+15038= Orada seçili dosya türü yok. Lütfen devam etmek için en azýndan bir dosya türünü seçin!.
+15039= Dosyalarý düzenle. Dosyalarýn sayýsýna baðlý olarak biraz zaman alabilir. Lütfen bekleyin!..
+15040= Toplam %s dosya tarandý ve  %s2 kopya bulundu.
+
+15041= Aramak için yeni dosya adý ekle
+15042= Joker Karakter kullanýnýz, örn.(*.avi)
+15043= Dosya adý ile biten:
+15044= Lütfen uzatma adýný girin!.
+
+15045= Klasör gir!.
+15046= Klasör seç!.
+15047= Joker Karakter kullanýnýz(*,?)
+15048= Boþaltýlamaz.
+15049= Tarih yazýldý
+15050= Bu dosya türü eklendi.
+
+1501001= Deðiþken Taramasý ayarla!.
+1501002= Akýllý denetle!
+1501003= %d 'den %d 'e öðeler silinmek için iþaretlendi.
+1501004= %s zaten var.\nDeðiþtirilsin mi?
+1501005= Farklý kaydetmeyi onayla!.
+1501006= Dosya sil!
+1501007= Belgeler
+1501008= Müzik
+1501009= Resimler
+1501010= Programcý
+1501011= Videolar
+1501012= Diðer
+1501013= %s2 tarafýndan %s'de oluþturulan 'çift dosya bulma' raporu
+1501014= Toplam %s dosya
+1501015= Kayýtlý dosyala
+1501016= Hariç
+1501017= Hariç dosyalar listesi
+1501018= Tüm çoðaltýlan dosyalar silinsin mi?
+
+1502002= Ayrýk dosya
+
+1503001= Matematik ölçütleri çoðaltýlan dosyalar
+
+1504001= Tara
+1504002= Toplam alan
+1504003= Kullanýlan alan
+1504004= Boþ alan
+1504005= Dosya yolu
+
+1505001= Depolama yeri
+1505002= Durum
+1505003= Bekleniyor
+1505004= Yükleniyor
+1505005= Toplam %d dosya tarandý ve %d çift bulundu.
+1505006= Dosyalar düzenleniyor, lütfen bekleyin!..
+
+1506001= Genel
+1506002= Gereksiz dosya
+
+[Empty Folders Finder]
+16001= Boþ Klasör Bulma
+16901= Systeminizdeki boþ dosyalarý/klasörleri bulup gereksiz ise kaldýrabilirsiniz.
+16002= Boþ Klasörleri tara!
+16003= Dýþlanan Klasörler Listesi
+16004= Seçilmiþ Klasörleri sil!
+16005= Bu klasörü dýþa at(asla tekrar bulma)!
+16006= Dýþla!
+16007= Klasör
+16008= Yoksayýlanlar Listesine %s gerçekten eklensin mi? Bu parçalar tekrar bulunamayacak.
+
+16009= Yoksayýlanlar Listesi Yönetimi
+16010= Boþ klasörler taranýrken giriþlerin listesi yoksayýlmýþ olur. Bu giriþlerin birini içermesini isterseniz, ardýndan onun onay imini kaldýrýn!.
+
+16011= Simdi tara!
+16012= Taramak istediðiniz Sürücüleri seçin!.
+
+1601001= Boþ klasör aðacý hazýrlanýyor...
+
+1602001= Klasör listesi hazýrlanýyor...
+1602002= Tarama bitti.
+1602003= %s taramasý
+1602004= Diskler yükleniyor...
+1602005= Dosyalar sýralanýyor...
+1602006= Veri kaydediliyor...
+1602007= Baþlatýlýyor...
+1602008= Boþ klasörler taranýyor...
+1602009= Boþ klasörler sýralanýyor...
+
+[Shortcuts Fixer]
+17001= Kýsayol Onarýmý
+17901= Baslangýç mönüsündeki, masaüstündeki hatalý kýsayollarý düzeltebilirsiniz
+17002= Tara!
+17003= Kýsayollarý onar!
+17004= Sil!
+17005= Hedef
+17006= Konum
+17007= Kaybolmuþ Kýsayol Hedeflerine gözat!
+17008= Þimdi Tara!
+17009= Tarama Seçenekleri
+17010= Sadece Baþlangýç Mönüsü ve Masaüstünü tara!
+17011= Boþ Baþlangýç Mönü Klasörlerini tara!
+17012= Taramak istediðiniz Sürücü(ler) Kutularýný seçin!.
+17013= Sorun bulunmadý.
+
+1701001= Hýzlý Tarama
+1701002= Geliþmiþ Tarama
+1701003= Taramayý durdur!
+1701004= Tüm denentleneni düzelt!
+1701007= Hata
+1701008= Düzelt!
+1702001= Konum:
+1702002= Hedef:
+1702003= Deðiþgenler:
+1702004= Taným:
+1702005= Deðiþiklikleri kaydetmek için "Uygula"yý týklayýnýz.
+1702006= Bir klasör seç!
+1703001= Kaldýr!
+1703002= Seçilen kýsayollarý listeden kaldýrmak için "%s" týklayýn;{\r\n}Seçilen kýsayollarý Geri Dönüþüm Kutusu taþýmak için "%s2" týklayýn;{\r\n}Seçilen kýsayollarý kalýcý olarak silmek için "%s3" týklayýn.
+1703003= Seçilen kýsayollarý silmeden önce yedekle!
+
+[Tracks Eraser]
+18001= Ýzleri-Belirtileri yoket!
+18901= Internet geçmiþini, çerezleri, belirtileri ve tüm kiþisel izleri yok edebilirsiniz.
+18002= Ýmlileri temizle!
+18003= Sadece var olan silinebilir belirtileri göster!
+18004= Bu belirtileri sil!
+18005= Seçilmiþ belirti yok. Lütfen, silmek istediðiniz belirtiyi soldaki onay kutusunda seçin!.
+18006=  %s Ýmlenenler gerçekten silinsin mi?
+18007= Belirtiler-izler baþarýlý bir þekilde silindi.
+18008=  %s belirtileri gerçekten temizlensin mi?
+
+18009= IE Çerez(Cookie) Yönetimi
+18010= IE Kategori URL'ler
+18011= Internet Explorer Çerezleri silinirken kalmasýný istediklerinizi imleyerek seçin!.
+18012= Að Yeri
+18013= Olma Oraný
+18014= Son Deðiþiklik Zamaný
+18015= Bitiþ Zamaný
+18016= Tam Yeri
+18017= Seçilmemiþ Çerezleri sil!
+18018= Internet Explorer temizlenirken saklamak istediðiniz Adresleri(URL Geçmiþi) seçin!.
+18019= URL'ler
+18020= Seçilmemiþ URL'leri sil!
+
+18021= Temizleniyor
+
+18022= Windows
+18023= Geçmiþi, son kullanýlan listelerini(MRU) ve Windows'un diðer iz-belirtileri kaldýrýlýr.
+18024= Windows Son Kullanýlan Belgeler
+18025= Son Kullanýlan belge ve dosyalar listesi bilgisayar açýldýðýnde temizlenir. Bu liste genellikle Baþlat> Belgelerim'de gözükür.
+18026= Windows Baslangýç Çalýþtýr Mönüsü
+18027= Windows'ta girmiþ olduðunuz son komutlarýn geçmiþini temizler. Baþlat > Çalýþtýr.
+18028= Microsoft Ortak Diyalog - Dosya/Klasör Listsesi
+18029= Microsoft Ortak Diyalog, Windows'da Aç/Kaydet diyaloglarý için kullanilir. Bu izler birçok uygulama için 'Geçmiþ'te açýlan klasörlerde yer alýr. Bu seçenek, bu bilgileri, son dosya ve klasör listesini temizler.
+18030= Baslangýç Ara Mönüsü
+18031= Windows Baslat > Ara'da yapýlmýþ aramalarýn Geçmiþini temizler.
+18032= Windows Clipboard(Pano)
+18033= Dosyalarla çalýþma normalde "Kopyala" ve "Yapýþtýr" iþlemleri kullanýlmasýný içerir. Windows Clipboard(Pano), son kopya iþlemlerini, parola, kredi kartý ve kiþiye özel bilgi gibi etkinlikler hakkýnda konu bilgisini hatýrlar. Bu seçenek bunlarý siler. 
+18034= Windows Geçici Dosyalar(Temporary Files)
+18035= Windows Geçici Dosyalar Dizini'ni boþaltýr.
+18036= Windows Geri Dönüþüm Kutusu
+18037= Windows Geri Dönüþümd kutusunu boþaltýr, temizler.
+18038= Windows Paylaþýmlý Að Sürücüleri
+18039= Sürücü "Harfleri"yle onlara eriþim saðlamak için að sürücü haritasý, tüm paylaþýmlarýnýz, 'KayýtDefteri'nde hatýrlar. Bu ayarlar kullanýlarak o bilgilerden kurtulursunuz.
+18040= Baþlat Geçmiþi
+18041= Windows, Baþlat mönüsünde yakýn zamanda týkladýðýnýz bir çok parça listesini depolar. Baþlat Geçmiþini temizlemek için bu seçeneði imleyin.
+18042= Að Baðlantým
+18043= Að Tarayýcýnýz, Uzak Sunucu'ya eriþimlerinizi, son kullandýðýnýz tüm paylaþýmlarý saklar. Að Kurulumunuza giren, bunlarý görebilir, kullanabilir. MRU Listesi'ne bakýlarak Að Konumunuz bulunabilir. Temizlemek için bu seçeneði imleyin.
+
+18044= Internet Explorer
+18045= Yakýn zamanda kullandýðýnýz birçok Liste(MRU List), Geçici Internet Dosyalarý ve Internet Explorer Að Tarayýcýdaki diðer belirtileri Geçmiþ'ten kaldýrýlýrýn.
+18046= Internet Explorer - URL Geçmiþi
+18047= Internet Explorer, Adres Çubuðu'na yazdýðýnýz adresleri Geçmiþ'te saklar, yeniden yazmaya baþladýðýnýz Web Sitesi'ni tahmin edebilir. Adres Çubuðu'na "www.gl" -  yazmaya baþladýðýnýzda "www.glarysoft.com" olarak hatýrlar.. Bu seçenekle bunlarý kaldýrýn.
+18048= Internet Explorer geçmiþi 
+18049= Internet Explorer'la ziyaret etmiþ olduðunuz Web Siteleri listelenir ve saklanýr. Burayý imleyerek bunlardan kurtulun.
+18050= Internet Explorer Çerezler
+18051= Web Siteleri, diskinizde küçük bir metin dosyasý "Çerez/Tanýmlama Bilgileri" olarak depolanýr. Çerez Dosyalarý Seçimleriniz ve sizin hakkýnýzda bilgi içerir. Hangi web sitesini kaç sefer ziyaret ettiniz,  site içinde nereleri dolaþtýnýz, vb. gibi. Bazý "Çerez Dosyalarý" gereklidir, saklamak isteyebilirsiniz. Saklamak istediðiniz Çerezleri seçmek için "Seçenekler" e týklayýn. Ýmli olmayanlarýn tümü silinecek.
+18052= Akýllý Formlar - Otomatik Parola Tamamla
+18053= Eðer ayarlamýþsanýz, Internet Explorer Otomatik Formlarýn & Parolalarýn verilerini, kullanýcý ad ve  bilgilerini Geçmiþte saklar. Bu seçenek, bu belirti ve izleri kaldýrýlýr. 
+18054= Geçici Internet Dosyalarý
+18055= Geçici Internet Dosyalarý(Temporary Internet Files), Sizin ziyaret etmiþ olduðunuz ve Internet Explorer tarafýndan kaydedilmiþ yada indirilmiþ içerikleri içerir. Bu seçenekle bunlarý kaldýrýrsýnýz.
+
+18056= Bileþen(Plug-in)
+18057= Üçüncü Parti Uygulamalarýn bir çoðu son zamanda açýlanlarýn bir kaydýný tutar yada onlarla dosyayý çalýþtýrýr. Bu eklentiyi kullanýlarak, birçok Popüler Uygulama'nýn MRU Geçmiþi'nden kurtulabilirsiniz.
+
+18058= Mozilla Firefox
+18059= Yakýn zamanda kullandýðýnýz birçok liste(MRU)yi, geçici Internet dosyalarýný ve Firefox Tarayýcý'dan diðer geçmiþ belirtilerini kaldýrýn.
+18060= Mozilla Firefox - Geçmiþ
+18061= Firefox Adres Çubuðu'na yazmýþ olduðunuz Adresleri kaldýrýlýr.
+18062= Mozilla Firefox - Çerezler
+18063= Firefox Önbellekte kayýtlý olan Çerezler kaldýrýlýr.
+18064= Mozilla Firefox - Internet Önbellek
+18065= Firefox tarafýndan Önbellek'te saklanmýþ Internet Dosyalarý kaldýrýlýr.
+18066= Mozilla Firefox - Kayýtlý Form Bilgileri
+18067= Web sayfalarýnda Firefox tarafýndan doldurulan Kayýtlý Form Verileri kaldýrýlýr.
+18068= Mozilla Firefox - Kayýtlý Parolalar
+18069= Web sayfalarýnda Firefox tarafýndan doldurulan Kayýtlý Parola Verileri kaldýrýlýr. 
+18070= Mozilla Firefox - Ýndirme Yönetim Geçmiþi
+18071= Ýndirme Yöneticisi'nde, son kullanýlan Ýndirme Dosya Ýzleri kaldýrýlýr.
+18072= Mozilla Firefox - Geçmiþi Ara
+18073= Firefox Arama Çubuðu'na girilmiþ arama Dizgi Türleri kaldýrýlýr.
+
+18074= Ýzleri silmek için %s. Bu zaman alabilir...
+18075= Ýzleri silmek için %s...
+
+18076= Index.dat dosyalarý
+18077= Index.dat dosyalarý, bilgisayarýndaki tüm çevrim içi etkinliðin izlerini, Internet'te nerelerin ziyaret edildiðini, URL-s listesini, dosyalarý ve yakýnlarda eriþilen dökümanlarý kapsayan saklý dosyalardýr. 
+18078= Belirtiler-izler için tara %s. Bu iþlem zaman alýr
+18079=  %s 'i Ýzler-Belirtiler için tara!
+18080= Rapor oluþuyor...
+18081= ÇÖZÜMLEME RAPORU
+18082= %s öðe 'KayýtDefteri'nden kaldýrýlacak.
+18083= %s - (%s2 dosya) kaldýrýlacak.
+18084= Silinecek Dosya Ayrýntýlarý:
+18085= Çözümle
+
+18086= Ýz-Belirti
+18087= Sonuç
+
+18088= Google Chrome
+18089= En son kullanýlanlar listesi(MRU) geçmiþini, geçici Internet dosyalarýný ve Google Chrome Tarayýcýsý'nýn diðer belirtiler-izler geçmiþi kaldýrýlýr.
+18090= Google Chrome - Geçmiþi
+18091= Google Chrome Adres Çubuðu'na yazýlan tüm adresleri kaldýrýlýr.
+18092= Google Chrome - Çerezleri
+18093= Google Chrome Önbellek Klasörüne kaydedilen çerezleri kaldýrýlýr.
+18094= Google Chrome - Internet Önbelleði
+18095= Google Chrome tarafýndan Önbelleðe alýnan internet dosyalarý kaldýrýlýr.
+18096= Google Chrome - Kayýtlý Biçim Bilgileri
+18097= Doldurulan ve Google Chrome tarafýndan kaydedilen Websayfasý biçim verileri kaldýrýlýr.
+18098= Google Chrome - Ýndirme Geçmiþi
+18099= Son zamanlardaki Download Manager indirme izleme dosyalarý kaldýrýlýr.
+
+18100= Devam etmeden önce %s kapatmanýz önemle önerilir. 'Ýz-Belirti Silici' diðer programlar tarafýndan kullanýlmakta olan izleri-belirtileri silemez.
+
+2101001= %s öðe denetlendi.
+2101002= Hiçbir parça seçilmedi. Parça çözümlemesi için, parça adýnýn solundaki onay kutusunu kullanarak çözümlenmesi istenen parçayý seçin.
+
+2102001= Windows Live Araç Çubuðu
+2102002= Windows Live Araç Çubuðu'dan son arama geçmiþi kaldýrýlýr.
+2102003= Google Araç Çubuðu
+2102004= Google Araç Çubuðu'ndan Internet Explorer için gelen son arama geçmiþi kaldýrýlýr.
+2102005= Google Masaüstü Çubuðu
+2102006= Google Masaüstü Çubuðu'ndan son arama geçmiþi kaldýrýlýr.
+2102007= Kazaa Arama Geçmiþi
+2102008= Kazaa Arama Geçmiþi Dosyasýný temizle.
+2102009= eMule
+2102010= EMule Arama Geçmiþini temizle.
+2102011= MSN Messenger
+2102012= MSN Messenger önbellek geçmiþi kaldýrýlýr.
+2102013= Fresh Sound 6.0
+2102014= Fresh Sound 6.0 önbellek geçmiþini kaldýrýlýr.
+2102015= Yeniden indir
+2102016= 'Yeniden Ýndir' geçmiþi kaldýrýlýr.
+2102017= Windows Media Player
+2102018= Windows Media Player'in film ve müzik geçmiþi ve son dosyalar, URL'ler temizlenir.
+2102019= Real Player
+2102020= Real Player ile son oynatýlan müzik ve film dosyalarý geçmiþi temizlenir.
+2102021= Quicktime Player
+2102022= QuickTime Player ile son oynatýlan film dosyalarý geçmiþi temizlenir.
+2102023= SWiSH
+2102024= SWiSH ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102025= Windows Movie Maker
+2102026= Windows Movie Maker ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102027= BSPlayer
+2102028= BSPlayer ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102029= Media Player Classic
+2102030= Media Player Classic ile son oynatýlan müzik ve film dosyalarý geçmiþi temizlenir.
+2102031= Axialis IconWorkshop
+2102032= Axialis IconWorkshop ile son açýlan dosyalarýn önbellek geçmiþi kaldýrýlýr.
+2102033= Ulead Smart Saver Pro 3.0
+2102034= Ulead Smart Saver Pro 3.0 ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102035= Macromedia Flash Player
+2102036= Macromedia Flash Player ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102037= Macromedia Flash MX
+2102038= Macromedia Flash MX ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102039= Macromedia Flash 5.0
+2102040= Macromedia Flash 5.0 ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102041= Macromedia Flash 4.0
+2102042= Macromedia Flash 4.0 ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102043= Adobe Flash Player
+;2102044=
+2102045= AVI Preview
+2102046= AVI Preview ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102047= Paint Shop Pro 7.0
+2102048= Paint Shop Pro 7.0 tarafýndan oluþturulan-açýlan veya düzenlenen dosyalarýn geçmiþi temizlenir.
+2102049= Paint Shop Pro 8.0
+2102050= Paint Shop Pro 8.0 tarafýndan oluþturulan-açýlan veya düzenlenen dosyalarýn geçmiþi temizlenir.
+2102051= Paint Shop Pro 9.0
+2102052= Paint Shop Pro 9.0 tarafýndan oluþturulan-açýlan veya düzenlenen dosyalarýn geçmiþi temizlenir
+2102053= Office XP
+2102054= Microsoft Office XP ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102055= Office 2000
+2102056= Microsoft Office 2000 ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102057= Office 2003
+2102058= Microsoft Office 2003 ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102059= Office 2007
+2102060= Microsoft Office 2007 ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102061= MS Management Console
+2102062= MS Management Console ile son açýlan dosyalarýn geçmiþi kaldýrýlýr.
+2102063= MS Wordpad
+2102064= MS WordPad tarafýndan düzenlenen/açýlan/ veya oluþturulan dosyalarýn geçmiþi temizlenir.
+2102065= MS Paint
+2102066= MS Paint tarafýndan açýlan dosyalarýn geçmiþi temizlenir.
+2102067= Microsoft Visual Basic 6.0
+2102068= Microsoft Visual Basic 6.0 geliþtiriciler için son dosya geçmiþi temizlenir.
+2102069= Remote Desktop
+2102070= Uzak Masaüstü tarafýndan kaydedilen önbellek verileri kaldýrýlýr.
+2102071= PowerArchiver
+2102072= PowerArchiver tarafýndan sýkýþtýrýlmýþ/sýkýþtýrýlmamýþ dosyalarýn geçmiþi temizlenir.
+2102073= WinISO
+2102074= WinISO tarafýndan açýlan dosyalarýn geçmiþi temizlenir.
+2102075= WinRAR
+2102076= WinRAR tarafýndan sýkýþtýrýlmýþ/sýkýþtýrýlmamýþ dosyalarýn geçmiþi temizlenir.
+2102077= 7-Zip
+2102078= 7-Zip tarafýndan sýkýþtýrýlmýþ/sýkýþtýrýlmamýþ dosyalarýn geçmiþi temizlenir.
+2102079= WinZip
+2102080= WinZip tarafýndan sýkýþtýrýlmýþ/sýkýþtýrýlmamýþ dosyalarýn geçmiþi temizlenir.
+2102081= SpyBot Search and Destroy
+2102082= SpyBot Search and Destroy tarafýndan kaydedilen önbellek verileri kaldýrýlýr.
+2102083= WinAce 2.0
+2102084= WinAce 2.0 geçmiþi kaldýrýlýr.
+2102085= Norton AntiVirus
+2102086= Norton AntiVirus tarafýndan kaydedilen günlük dosyalarý kaldýrýlýr.
+2102087= Adobe Acrobat Reader 5.0
+2102088= Adobe Acrobat 5.0 kullanarak görüntülediðiniz PDF dosyalarýnýn tarihi kaldýrýlýr.
+2102089= Adobe Acrobat Reader 6.0
+2102090= Adobe Acrobat 6.0 kullanarak görüntülediðiniz PDF dosyalarýnýn tarihi kaldýrýlýr.
+2102091= XML Spy
+2102092= XML Spy kullanarak görüntülediðiniz XML dosyalarýnýn tarihi kaldýrýlýr.
+2102093= Installshield Developer 7.0
+2102094= Installshield Geliþtirici 7.0 tarafýndan açýlan dosyalarýn geçmiþi temizlenir.
+2102095= Macromedia Homesite 5.0
+2102096= Macromedia Homesite 5.0 tarafýndan açýlan dosyalarýn geçmiþi temizlenir.
+2102097= Ahead Nero Burning ROM
+2102098= Ahead Nero Burning ROM tarafýndan açýlan Dosya/klasörlerin tarihi temizlenir.
+2102099= ZipMagic
+2102100= ZipMagic tarafýndan sýkýþtýrýlmýþ/sýkýþtýrýlmamýþ dosyalarýn geçmiþi temizlenir.
+2102101= PicoZip
+2102102= PicoZip tarafýndan sýkýþtýrýlmýþ/sýkýþtýrýlmamýþ dosyalarýn geçmiþi temizlenir.
+2102103= Adobe Acrobat Reader 7.0
+2102104= Adobe Acrobat7.0 kullanýlarak görüntülenen PDF dosyalarýnýn geçmiþi kaldýrýlýr.
+2102105= Adobe Reader 8.0
+2102106= Adobe Acrobat 8.0 kullanýlarak görüntülenen PDF dosyalarýnýn geçmiþi kaldýrýlýr.
+2102107= Adobe Reader 9.0
+2102108= Adobe Acrobat 9.0 kullanýlarak görüntülenen PDF dosyalarýnýn geçmiþi kaldýrýlýr.
+2102109= Adobe Reader 10.0
+2102110= Adobe Acrobat 10.0 kullanýlarak görüntülenen PDF dosyalarýnýn geçmiþi kaldýrýlýr.
+2102111= Adobe Reader 11.0
+2102112= Adobe Acrobat 11.0 kullanýlarak görüntülenen PDF dosyalarýnýn geçmiþi kaldýrýlýr.
+
+2102113= Opera - Geçmiþi
+2102114= Web sitelerine 'Opera' kullanýlarak edilen ziyaret geçmiþi kaldýrýlýr.
+2102115= Opera - Çerezleri
+2102116= Opera önbellek klasörüne kaydedilen çerezler kaldýrýlýr.
+2102117= Opera - Internet önbelleði
+2102118= Opera'nýn önbelleðe yerleþtirdiði internet dosyalarý kaldýrýlýr.
+2102119= Opera - Kayýtlý biçim bilgileri
+2102120= Web sayfasýna Opera tarafýndan doldurulup kaydedilen biçim verileri kaldýrýlýr.
+2102121= Opera - Geçmiþ indir
+2102122= Son zamanlarda indirilmiþ Download Manager takip dosyalarý kaldýrýlýr.
+
+2102123= Opera
+2102124= Opera web tarayýcýsý geçmiþi, en son kullanýlanlar(MRU) listesi, geçici internet dosyalarý ve diðer belirtiler kaldýrýlýr.
+
+2103001= Tümünü imle!
+2103002= Ýmleri kaldýr!
+2103003= Varsayýlan denetim
+2103004= RegEdit'i aç!
+2103005= Dýþlananlar listesine ekle!
+2103006= YokSayýlanlar Listesi
+2103007= Þimdi: %s ; toplamda: %s2 öðe silindi.
+2103008= Þimdi: %s ; toplamda: %s2 öðe silindi.
+2103009= %s dosya; toplamda %s2 dosya bulundu.
+2103010= %s gizlilik sorunu,
+2103011= %s'ýn gizlilik sorunu,
+2103012= %s 'ýn veri öðesi kaldýrýlacak.
+2103013= Þimdi: %s ; toplamda: %s2 öðe silindi.
+2103014= Þimdi: %s ; toplamda: %s2 öðe silindi.
+2103015= %s öðe bulundu, %s2 öðe silindi. 
+2103016= %s öðe bulundu, %s2 öðe silindi. 
+2103017= Gizlilik sorunu yok 
+2103018= %s'gizlilik sorunu giderildi 
+2103019= %s gizlilik sorunu giderildi 
+2103020= %s öðe Windows KayýtDefteri'nden silindi. %s2 dosya ve %s3 veritabaný öðesi kaldýrýldý. 
+2103021= Gizlilik sorunlarý için 'Çözümle'yi týklayarak sisteminizi denetleyin.
+2103022= Tararken bu giriþ listesinden biri %s 'e eklenmek isteniyorsa onay iminin kaldýrýlmasý ihmal edilmemeli. 
+
+[Memory Optimizer]
+21001= Bellek Düzenleme
+21901= Arkaplandaki Bellek Durumu'nu denetleyip yönetebilirsiniz.
+21002= Düzenle
+21003= Elle düzenlensin!
+21004= Fiziksel Bellek Grafiði:
+21018= %s%(%s2 MB) - %s3 MB boþ
+21005= CPU Kullanýmý  
+21006= Serbest Býrakýlan Bellek miktarýný görmek için 'Düzenle' ye týklayýn!.
+21007= Serbest Bellek:
+21008= Düzenle!
+21009= Panoyu temizle!
+21010= Geçerli Pano Boyutu:
+21011= Otomatik Ýyileþtirmeyi etkinleþtir!
+21012= Serbest Belleði otomatik olarak düzenle!:
+21013= Serbest Belleði arttýr!:
+21014= CPU-Kullanýmýný iyileþtir!:
+21015= Windows baþladýðýnda otomatik olarak yükle!
+21016= Varsayýlan
+21017= Ýyileþtiriliyor...
+21019= Anasayfayý göster!
+
+[File Shredder]
+22001= Dosya Kýyýcý
+22901= Dosyalarý kalýntýsýz, ele geçirilemez ve incelenemez biçimde yok edebilirsiniz.
+22002= Hassas verilerinizi; kurtarýlamaz, tekrar elde edilemez ve incelenemez bir þekilde yok edebilen bu araç, ABD Savunma Bakanlýðý'nca verileri güvenli bir þekilde kaldýrmak için geliþtirilen 'Amerikan Dod 5220.22-M' güvenilir yöntemini kullanýr.
+22003= Tür
+22012= Tarih Deðiþikliði
+22004= Dosya ekle!
+22005= Klasör ekle!
+22006= Temizle
+22007= Silme Ýþlemi'ni yinele!
+22008= Dosya-Klasör
+22009= Listede tüm Seçilmiþ Verileri Silme hakkýnda: GeriAlma Araçlarý, silinen bu dosyalarý kurtaramaz. Devam edilsin mi?
+22010= Siliniyor
+22011= Silindi
+22019= Disk BoþAlaný Temizleme
+22013= Geri Dönüþüm Kutusu'na atýlan dosyalar, veriler gerçekten kaldýrýlmýþ olmaz, kurtarma yazýlýmlarý ile kolayca geri alýnabilirler. Hassas verilerininizin tamamen silinmiþ olduðundan emin olmak için 'Disk BoþAlanlarý' ný düzenli olarak temizlemelisiniz.
+22014= BoþAlan Temizliði istediðiniz Sürücü'yü seçin!:
+22015= Temizle!
+22016= BoþAlan temizleniyor %s
+22017= Ýþlem kullanýcý tarafýndan sonlandýrýldý.
+22018= Ýþlem baþarýyla bitirildi.
+22020= Bir Hedef Klasör seçin!:
+22021= Bir disk sürücüsü seçin!.
+22022= MFT boþ alanýný sil! - Sürücü %s
+
+[Internet Explorer Assistant]
+23001= Internet Tarayýcý Bileþenleri
+23901= IE bileþenlerini yönetme ve kaçýrýlan ayarlarýn geri yüklenmesi
+23002= IE bileþenleri
+23003= IE araç çubuklarý
+23004= IE tarayýcý çubuklarý
+23005= IE ekstra baðlam mönüleri
+23006= IE ekstra tuþlar
+23007= IE indirilen activeX
+23008= Kaçýrýlaný GeriYükleme
+23009= [Blocked]
+23010= Yayýmcý
+23011= Dosya yolu
+23012= Komut
+23013= Bu öðeyi engelle!
+23014= Bu öðeyi engelleme!
+23015= Bu öðeyi kalýcý olarak kaldýr!
+23016= %s geri yüklensin mi?
+23017= IE %s 'ý engellesin mi?
+23018= IE %s 'ý kalýcý olarak kaldýrsýn mý?
+23019= Uyarý! Dosya eksik.
+23020= Internet Tarayýcý Bileþenleri
+23021= IE araç çubuklarý
+23022= IE tarama çubuklarý
+23023= IE ekstra baðlam mönüsü
+23024= IE ekstra tuþ
+23025= Ýndirilen activeX programlarý
+23026= Hasarlý
+23027= Yüklü
+
+23028= Ayar
+23029= Geçerli ayar
+23030= Ayarlarý geriyükle 
+23031= Yeni URL için GeriYükleme ayarýný deðiþtir...
+23032= GeriYükle!
+23033= IE Varsayýlaný
+23034= Seçili ayarlar gerçekten yeniden yüklensin mi?
+23035= %s Internet Explorer Tarayýcý Ayarlarý baþarýlý þekilde deðiþtirildi.
+23036= Internet Explorer GeriYükleme Ayarlarýný deðiþtir
+23037= Internet Explorer GeriYükleme Ayarlarý için %s deðiþtir. Asaðýdaki URL alanýnda, bu ayarlar varsayýlan Internet Explorer URL'sidir. Herhangi bir diðer sayfaya yada bu alandaki varsayýlan diðer adreslerin birine girebilirsiniz.
+23038= Baþlangýç Sayfasý  
+23039= Bu yeni bir Internet Explorer Tarayýcý Penceresi açýldýðý zaman gösterilecek Web Sayfasý adresidir.
+23040= Arama Sayfasý
+23041= Internet Explorer'da arama butonuna týkladýðýnýzda bu varsayýlan arama motorudur
+23042= Varsayýlan URL Sayfasý
+23043= Bu Internet Explorer tarafýndan kullanýlan varsayýlan Web Sayfasý adresidir.
+23044= Yerel Sayfa
+23045= Internet Explorer Adres Çubuðu'na girildiðinde bir Web Sayfasý bulunamazsa, bu yüklenecek sayfadýr.
+23046= Arama Sayfasý
+23047= Internet Explorer arama ikonuna týkladýðýnýzda bu sayfa gösterilecek. Arama Çubugu ayrýntýlý bilgiyi depolamak için faydalýdýr.
+23048= Varsayýlan Arama URL
+23049= Internet Explorer bir arama yapmaya giriþtiði zaman bu sayfa gösterilecek.
+23050= Baþlangýç Sayfasý(tüm kullanýcýlar)
+23051= Internet Explorer yeni bir tarayýcý penceresi açýldýðý zaman bu gösterilecek sayfadýr.
+23052= Arama Sayfasý(tüm kullanýcýlar)
+23053= Internet Explorer arama butonuna týkladýðýnýz zaman bu varsayýlan arama motorudur. Bu, bu bilgisayardaki tüm kullanýcýlar içindir.
+23054= Varsayýlan Sayfa URL(tüm kullanýcýlar)
+23055= Internet Explorer tarafýndan kullanýlan varsayýlan web adresidir. Bu, bu bilgisayardaki tüm kullanýcýlar içindir.
+23056= Yerel Sayfa (tüm kullanýcýlar)
+23057= Internet Explorer adres çubuðuna girildiðinde bir web sayfasý bulunamazsa, bu yüklenecek sayfadýr. Bu; bu bilgisayardaki tüm kullanýcýlar içindir..
+23058= Arama Çubuðu(tüm kullanýcýlar)
+23059= Internet Explorer arama ikonuna týkladýðýnýzda bu sayfa gösterilecek. Arama Çubuðu ayrýntýlý bilgiyi depolamak için faydalýdýr. Bu, bu bilgisayardaki tüm kullanýcýlar içindir.
+23060= Varsayýlan Arama URL(tüm kullanýcýlar)
+23061= Internet Explorer bir arama yapmaya giriþtiði zaman bu gösterilecek sayfadýr. Bu, bu bilgisayardaki tüm kullanýcýlar içindir.
+23062= Özelleþtirilebilir Arama (tüm kullanýcýlar)
+23063= Arama kutusunda özelleþtirilmiþ arama çalýþýrken Internet Explorer'de bu sayfa gösterilir . Arama asistaný tek kullanýcýyla farklý tip aramalarý temin eder. Bu, bu bilgisayardaki tüm kullanýcýlar içindir.
+23064= Arama Yardýmcýsý (tüm kullanýcýlar)
+23065= Bu arama asýstaný Internet Explorer tarafýndan gösterilir. Arama asýstaný tek kullanýcýyla farklý tip aramalarý temin eder. Bu ayarlar, bu bilgisayardaki tüm kullanýcýlar içindir.
+23066= URL Arama
+23067= Farklý Internet arama motorunu kullanmak için arama adresleri uygun yollarý. Örneðin, çevrimiçi internet üzerinden URL'de haber gruplarý arayabilirsiniz. Bir açtar kelime yardýmýyla adres çubuðunda haber gruplarýný otomatik aramak için, haber gruplarýndaki tüm makaleleri bulmak için kullanýlýr.
+23068= URL Arama(tüm kullanýcýlar)
+23069= Farklý internet arama motorlarý kullanmak için arama adreslerine uygun yol. Örneðin, çevrimiçi internet üzerinden URL'de haber gruplarý arayabilirsiniz. Bir açar kelime yardýmýyla adres çubuðunda haber gruplarýný otomatik aramak için, haber gruplarýndaki tüm makaleleri bulmak için kullanýlýr. Bu, bu bilgisayardaki tüm kullanýcýlar için uygulanýr..
+23070= Boþ Sayfa
+23071= Sayfa gösterilemedi-Bir web sitesi yada sayfasý bulunamadýðýnda Internet Explorer tarafýndan gösterilecek sayfadýr.
+23072= Masaüstü Yönetimi baþarýsýz
+23073= Bilgisayarýnýz Internete eriþemezse bu gösterilecek Internet Explorer sayfasýdýr
+23074= Yönetme iptal edildi
+23075= Yönetmeyi iptal ettiðinizde bu gösterilecek Internet Explorer web sayfasýdýr.
+23076= Yönetme baþarýsýz
+23077= Bilgisayarýnýz Internete eriþemezse bu gösterilecek Internet Explorer web sayfasýdýr.
+23078= Çevrimdýþý Bilgi
+23079= Bilgisayarýnýz Internete eriþemezse bu gösterilecek Internet Explorer sayfasýdýr yada web sayfasý yok yada çevrimdýþý.
+23080= Posta Önbellekte deðil
+23081= Uyarý: Sayfa sona erdi - Internet Explorer, önbellekten içeriði okuyamadýðýnda çýkan bir uyarý sayfasýdýr.
+23100= Seçtiðiniz öðeler kalýcý olarak kaldýrýlsýn mý?
+23101= Bileþenler
+23102= Uzantýlar
+23103= Arama Motorlarý
+23104= Geçmiþ
+23105= Çerezler
+23106= Baþlýk
+23107= Ziyaret Sayýsý
+23109= Etki Alaný
+23110= varolan açar
+23111= Açar Sözcük
+23117= Mozilla Firefox %s gerçekten engellensin mi?
+23118= Mozilla Firefox %s gerçekten kalýcý olarak kaldýrýlsýn mý?
+23121= Mozilla Firefox Bileþenleri
+23122= Mozilla Firefox Uzantýlarý
+23123= Mozilla Firefox Arama Motorlarý
+23124= Mozilla Firefox Geçmiþi
+23125= Mozilla Firefox Çerezleri
+23126= Mozilla Firefox Anasayfasý
+23131= Google Chrome Bileþenleri
+23132= Google Chrome Uzantýlarý
+23133= Google Chrome Arama Motorlarý
+23134= Google Chrome Geçmiþi
+23135= Google Chrome Çerezleri
+23136= Google Chrome Anasayfasý
+23141= Yukarý
+23142= Aþaðý
+23143= Sayfa ekle!
+23144= Sayfayý kaldýr!
+23146= Ana Sayfa Giriþi
+23147= Tarayýcý %s için yeni Anasayfa giriþi.
+23149= Ýzleyici
+23150= Tarayýcý Yardýmcýsý düzgün çalýþmýyor. Devam etmeden önce\n\n %s'ý\n\nkapatmanýz önerilir.
+23151= %s öðeler kalýcý olarak kaldýrýldý.
+23152= Ýþlem baþarýsýz. Tarayýcý %s kapatýn, sonra tekrar deneyin.
+23153= Kullanýcý Ýþlemi iptal etti.
+23154= Ýletim Ýlerleme Öðelerini sil!
+23155= Nesneleri kaldýr
+23217= Google Chrome %s gerçekten engellensin mi?
+23218= Google Chrome %s gerçekten kalýcý olarak kaldýrýlsýn mý?
+
+[Process Manager]
+24001= Ýþlem Yönetimi
+24901= Arkaplanda çalýþan Ýþlemleri denetleyip yönetebilirsiniz.
+24002= Yeni Görevler(Çalýþma...)
+24003= Windows'tan çýk
+24004= Bilgisayarý yeniden baþlat!
+24005= Bilgisayarý kapat!
+24006= Ýþlemi bitir!
+24007= Ýþlemi durdur!
+24008= Listeyi durdur!
+24009= Google..
+24010= Açýklama..
+24011= Ayrýntýlarý göster!
+24012= Adý
+24013= Sýnýflandýrma
+24014= Uygulanabilir
+24015= Öncelik
+24016= Parçalar
+24017= CPU
+24018= CPU Zamaný
+24019= Bellek
+24020= Þirket
+24021= Baþladý
+24022= Ýþlemler
+24023= Set Önceliði
+24024= Gerçek Zaman
+24025= Yüksek
+24026= Normal Üstü
+24027= Normal
+24028= Normal Altý
+24029= Düþük
+24030= DÝKKAT: Bu Ýþlemin öncelik deðiþimi, sistem kararsýzlýðýna neden olabilir. Bu iþlem gerçekten yapýlsýn mý?
+24031= Genel Bilgiler
+24032= Kullanýlan Birimler
+24033= Veri
+24034= Deðer
+24035= Süreç Bilgisi
+24036= ID(Kimlik Bilgisi)
+24037= Dosya
+24038= Deðiþkenler
+24039= Klasör
+24040= Küçük Ýþler
+24041= Öncelik
+24042= Kullanýlan Bellek
+24043= Baþlangýçta
+24044= Baþlangýç
+24045= Sürüm Bilgileri:
+24046= Dosya Türü
+24047= Þirket:
+24048= Tanýmlama:
+24049= Sürüm:
+24050= Ýç Adý:
+24051= Telif Hakký:
+24052= Ticari Marka:
+24053= Orijinal Dosya Adý:
+24054= Ürün Adý:
+24055= Ürün Sürümü:
+24056= Yorumlar:
+24137= Güvenli
+24139= Riskli
+24057= Gerçekten %s? Ýþlemi kaldýrýlsýn mý?
+24058= Gerçekten %s? Ýþlemi durdurulsun mu? 
+24059= Gerçekten Bigisayar yeniden baþlatýlsýn mý?
+24060= Gerçekten Bigisayar þimdi kapatýlsýn mý?
+24061= Çalýþan Ýþlemler: 
+24062= Ýþlemci Kullanýmý: 
+24063= Bellek kullanýmý: 
+24064= Sistem Hizmeti
+24065= Görev Yönetim Deðiþikliði
+24066= Her zaman üstte
+
+[Context Menu Manager]
+25001= Baðlam Mönüsü Yönetimi
+25901= Klasörler-Dosyalar için baðlam-mönüsü giriþleri yönetilir...
+25002= Dosyalar & Klasörler
+25003= Yeni
+25004= Gönder!
+25005= Çýkartýlacak veya durdurulacak olaný, üzerine týklayarak seç, kalýcý olarak kaldýrmak için '%s' ý týklayýn!.
+25006= Bulunamadý
+25007= '%s'i gerçekten kalýcý olarak kaldýrýlsýn mý?
+25008= Tüm Dosyalar(*)
+25009= Klasörler
+25010= Dizinler
+25011= Sürücüler
+25012= Müzik Klasörleri 
+25013= Video Klasörleri
+25014= Resim Klasörleri
+25015= Tüm Dosya Sistemi Araçlarý
+25016= Bilgisayarým
+25017= Geri Dönüþüm Kutusu
+25018= Arkaplan
+25019= Kýsayollar
+
+[File Encrypter and Decrypter]
+27001= Dosya Þifreleyici
+27901= Dosyalarýnýzýn korunmasý/yetkisiz kiþi ulaþmalarýnýn önlenmesi.
+27002= Dosya Þifreleme
+27003= Þifre Çözme
+27004= Lütfen 'Gözat'ý týklayarak þifrelenmesini istediðiniz dosyayý seçin!:
+27005= Þifreleme Parolasý:
+27006= Parola Doðrulamasý:
+27007= Þifreleme Ými(Gizli):
+27008= Otomatik Þifre Çözücü EXE dosyasý oluþtur(Arayüzü Ýngilizce olabilir)
+27009= Þifreleme baþarýlý olunca orijinal dosyayý sil
+27010= Þifrele!
+27011= Lütfen 'Gözat' ý týklayarak þifresini çözmek istediðiniz dosyayý seçin!:
+27012= Þifre Çözümü için Parola:
+27013= Þifreleme Ými
+27014= Çýkarma Yeri:
+27015= Þifre çözümü baþarýlý olunca Hedef Klasörü aç!
+27016= Þifre Çöz!
+27017= Lütfen 'Gözat'a týklayýp þifrelenecek dosyayý seçin!.
+27018= Aranan dosya bulunamýyor, lütfen bir baþkasýný seçin!.
+27019= Lütfen 6-16 karakterden oluþan bir þifre girin!.
+27020= Lütfen iki alana da ayný þifreyi girin!.
+27021= Bu dosya zaten var, üzerine yazýlsýn mý?
+27022= Dosya baþarýyla %s þifrelendi.
+27023= Þifrelenmiþ Dosyalar
+27024= Seçilen dosya bu programla þifrelenemez. Lütfen bir baþkasýný seçin!.
+27025= Lütfen 'Gözat'a týklayýp þifresi çözülecek dosyayý seçin!.
+27026= Aranan dosya bulunamýyor, lütfen bir baþkasýný seçin!.
+27027= Lütfen yenilenen dosyanýn konulacaðý klasörü seçin!.
+27028= Hedef klasör oluþturulamadý %s
+27029= Bu dosya %s zaten var, üzerine yazýlsýn mý?
+27030= Dosyanýn þifre çözümü %s baþarýlý.
+27031= Þifre geçersiz. Lütfen yeniden deneyin!.
+27032= Lütfen yenilenen dosyanýn konulacaðý klasörü seçin!.
+27033= Ýþlem baþarýsýz, lütfen yeniden deneyin.
+27034= Þifreleme sürüyor. Bu iþlem zaman alýr, lütfen bekleyin!.
+27035= Þifre çözülüyor. Bu iþlem zaman alýr, lütfen bekleyin!.
+27036= Bu dosya, programýn eski sürümü ile þifrelenmiþ. Þifreyi çözmek için 'Þifre Çözme Programý'nýn eski sürümünü yükleyin?
+27037= Kaydedilen Þifreli Dosya:
+27038= Þifreli dosyayý yerleþtirmek istediðiniz klasörü seçin!.
+27039= Hedef klasör bulunamadý, oluþturulsun mu?
+27040= Baþarýlý þifrelemeye açýk Hedef Klasör.
+27041= Dosya(lar) ekle!
+27042= Dosyalarý sürükle-býrak desteði.
+27043= Yerel Dosya(lar)
+27044= Durum
+27045= Ilerleme
+27046= Þifreli dosya
+27047= Hazýr
+27048= Bekleniyor...
+27049= Þifreleniyor...
+27050= Þifreleme baþarýlý.
+27051= Kaynak dosya bulunmuyor veya silinmiþ.
+27052= Hedef dosya zaten var.
+27053= Kaynak dosya silinemedi.
+27054= Þifrelemek istediðiniz dosyayý seçmek için 'Dosya Ekle' yi týklayýn veya þifrelenecek dosyayý listeye sürükleyin!.
+27055= Dosya þifrelenemedi, seçin ve yeniden deneyin!.
+27056= Dosya(lar)ý kaldýr!
+27057= Tümünü seç!
+27058= Seçimi kaldýr!
+27059= Tersten seç!
+27060= Seçili öðeyi kaldýr!
+27061= Seçilen %s dosyasý dosya þifreleme listesinden kaldýrýlsýn mý?
+
+[File Splitter and Joiner]
+28001= Dosya Bölme / Birleþtirme
+28901= Klasörlerin içine küçük dosyalar koyup yönetebilirsiniz. 
+28002= Dosya Böl
+28003= Birleþtir 
+28004= Lütfen 'Gözat'a týklayýp parçalanacak dosyayý seçin!.
+28005= Lütfen 'Gözat'a týklayýp parça dosyalarý koyacaðýnýz yeri ve Hedef Klasör'ü seçin!. 
+28006= Lütfen oluþturulacak dosyanýn özelliklerine göre yeterli boyutu seçin!.
+28007= Floppy disk (1.44MB)
+28008= 100MB Zip(TM)  disk
+28009= 1GB Jaz(TM) disk
+28010= 4.7GB Single-layer DVD
+28011= Dosya Boyutu Belirleme
+28012= Yaklaþýk %s snlik sürede parça dosya(lar) oluþturulacak.
+28013= Bölünmüþ Dosyalar kümesine kendiliðinden birleþme özelliði eklensin!
+28014= Böl!
+28015= Lütfen 'Gözat'a týklayýp toparladýðýnýz orijinal dosyalardan birini seçin!. Bu seçimle, diðerleri de otomatik olarak seçilecektir.
+28016= Parça Kümesi Bilgileri:
+28017= Lütfen 'Gözat'a týklayýp düzenlenmiþ dosyayý koyacaðýnýz yeri ve Hedef Klasör'ü seçin!.
+28018= Birleþtir!
+28019= Dosya oluþturulamadý %s
+28020= Dosya açýlamadý. %s
+28021= Lütfen 'Gözat'a týklayýp küçük parçalara ayrýlacak dosyayý seçin!.
+28022= Dosya yok! Lütfen 'Gözat'a týklayýp bölünmüþ küçük dosyalar içinden dosya seçin!.
+28023= Seçilmiþ dosya, yeterli boyuttan küçük.
+28024= Lütfen 'Gözat'a týklayýp Hedef Klasörü seçin!.
+28025= Hedef klasörü %s'de oluþturulamadý.
+28026= Hedef sürücüdeki boþ alan yeterli deðil %s
+28027= Dosya %s sn'de parçalandý. Orijinal dosya silinmedi.
+28028= Lütfen Parça Dosya'yý koyacaðýnýz klasörü seçin!.
+28029= Dosyalar Bölündü
+28030= Dosya Adý:
+28031= Boyut:
+28032= Sayýlan Parçalar:
+28033= Seçili nesne, bölünmüþ dosya parçasý deðil. Lütfen bir baþkasýný seçin!.
+28034= Bulunmayan parça dosyalarý:
+28035= Bu dosya zaten var! Üstüne yazýlsýn mý?
+28036= Orijinal dosya baþarýyla toparlandý.
+28037= Lütfen yenilenmiþ dosyayý koyacaðýnýz klasörü seçin!.
+28038= Ýþlem geçersiz. Lütfen yeniden deneyin.
+28039= Dosya bölme ilerliyor. Bu iþlem zaman alýr, lütfen bekleyin!.
+28040= Dosya birleþtirme ilerliyor. Bu iþlem zaman alýr, lütfen bekleyin!.
+28041= Bu klasör eklendi.
+
+[1-Click Maintenance]
+29001= 1 Týkla Otomatik Bakým
+29601= KayýtDefterini düzelt!
+29602= Kýsayollarý onar!
+29603= Baþlangýcý arýndýr!
+29604= Geçici Dosyalarý kaldýr!
+29605= Ýzleri-Belirtileri sil!
+29606= Zararlý Yazýlýmlarý yoket!
+
+10603= Geçersiz/yanlýþ 'KayýtDefteri Giriþleri'ni sil/onar!
+10605= Bozuk kýsayollarý onar/geçersizleri kaldýr!
+10607= Gereksiz/riskli baþlangýç giriþlerini temizle!
+10609= Geçici dosyalarý/kiþisel kalýntýlarý temizle!
+10611= Internet izlerini ve etkinlik geçmiþini sil!
+10613= Casus ve reklam yazýlýmlarýný yok et!
+10614= Denetleniyor...
+10615= Ayrýntýlar...
+10616= Ýmli Birimleri denetle!  
+10617= Sorun bulunmadý.
+10618= 1 sorun bulundu.
+10619= %s sorun bulundu.
+10620= %s dosya bulundu.
+10621= Hiç dosya bulunmadý.
+10622= %s belirti-iz seçildi.
+10623= 1 belirti-iz seçildi.
+10624= Hiç belirti-iz seçilmedi.
+10625= Denetleniyor...
+10626= Ýþlemin bitirilmesi için butona týklayýn!.
+10627= Bulunan Sorunlarý gider!
+10628= Ýþlemler tamamlandý.
+10629= Alan geri alýndý.
+10630= Belirtiler-izler silindi.
+10631= Onarýlýyor...
+10632= Temizleniyor...
+10633= Siliniyor...
+10634= %s sorun giderildi.
+10635= %s iz silindi.
+10636= %s kurtarýldý.
+10637= Lütfen, silinecek dosyalarý seçin!.
+10638= Göster!
+10639= Toplam %s dosya(lar), %s2 kurtarýlabilir.
+10640= Lütfen silinecek belirtileri-izleri seçin!.
+10641= Lütfen düzeltilecek 'KayýtDefteri' girdilerini seçin!. Seçenekleri incelemek ve siçim yapmak için sað týklayýn!.
+10645= Lütfen silinecek Kýsayol Kayýtlarý'ný seçin!. Seçenekleri incelemek ve siçim yapmak için sað týklayýn!.
+10642= Lütfen silinecek Baþlangýç Kayýtlarý'ný seçin!.
+10644= Lütfen silinecek Kayýtlarý seçin!.
+10643= '1 Týkla Otomatik Bakým' 1 iptalet!
+10646= YineTara
+10647= Ýþlemi bitirmek için "Bulunan Sorunlarý gider"i, yine taramak için "YineTara"yý týklayýn!.
+
+[Glary Undelete]
+31001= Dosya Kurtarma
+31901= Kazayla silinmiþ dosyalarý kurtarmak için hýzlý ve etkili bir yol.
+31002= Tara!
+31003= Dosyalar
+31004= Klasörler
+31005= Dosya Türleri
+31006= Adý
+31007= Durumu
+31008= Bulunduðu yer
+31009= Boyutu
+31010= Türü
+31011= Son Deðiþiklik
+31012= Geri al!
+31013= Sürücüler taranýyor, lütfen bekleyin!..
+31014= Aranacak klasörü seç!:
+31015= Çok iyi
+31016= Ýyi
+31017= Orta
+31018= Kötü
+31019= Üstüne Yazýlmýþ
+31020= Hedef Klasörü seç!:
+31021= Özdeþ sürücüye indirgenebilmiþ baþarýlý deðiþiklik gerçekten geri alýnsýn mý?
+31022= Klasörde bir þey kayýtlý olabilir. %s, gerçekten üstüne yazýlsýn mý?
+31023= Klasörde bir þey yok mu? %s, gerçekten üstüne yazýlsýn mý?
+31024= Filtre: AÇIK
+31025= Filtre: KAPALI
+31026=  %s bul:, Onlardan %s2 arandý.
+31027= Aranýyor.
+31028= Ýþlem Süreci:  %s%,   %s2  dosya bulundu.
+31029= Tarama baþlayamadý: %s
+31030= Geri yükleniyor %s..., %s2 dosya kurtarýldý.
+31031= Dosya %s kurtarýlamadý 
+31032= Dosya adýyla
+31033= Dosyanýn hepsi veya parçasý. Joker kullanabilirsiniz, e.g., *.doc
+31034= Herhangi bir özellik? 
+31035= Herhangi bir belirti* 
+31036= Boyutuyla
+31037= Daha çok
+31038= Daha az
+31039= Tarihiyle
+31040= Dan
+31041= e
+31042= Durumuyla
+31043= Tüm türler
+
+31044= Önizleme yok
+31045= Önizleme
+31046= 'Büyüt'ü týkla!
+31047= 'Kapat'ý týkla!
+31048= Yerel Disk
+
+[Registry Defrag]
+32001= KayýtDefteri Birleþtirme
+32901= Windows KayýtDefteri'ni birleþtirmek bilgisayarý hýzlandýrýr.
+32002= KayýtDefteri Birleþtirmeye Hoþ Geldiniz!
+32003= Windows KayýtDefteri'ne kayýtlar/silmeler zamanla HDD üzerinde yapýsal yanlýþlar, gereksiz boþluklar, atýk parçalar oluþturur. Bu durum önyüklemeyi geciktirir, performansý düþürür.. Birleþtirmeyle, bu bozukluklar giderilir, çalýþma ortamý en iyi duruma getirilir. Bilgisayarýn performansý artar.
+32004= - Atýk parçalar silinecek,
+32005= - Yapýsal yanlýþlar düzeltilecek,
+32006= - Kullanýlmayan boþluklar giderilecek,
+32007= Ýþlemin baþlamasý için 'Ýleri' ye týklayýn!..
+32008= Birleþtirme öncesi boyut:
+32009= Küçülme farký:
+32010= Birleþtirilmesi, KayýtDefteri' boyutunu %s küçülttü.
+32011= (Bu iþlem 'Yeniden Baþlatma' gerektirir) Birleþtirmeyi baþlatmak için 'Ýleri' i týklatýn. KayýtDefterini iyileþtirmek istemiyor veya daha sonra iyileþtirmek istiyorsanýz 'Ýptal' i týklatýn.
+32012= KayýtDefteri'nin þimdi birleþtirilmesine gerek yok. Daha sonra yapmalýsýnýz. Ayda bir kez birleþtirme yapýlmasý uygun olur.
+32013= Ýþlemi bitirmek için 'Kapat'ý týklayýn.
+32014= U Y A R I  ! : KayýtDefteri Birleþtirme, çalýþan öteki programlarýnýzýn etkinliðini bozabilir.
+32015= Lütfen, birleþtirmeye baþlamadan önce iþlerinizi kaydedin ve çalýþan programlarý kapatýn.
+32016= Birleþtirme süresince arkaplanda antivirus, antispyware vb gibi programlar çalýþmaz, Firewall etkisizleþir.
+32017= Çalýþan programlarý kapattýysanýz, 'Tamam' ý týklayarak süreci baþlatýn.
+32018= KayýtDefteri Birleþtirilmesi, arka planda çalýþan programlar var idiyse sakatlayabilir. Ýþlemden sonra etkinlik durumlarýný denetlenmelisiniz.
+32019= "KayýtDefteri Birleþtirme iþlemi"nden sonra Bilgisayar yeniden baþlatýlmalýdýr!
+32020= Þimdi yeniden baþlatýlsýn mý? 
+32021= KayýtDefteri denetleniyor!
+32022= Lütfen bekleyin!..
+32023= Bilgisayarýnýz "KayýtDefteri Denetimi" süresince etkisizleþir, komutlara yanýt veremez. Denetlemeyi durdurmak isterseniz  'Esc'  tuþuna basýn...
+32024= KayýtDefteri, baþarýyla denetlendi, iyileþtirildi.
+
+[System Information]
+33001= Sistem Bilgileri
+33901= Bilgisayarýnýzýn Donanýmýný-Yazýlýmýný bir güzel tanýyabilirsiniz.
+33002= Rapor oluþtur!
+33003= Rapor oluþtur!(Tümü)
+33004= Genel Bakýþ
+33005= Ýþletim Sistemi
+33006= Sistem Aygýtlarý
+33007= Bellek(RAM) Kullanýmý 
+33008= Çýkarýlabilir Sürücüler
+33009= Görüntü
+33010= Að
+33011= Öteki Aygýtlar
+33012= Genel
+33013= Ýþlemci
+33014= Anakart
+33015= Windows Sürümü
+33016= Kurulum Tarihi
+33017= Görüntüleme
+33018= Monitor
+33019= Görüntü Baðdaþtýrýcý
+33020= USB Giriþ Aygýtlarý
+33021= Fare
+33022= Klavye
+33023= HD Disk
+33024= Optik Sürücü(DVD/CD-ROM)
+33025= Ýþletim Sistemi
+33026= Sistemin Adý
+33027= Dili
+33028= Dosya Sürümü
+33029= Kayýtlý Kullanýcý
+33030= Kayýtlý Kurum
+33031= Ürün Kimliði
+33032= Ürün Açarý
+33033= Kurulum Tarihi
+33034= Kaynaðý
+33035= Geçerli Oturum
+33036= Bilgisayar Adý
+33037= Kullanýcý Adý
+33038= Etki Alaný
+33039= Etkinlik Süreci
+33040= Bileþenler
+33041= Internet Explorer
+33042= Windows Media Player
+33043= DirectX
+33044= Sistem Dosyalarý
+33045= Paylaþým Dosyalarý
+33046= Anakart
+33047= Sürüm Adý
+33048= Üreticisi
+33049= BIOS Özellikleri
+33050= Sürüm Adý
+33051= Sisteme Alýnýþ Tarihi
+33052= Üretim Tarihi
+33053= Ýþlemci
+33054= Adý-Tanýmý
+33055= Genel Adý
+33056= Üreticisi
+33057= Seri Numarasý
+33058= Frekans
+33059= L1 Önbellek kodu
+33060= L1 Önbellek verisi
+33061= L2 Önbelleði
+33062= Soket No:
+33063= Çekirdek Sayýsý
+33064= Mantýksal Çekirdek Sayýsý
+33065= Yapýlanma Ayrýntýlarý
+33066= CPU Kullanýmý
+33067= CPU Kullaným Geçmiþi
+33068= Fiziksel Bellek
+33069= Sanal Bellek
+33070= Toplam Bellek
+33071= Etkisiz Bellek
+33072= Etkin Bellek
+33073= Seçilmiþ Bellek
+33074= Ýþlemler-Uygulamalar
+33075= Bellek Kullanýmý
+33076= Yol-Ýz
+33077= Birim ayrýntýlarý
+33078= Etkin Sürücü
+33079= Donaným Türü
+33080= Seri No:
+33081= Dosya Sistemi
+33082= Toplam Boyutu
+33083= Boþtaki Boyut
+33084= Kullanýmdaki Boyut
+33085= Dosya Sistemi Etkinlikleri
+
+33086= Dosya Sýkýþtýrma etkin mi?
+33087= Kullanýlan Disk Oylumu sýkýþtýrýlmýþ mý?
+33088= Dosya Adý Uzunluðu etkin mi
+33089= Dosya Adý Evrensel Kodu etkin mi?
+33090= Dosya Sistemi Þifreleme etkin mi?
+
+33091= Mantýksal Bilgiler
+33092= Birim No:
+33093= Boþtaki Birimler
+33094= Kullanýmdaki Birimler
+33095= Birim Boyutu
+33096= Birim Baþýna Bölüm   
+33097= Kullanýmdaki Toplam Bölümler
+33098= Boþtaki Toplam Bölümler
+
+33099= Düzenleme
+33100= Bölüm Boyutu
+33101= Toplam Bölümler
+
+33102= Toplam Disk Alaný
+33103= Boþ Disk Alaný
+33104= Kullanýlan Disk Alaný
+
+33105= Görüntü Baðdaþtýrýcýsý
+33106= Baðdaþtýrýcý
+33107= Baðdaþtýrýcý Sürümü
+33108= BIOS Sürümü
+33109= Chip Türü
+33110= DAC Türü
+33111= Sürüm Tarihi
+33112= Dosya Sürümü
+33113= Saðlayýcý
+33114= Bellek Boyutu
+
+33115= Monitorün Özellikleri
+33116= Monitorün Adý
+33117= Modeli
+33118= Ýmalat Tarihi
+33119= Seri No:
+33120= Ençok Görülebilir Ekran Boyutu
+33121= Gama
+
+33122= Desteklenen Video Modeli
+
+33123= Að Adaptörü Tanýmý
+
+33124= Að Adaptörü Özellikleri
+33125= Að Adaptörü
+33126= Arabirim Türü
+33127= Donaným Adresi
+33128= Baðlantý Adý
+33129= Baðlantý Hýzý
+33130= MTU
+33131= Alýnan Bayt
+33132= Gönderilen Bayt
+
+33133= Að Adaptörü Adresleri
+33134= IP/Alt Að Maskesi
+33135= Að Geçiti
+33136= DNS
+
+33137= Alýnan Veri
+33138= Gönderilen Veri
+
+33139= Ses Aygýtlarý
+33140= Giriþ
+33141= USB
+33142= USB Denetleyici
+33143= Yazýcýlar
+
+33144= Adý
+33145= Deðeri
+
+33148= System klasörleri
+33149= Ortak klasörler
+33150= Windows Gezginini açmak için bir klasör üzerinde sað týklayýn!.
+33151= Klasör aç!.
+33152= Özellikler
+33153= Sn
+33154= (%s Saat %s2 Dakika %s3 Saniye)
+
+33155= OS türü
+33156= %s bit
+
+[GLARYUTILITIES]
+1001001= GeriYükle
+1001002= Geribildirim
+1001003= Küçült!
+1001004= Sürüm:
+1001005= Beðen!
+
+[OVERVIEW]
+1002001= Genel Bakýþ
+1002002= Otomatik Bakým
+1002003= Windows kapatýldýðýnda gizli izler-belirtiler silinsin!
+1002004= Program baþladýðýnda güncellemeler denetlensin!
+1002005= Derin temizlensin ve düzeltilsin!
+1002006= Windows Önyükleme Zamaný
+1002007= Windows'un daha hýzlý baþlamasý için 'Baþlangýç Yönetimi'ne týklayýp bazý gereksiz programlarý devre dýþý býrakabilirsiniz!
+1002008= Baþlangýç Yönetimi
+1002009= %s 'ý kullanýyorsunuz
+1002010= Þimdi yükselt!.
+1002011= Windows'un önyükleme süresini paylaþ!
+1002012= Saat
+1002013= Dakika
+1002014= Saniye
+1002015= >>> Seç...
+1002016= Lisans sahibi:
+1002017= Lisans yönetimi
+1002018= Süresi bitmiþ
+1002019= Yazýlým güncellemeleri otomatik olarak denetlensin
+1002020= Özel sonuçlar
+
+[ONECLICK]
+1003001= Sürücüyü denetle!
+1003002= KayýtDefteri Birleþtirme
+1003003= Zararlý Yazýlýma karþý baðýþýklama
+1003004= Sistem Ýyileþtirme
+1003005= HDD Birleþtirme
+
+[ADVANCED TOOLS]
+1004001= Geliþmiþ Araçlar
+1004002= Windows KayýtDefteri Bakýmý
+1004003= Onarým
+1004004= Birleþtirme
+1004005= Yedekleme
+1004006= Geriyükleme
+
+1004007= Disk Alaný Denetimi
+1004008= Temizleme
+1004009= Çiftleri Ayýklama
+1004010= Boþ Klasör Ayýklama
+1004011= Ýlintisiz Kýsayol Silme
+1004012= Disk Gezgini
+
+1004013= Sistem Yoklamalarý
+1004014= Sistemi Ayarla
+1004015= Sistemi Baþlangýcýnda iyileþtir.
+1004016= Bellek Temizliði
+1004017= Internet Hýzlandýrma
+1004018= Turbo Modu
+
+1004019= Gizlilik Denetimi
+1004020= Geçmiþ Temizliði
+1004021= Dosya Parçalarý
+1004022= Boþ Alan Temizliði
+1004023= Dosya Þifreleme
+
+1004024= Sürücü Denetimi
+1004025= Yedekleme
+1004026= Geriyükleme
+1004027= Kaldýrma
+1004028= Güncelleme Denetimi
+
+1004029= Dosya Denetimi
+1004030= Bölme / Birleþtirme
+1004031= Kurtarma
+1004032= Hýzlý Arama
+
+1004033= Sabit Disk Denetimi
+1004034= Birleþtirme
+1004035= Birleþtirme Önayarý
+1004036= Hata Denetimi
+
+1004037= Sistem Denetimi
+1004038= Baþlangýç Öðeleri
+1004039= Hizmetler
+1004040= Zamanlanmýþ Görevler
+1004041= Baðlam Mönüleri
+1004042= Ýþlem Yönetimi
+1004043= Tarayýcý Bileþenleri
+
+1004044= Sistem Durumu
+1004045= System Bilgileri
+1004046= Yedekleme
+1004056= Sistem Dosyalarý Onarýmý
+1004047= Geriyükleme
+1004048= Deðiþiklikleri Gerialma
+
+1004049= Zararlý Yazýlým Önlemi
+1004050= Zararlý Yazýlýmlarý yoket!
+1004051= Baðýþýklýk
+
+1004052= Program Denetimi
+1004053= Kaldýrma
+1004054= Güncelleme
+1004055= Bilgi Edinme
+1004057=
+
+[QUICKLAUNCHBAR]
+1005001= Görev alanýna bir öðe eklemek veya kaldýrmak için "+/-" yi týklayabilirsiniz.    
+1005002= Zaten var
+1005003= Boþ yer yoksa birini '-''yi týklayarak kaldýrabilirsiniz.
+1005004= Kuyrukta yeterli yer yoksa, herhangi bir simgeyi kuyruk dýþýna sürükleyerek kaldýrabilirsiniz.
+
+[SKINSCENTER]
+1006001= Arayüz Merkezi
+1006002= Resim Kitaplýðý
+1006003= Düz Renkler
+1006004= Aþaðýdaki dosya zaten var, üzerine yazýlsýn mý?
+1006005= Tüm Destek Dosyalarý
+1006006= Özel
+
+1007001= Deneme lisansý süresi doldu. 
+1007002= 'Glary Utilities Pro' yu þimdi etkinleþtirmek için bu iletiyi týklatýn.
+1007003= Lisansýnýzýn sütesi doldu. 
+1007004= 'Glary Utilities Pro' yu tekrar etkinleþtirmek için bu mesajý týklayýn.
+
+[CHECKDISK]
+2400001= Disk Denetimi
+2401001= Denetlenecek diski seçin!.
+2401002= Dosya sistemi hatalarýný otomatik düzelt!
+2401003= Tara ve kötü sektörleri düzeltmeye çalýþ!
+2401004= Diski Denetimi
+2401010= Sürücü Adý
+2401011= Son Çözümleme
+2401012= Durumu
+2401013= Çözümle!
+2401014= Rapor
+2401015= Hazýr
+2401016= Denetlenmeli
+2401017= %s denetimi
+2401018= Disk denetleme kesildi
+2401019= Hatalar bulundu
+2401020= Hata bulunmadý
+2401021= Disk Hatasý denetimi
+2401022= Ayrýntýlarý gizle!
+2401023= Ayrýntýlarý göster!
+2401024= CheckDisk, hatalar için sürücü ve dosya sistemini denetler.
+2401025= Veri kaybýný önlemek için saptadýðý hatalarý otomatik olarak düzeltir.
+2401026= Seçenekler
+;2401027= Dosya sistemi hatalarýný otomatik olarak düzelt!
+;2401028= Tara ve kötü sektörlerin kurtarmaya çalýþ 
+2401029= Baþlat!
+2401030= Durdur!
+2401031= Zamanlanmýþ Disk Denetimi baþarýsýz oldu!
+2401032= Bilgisayarýn sonraki baþlatýlmasýnda CheckDisk planlandýðý gibi çalýþacak.
+2401033= CheckDisk denetimini atla!
+2401034= CheckDisk denetimini iptal et!
+2401035= CheckDisk denetimi kesildi.
+2401036= Disk denetimi tamamlandý. Hata bulunmadý.
+2401037= CheckDisk aþaðýdaki %s disk hatalarýný buldu:
+
+2403001= Disk %s'in denetimi
+2403002= Sonraki %s çatýþmalarý için bunu yapýn!.
+2403003= %s saniyede atlanacak.
+
+2405001= Ýþlev bulunamadý.
+2405002= Disk Denetimi bir hatayla karþýlaþtý. Uygulamayý yeniden baþlatýn!.
+2405003= %s dosya sistemi denetimi
+2405004= Dosya sistemi türü %s'dir.
+
+2406001= Raporu kaydet!
+
+2407001= Sonuç
+2407002= Disk Denetimi zamanla!.
+2407003= Þimdi yeniden baþlat!
+2407004= Raporu göster!
+2407005= Disk, Windows'un bir sonraki baþlatýlmasýnda düzeltilecek.
+
+2408001= Windows kullanýmdaki diski denetleyemez.
+2408002= Bir çýkarma zorlamasý\nBu birimin ilk baðlantýlarýnýn kesilmesini mi istiyorsunuz? Not: Bu durumda birimin tüm çalýþan altbirimleri etkisizleþir.
+2408003= Zamanlanmýþ Disk Denetimi\nBilgisayarýn bir sonraki baþlatýlmasýnda HDD hatalarý denetlensin mi?
+2408004= Atla
+
+[RESTORE CENTER]
+
+2602001= Bir Geriyükleme Noktasý oluþtur!..
+2603001= Geriyükleme Noktasý belirlemenize yardýmcý olmasý için açýklama girin. Geçerli tarih ve saati otomatik eklenir.
+2603002= Oluþtur!
+2603003= Açýklama girin!.
+2604001= Sistem geri yükleme hazýrlanýyor...
+2605001= %s öðe geriyüklendi.
+
+
+[SETTINGS]
+2801001= Ayarlar
+2801002= Bir tarama gerçekleþtirdiðinizde aþaðýdaki öðeler atlanacak.
+2801003= Eklenen
+2801004= KayýtDefteri boyunca yuvalananlarýn belirlenmesi, onarým hatalarý ve öneriler.
+2801005= Gösterme çubuðunda ipuçlarý göster!
+2801006= Birden fazla tanýmlý tetikleyici
+2801007= Görev zamanlamasý yapýlmamýþ
+2801008= Kullanýcý Hesabý Denetimi uyarýsýný atla!
+2801009= Alt menüde içerik menüsünü görüntüleme
+2801010= Glary Utilities Deneyimi geliþtirme programýna katýlýn
+2801011= Daha bilgi
+
+2802001= Zamanlama:
+2802002= Baþlama zamaný:
+2802003= Bilgisayar pil ile çalýþýyorsa görev baþlamasýn!
+2802004= Bilgisayar pil moduna geçerse görev durdurulsun!
+2802005= Görev zamaný bilgisayar uyandýrýlsýn!
+2802006= Güç Yönetimi
+
+2803001= Günlük
+2803002= Günlük seçenekleri
+2803003= Günlüðü kaydet
+2803004= Günlük klasörünü aç!
+2803005= Günlüðü göster!
+2803006= Sil!
+2803007= Tümünü temizle!
+2803008= Bilgisayarda herhangi bir deðiþiklik olduðunda günlük oluþtur!
+2803009= Ençok dosya:
+
+[Quick Search]
+3700001= Hýzlý Arama
+3700002= 
+
+//frmMain
+3701001= Dosya
+3701002= Düzen
+3701003= Görünüm
+3701004= Yardým
+3701005= Aç!
+3701006= Klasör aç!
+3701007= Dýþa at!
+3701008= Kapat!
+3701009= Kopyala!
+3701010= Uygun yol
+3701011= Seçenekler
+3701012= Metin boyutu
+3701013= Simge düzenle!
+3701014= Yenile!
+3701015= Artýr!
+3701016= Azalt!
+3701017= Normal
+3701018= Ad
+3701019= Yol
+3701020= Boyut
+3701021= Deðiþim tarihi
+3701022= Ana Sayfa
+3701023= Hakkýnda
+3701024= Kategori deðiþtir!.
+3701025= Tümünü göster!
+3701026= Kýsa yollar
+3701027= Belgeler   
+3701028= Resimler       
+3701029= Videolar        
+3701030= Muzik      
+3701031= Programcý 
+3701032= %s dosyalarýný göster!
+3701033= Dosya dahil 
+3701034= Dizin dahil
+3701035= %s öðesi bulundu
+3701036= %s taranýyor...
+3701037= Tür   
+3701038= Dosya Tanýmý 
+3701039= Dosya Sürümü 
+3701040= Ürün Sürümü
+3701041= Þirket Adý 
+3701042= Metin Dosyalarý(*.txt)|*.txt|Tüm Dosyalar(*.*)|*.*
+3703043= Dosya var
+3703044= Tipler
+3703045= %s seçilen öðe
+3701046= %s yükleniyor ...
+3701047= Panoya yol kopyala
+3701048= Panoya tam adý kopyala
+3701049= Çok sayýda dosya seçildiðinden yazýlým yanýt veremiyor, devam edilsin mi?
+
+//frmSetting
+3702001= Seçenek
+3702002= Kategori
+3702003= Genel
+3702004= Windows Oturumu açýldýðýnda otomatik baþlasýn!
+3702005= Arama kutusunu gizlemek veya göstermek için 'Ctrl' tuþuna çift týklatýn!.
+3702006= Dili:
+3702007= Kategori adý
+3702008= Dosya Uzantýlarý
+3702009= Ekle!
+3702010= Deðiþtir!
+3702011= Kaldýr!
+3702012= Tamam
+3702013= Ýptal
+3702014= Bir kategori seç!
+3702015= Bu kategori silinemez
+3702016= Diskler
+3702017= Aranacak diski seçin
+3702018= Sürücü adý
+3702019= Dosya sistemi
+3702020= Sýðarý
+3702021= Kullanýlan alan
+
+//frmGroupSetting
+3703001= Kategori adý:
+3703002= Dosya Uzantýlarý:
+3703003= Dosya Uzantýsý:
+3703004= Uzantý
+3703005= Dosya türü
+3703006= Uzantý gir!(*. Doc)
+3703007= Kategori adý boþ olamaz!
+3703008= Dosya uzantýlarý boþ olamaz!
+3703009= Kategori adý %s zaten var, yeni bir kategori adý girin!.
+3703010= Bir kategori ekle!
+3703011= Bir kategori deðiþtir!
+
+//UnitFunction
+3704001= Panoda metin yok!
+
+//frmAbout
+3705001= Hakkýnda
+3705002= Sürüm:
+3705003= WebSitesi:
+3705004= Telifhakký @ 2013, Glarysoft ltd. Her hakký saklýdýr.
+
+//tray icon
+3706001= Hýzlý Aramayý aç!
+
+//Task
+3707001= Glary Utilities, Hýzlý arama
+
+[Disk Defrag]
+3400001= Disk Birleþtirme
+3400002= Bilgisayar performansý için diskleri hýzlandýrma
+
+3400003= Bilgisayar pille çalýþýrken otomatik disk birleþtirmemeyi öneriyoruz. Ama yine de disk birleþtirmek istiyorsanýz ayarlardan 'Bilgisayar pille çalýþýrken otomatik disk birleþtirmeyi durdur' imini kaldýrýn.
+
+//frmMain
+3401001= Sürücü Adý
+3401002= System Dosyasý
+3401003= Kapasitesi
+3401004= Boþ Alan
+3401005= Parçalanmýþ
+3401006= Durum
+3401007= Birleþtirme Zamaný Önayar
+3401008= Dosya
+3401009= Araçlar
+3401010= Yardým
+3401011= Bir dosya birleþtiriliyor...
+3401012= Bir klasör birleþtiriliyor...
+3401013= Çözümle!
+3401014= Birleþtir!
+3401015= Birleþtirme ve Ýyileþtirme (Haftada bir kez)
+3401016= Çýk!
+3401017= Öncelik
+3401018= Düþük Öncelik
+3401019= Normal Öncelik
+3401020= Yüksek Öncelik
+3401021= Seçenekler
+3401022= Ana Sayfa
+3401023= Güncelleme denetimi
+3401024= Hakkýnda
+3401025= Birleþtir!
+3401026= Çözümle!
+3401027= Birleþtirme ve Ýyileþtirme (Haftada bir kez)
+3401028= Duraklat!
+3401029= Devam et!
+3401030= Durdur!
+3401031= Birleþtirmeden sonra Bilgisayar kapansýn!
+3401032= Tümünü seç!
+3401033= Seçim yok
+3401034= Saptama
+3401035= Rapor
+3401036= Kullanýlan Alan
+3401037= Boþ Alan
+3401038= Ýþlem
+3401039= Boþ Alan
+3401040= Kullanýlan Alan
+3401041= Parçalanmamýþ
+3401042= Taþýnamaz Dosyalar
+3401043= Parçalanmýþ Dosyalar
+3401044= Meþgul
+3401045= Ayrýlmýþ MFT Bölgeleri
+3401046= Hazýr
+3401047= Çözümleme
+3401048= Birleþtirme
+3401049= Ýyileþtirme
+3401050= Çözümlenmiþ
+3401051= Birleþtirilmiþ
+3401052= Ýyileþtirilmiþ
+3401053= Çözümleme tamamlandý
+3401054= Birleþtirme tamamlandý
+3401055= Ýyileþtirme tamamlandý
+3401056= Çözümleme kesildi
+3401057= Birleþtirme kesildi
+3401058= Ýyileþtirme kesildi
+3401059= Birleþtirme Zamaný Ayarý etkin.
+3401060= Birleþtirme Zamaný Ayarý etkin deðil.
+3401061= Kapat!
+3401062= Aç!
+3401063= Yapýlandýrma
+3401064= Hazýrda bekletme dosyasýný sayfa dosyasýna kat!
+3401065= MFT birleþtirilsin!
+3401066= Sistem Dosyalarý birleþtirilsin!
+3401067= Birleþtirme Zamaný Ayarlama Tarihi (Ayrýntýlar için çift týklayýn!.)
+3401068= Tarih
+3401069= Toplam Boyut
+3401070= Parçalanmýþ
+3401071= Toplam Dosya && Komutlar:
+3401072= Parçalanma:
+3401073= Parçalama Oraný:
+3401074= Dosya Adý
+3401075= Parçalar
+3401076= Boyut
+3401077= Yol
+3401078= Evet
+3401079= Hayýr
+3401080= Dosya(lar)
+3401081= Klasör seç!.
+3401082= Ýpucu
+3401083= Disk Birleþtirici hala çalýþýyor.
+3401084= Bilinmeyen Sürücü
+3401085= Kök dizin istisnalar listesine eklenemez. Baþka bir dizin seçin!.
+3401086= Tersini seç!
+3401087= Birini durdur!
+3401088= Tümünü durdur!
+3401089= Bu hacimdeki Solid State Disk(SSD) Depolama Birimini birleþtirmeye gerek yoktur.
+3401090= Birleþtirme, 'yarý iletkenli' olan bu diskin ömrünü azaltabilir. Yine de devam edilsin mi?
+
+//frmOption
+3402000= Seçenekler
+3402001= Genel
+3402002= Birleþtir!
+3402003= OtoBirleþtirme
+3402004= Zamanlama
+3402005= Birleþtirme Zamaný Önayarý
+3402006= Ýyileþtirme
+3402007= Hariç Tutulanlar
+3402008= Dili:
+3402009= Windows Oturumu açýldýðýnda otomatik baþlasýn!
+3402010= Program kapatýldýðýnda, penceresi 'Görev Tepsisi'ne küçülsün!
+3402011= Görev Tepsisi'ne küçültüldüðünde ipuçlarý balonu gösterilsin!
+3402012= Windows Explorer Ýçerik Mönüsüne 'Disk Birleþtirici' ekle!
+3402013= OtoGüncelleme Denetimi
+3402014= Diskler ayný anda birleþtirilsin!
+3402015= Varsayýlan
+3402016= Akýllý Birleþtirme
+3402017= Þafak
+3402018= Windows standardý
+3402019= Eriþilebilirlik
+3402020= Gökkuþaðý
+3402021= Deniz meltemi
+3402022= Sadece seçili dosyalarý birleþtir!:
+3402023= 'dan daha küçük parçalarý
+3402024= 'den fazla
+3402025= 'dan daha büyükleri
+3402026= 'dan daha küçükleri
+3402027= parçalarý
+3402028= Seçili dosyalarý Sürücü'nün sonuna taþý!
+3402029= Enaz dosya boyutu:
+3402030= Son bir ay içinde eriþilememiþ, alýnamamýþ dosyalarý
+3402031= Geri Dönüþüm Kutusundaki dosyalarý
+3402032= Seçili türdeki dosyalarý
+3402033= Kategori
+3402034= Tür
+3402035= Ekle!
+3402036= Düzenle!
+3402037= Sil!
+3402038= Birleþtirilmesi gereksiz (video, resim vb) dosyalarý birleþtirme harici tutarsanýz birleþtirmeyi hýzlandýrýrsýnýz. 
+3402039= Dosya ekle!
+3402040= Klasör ekle!
+3402041= OtoBirleþtirme kapalý
+3402042= OtoBirleþtirme açýk
+3402043= Disk OtoBirleþtirme açýksa, disk otomatik olarak birleþtirilerek bilgisayarýn en yüksek hýzda çalýþmasý saðlanýr.
+3402044= Sistem %s dakika boþta kalýrsa OtoBirleþtirmeyi baþlat!
+3402045= CPU veya Disk kullanýmý %s% 'i aþarsa duraklat!
+3402046= Tüm Sürücüler
+3402047= Son Birleþtirme:
+3402048= Birleþtirilmiþ Dosyalar:
+3402049= Zamanlama Programýný çalýþtýr!
+3402050= Eylem:
+3402051= Yineleme:
+3402052= Zamaný:
+3402053= Sadece birleþtir!
+3402054= Birleþtirme ve Ýyileþtirme
+3402055= Her Gün
+3402056= Haftada
+3402057= Ayda
+3402058= Ptsi
+3402059= Salý
+3402060= Çrþb
+3402061= Prþb
+3402062= Cuma
+3402063= Ctsi
+3402064= Pazr
+3402065= Birleþtirme Zamaný Önayar'ý etkin
+3402066= Birleþtirme Modeli:
+3402067= Yöntem
+3402068= Her gün Önayar
+3402069= Her gün önce Önayar
+3402070= Her %s günde bir önce Önayar
+3402071= Günlük Süresi:
+3402072= Birleþtirme baþlatýlmadan önce Disk denetimi(Chkdsk) yapýlmalý!
+
+3402073= Geliþmiþ Birleþtirme.
+3402074= Hýzlý Birleþtir.
+3402075= Klasör seç!
+3402076= Birleþtirilmesi istenen sürücüyü denetimden geçirin!.
+3402077= Türler
+3402078= Bir Kategori seç! 
+3402079= Bu kategori gerçekten silinsin mi?
+3402080= Dosya Kategorisi ekle!
+3402081= Dosya Kategorisi düzenle!
+3402082= Tamam
+3402083= Ýptal
+3402084= Birleþtirme Zamaný Önayar Dosyalarý, Windowsda çalýþýrken güvenli bir þekilde taþýnamaz.
+3402085= NTFS birimi birleþtirilirken VSS'i durdur
+3402086= Bilgisayar pille çalýþýrken otomatik disk birleþtirmeyi durdur!
+
+//frmConfig
+3403001= Arþiv
+3403002= Filmler
+3403003= Disk Ýmajlarý
+
+//frmCategory
+3404001= Kategori adý boþ olamaz! 
+3404002= Format Türü hatasý! Örneðin:(*.doc/*.doc,...,*.Txt).
+
+//frmFileType
+3405001= Kategori: 
+3405002= Tip:
+3405010= %s kategori adý zaten var, yeni bir ad girin.
+
+[SpyRemover]
+2701001= Zararlý Yazýlým kaldýr!
+2701002= Zararlý Yazýlým kaldýr!
+2701003= Zararlý Yazýlýmlarý hýzlý tara ve kaldýr!
+2701004= Tara!
+2701005= Kaldýr!
+2701006= GeriYükle!
+2701007= YineTara!
+2701008= Geriyüklemek istediðiniz yedeklemeyi seçin ve 'GeriYükle'yi týklayýn!.
+2701010= Tür
+2701011= Durum
+2701012= Yedeklemeler
+2701013= Sistem KayýtDefteri'ne %s 'i geriyüklensin mi?
+2701014= %s KayýtDefteri'ne baþarýyla geriyüklendi.
+2701015= %s Taramasý
+2701016= Taranan Dosyalar: %s
+2701017= Zararlý Yazýlým baþarýyla temizlendi!
+2701018= GeriYükle!
+2701019= Zararlý yazýlým denetimi!
+2701020= Tarama tamamlandý
+2701021= %s zararlý yazýlým bulundu.
+2701022= Zararlý yazýlým bulunmadý.
+2701023= 1 Zararlý yazýlým bulundu.
+2701024= Hiç öðe denetlenmedi
+2701025= %s öðe denetlendi.
+2701026= %s öðeler denetlendi
+2701027= Zararlý Yazýlým Bilgisi
+2701028= Zararlý yazýlým bulunmadý!
+2702001= Ayrýntýlar
+2702002= Silinmesi istenen kayýtlarý seçin!.
+	 
+[BOOT TIME]
+2901001= Sadece baþvuru için.
+2901002= Windows'un çok yavaþ açýlýþýnda, baþlangýç öðeleri %s daha yavaþ.
+2901003= Windows'un yavaþ açýlýþýnda, baþlangýç öðeleri %s daha yavaþ.
+2901004= Windows'un genel olarak açýlýþýnda, baþlangýç öðeleri %s daha yavaþ
+2901005= Windows'un hýzlý açýlýþýnda, baþlangýç öðeleri %s daha yavaþ.
+2901006= Windows'un çok hýzlý açýlýþýnda, baþlangýç öðeleri %s daha yavaþ.
+2901007= Baþvuru deðerleri hesaplanamadýðýndan veriler alýnamadý.
+2901008= Önyükleme zaman alýyor, lütfen bekleyin!..
+
+[DRIVER BACKUP]
+2200001= Sürücü Yönetimi
+2201001= Yedekle!
+2201002= Kaldýr!
+2201003= GeriYükle!
+
+2201004= Yedekleme Dosyasý 'Hedef Klasörü'nü gösterin, yedeklenecek 'Sürücü(ler)'ü seçin ve 'Yedekle' yi týklayýn!.
+2201005= Kaldýrmak istediðiniz 'Sürücü(ler)'ü seçin ve "Kaldýr" ý týklayýn.
+2201006= GeriYüklemek istediðiniz 'Sürücü Yedeklemesi'ni seçin ve "GeriYükle" yi týklayýn!:
+2201007= Yedekleme Dosyasý 'Hedef Klasörü':
+2201008= Sürücü yedekleme.
+2201009= Oluþturma %s baþarýsýz oldu!
+2201010= Bu aygýt gerçekten kaldýrýlsýn mý?
+2201011= Aygýt adý.
+2201012= Sürüm.
+2201013= Yedekleme tarihi.
+2201014= Bilgisayarýn yeniden baþlatýlmasý gerekebilir!.
+
+
+[Software Update]
+4000001= Yazýlým Güncelleme
+4000002= Güncelleme sonuçlarý
+4000003= Beta sürümleri gizle! 
+4000004= Detectörü güncelle
+4000005= Tamam
+4000006= Yazýlým güncelleme
+4001001= Devamýný göster!..  
+4001002= Ýptal
+4001003= Devam et!
+4001004= Windows baþladýðýnda 'Yazýlým Güncelleme' de çalýþsýn!.
+4001005= Tara!
+4001006= YineTara!
+4001007= Tarama 100% tamamlandý.
+4001009= Özelleþtirilmiþ sonuçlar
+4001010= Baþlamaya hazýr...
+4001011= Bilgisayar taranýyor...
+4001012= Çözümleme için veri gönderiliyor...
+4001013= Açýlýþ sonuçlarý...
+4001014= Bilgisayardaki yüklü yazýlýmlarý taramak için 'Tara' ya týklayýn!.
+4001015= www.glarysoft.com 'u ziyaret et!.
+4001016= Görev tepsisinden geri yükle!.
+4001017= Çýk!
+4001019= Daha fazlasý için bu mesaja týklayýn!.
+4001020= Atrýntýlarý göster!
+4001021= Güncellemeleri tara!
+
+4001022= Listede 1 yeni güncelleme var.
+4001023= Listede %s yeni güncelleme var. 
+4001024= Listede 1 beta güncelleme var. 
+4001025= Listede %s beta güncelleme var. 
+
+4001026= Listede 1 yeni güncelleme ve 1 beta güncelleme var.
+4001027= Listede 1 yeni güncelleme ve %s beta güncelleme var. 
+4001028= Listede %s yeni güncelleme ve 1 beta güncelleme var. 
+4001029= Listede %s yeni güncelleme ve %s2 beta güncelleme var.
+4001030= Kullanýlabilir herhangi bir güncelleþtirme yok.
+
+4001040= Tüm sürümleri göster
+4001041= Tüm sürümleri gizle
+4001042= Bu sürümü gizle
+4001043= Yüklü sürüm:
+
+4001050= Genel
+4001051= Sonuçlar
+4001052= Geliþmiþ
+
+4001053= Arayüz
+4001054= Otomatik güncelleme
+4001055= Dil
+4001056= Yazýlýmýn yeni bir sürümü güncellenebilir olduðunda bildirilsin!
+4001057= Son sürüme otomatik olarak güncellensin!
+
+4001058= Sonuçlar
+4001059= Beta sürümleri gizle
+
+4001060= Windows ile baþlasýn!
+4001061= System tepsisi
+4001062= Windows baþladýðýnda yazýlým güncellensin!
+4001063= Programdan çýkýldýðýnda pencere kapansýn 
+4001064= Görev tepsisine küçült
+4001065= Ayarlar
+4001066= Pro sürümüne yükselt
+
+[Portable Maker]
+5001001= Kurulumsuz Glary Utilities yapmak
+5001002= Glary Utilities'in 'Kurulumsuz Sürümü' nü oluþturmak için "Oluþtur" a týklayýn. Zip dosyasý formatýnda otomatik olarak masaüstüne gelir.
+5001003= 'Zip Dosya'ya baþka bir hedef belirlemek için buraya týklayýn.
+5001004= Oluþtur
+5001005= Dosya konumunu aç!
+5001006= 'Kurulumsuz Sürüm'ü çalýþtýrmak için Zip dosyanýn konumunu açýn, zip dosyayý klasöre çýkarýn ve "Integrator_Portable.exe" yi çalýþtýrýn. Unutmayýn;'Kurulumsuz Sürüm' sadece ücretsiz sürümdeki iþlevleri içerir.
+
+[error report]
+6001001= %s bir sorunla karþýlaþtý ve kapatýlmasý gerekiyor. Bunun için özür dileriz.
+6001002= Lütfen bu sorun hakkýnda GlarySoft'a bilgi verin.
+6001003= Bize bildirdiklerinizden bir hata raporu oluþturduk. Bu raporu anonim bir çabayla iþleyeceðiz.
+6001004= Bu hata raporunun içerdiði verileri görmek için,
+6001005= buraya týklayýn
+6001006= Hata raporu gönderin
+6001007= Göndermeyin
+6001008= Ýpuçlarý
+6001009= Yeniden göndermeyi denemek istediðiniz dosyayý seçin!
+6001010= Hata raporu gönderimi baþarýsýz, dosyalarýn bir listesini ek olarak gönderin: {\r\n}%s{\r\n}katkýlarýnýz için teþekkür ederiz.
+
+[GU Downloader]
+7001001= Glary Utilities indiriliyor
+7001002= Ýndirmeyi baþlat
+7001003= Çýk
+7001004= Ýz
+7001005= Dosya indiriliyor, lütfen bekleyin
+7001006= Baþarýyla indirilince, kurulum baþlar
+7001007= Ýndirme baþarýsýz, resmi web sitesinden indirilmeli.
+7001008= Ýndirme henüz bitmedi, gerçekten çýkýlsýn mý?
+7001009= Kur

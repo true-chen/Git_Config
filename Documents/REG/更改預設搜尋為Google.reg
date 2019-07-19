@@ -1,0 +1,15 @@
+REGEDIT4
+
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main]
+"Use Search Asst"="no"
+"Search Page"="http://www.google.com.tw"
+"
+Search Bar"="http://www.google.com.tw/ie"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\SearchURL]
+""="http://www.google.com.tw/keyword/%s"
+"provider"="gogl"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Search]
+"SearchAssistant"="http://www.google.com.tw/ie"

@@ -1,0 +1,2713 @@
+[Language]
+Description= English
+
+[Globals]
+10001= File
+10002= Edit
+10003= View
+10004= Help
+10005= Exit
+10023= Help Contents
+10018= Home Page
+10019= About
+10006= Stop
+10007= Refresh
+10008= Properties
+10009= Name
+10010= Open
+10011= Size
+10012= OK
+10013= Cancel
+10014= Close
+10015= Yes
+10016= No
+10017= Browse...
+10020= Export...
+10021= Open Folder
+10022= Tasks
+10024= Next
+10025= Back
+10026= Options
+19026= Total Size
+19027= Free Space
+14023= Status
+10027= Description
+10028= Finish
+10029= Recycle Bin
+14009= Details
+10030= Add
+10031= Remove
+10032= Default
+10033= Creation Date
+10034= Delete
+10035= Recommend to friends
+10036= Purchase Now
+10037= Enter a Registration Code
+15009= Check All
+15010= Check None
+15011= Check Invert
+15014= Check
+10038= Menu
+10039= Check for Updates
+10040= Languages
+10041= Are you sure you want to send these selected items to the Recycle Bin?
+10043= Some files can't be deleted. Make sure the files are not currently in use and that the disk is not full or write protected.
+10044= Warning
+10045= Information
+10046= Error
+10047= Confirmation
+10048= Initialization
+
+10050= Recommended
+10051= Apply
+10052= Tools
+10053= The program won't run due to a missing or corrupted file, please try the install again to fix the problem. Click 'Yes' to download the latest version of Glary Utilities.
+10055= History
+10054= View History
+
+10060= You may need to restart this software for language changes to task effect.\r\nAre you sure you want to exit and restart it?
+10061= Notify me when new version is available
+10062= Automatically update to the latest version
+10063= Upgrade to Pro
+
+[Integrator]
+10801= Clean Up & Repair
+10802= Optimize & Improve
+10803= Privacy & Security
+10804= Files & Folders
+10805= System Tools
+
+10806= Status
+10807= Program Status
+10808= Current Version:
+10809= Last Update:
+10810= Database Date:
+10811= License Status
+10812= Type:
+10813= Free Edition
+10814= Professional Edition
+10815= Expiration Date:
+10816= Never
+10817= Register your paid product by clicking the button below.
+10818= Register
+10819= AutoCare Settings
+
+10799= Modules
+
+10820= Settings
+10821= General
+10822= Language:
+10823= Load Glary Utilities automatically on Windows startup.
+10824= Minimize to tray when you close the program window
+10825= Context Menu
+10826= Select the context menus that you want to integrate into Windows Explorer.
+10827= Automatic Update
+10828= Execute Web Update at a scheduled time.
+10829= Schedule:
+10830= Not Available for Free Edition
+10831= Change Schedule
+10832= Auto Care
+10833= Erase privacy tracks on Windows logoff or shutdown.
+10834= Privacy Tracks
+10835= Select tracks that you want to erase on Windows logoff or shutdown
+10836= Automatic 1-Click Maintenance
+10837= Execute 1-Click Maintenance at a scheduled time.
+10838= Restore Center
+10839= Restore Center Protection
+10840= Select the modules that you want to have protected by Restore Center here.
+10841= Available modules:
+10842= Backup Options
+10843= Delete backups automatically:
+10844= Limit the number of backups to:
+10845= Ignore List
+10846= After one week
+10847= After 2 weeks
+10848= After 3 weeks
+10849= After one month
+10850= After 2 months
+10851= After 3 months
+10852= Automatic 1-Click Maintenance Options
+10853= Only scan for problems
+10854= Scan and repair problems
+10855= Select tracks you want to erase
+10856= Show balloon tips when minimize to tray
+10857= Check for updates when program starts
+
+10900= Undo Changes
+10901= Please select a backup which you want to restore and click 'Restore' button.
+10902= System Restore
+10903= Create Restore Points
+10914= New Restore Point was successfully created.
+10904= Restore Point creation Failed! System Restore may be disabled on this system, or you do not have the access permissions.
+10905= To enable System Restore, perform the following steps: Start Control Panel -> System -> System Restore tab. Clear the "Turn off System Restore on all drives" check box to enable System Restore. Click OK.
+10906= Please select a restore point first!
+10907= Please save your changes and close any open programs. Windows will restart automatically during the restore process.
+10908= Please select a backup first!
+10911= Backups
+10912= Are you sure you want to restore %s?
+10913= Restored successfully.
+10915= Please select a restore point you'd like to restore to, and then click 'Restore' button.
+
+10909= Hint
+10910= Glary Utilities is still running.
+
+10916= FAQ
+10917= Skins
+10918= Portable Version
+10919= Emergency Support
+
+[License Dialog]
+20001= This is a time limited trial version.
+20002= You can test the full functionality of the software for %s days without obligation.
+20003= If you like the software and would like to use it beyond the test period, click "Order Now".
+20004= Test period: day %s of %s2
+20005= This trial version has expired. You were able to test the full functionality of the software for %s days.
+20006= If you like the software and would like to continue using it, click "Order Now".
+20007= Test period expired
+20008= Not Registered
+20009= Copyright(c)
+20010= This product is licensed to:
+20011= Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program may result in severe civil and criminal penalties and will be prosecuted to the maximum extent possible under law.
+20012= Web Site
+20013= Order Now
+20014= Enter Code
+20015= Keep Testing
+20016= Your name:
+20017= Registration code
+20018= If you do not have a Registration Code for unlocking this trial version, you can
+20019= Order one online.
+20020= The registration code you entered is invalid. Please check the code to make sure that it was entered correctly.
+20021= Thanks to the following people for their contributions
+20022= Upgrade Now!
+20023= Please enter your license information
+20024= License Type:
+20025= To obtain your license,
+20026= Home Page:
+
+20027= Upgrade Now
+20037= Please enter your name!
+20038= License code:
+20039= Activate Now
+20040= Do not have a license?
+20041= Click here to get one.
+20042= I lost my license code.
+20043= Activate %s Pro Edition
+20044= License Name:
+20045= Expiration Date:
+20046= %s day(s) left
+20047= Expired %s day(s) ago
+20048= Renew
+20049= Export License
+20050= Glary Utilities License Manager
+20051= E.g. AC6E-D9C6-FAB8-A8C8
+20052= License Manager
+20053= License information has been successfully saved to:
+
+[Updater]
+30001= Unable to retrieve information from %s
+30002= Your computer is running the most recent version of %s. No update is available at this time.
+30003= You are using %s : %s2.
+30004= A newer version of %s is available for download: %s2. Please click "OK" to open a page with download details, or click cancel if you do not want to upgrade at this time.
+30005= Updated successfully
+30006= Retrieving updated version (%s)...
+30007= Retrieving Reference updated file (%s)...
+30008= Checking for updates...
+30009= Ready
+30010= Performing WebUpdate...
+30011= Estimated time left:
+30012= Transfer Rate:
+30013= Unknown
+30014= %s sec
+30015= %s of %s2 copied
+30016= %s/Sec
+30017= You have to upgrade to PRO version of %s to use this feature. Upgrade now?
+30018= %s is available now. Click this message to install it.
+30019= %s min %s2 sec
+30020= Retrieving language updated file (%s)...
+30021= Version %s available. Update now!
+30022= Glary Utilities Update
+30023= A new version of Glary Utilities is available!
+30024= Glary Utilities %s is now available - you have %s2. Would you like to download the new version now?
+30025= Release Notes:
+30026= Skip This Version
+30027= Remind Me Later
+30028= Download
+30029= Automatically download updates in the future
+
+[Context Menu]
+40001= Analyze Diskspace with Glary Utilities
+40002= Join with Glary Utilities
+40003= Split with Glary Utilities
+40004= Decrypt with Glary Utilities
+40005= Encrypt with Glary Utilities
+40006= Wipe with Glary Utilities
+40007= Find Empty Folders with Glary Utilities
+
+40008= Disk Defrag with Glary Utilities
+40009= Defrag the Disk with Glary Utilities
+40010= Defrag the Folder with Glary Utilities
+40011= Defrag the File with Glary Utilities
+
+[Registry Cleaner]
+11001= Registry Repair
+11901= Cleans up your registry to improve your system's performance.
+11002= Select the sections to scan
+
+11003= Action
+11004= Scan registry
+11005= Repair your registry
+11006= Restore previous repairs
+11007= Tools
+
+11008= Your selected problems have been successfully repaired.
+11009= Are you sure you want to add the item to the ignore list? This item will not be found again.
+11010= The file has been saved to:
+11011= Summary of found problems:
+11012= 1 problem found
+11013= %s problems found
+11014= 1 problem selected for repairing
+11015= %s problems selected for repairing
+11016= No problems found
+11017= No problems selected for repairing
+11018= (%s problems found)
+11019= Analyzing
+11020= Section:
+11021= Correction:
+11022= Open in Regedit
+11023= Open this entry in Regedit
+11024= Delete this entry
+11025= Leave this entry without change
+11026= Exclude this entry always(Never find again)
+11027= Properties
+11028= Open this shortcut properties
+11029= Delete this shortcut
+11030= Leave this shortcut without change
+
+11031= Scan finished
+11032= Repair
+11033= Click Repair to solve them automatically or click Close to view details.
+11034= Repair finished
+11035= Scanning
+11036= Repairing
+
+11037= Restore
+11038= Please select a backup which you want to restore and click 'Restore' button.
+11039= Backup
+11040= Are you sure you want to restore %s to the system registry?
+11041= %s has been successfully restored into the registry.
+
+11042= The entry %s points to the missing file or folder %s2
+11043= This registry key points to missing key %s
+11044= This registry key contains no data, it can be deleted.
+11045= This registry key points to the missing CLSID %s
+11046= This registry key points to the missing icon file %s
+11047= The context menu entry %s points to the missing program %s2
+11048= This registry is incomplete because the subkey Command is missing.
+11049= This registry key is incomplete because it doesn't contain any data that are needed by windows.
+11050= This registry key points to the missing InprocServer %s. The associated CLSID can be deleted.
+11051= This registry key points to the missing LocalServer32 %s. The associated CLSID can be deleted.
+11052= This registry key Points to the missing type library %s
+11053= This registry key points to the missing folder %s
+11054= The registry key %s contains no data. The associated Type library can be deleted.
+11055= This registry key points to the missing file %s
+11056= The indicated file %s could not be found.
+11057= The file %s that is associated with the entry %s2 doesn't exists.
+11058= The entry %s points to the missing help file %s2
+11059= Missing shared file %s
+11060= The shared file %s is not in use anymore.
+11061= This entry ImagePath points to the missing file %s. The associated Services can be deleted.
+11062= The entry %s points to the missing file %s2
+11063= This shortcut points to the missing target %s
+11064= This registry key contains a reference to the Start menu folder %s , which has been removed or deleted.
+11065= The entry %s points to the missing program %s2
+11066= This uninstall entry doesn't contain any data needed by windows to remove the program or component.
+11067= The required uninstall program %s could not be found
+11068= The entry %s points to the missing folder %s2
+
+11069= Delete key :
+11070= Delete value :
+11071= Delete file :
+
+11072= Ignore List Manager
+11073= The list of entries are currently being ignored when scanning the Registry. If you want %s to include one of these entries, then remove its checkmark.
+11074= Registry Key
+
+11075= Select a destination folder to backup changes made by repairing
+11076= Limit the number of backups to:
+11077= %s already exists. Do you want to replace it?
+11078= Replace
+11079= Summary of found problems: (%s problems found, %s2 problems selected for repairing)
+11080= Summary of found problems: (1 problem found, 1 problem selected for repairing)
+11081= (1 problem found)
+11082= Summary of found problems: (No problems found, no problems selected for repairing)
+11083= Scanning...
+11084= No problems found, no problems selected for repairing.
+11085= %s problem found, %s2 problem selected for repairing.
+11086= %s problems found, %s2 problems selected for repairing.
+11087= Repairing...
+11088= Export Registry File
+11089= Current key:
+11090= Exported key:
+11091= %s problem(s) selected for repairing
+11092= Exported successfully!
+11093= %s problems found, %s2 problems fixed.
+11094= %s problem found, %s2 problem fixed.
+11095= Today fixed: %s problems, total: %s2 problems. 
+11096= Today fixed: %s problem, total: %s2 problems.
+11097= Today fixed: %s problem, total: %s2 problem.
+11098= %s Problems
+11099= 1 Problem
+11100= No Problems
+11101= Please choose at least one item to scan!
+11102= Please choose at least one item to clean!
+11103= Click 'Scan registry' to scan your registry for problems.
+11104= %s problem(s) found, %s2 problem(s) selected for repairing.
+11105= %s problems fixed
+11106= %s problem fixed
+
+[Disk Analysis]
+19001= Disk Space Analyzer
+19101= Glary Disk Explorer
+19901= Shows you the disk space usage of your files and folders
+19003= Explorer
+19004= Command Prompt
+19005= Delete(to Recycle Bin)
+19006= Show Toolbar
+19007= Show Statusbar
+19008= Show File Types
+19009= Show Large Files
+19010= Files
+19011= Folders
+19012= Attribute
+19013= Percentage
+19014= File Type
+19015= Description
+19016= File Name
+19017= Folder
+19018= Modified
+19019= Loading File Types...
+
+19020= [Files]
+19021= My Computer
+
+19022= Select Drives
+19023= All Local Drives
+19024= Individual Drives
+19025= A Folder
+19028= Used/Total
+19029= Select Folder:
+
+1801001= Analyze
+1801002= Back
+1801003= Computer
+1801004= 
+1801005= Show Extensions
+1801006= All Types
+1801007= Videos
+1801008= Compressed
+1801009= Musics
+1801010= Images
+1801011= Documents
+1801012= Other
+1801013= Extension
+1801014= Number of files
+1801016= Type
+1801017= Location
+1801018= Modified Date
+1801019= Free Size
+
+1801020= Toolbar
+1801021= Navigation
+1801022= Details
+1801023= Show All files
+1801024= Files and Folders
+
+1801025= Analyze drive now
+1801026= Drive has not yet been analyzed. \nBecause the drive has not yet been analyzed, no information regarding disk space usage, file type or the largest files is available, During the analysis, information regarding the selected drives, the files and folders they contain and the disk space usage is collected and displayed.
+1801027= Only check this
+
+1801028= File size:
+1801029= Total size:
+1801030= Accessed on:
+1801031= Modified on:
+1801032= Created on:
+1801033= %s items selected
+1801034= Size:
+1801035= Total contents
+1801036= Unknown
+1801037= Used space:
+1801038= Analyzed
+1801039= Not analyzed
+
+1801040= Expand the folder when it is selected
+
+1802001= Finished
+1802002= Failed
+1802003= Interrupted
+1802004= Analysis of your storage locations
+1802005= Please wait Disk Analysis finishes analyzing the selected storage locations.
+
+1803001= Invalid path list:\n
+1803002= File path list:\n
+1803003= %s items can't be scanned
+
+1804001= The drive you selected has not yet been analyzed. Should the analysis be performed now?
+
+1805001= Are you sure you want to move these %s items to the Recycle Bin?
+1805002= Delete
+1805003= Deleting %s items
+
+[Startup Manager]
+14001= Startup Manager
+14101= Quick Startup
+14901= Manages programs which run automatically on startup
+14002= Disable this entry
+14003= Enable this entry
+14004= Add program...
+14005= Delete this entry
+14006= Edit Entry...
+14007= Show Details Bar
+14008= Refresh Startup List
+14010= Other Autorun
+14011= Scheduled Tasks
+14012= Local Services
+14013= Programs that are started when Windows starts or a user logs in.
+14014= No Items Selected.
+14015= Invalid entry. It can be deleted.
+14016= <No information>
+14017= Product:
+14018= Company:
+14019= Add a StartUp Item
+14020= Are you sure you want to delete the StartUp entry
+14021= Edit Selected StartUp Item
+
+14022= Path
+14024= Location
+14035= Rating
+14025= Enabled
+14026= Disabled
+
+14027= Startup List report created on %s by %s2
+14028= Total %s Items
+14029= Report has been saved to %s
+
+14030= Search Google...
+
+14031= Startup Item Configuration
+14032= Please enter a name.
+14033= Please enter a command line.
+14034= The specified file could not be found. Do you really want to continue?
+
+14043= Unknown
+14036= Trustworthy
+14037= User's choice
+14038= Neutral
+14039= Not required
+14040= Dangerous
+14041= Comment it
+14042= More information
+
+14044= Comment
+14045= Your comment about this entry
+14046= Your opinion about this entry
+14047= This is will change the risk rating
+14048= Submit Comment
+
+14049= Delay Time
+14050= Start Now
+14051= Programs that are delayed startup.
+14052= Up
+14053= Down
+14054= To delay an application, Please select it from the above list, or you can drag and drop it into the below list.
+14055= To undelay an application, Please select it from the below list, or you can drag and drop it into the above list.
+14056= Duplicate Entry Detected
+14057= It appears that %s has added itself back into the Windows Startup process after you placed it into delayed startup list.
+14058= To fix this, you should open %s and look for an option that says 'Start with Windows' or something similar and disable it.
+14059= If this option doesn't exists, then you may have to get in contact with the author of %s which is automatically adding itself, and ask them if they can add a feature to disable %s from starting up with Windows automatically.
+14060= If it is not possible to stop %s from starting with Windows, then it would be better to simply let Windows handle it and remove %s from delayed startup list.
+14061= Would you like to remove %s from delayed startup list?
+14062= Delayed
+14063= Delay
+14064= Undelay
+14065= Sec
+
+2501001= Details Bar
+2501002= Status Bar
+2501003= Running
+2501004= Stopped
+2501005= Memory Used
+2501006= StartUp entry already exist.\nDo you still want to replace it?
+2501007= Failed to set data for '%s'
+2501008= Details
+2501009= Load Time
+2501010= Startup Programs
+2501011= Scheduled Tasks
+2501012= Plug-Ins
+2501013= Application Services
+2501014= Windows Services
+
+2501015= Be the first to comment this startup program
+2501016= %s of users recommend to disable or delay this startup program
+
+2501017= Startup enabled
+2501018= The selected startup program is enabled
+2501019= Startup disabled
+2501020= The selected startup program is disabled
+
+2501021= sec
+2501022= min
+2501023= %s programs started on windows startup or a user logs in
+
+2501024= Undo Changes
+2501025= Advanced Boost
+2501026= Boot time avaliable after your next reboot
+2501027= Usefulness
+
+2501028= Startup delayed
+2501029= The selected startup program is delayed
+
+2502002= Delete all
+2502003= Delete
+2502004= Time
+2502005= Restore
+2502006= Operation
+2502007= Delete all after this
+2502008= Delete all before this
+2502009= Restore all after this
+
+2502101= Today
+2502102= More
+
+
+2503002= Useful
+2503003= Not useful
+
+2503004= Please enter your comments. Thank you.
+2503005= Please enter your name. Thank you.
+2503006= Link for more details (optional)
+2503007= Your Name
+2503008= Your submission has been successfully received by us.
+
+[Disk Cleaner]
+13001= Disk CleanUp
+13301= Glary Disk Cleaner
+13901= Removes junk data from your disks and recovers disk space
+13002= Disk Cleanup
+13003= More Options
+13004= Select the drives you want to cleanup.
+13005= Click Next when you have finished selecting your drives.
+13006= Please wait until %s finishes scanning the selected drives.
+13010= Click Next when you have finished selecting your drives.
+13007= You can use Disk Cleanup to free up to %s of disk space on drive %s2
+13008= Total amount of disk space you gain:
+13009= Backup %s before cleaning.
+13110= View Files
+13011= Click Next to begin the cleaning process.
+13012= Windows components
+13013= You can free more disk space by removing optional Windows components that you do not use.
+13014= Clean up...
+13015= Restore
+13016= You can restore the removed temporary files from a backup file.
+13017= Restore...
+
+13018= Cleaning completed successfully.
+13019= A backup was created.
+13020= Click Finish to return to main page.
+
+13021= Please select at least one drive for search.
+
+13022= Scanning...
+13023= Finished
+13024= Initializing...
+13025= The Recycle Bin contains files you have deleted from your computer. These files are not permanently removed until you empty the Recycle Bin.
+13026= Temporary Files
+13027= Temporary files are used by programs as an intermediate storage space and usually removed after use.
+13028= Zero-Byte Files
+13029= Zero-Byte files don't hold any data, and usually can be deleted.
+13064= Temporary Internet Files
+13065= The Temporary Internet Files folder contains Web pages stored on your hard disk for quick viewing.Your personalized settings for Web pages will be left intact.
+
+13030= Emptying Recycle Bin...
+13031= Cleaning Temporary Internet files...
+13032= Deleting Temporary files...
+13033= Deleting Zero-byte files...
+
+13034= Please select files you want to delete.
+13035= No file selected.
+13036= Open file
+13058= Total %s files
+13059= Created:
+13060= Modified:
+13061= Last Access:
+
+13037= General
+13038= Exclude
+13039= Include
+
+13040= Review the list of junk file types below and select or unselect items to include in the search by checking or unchecking their corresponding boxes.
+13041= File Type
+13042= If you are unsure of these options, it is recommended to leave them as default.
+13043= All of the files in these folders should never be considered as junk.
+13044= Folder
+13045= All of the files in these folders should always be considered junk, regardless of type.
+
+13046= You can use wild cards, e.g., *.tmp
+13047= Filename ends with:
+13048= Please input a extension name.
+13049= You can use wild cards.
+13050= Shouldn't empty.
+
+13051= Please select a backup which you want to restore and click 'Restore' button.
+
+13052= Custom Restore
+13053= Please check mark the entries you want to be restored, and click Restore.
+13054= Restored successfully.
+
+13055= Objects
+13056= Files
+13057= Path
+13062= Type
+
+13063= Add a junk file type
+
+1301001= Start Cleaning
+1301002= Scan
+1301003= Restore
+1301004= Path
+1301005= Backup Checked
+1301006= Check All
+1301007= Check None
+1301008= Check Default
+1301009= The last time you cleaned your disk was at: 
+1301010= %s/%s2/%s3
+1301011= Fast and easy way to clean up useless files on your PC.
+1301012= Total space saved: %s
+1301013= Congratulations! Your drives were clean.
+1301014= Cleaning up useless files can save your disk space.
+1301015= Result
+1301016= File List
+1301017= Rescan
+1301018= Exclude this file
+
+1302001= Windows
+1302002= System temporary
+1302003= User temporary
+1302004= Thumbnail Cache
+1302005= Memory Dump Files
+1302006= Error Report Files
+1302007= System Log Files
+1302008= Remote Desktop Cache
+1302009= Recycle Bin
+1302010= Startmenu Invalid Shortcuts
+1302011= Desktop Invalid Shortcuts
+1302012= IIS Log Files
+1302013= Old Prefetch Data
+1302014= Font Cache
+1302015= Downloaded Programs
+1302016= Windows Updates
+1302017= Browsers
+1302018= Internet Explorer
+1302019= Mozilla Firefox Cache
+1302020= Google Chrome Cache
+1302021= Opera Cache
+1302022= Applications
+1302023= Google Earth Cache
+1302024= Picasa Cache
+1302025= ACDSee Cache
+1302026= Disk Drives
+1302027= Please choose at least one drive to scan
+1302028= Do you want to backup the files before cleaning?
+1302029= Backup was failed, Do you want to continue to clean?
+1302030= Files count: %s   Files size: %s2
+1302031= %s items checked
+1302032= Scanning completed. %s files, total %s2 found.
+1302033= It is recommended to clean your drives now.
+1302034= Congratulations! You have a clean computer!
+1302035= Keeping your PC clean is a good habit. Please keep it up!
+1302036= The scan has been canceled!
+1302037= You chose %s files, total %s2.
+1302038= Cleaning completed. Totally %s junk files were cleaned.
+1302039= Cleaning completed.
+1302040= %s is in use, can't be deleted now.
+1302041= Junk files : %s
+1302042= Custom Files and Folders
+1302043= Custom Name
+1302044= Custom Files and Folders
+1302045= Location
+1302046= Example: *.tmp|*.log
+1302047= Example: *.sys|*.txt
+1302048= Include only files only
+1302049= Include files and subfolders
+1302050= To be safety, you can't clean the files in Windows system directory.
+1302051= Are you sure you want to empty this directory?
+1302052= To be safety, please don't choose Windows system files.
+1302053= Select additional files and folder you wish to remove(Advanced Users Only).
+1302054= Please choose the files or folders you wish to remove.
+1302055= The custom file or folder already exists, do you still want to add it?
+1302056= The custom file or folder already exists, do you still want to change it?
+1302057= Your PC doesn't have many junk files. Keeping your PC clean is a good habit. Please keep it up! 
+1302058= Windows Installer temporary
+
+1303001= Backup...
+
+1304001= Can't display the data!
+
+1305001= Begin scan: 
+1305002= Scan result: 
+1305003= No junk files found
+1305004= %s files, a total of %s2
+1305005= End scan: 
+1305006= Total result: 
+1305007= %s files, %s2 to be removed
+1305008= Begin clean
+1305009= End clean
+1305010= Clean %s files, total %s2
+1305011= %s a file cannot be removed.
+1305012= Write Time:
+1305013= Totally %s files, %s2.
+
+1305014= %s needs to be closed to clean the Cache.\nDo you want Glary Utilities to close %s?
+1305015= Firefox
+1305016= Google Chrome
+1305017= Opera
+1305018= %s needs to be closed to clean the Cache.\nDo you want %s2 to close %s?
+
+1306001= Today cleaned: %s, total: %s2.
+1306002= %s found, %s2 removed.
+1306003= Are you sure you want to restore %s?
+1306004= %s has been successfully restored.
+1306005= %s junk files were removed.
+1306006= click 'Scan' to scan your system for junk files
+1306007= %s file(s), total %s2 found.
+1306008= %s recovered
+1306009= Total %s junk file(s) were removed.
+
+[Uninstaller]
+12001= Uninstall Manager
+12101= Absolute Uninstaller
+12901= Uninstalls programs completely that you don't need any more
+12002= Backup Uninstall Info
+12003= Restore Uninstall Info
+12004= Export Application List
+12005= Uninstall This Program
+12006= Uninstall Checked Programs
+12007= Modify Properties
+12008= Restore Removed Entries
+12009= Show Command Line
+12010= Current installed programs:
+12011= Sort by:
+12012= Install Date
+12013= AutoFix Invalid Entries
+12014= Batch Uninstall
+12015= Search for programs
+12016= Click here for support information.
+12017= Command Line
+12038= Remove Entry
+
+12018= Change
+12019= Remove
+12020= Change/Remove
+
+12021= Total %s programs
+12022= Cannot remove folder %s , It is being used by another person or program.Would you like to remove it at next start?
+12023= New!
+
+12024= To change this program or remove it from your computer, %s click Change/Remove.
+12025= To change this program or remove it from your computer, %s click Change or Remove.
+12026= To remove this program from your computer, %s click Remove.
+
+12027= Installed On
+12028= Registry files(*.reg)
+12031= Text files(*.txt)
+12029= Uninstall information restored from %s successfully
+12030= Are you sure you want to remove %s from your computer?
+12032= Report created on
+12033= Programs installed on your computer (Total %s Programs):
+12034= The file has been saved to:
+12035= All programs installed on your system are OK, no invalid entries found.
+12036= Are you sure you want to remove %s from the installed programs list?
+
+12037= A error occurred while trying to remove %s. It may have already been uninstalled. Would you like to remove %s2 from the installed programs list?
+12039= %s is a "Hidden" program and probably been used by system. Are you sure you want to really uninstall it?
+12040= There are still files left in the installation directory "%s". To be sure not to remove useful data files, you can browse the directory by clicking "Browse the directory" button. If you are sure they are useless, click "Delete All" button.
+12041= Browse the directory
+12042= Delete All
+12043= Backup this entry before deleting.
+
+12044= The search string could not found.
+12045= Find
+12046= Find Next
+12047= Find what:
+
+12048= The following invalid entries have been found. Would you like to delete these registry entries?(You can also delete them manually later)
+12049= Invalid Entries
+12050= Backup these entries before deleting.
+
+12051= Please select a program entry which you want to restore and click 'Restore' button.
+12052= Restore
+12053= Program Entry
+12054= Backup Date
+12055= Are you sure you want to restore the program entry %s to the system registry?
+
+12056= Use the following information to get technical support for
+12058= Publisher
+12059= Version:
+12060= Contact:
+12061= Support Information:
+12062= Readme:
+12063= Product Updates:
+12064= Comments:
+12065= Product ID:
+12066= Registered Company:
+12067= Registered Owner:
+12068= InstallLocation:
+
+12069= Programs (*.exe;*.com;*.bat)
+12070= All files (*.*)
+12071= The Command Line you entered may be invalid. Are you sure you still want to continue?
+
+12072= Run Installation Program
+12073= Command line for the uninstall program:
+12074= An error occurred while trying to remove %s. You do not have access to %s2 .
+12075= You can specify the new uninstall program below.
+
+12076= Backup this entry
+12077= Support Info
+12078= Show Windows Updates
+
+12080= Icons
+12081= List
+12082= Details
+
+12083= All Programs
+12084= Recently Installed Programs
+12085= Large Programs
+12086= Rarely Used Programs
+12087= Windows Updates
+
+12088= Last Used:
+12089= Uninstall information saved to:
+12090= Disable Last Access Updating
+12091= New!
+
+[Duplicate Files Finder]
+15001= Duplicates Files Finder
+15901= Searches for space-wasting and error producing duplicate files
+15002= Scan for duplicate files
+15003= Open File
+15004= Open With...
+15005= Explore Folder
+15006= File Properties
+15007= Generate Report
+15008= Delete checked files
+15012= Check One In Each Group
+15013= Exclude this folder from future searches
+15015= Path
+15016= %s of %s2 items marked for deletion.
+15017= Duplicate File Group
+15018= Are you sure you would like to exclude all items within the selected folder %s from any subsequent searches?
+15019= No items checked for deletion.
+
+15020= Scanning Wizard
+15021= Please select the drives or folders you wish to scan.
+15022= Drives
+15023= Folders
+15024= Add Folder
+15025= Duplicate files match criteria
+15026= Same file name
+15027= Same size
+15028= Same file time
+15029= Ignore files of size less than
+15030= Only search for most common files below
+15031= Scan all files
+15032= File Type
+15033= Exclude these folders from the search:
+15034= Folder
+15035= Scanning for duplicate files...
+
+15036= There are no drives are selected. Please select at least one drive to continue.
+15037= There are no folders are selected. Please add at least one folder to continue.
+15038= There are no file types are selected. Please check at least one file type to continue.
+15039= Arranging the files. It may take some time depending on the number of files. Please wait...
+15040= A total %s files were scanned and %s2 duplicate were found.
+
+15041= Add new file name to look for
+15042= You can use wild cards, e.g., *.avi
+15043= Filename ends with:
+15044= Please input a extension name.
+
+15045= Enter Folder
+15046= Select Folder
+15047= You can use wild cards *,?
+15048= Shouldn't empty.
+15049= Date Modifyed
+15050= This file type has been added.
+15051= Date Created
+15052= File State 
+15053= Original
+15054= Copies
+1500001= Glary Duplicate Cleaner
+1501001= Set up scan for parameter
+1501002= Check Intelligent
+1501003= %d of %d items marked for deletion
+1501004= %s already exists.\nDo you want to replace it?
+1501005= Confirm Save As
+1501006= Delete File
+1501007= Documents
+1501008= Music
+1501009= Pictures
+1501010= Programmer
+1501011= Videos
+1501012= Other
+1501013= DupefindFile report created on %s by %s2
+1501014= Total %s files
+1501015= The file has been saved to:
+1501016= Exclude
+1501017= Excluded Folder List
+1501018= Are you sure you want to remove all duplicate files ?
+
+1502002= Exclude File
+
+1503001= Duplicate files math criteria
+
+1504001= Scan
+1504002= Total Size
+1504003= Use Size
+1504004= Free Size
+1504005= File Path
+
+1505001= Storage location
+1505002= Status
+1505003= Waiting
+1505004= Loading
+1505005= Total %d files were scanned and %d duplicates were found.
+1505006= Arranging the files, please be patient...
+
+1506001= General
+1506002= Exclude File
+
+1507001= Check Options 
+1507002= Apply to all groups
+1507003= Check Intelligent Options
+1507004= Exclude original files
+1507005= By Creation Date
+1507006= By Modified Date
+
+
+[Empty Folders Finder]
+16001= Empty Folders Finder
+16901= Finds and removes empty folders in your windows
+16002= Scan for Empty Folders
+16003= Excluded Folder List
+16004= Delete Checked Folders
+16005= Exclude Checked folders(Never find again)
+16006= Exclude
+16007= Folder
+16008= Are you sure you want to add the checked items to ignore list? These items will not be found again.
+
+16009= Ignore List Manager
+16010= The list of entries are currently being ignored when scanning for empty folders. If you want to include one of these entries, then remove its checkmark.
+
+16011= Scan Now
+16012= Check the boxes of the drive(s) you wish to scan
+
+1601001= Preparing empty folder tree...
+
+1602001= Preparing folder list...
+1602002= Scanning Finished.
+1602003= Scanning %s
+1602004= Loading disks...
+1602005= Sorting files...
+1602006= Saving data...
+1602007= Initializing...
+1602008= Scanning empty folders...
+1602009= Sorting empty folders...
+
+[Shortcuts Fixer]
+17001= Shortcuts Fixer
+17901= Corrects the errors in your startmenu & desktop shortcuts
+17002= Scan
+17003= Fix Shortcut
+17004= Delete
+17005= Target
+17006= Location
+17007= Browse for missing shortcut target
+17008= Scan Now
+17009= Scan Options
+17010= Only scan Start Menu and Desktop
+17011= Scan for empty Start Menu folder
+17012= Check the boxes of the drive(s) you wish to scan
+17013= Nothing found.
+
+1701001= Quick Scan
+1701002= Advanced Scan
+1701003= Stop Scan
+1701004= Fix All Checked
+1701007= Error
+1701008= Fixed
+1702001= Location:
+1702002= Target:
+1702003= Arguments:
+1702004= Description:
+1702005= Click "Apply" to save the changes.
+1702006= You selected a folder.
+1703001= Remove
+1703002= Click "%s" to remove the selected shortcuts from list;{\r\n}Click "%s2" to move the selected shortcuts to Recycle Bin;{\r\n}Click "%s3" to permanently delete the selected shortcuts.
+1703003= Backup the selected shortcuts before deleting
+
+[Tracks Eraser]
+18001= Tracks Eraser
+18801= Glary Tracks Eraser
+18901= Erases all the traces, evidences, cookies, internet history and more
+18002= Erase checked tracks
+18003= Show only available erasable tracks
+18004= Erase these tracks
+18005= No tracks checked. To erase tracks, please check each track you would like to erase using the checkbox to the left of the track name.
+18006= Are you sure you would like to erase %s tracks settings?
+18007= The tracks have been erased successfully.
+18008= Are you sure you would like to clean your %s tracks?
+
+18009= IE Cookie Manager
+18010= IE Typed URLs
+18011= Check mark the cookies you want to keep when cleaning internet explorer cookies
+18012= Website
+18013= Hit Rate
+18014= Last Modified
+18015= Expires
+18016= Full Address
+18017= Delete Unchecked cookies now
+18018= Check mark the URLs you want to keep when you cleaning Internet Explorer - URL History
+18019= Urls
+18020= Delete Unchecked URLs
+
+18021= Erasing
+
+18022= Windows
+18023= Removes history, most recently used lists(MRU Lists) and the other evidence of the Microsoft Windows.
+18024= Windows Recent Documents
+18025= Clears the list of Recent Documents and Files opened on the machine. This list is usually located in the Start Menu > My Recent Documents.
+18026= Windows Start Menu Run
+18027= Clears the history of last commands you have entered in the Window's Start > Run feature.
+18028= Microsoft Common Dialog - File/Folder Lists
+18029= Microsoft Common Dialog is a standard component utilized by many software applications to provide, file, folder, color, and printer selection. This tracks eraser clears the history of the selections you made on your machine. Since the Microsoft Common Dialog Control is used for most OPEN/SAVE File Dialog windows, this tracks eraser will clear out the folder you last opened history for most applications. Clears the last folders and file lists you searched on your machine.
+18030= Start Menu Search
+18031= Clears the entire history of searches you have performed in Windows Search in the Start Menu.
+18032= Windows Clipboard
+18033= Working with files normally involves the use "copy" and "paste" operations. Windows Clipboard remembers the last copy operation and may contain relevant information about your activities like password, credit card or personal information.
+18034= Windows Temporary Files
+18035= Empties the Windows Temporary directory.
+18036= Windows Recycle Bin
+18037= Empties the Windows Recycle Bin.
+18038= Windows Mapped Network Drives
+18039= When you map network drives to get access to them via drive letters, Windows remembers all your mappings in the registry. Get rid of that information using this setting.
+18040= Start Menu Click History
+18041= Windows stores the list of most recently clicked items on Start menu. Check this option to clean the "Start Menu Click History" list out.
+18042= My Network Places
+18043= When you use My Network Places to access remote servers, all your recent shares are stored, anyone may see what network places you use just by looking at the MRU list located in the My Network Places folder. Check this option to clean it.
+
+18044= Internet Explorer
+18045= Removes history, most recently used lists(MRU Lists), temporary internet files and the other evidence from the Internet Explorer web browser.
+18046= Internet Explorer - URL History
+18047= Removes your history of typed URL from the Internet Explorer address bar. When this history is stored, Internet explorer tries to guess the website you are trying to visit using "Intelligence" AS you type www.gl - it will guess www.glarysoft.com, or any other address that starts with www.gl you visited in the past.
+18048= Internet Explorer History
+18049= Removes the history of websites visited using Internet Explorer on the machine.
+18050= Internet Explorer Cookies
+18051= Web sites store information in a small text file, called a "cookie" on your hard disk. Cookies contain information about you and your preferences. Or it might only contain a record of which pages within the site you visited, to help the site customize the view for you the next time you visit. Since some cookies are useful, you may want to keep them. Click "Options" to select the cookies you need to keep. All the unmarked ones will be deleted.
+18052= Intelligent Forms - Auto Complete Passwords
+18053= Removes the entire history of auto complete forms &  passwords from Internet Explorer. If configured, Internet Explorer will store data for common forms, usernames, and passwords online. These will be auto populated when you return to the sites where this data is saved for. This tracks eraser clears this data and protects you from other users on your machine logging into your profiles online.
+18054= Temporary Internet Files
+18055= Deletes all saved temporary files that Internet Explorer creates when you visit web sites or download content.
+
+18056= Plug-ins
+18057= Many of the third party applications keep a record of the most recently opened or executed files via them. Using these plugins, you can get rid of the MRU history of many popular applications.
+
+18058= Mozilla Firefox
+18059= Removes history, most recently used lists(MRU Lists), temporary internet files and the other evidence from the Firefox web browser.
+18060= Mozilla Firefox - History
+18061= Removes the history of websites visited using Mozilla Firefox on the machine.
+18062= Mozilla Firefox - Cookies
+18063= Removes the cookies saved in the Firefox cache folder.
+18064= Mozilla Firefox - Internet Cache
+18065= Removes the internet files cached by Firefox.
+18066= Mozilla Firefox - Saved Form Information
+18067= Removes form data saved by Firefox when you filled in the webpage forms.
+18068= Mozilla Firefox - Saved Passwords
+18069= Removes passwords data saved by Firefox when you filled in the webpage forms.
+18070= Mozilla Firefox - Download Manager History
+18071= Removes track of recently download files in Download Manager.
+18072= Mozilla Firefox - Search History
+18073= Removes the search string typed into the Firefox Search bar.
+
+18074= Erasing Tracks for %s.This might take a few moments...
+18075= Erasing Tracks for %s...
+
+18076= Index.dat files
+18077= Index.dat files are hidden files on your computer that contain all tracks of your online activity, where have you been on internet, what sites you visited, list of URL-s, files and documents you recently accessed.
+18078= Scanning Tracks for %s.This might take a few moments...
+18079= Scanning Tracks for %s...
+18080= Creating Report...
+18081= ANALYSIS REPORT
+18082= %s items to be removed in Windows registry.
+18083= %s files and %s2 database items to be removed.
+18084= Details of files to be deleted:
+18085= Analyze
+
+18086= Tracks
+18087= Result
+
+18088= Google Chrome
+18089= Removes history, most recently used lists(MRU Lists), temporary internet files and the other evidence from the Google Chrome web browser.
+18090= Google Chrome - History
+18091= Removes the history of websites visited using Google Chrome on the machine.
+18092= Google Chrome - Cookies
+18093= Removes the cookies saved in the Google Chrome cache folder.
+18094= Google Chrome - Internet Cache
+18095= Removes the internet files cached by Google Chrome.
+18096= Google Chrome - Saved Form Information
+18097= Removes form data saved by Google Chrome when you filled in the webpage forms.
+18098= Google Chrome - Download History
+18099= Removes track of recently download files in Download Manager.
+
+18100= It is highly recommended that you close %s before continuing. Tracks Eraser can not erase the tracks being used by other programs.
+
+18101= %s files and %s2 database items to be removed.
+
+2101001= %s items checked.
+2101002= No tracks selected. To analyze tracks, please check each track you would like to analyze using the checkbox to the left of the track name.
+
+2102001= Windows Live Toolbar
+2102002= Removes the recent search history from the Windows Live Toolbar.
+2102003= Google Toolbar
+2102004= Removes the recent search history from the Google Toolbar for Internet Explorer.
+2102005= Google Deskbar
+2102006= Removes the recent search history from the Google Deskbar.
+2102007= Kazaa Search History
+2102008= Clears the Kazaa File Search History.
+2102009= eMule
+2102010= Clears the eMule Search History.
+2102011= MSN Messenger
+2102012= Removes MSN Messenger cache history.
+2102013= Sound Forge 6.0
+2102014= Removes Sound Forge 6.0 cache history.
+2102015= Fresh Download
+2102016= Removes FreshDownload download history.
+2102017= Windows Media Player
+2102018= Clears the Recent Files, URLS, and history for windows media player movies and music.
+2102019= Real Player
+2102020= Cleans the Real Player history of music and movie files recently played.
+2102021= Quicktime Player
+2102022= Cleans the Quicktime Player history of movie files recently played.
+2102023= SWiSH
+2102024= Removes the history of recently opened files from SWiSH.
+2102025= Windows Movie Maker
+2102026= Removes the history of recently opened files from Windows Movie Maker.
+2102027= BSPlayer
+2102028= Removes the history of recently opened files from BSPlayer.
+2102029= Media Player Classic
+2102030= Cleans the Media Player Classic history of music and movie files recently played.
+2102031= Axialis IconWorkshop
+2102032= Removes the cache and history of recently opened files from Axialis IconWorkshop.
+2102033= Ulead Smart Saver Pro 3.0
+2102034= Removes the history of recently opened files from Ulead Smart Saver Pro 3.0.
+2102035= Macromedia Flash Player
+2102036= Removes the history of recently opened files from Macromedia Flash Player.
+2102037= Macromedia Flash MX
+2102038= Removes the history of recently opened files from Macromedia Flash MX.
+2102039= Macromedia Flash 5.0
+2102040= Removes the history of recently opened files from Macromedia Flash 5.0.
+2102041= Macromedia Flash 4.0
+2102042= Removes the history of recently opened files from Macromedia Flash 4.0.
+2102043= Adobe Flash Player
+;2102044=
+2102045= AVI Preview
+2102046= Removes the history of recently opened files from AVI Preview.
+2102047= Paint Shop Pro 7.0
+2102048= Clears the history of files created/opened/or edited by Paint Shop Pro 7.0.
+2102049= Paint Shop Pro 8.0
+2102050= Clears the history of files created/opened/or edited by Paint Shop Pro 8.0.
+2102051= Paint Shop Pro 9.0
+2102052= Clears the history of files created/opened/or edited by Paint Shop Pro 9.0.
+2102053= Office XP
+2102054= Removes the history of recently opened files from Microsoft Office XP.
+2102055= Office 2000
+2102056= Removes the history of recently opened files from Microsoft Office 2000.
+2102057= Office 2003
+2102058= Removes the history of recently opened files from Microsoft Office 2003.
+2102059= Office 2007
+2102060= Removes the history of recently opened files from Microsoft Office 2007.
+2102061= MS Management Console
+2102062= Removes the history of recently opened files from MS Management Console.
+2102063= MS Wordpad
+2102064= Clears the history of files created/opened/or edited by WordPad.
+2102065= MS Paint
+2102066= Clears the history of files opened by Microsoft Paint.
+2102067= Microsoft Visual Basic 6.0
+2102068= Clears the recent file history for Visual Basic 6.0 developers.
+2102069= Remote Desktop
+2102070= Removes the cache data saved by Remote Desktop.
+2102071= PowerArchiver
+2102072= Clears the history of files compressed/uncompressed by PowerArchiver.
+2102073= WinISO
+2102074= Clears the history of files opened by WinISO.
+2102075= WinRAR
+2102076= Clears the history of files compressed/uncompressed by WinRAR.
+2102077= 7-Zip
+2102078= Clears the history of files compressed/uncompressed by 7-Zip.
+2102079= WinZip
+2102080= Clears the history of files compressed/uncompressed by WinZip.
+2102081= SpyBot Search and Destroy
+2102082= Removes the cache data saved by SpyBot Search and Destroy.
+2102083= WinAce 2.0
+2102084= Removes the history of WinAce.
+2102085= Norton AntiVirus
+2102086= Removes the log files saved by Norton AntiVirus.
+2102087= Adobe Acrobat Reader 5.0
+2102088= Removes the history of PDF files that you have viewed using Adobe Acrobat 5.0.
+2102089= Adobe Acrobat Reader 6.0
+2102090= Removes the history of PDF files that you have viewed using Adobe Acrobat 6.0.
+2102091= XML Spy
+2102092= Removes the history of XML files that you have viewed using XML Spy.
+2102093= Installshield Developer 7.0
+2102094= Clears the history of files opened by Installshield Developer 7.0.
+2102095= Macromedia Homesite 5.0
+2102096= Clears the history of files opened by Macromedia Homesite 5.0.
+2102097= Ahead Nero Burning ROM
+2102098= Clears the history of files/Folders opened by Ahead Nero Burning ROM.
+2102099= ZipMagic
+2102100= Clears the history of files compressed/uncompressed by ZipMagic.
+2102101= PicoZip
+2102102= Clears the history of files compressed/uncompressed by PicoZip.
+2102103= Adobe Acrobat Reader 7.0
+2102104= Removes the history of PDF files that you have viewed using Adobe Acrobat 7.0.
+2102105= Adobe Reader 8.0
+2102106= Removes the history of PDF files that you have viewed using Adobe Reader 8.0.
+2102107= Adobe Reader 9.0
+2102108= Removes the history of PDF files that you have viewed using Adobe Reader 9.0.
+2102109= Adobe Reader 10.0
+2102110= Removes the history of PDF files that you have viewed using Adobe Reader 10.0.
+2102111= Adobe Reader 11.0
+2102112= Removes the history of PDF files that you have viewed using Adobe Reader 11.0.
+
+2102113= Opera - History
+2102114= Removes the history of websites visited using Opera on the machine.
+2102115= Opera - Cookies
+2102116= Removes the cookies saved in the Opera cache folder.
+2102117= Opera - Internet Cache
+2102118= Removes the internet files cached by Opera.
+2102119= Opera - Saved Form Information
+2102120= Removes form data saved by Opera when you filled in the webpage forms.
+2102121= Opera - Download History
+2102122= Removes track of recently download files in Download Manager.
+
+2102123= Opera
+2102124= Removes history, most recently used lists(MRU Lists), temporary internet files and the other evidence from the Opera web browser.
+
+2103001= Check All
+2103002= Check None
+2103003= Check Default
+2103004= Open in RegEdit
+2103005= Add to Exclude List
+2103006= Ignore List Manager
+2103007= Today erased: %s item, total: %s2.
+2103008= Today erased: %s items, total: %s2.
+2103009= %s fils found, total %s2.
+2103010= %s Privacy problems
+2103011= %s Privacy problem
+2103012= %s data items to be removed.
+2103013= Today erased: %s items, total: %s2 items.
+2103014= Today erased: %s item, total: %s2 item.
+2103015= %s items found, %s2 items erased. 
+2103016= %s item found, %s2 item erased. 
+2103017= No Privacy problems 
+2103018= %s privacy problem fixed 
+2103019= %s privacy problems fixed 
+2103020= %s item(s) were removed in Windows registry. %s2 file(s) and %s3 database item(s) were removed 
+2103021= Click 'Analyze' to scan your system for privacy problems. 
+2103022= The list of entries are currently being ignored when scanning. If you want %s to include one of these entries, then remove its checkmark.
+
+[Memory Optimizer]
+21001= Memory Optimizer
+21901= Monitors and optimizes free memory in the background
+21002= Optimization
+21003= Manual Optimization
+21004= Physical memory usage graph:
+21018= %s%(%s2 MB) of %s3 MB Free
+21005= CPU Usage
+21006= Please indicate the amount of memory you want to free up and then click Optimize .
+21007= Memory amount:
+21008= Optimize
+21009= Clear clipboard
+21010= Current clipboard size:
+21011= Enable Auto Optimization
+21012= Optimize automatically when free memory at:
+21013= Increase free memory to:
+21014= ONLY optimize if CPU-Usage is below :
+21015= Load automatically on Windows startup
+21016= Recommended
+21017= Optimizing...
+21019= Show Main Window
+
+[File Shredder]
+22001= File Shredder
+22901= Erases files permanently so that no one can recover them
+22002= Utility to destroy sensitive data so that they can't be recovered and viewed by others. This tool uses utmost safety method American Dod 5220.22-M developed by US Department of Defence to securely remove the data.
+22003= Type
+22012= Date Modified
+22004= Add File(s)
+22005= Add Folder
+22006= Erase Now
+22007= Repeat the delete operation:
+22008= File Folder
+22009= You are about to erase all selected data on the list. You won't be able to recover these files using any undelete tools you may have. Are you sure you want to continue?
+22010= Deleting
+22011= Deleted
+22019= Wipe Free Space
+22013= When files are deleted and emptied from the recycle bin they are not truly removed from the hard disk. The files can easily be recovered by data recovery software. To ensure your files are deleted totally you should wipe the free space of your hard disk regularly. This option destroys such files which are already deleted by you so that they can not be recovered.
+22014= Select the drive you want to wipe the free space :
+22015= Wipe Now
+22016= Wiping free space on %s
+22017= Operation was cancelled by user.
+22018= The operation completed successfully.
+22020= Select a destination folder:
+22021= Please select a disk drive.
+22022= Wipe MFT Free Space - Drive %s
+
+[Internet Explorer Assistant]
+23001= Browser Assistant
+23901= Manages Internet Explorer Add-ons and restores hijacked settings
+23002= IE BHOs
+23003= IE Toolbars
+23004= IE Explorer Bars
+23005= IE Extra Context Menus
+23006= IE Extra Buttons
+23007= IE Downloaded ActiveX
+23008= Hijack Restore
+23009= [Blocked]
+23010= Publisher
+23011= File Path
+23012= Command
+23013= Block this item
+23014= Un-block this item
+23015= Permanently remove this item
+23016= Are you sure you want to restore %s ?
+23017= Are you sure you want to block %s in internet explorer?
+23018= Are you sure you want to permanently remove %s in internet explorer?
+23019= Warning, file is missing
+23020= Browser Helper Objects
+23021= Internet Explorer Toolbars
+23022= Internet Explorer Explorerbars
+23023= Internet Explorer Extra Context Menu
+23024= Internet Explorer Extra Button
+23025= Downloaded ActiveX Programs
+23026= Damaged
+23027= Installed
+
+23028= Setting
+23029= Current Setting
+23030= Restore Setting To
+23031= Change restore setting to a new URL...
+23032= Restore
+23033= IE Default
+23034= Are you sure you would like to restore the settings you selected?
+23035= %s internet explorer browser settings were changed successfully.
+23036= Change Internet Explorer Restore Setting
+23037= Change the Internet Explorer restore setting for %s. The URL in the field below is the default Internet Explorer URL for this setting. You can enter any other page or URL in this field other than the default one.
+23038= Start Page
+23039= This is the URL of the web page that will be displayed when a new Internet Explorer browser window is opened.
+23040= Search Page
+23041= This is the default search engine when you click the Search button in Internet Explorer.
+23042= Default Page URL
+23043= This is the default web page URL used by Internet Explorer.
+23044= Local Page
+23045= This is the page that will load if a website is not found when entering it in the Internet Explorer address bar.
+23046= Search Bar
+23047= This is the page that will be displayed when you click on the Search icon in Internet Explorer. The Search bar provides the ability to store detailed information.
+23048= Default Search URL
+23049= This is the page that will be displayed when Internet Explorer attempts to perform a search.
+23050= Start Page (all users)
+23051= This is the page that will be displayed when a new browser window of Internet Explorer is opened.
+23052= Search Page (all users)
+23053= This is the default search engine when you click the Search button in Internet Explorer. This is for all users of this computer.
+23054= Default Page URL (all users)
+23055= The is the default web page URL used by Internet Explorer. This is for all users of this computer.
+23056= Local Page (all users)
+23057= This is the page that will load if a website is not found when entering it in the Internet Explorer address bar. This is for all users of this computer.
+23058= Search Bar (all users)
+23059= This is the page that will be displayed when you click on the Search icon in Internet Explorer. The Search bar provides the ability to store detailed information. This is for all users of this computer.
+23060= Default Search URL (all users)
+23061= This is the page that will be displayed when Internet Explorer attempts to perform a search. This is for all users of this computer.
+23062= Customize Search (all users)
+23063= This is the page that is displayed in the Internet Explorer search box when you run a customized search. The Search Assistant provides users with a single, unified search across different types of searches. This setting is for all users of this computer.
+23064= Search Assistant (all users)
+23065= This is the Search Assistant page displayed by Internet Explorer. The Search Assistant provides users with a single, unified search across different types of searches. This setting is for all users of this computer.
+23066= Search URL
+23067= Search URLs are a convenient way to use different Internet search engines. For example, you might have a search URL called news that searches online newsgroups. If you type in a keyword(s) in the address bar to automatically search online newsgroups for all articles related to these keywords.
+23068= Search URL (all users)
+23069= Search URLs are a convenient way to use different Internet search engines. For example, you might have a search URL called news that searches online newsgroups. If you type in a keyword(s) in the address bar to automatically search online newsgroups for all articles related to these keywords. This applies to all users of this computer.
+23070= Blank Page
+23071= The page cannot be displayed - This is the page displayed by Internet Explorer when it cannot find a web site or page.
+23072= Desktop Navigation Failure
+23073= This is the Internet Explorer page that is displayed if your computer cannot access the Internet.
+23074= Navigation Canceled
+23075= This is the Internet Explorer page that is displayed when you cancel navigation.
+23076= Navigation Failure
+23077= This is the Internet Explorer page that is displayed if your computer cannot access the Internet.
+23078= Offline Information
+23079= This is the Internet Explorer page that is displayed if your computer cannot access the Internet or a Web page is unavailable or offline.
+23080= Post Not Cached
+23081= Warning: Page has Expired - This is the warning page when Internet explorer cannot read content from its cache.
+23100= Are you sure you want to permanently remove the items you selected?
+23101= PlugIns
+23102= Extensions
+23103= Search Engines
+23104= Histories
+23105= Cookies
+23106= Title
+23107= Visit Count
+23109= Base Domain
+23110= host key
+23111= Key Word
+23117= Are you sure you want to block %s in mozilla firefox?
+23118= Are you sure you want to permanently remove %s in mozilla firefox?
+23121= Mozilla Firefox Plugins
+23122= Mozilla Firefox Extensions
+23123= Mozilla Firefox Search Engines
+23124= Mozilla Firefox Histories
+23125= Mozilla Firefox Cookies
+23126= Mozilla Firefox Main Page
+23131= Google Chrome Plugins
+23132= Google Chrome Extensions
+23133= Google Chrome Search Engines
+23134= Google Chrome Histories
+23135= Google Chrome Cookies
+23136= Google Chrome Main Page
+23141= Move Up
+23142= Move Down
+23143= Add Page
+23144= Remove Page
+23146= Main Page Input
+23147= Input New Main Page for %s Browser Please.
+23149=  Viewer
+23150= It is highly recommened that you close\n\n %s \n\nbefore continuing, Browser Assistant can not be working properly.
+23151= %s items were permanently removed
+23152= Operation fail, Please try again after close %s browser
+23153= user cancel operation
+23154= Delete Items Progress Dialog
+23155= Remove Items
+23217= Are you sure you want to block %s in Google Chrome?
+23218= Are you sure you want to permanently remove %s in Google Chrome?
+
+[Process Manager]
+24001= Process Manager
+24901= Monitors running processes and optionally stop them.
+24002= New Tasks(Run...)
+24003= Exit Windows
+24004= Restart Computer
+24005= Shutdown Computer
+24006= End Process
+24007= Block Process
+24008= Block List
+24009= Google it
+24010= Comment it
+24011= Show Details
+24012= Name
+24013= Rating
+24014= Executable
+24015= Priority
+24016= Threads
+24017= CPU
+24018= CPU Time
+24019= Memory
+24020= Company
+24021= Started
+24022= Processes
+24023= Set Priority
+24024= Realtime
+24025= High
+24026= AboveNormal
+24027= Normal
+24028= BelowNormal
+24029= Low
+24030= WARNING: Changing the priority class of this process may cause undesired results including system instability. Are you sure you want to change the priority class?
+24031= General Information
+24032= Modules used
+24033= Data
+24034= Value
+24035= Process Information
+24036= ID
+24037= File
+24038= Arguments
+24039= Folder
+24040= Threads
+24041= Priority
+24042= Memory usage
+24043= Started on
+24044= Started by
+24045= Version Information
+24046= File type
+24047= Company
+24048= Description
+24049= Version
+24050= Internal name
+24051= Copyright
+24052= Trademark
+24053= Original file name
+24054= Product name
+24055= Product version
+24056= Comments
+24137= Safer
+24139= Risky
+24057= Do you really want to terminate process %s?
+24058= Do you really want to block process %s?
+24059= Do you want to restart your computer now?
+24060= Do you want to shut down your computer now?
+24061= Running Processes:
+24062= CPU Usage:
+24063= Memory Usage:
+24064= System Service
+24065= Replace Task Manager
+24066= Always on top
+
+[Context Menu Manager]
+25001= Context Menu Manager
+25901= Manages the context-menu entries for files, folders...
+25002= Files & Folders
+25003= New
+25004= Send To
+25005= Click the checkmark before the item to either enable or disable it. To remove it permanently, click '%s' button below.
+25006= Not Found
+25007= Are you sure you want to remove '%s' permanently?
+25008= All files(*)
+25009= Folders
+25010= Directories
+25011= Drives
+25012= Music folders
+25013= Video folders
+25014= Picture folders
+25015= All File System Objects
+25016= My Computer
+25017= Recycle Bin
+25018= Background
+25019= Shortcuts
+
+[File Encrypter and Decrypter]
+27001=File Encrypter
+27901= Protects your files from unauthorized access and use.
+27002= Encrypt file
+27003= Decrypt file
+27004= Please choose the file you want to encrypt:
+27005= Password for encryption:
+27006= Verify Password:
+27007= Password Hint(Riddle):
+27008= Create a auto-decrypting EXE file(The user interface will be in english)
+27009= Delete the original file after successful encryption
+27010= Encrypt Now!
+27011= Please choose the file you want to decrypt:
+27012= Password for decryption:
+27013= Password Hint
+27014= Extract to:
+27015= Open target folder after successful decryption
+27016= Decrypt Now!
+27017= Please click 'Browse' button to choose a file you want to encrypt!
+27018= The selected file dosn''t exists. Please choose another one.
+27019= Please enter a password between 6 and 16 characters long!
+27020= Please enter the same password in both fields!
+27021= The following file already exists, overwrite it?
+27022= File was encrypted to %s successfully.
+27023= Encrypted Files
+27024= The selected file was not encrypted with this program. Please choose another one.
+27025= Please click 'Browse' button to choose a file you want to decrypt!
+27026= The selected file doesn''t exists. Please choose another one.
+27027= Please select the folder where you would like to place the restored file.
+27028= Couldn't create destination folder %s
+27029= The file %s already exists, overwrite it?
+27030= The file was decrypted to %s successfully.
+27031= Incorrect password, please try again.
+27032= Please select the folder where you would like to place the restored file.
+27033= The operation failed. Please try again.
+27034= Encryption is in progress. This may take a few moments, please be patient.
+27035= Decryption is in progress. This may take a few moments, please be patient.
+27036= This file is encrypted by the older version of the program, download File Encrypter v2 to decrypt this file?
+27037= The encrypted file is saved to:
+27038= Please select the folder where you would like to place the encrypted file.
+27039= Destination folder does not exist, do you want to create it?
+27040= Open target folder after successful encryption
+27041= Add File(s)
+27042= Support drag and drop files.
+27043= Local File(s)
+27044= Status
+27045= Progress
+27046= Encrypted file
+27047= Ready
+27048= Waiting...
+27049= Encrypting...
+27050= Encrypted successfully.
+27051= Source file does not exist.
+27052= Target file already exists.
+27053= Couldn't delete source file.
+27054= Please click on the 'Add File(s)' button to select the file you want to encrypt or drag it to the list.
+27055= No files selected to encrypt. Please try again.
+27056= Remove File(s)
+27057= Check All
+27058= Check None
+27059= Check Invert
+27060= Remove selected item
+27061= Would you like to remove selected %s file(s) from the list?
+
+[File Splitter and Joiner]
+28001= File Splitter
+28901= Splits large files into smaller manageable files, and then rejoin them.
+28002= Split file
+28003= Join file
+28004= Please choose the file you want to split into smaller files
+28005= Please enter the path to the destination folder where you would like to place the splitted file
+28006= Please choose the maximum size for the individual files to be created
+28007= Floppy disk (1.44MB)
+28008= 100MB Zip(TM)  disk
+28009= 1GB Jaz(TM) disk
+28010= 4.7GB Single-layer DVD
+28011= User defined file size
+28012= About %s piece file(s) will be created.
+28013= Add Self-Joining Functionality to the split files set
+28014= Split Now!
+28015= Please select one of the files you want to reassemble to the original file. You can select any one of the files, the others will be included automatically.
+28016= Piece Set Information:
+28017= Please enter the path to the destination folder where you would like to place the restored file.
+28018= Join Now!
+28019= Couldn't create file %s
+28020= Couldn't open file %s
+28021= Please click 'Browse' button to choose a file you want to split into smaller files!
+28022= File doesn't exists! Please click 'Browse' button to choose a file you want to split into smaller files!
+28023= The selected file is already smaller than the maximum size.
+28024= Please click 'Browse' button to choose a destination folder!
+28025= Couldn't create destination folder %s
+28026= There are not enough free space on the destination drive %s
+28027= File was splitted into %s successfully. The original file has not been deleted.
+28028= Please select the folder where you would like to place the splitted file
+28029= Splitted Files
+28030= Filename:
+28031= Size:
+28032= Pieces count:
+28033= Selected file is not part of a split files set. Please choose another one.
+28034= Couldn't find the following piece files:
+28035= File already exists! Overwrite the file?
+28036= Original file reassembled successfully.
+28037= Please select the folder where you would like to place the restored file.
+28038= The operation failed. Please try again.
+28039= Splitting file is in progress. This may take a few moments, please be patient.
+28040= Joining file is in progress. This may take a few moments, please be patient.
+28041= This folder has been added.
+
+[1-Click Maintenance]
+29001= 1-Click Maintenance
+29601= Registry Cleaner
+29602= Shortcuts Fixer
+29603= Startup Manager
+29604= Temporary Files Cleaner
+29605= Tracks Eraser
+29606= Spyware Remover
+
+10603= Fixes invalid or incorrect registry entries
+10605= Cleans up invalid shortcuts
+10607= Cleans up dangerous startup entries
+10609= Cleans up temporary file and recover disk space
+10611= Erases your activity history and internet traces
+10613= Removes spyware and adware
+10614= Analyzing...
+10615= Show Details
+10616= Scan for Issues
+10617= No problems found.
+10618= 1 problem found.
+10619= %s problems found.
+10620= %s files found.
+10621= No files found.
+10622= %s tracks selected.
+10623= 1 track selected.
+10624= No tracks selected.
+10625= Analyzing...
+10626= Click Repair Problems to continue.
+10627= Repair Problems
+10628= Problems solved.
+10629= Space Recovered
+10630= Tracks Erased.
+10631= Fixing...
+10632= Cleaning...
+10633= Erasing...
+10634= %s problems fixed.
+10635= %s tracks erased.
+10636= %s recovered.
+10637= Please select files you wish to delete.
+10638= View Files
+10639= Total %s files, %s2 recoverable.
+10640= Please select the tracks you wish to erase.
+10641= Please select registry entries you wish to fix. Click an item with your right mouse button to view additional options.
+10645= Please select shortcuts entries you wish to delete. Click an item with your right mouse button to view additional options.
+10642= Please select startup entries you wish to delete.
+10644= Please select entries you wish to delete.
+10643= Cancel 1-Click Maintenance
+10646= Rescan
+10647= Please click "Repair Problems" to continue, click "Rescan" to scan for problems again.
+
+[Glary Undelete]
+31001= File Undelete
+31901= Quick and effective way to retrieve accidentally deleted files
+31002= Search
+31003= Filter
+31004= Folders
+31005= File Types
+31006= Name
+31007= State
+31008= Original Path
+31009= Size
+31010= Type
+31011= Last Modified
+31012= Restore
+31013= Scanning drives, please wait...
+31014= Select a folder to search:
+31015= Very good
+31016= Good
+31017= Medium
+31018= Poor
+31019= Overwritten
+31020= Select a destination folder:
+31021= Restoring to the same drive can reduce the chance of the successful recovery, Are you sure you want to continue?
+31022= is already exists in folder %s, Are you sure you want to overwrite it?
+31023= are already exists in folder %s, Are you sure you want to overwrite them?
+31024= Filter: ON
+31025= Filter: OFF
+31026= Found: %s, Selected Items: %s2
+31027= Searching
+31028= Current progress: %s%, %s2 files found.
+31029= Couldn't start scan: %s
+31030= Restoring %s..., %s2 files recovered.
+31031= Couldn't create file %s
+31032= By Filename
+31033= All or part of the file name. You can use wild cards, e.g., *.doc
+31034= ? Match one of anything
+31035= * Match any number of anything
+31036= By Size
+31037= More than
+31038= Less than
+31039= By Date
+31040= From
+31041= to
+31042= By State
+31043= All Types
+
+31044= No preview available
+31045= Preview
+31046= Click to Enlarge
+31047= Click to Close
+31048= Local Disk
+31049= Glary Undelete
+
+[Registry Defrag]
+32001= Registry Defrag
+32901= Defrag the Windows registry to speed up your computer
+32002= Welcome to Registry Defrag
+32003= Windows Registry can become fragmented over time, occupying more space on your hard disk than necessary and slowing down the boot time. Registry Defrag compacts and optimizes the Windows registry by removing unnecessary gaps and wasted space. This can greatly improve your computer performance
+32004= - Reduce fragmentation
+32005= - Correct structural errors
+32006= - Recover unused memory space
+32007= Click Next to analyze the extent of fragmentation.
+32008= Size after optimization:
+32009= Size difference:
+32010= Registry Defrag can reduce the size of your registry by %s
+32011= Click Next to begin defragmentation (Reboot required). Click Cancel if you do not wish to optimize your registry, or if you wish to optimize at a later time.
+32012= Registry Defrag has detected that registry defragmentation is not required at this point of time. It is recommended that you defragment Windows registry at least once a month.
+32013= Click Close to finish working with the program
+32014= ATTENTION: Registry defragmentation requires that no programs are running during the registry analysis.
+32015= Please save all your work and close running programs before proceeding.
+32016= Please also disable your antivirus program for the duration of the analysis. Firewalls do not usually need to be disabled.
+32017= After you have closed all other programs, click OK to continue.
+32018= Defragmentation is not possible, because part of the registry is protected from modifications. To resolve this issue you can close all running programs, disable your antivirus and antispyware protection and try again. Don't forget to re-enable antivirus and antispyware protection after the registry defragmentation.
+32019= WARNING: The computer must be restarted to complete optimization.
+32020= Do you want to optimize now?
+32021= Analyzing the registry
+32022= Please wait...
+32023= Your computer may not react for several minutes while the analysis is being completed. You can stop the scan process by pressing the Esc button...
+32024= Windows registry was optimized successfully.
+
+[System Information]
+33001= System Information
+33901= Collects information about your hardware and software
+33002= Create Report
+33003= Create Report(ALL)
+33004= Overview
+33005= Operating System
+33006= System Devices
+33007= Memory
+33008= Drives
+33009= Display
+33010= Network
+33011= Other Devices
+33012= General
+33013= Processor
+33014= Mother Board
+33015= Windows Version
+33016= Installation Date
+33017= Display
+33018= Monitor
+33019= Video Adapter
+33020= Input
+33021= Mouse
+33022= Keyboard
+33023= Disk Drive
+33024= DVD/CD-ROM Drive
+33025= Operating System Properties
+33026= OS Name
+33027= OS Language
+33028= OS Version
+33029= Registered Owner
+33030= Registered Organization
+33031= Product ID
+33032= Product Key
+33033= OS Installation Date
+33034= OS Root
+33035= Current Session
+33036= Computer Name
+33037= User Name
+33038= Logon Domain
+33039= Uptime
+33040= Components Version
+33041= Internet Explorer
+33042= Windows Media Player
+33043= DirectX
+33044= System Folders
+33045= Share Folders
+33046= Motherboard
+33047= Motherboard Name
+33048= Motherboard Manufacturer
+33049= BIOS Properties
+33050= BIOS Version
+33051= System BIOS Date
+33052= Video BIOS Date
+33053= CPU Properties
+33054= CPU Identification
+33055= CPU Generic Name
+33056= CPU Vendor
+33057= Serial Number
+33058= CPU Frequency
+33059= L1 Code Cache
+33060= L1 Data Cache
+33061= L2 Cache
+33062= CPU Socket
+33063= Core Per Package
+33064= Logical Per Core
+33065= Configuration Details
+33066= CPU Usage
+33067= CPU Usage History
+33068= Physical Memory
+33069= Virtual Memory
+33070= Total Memory
+33071= Free Memory
+33072= Used Memory
+33073= Selected Memory
+33074= Application
+33075= Memory Usage
+33076= Path
+33077= Volume Details
+33078= Disk Letter
+33079= Device Type
+33080= Serial Number
+33081= File System
+33082= Total Bytes
+33083= Bytes Free
+33084= Bytes Used
+33085= File System
+
+33086= File Compression Enabled
+33087= Volume is Compressed
+33088= Long File Name Enabled
+33089= Unicode File Name Enabled
+33090= Encrypted File System
+
+33091= Logical Information
+33092= Numbers of Clusters
+33093= Free Clusters
+33094= Used Clusters
+33095= Bytes per Cluster
+33096= Sectors per Cluster
+33097= Used Sectors
+33098= Free Sectors
+
+33099= Configuration Details
+33100= Bytes per Sector
+33101= Total Sectors
+
+33102= Total Disk Space
+33103= Free Disk Space
+33104= Used Disk Space
+
+33105= Video Adapter Properties
+33106= Device Description
+33107= Adapter String
+33108= BIOS String
+33109= Chip Type
+33110= DAC Type
+33111= Driver Date
+33112= Driver Version
+33113= Driver Provider
+33114= Memory Size
+
+33115= Monitor Properties
+33116= Monitor Name
+33117= Model
+33118= Manufacture Date
+33119= Serial Number
+33120= Max.Visible Display Size
+33121= Gamma
+
+33122= Video Model Supported
+
+33123= Network Adapter Description
+
+33124= Network Adapter Properties
+33125= Network Adapter
+33126= Interface Type
+33127= Hardware Address
+33128= Connection Name
+33129= Connection Speed
+33130= MTU
+33131= Bytes Received
+33132= Bytes Sent
+
+33133= Network Adapter Addresses
+33134= IP/Subnet Mask
+33135= Gateway
+33136= DNS
+
+33137= Received Data
+33138= Sent Data
+
+33139= Audio Devices
+33140= Ports
+33141= USB
+33142= USB Controller
+33143= Printers
+
+33144= Name
+33145= Value
+
+33148= System Folders
+33149= Share Folders
+33150= Right-click on a folder to open it in Windows Explorer
+33151= Open Folder
+33152= Properties
+33153= SEC
+33154= (%s Hour %s2 Minutes %s3 Seconds)
+
+33155= OS Type
+33156= %s bit
+
+[GLARYUTILITIES]
+1001001= Restore
+1001002= Feedback
+1001003= Minimize
+1001004= Version:
+1001005= Like
+
+[OVERVIEW]
+1002001= Overview
+1002002= Turn on automatic maintenance
+1002003= Erase privacy tracks on windows shutdown
+1002004= Check for updates when program starts
+1002005= Turn on deep clean and fix
+1002006= Windows Boot Time
+1002007= Disable unnecessary startup programs to make Windows boot faster
+1002008= Startup Manager
+1002009= You are using %s
+1002010= Upgrade Now
+1002011= Join our User Experience Improvement Program 
+1002012= Hours
+1002013= Minutes
+1002014= Seconds
+1002015= Select Tracks
+1002016= Licensed To:
+1002017= Manage License
+1002018= License Expired
+1002019= Check for software updates automatically
+1002020= Customize Results
+
+[ONECLICK]
+1003001= Disk Repair
+1003002= Defrag Registry
+1003003= Malware Immunization
+1003004= System Optimization
+1003005= Defrag Hard Disks
+
+[ADVANCED TOOLS]
+1004001= Advanced Tools
+1004002= Windows Registry
+1004003= Repair
+1004004= Defragment
+1004005= Backup
+1004006= Restore
+   
+1004007= Disk Space
+1004008= Cleanup
+1004009= Remove duplicates
+1004010= Remove empty folders
+1004011= Remove broken shortcuts
+1004012= Explore disks
+   
+1004013= System Tweaks
+1004014= System Tweaks
+1004015= Optimize system startup
+1004016= Free up memory
+1004017= Speed up internet
+1004018= Turbo mode
+   
+1004019= Privacy
+1004020= Erase history
+1004021= Shred files
+1004022= Wipe free space
+1004023= Encrypt files
+   
+1004024= Drivers
+1004025= Backup
+1004026= Restore
+1004027= Uninstall
+1004028= Check for updates
+   
+1004029= File management
+1004030= Split files
+1004031= Restore deleted files
+1004032= Quick search
+   
+1004033= Hard disks
+1004034= Defragment
+1004035= Boot defragment
+1004036= Check for errors
+   
+1004037= System Control
+1004038= Startup items
+1004039= Services
+1004040= Scheduled tasks
+1004041= Context menus
+1004042= Processes
+1004043= Browser assistant
+   
+1004044= System Status
+1004045= System information
+1004046= Backup your computer
+1004056= Repair system files
+1004047= System restore
+1004048= Undo changes
+   
+1004049= Anti-malware
+1004050= Remove malwares
+1004051= Immunize
+   
+1004052= Programs
+1004053= Uninstall
+1004054= Check for updates
+1004055= Find more software
+1004057=
+
+[QUICKLAUNCHBAR]
+1005001= Click +/- to add or remove any icon to the dock bar    
+1005002= Already exists here
+1005003= No enough room in the dock, you can remove any icon by clicking -
+1005004= No enough room in the dock, you can remove any icon by dragging it out of the dock.
+
+[SKINSCENTER]
+1006001= Skin Center
+1006002= Pictures Library
+1006003= Solid Colors
+1006004= The following file already exists, overwrite it?
+1006005= All Support Files
+1006006= Custom
+
+1007001= Your trial license has expired. 
+1007002= click this message to activate Glary Utilities Pro now.
+1007003= Your license has expired. 
+1007004= click this message to re-activate Glary Utilities Pro now.
+
+[CHECKDISK]
+2400001= Check Disk
+2401001= Please select the disk to check
+2401002= Automatically fix file system errors
+2401003= Scan for and attempt recovery of bad sectors
+2401004= Check Disk
+2401010= Drive Name
+2401011= Last Analysis
+2401012= Status
+2401013= Analysis
+2401014= Report
+2401015= Ready
+2401016= Need to Check
+2401017= Checking %s
+2401018= Check Disk Interrupted
+2401019= Errors found
+2401020= No errors found
+2401021= Check Disk Error
+2401022= Hide details
+2401023= Show details
+2401024= CheckDisk checks your drive and its file system for errors.
+2401025= Errors detected will automatically be fixed in order to prevent data loss.
+2401026= Options
+;2401027= Automatically fix file system errors
+;2401028= Scan for and attempt recovery of  bad sectors
+2401029= Start Check
+2401030= Stop
+2401031= Schedule disk check failed!
+2401032= CheckDisk was scheduled on next time your start computer.
+2401033= CheckDisk Skipped.
+2401034= CheckDisk Cancelled.
+2401035= CheckDisk Interrupted.
+2401036= Disk checking completed. No errors found.
+2401037= CheckDisk found %s disk errors as follows:
+
+2403001= Checking Disk %s
+2403002= Do this for the next %s conflicts
+2403003= Will be skipped in %s seconds.
+
+2405001= Function not find.
+2405002= Disk checking encountered a error. Needs restart the application.
+2405003= Checking file system on %s
+2405004= The type of the file system is %s.
+
+2406001= Save Report
+
+2407001= Result
+2407002= Schedule disk check
+2407003= Restart Now
+2407004= Show report
+2407005= Windows will fix disk in the next startup.
+
+2408001= Windows can't check the disk while it's in use
+2408002= Force a dismount\nDo you want to dismount this volume first? Note: All opened handles to this volume will become invalid.
+2408003= Schedule disk check\nDo you want to check for hard disk errors the next time you start your computer?
+2408004= Skip
+
+[RESTORE CENTER]
+
+2602001= Creating a restore point...
+2603001= Enter description to help you identify the restore pint. The current date and time are added automatically.
+2603002= Create
+2603003= Please enter the description.
+2604001= Preparing to restore you system ...
+2605001= Restored %s items.
+
+
+[SETTINGS]
+2801001= General Settings
+2801002= The below items will be skipped when you perform a scan.
+2801003= Additional
+2801004= Burrows its way through the registry to identify, suggest and repair errors.
+2801005= Show Dock bar Hints
+2801006= Multiple triggers defined
+2801007= Task not scheduled
+2801008= Skip User Account Control warning
+2801009= In the sub-menu to display the context menu
+2801010= Join the Glary Utilities Experience Improvement Program
+2801011= Learn more
+
+2802001= Schedule:
+2802002= Start Time:
+2802003= Don't start the task if the computer is running on batteries.
+2802004= Stop the task if battery mode begins.
+2802005= Wake the computer to run this task.
+2802006= Power Management
+
+2803001= Log
+2803002= Log Options
+2803003= Saved Logs
+2803004= Open Log Folder
+2803005= View Log
+2803006= Delete
+2803007= Clear All
+2803008= Create logs when there is any change to the computer
+2803009= Max files:
+
+[Quick Search]
+3700001= Quick Search
+3700002= 
+
+//frmMain
+3701001= File
+3701002= Edit
+3701003= View
+3701004= Help
+3701005= Open
+3701006= Open Folder
+3701007= Export
+3701008= Close
+3701009= Copy
+3701010= Match Path
+3701011= Options
+3701012= Text Size
+3701013= Arrange Icons by
+3701014= Refresh
+3701015= Increase
+3701016= Decrease
+3701017= Normal
+3701018= Name
+3701019= Path
+3701020= Size
+3701021= Date Modified
+3701022= Home Page
+3701023= About
+3701024= Modify Category
+3701025= Show All
+3701026= Shortcuts
+3701027= Documents   
+3701028= Pictures        
+3701029= Videos        
+3701030= Music      
+3701031= Programmer 
+3701032= Show %s files
+3701033= Include File 
+3701034= Include Dir
+3701035= %s items found
+3701036= Scanning %s ...
+3701037= Type   
+3701038= File description 
+3701039= File version 
+3701040= Product version 
+3701041= Company name 
+3701042= Text file(*.txt)|*.txt|All Files(*.*)|*.*
+3703043= File exists
+3703044= Tips
+3703045= %s items selected
+3701046= Loading %s ...
+3701047= Copy Path to Clipboard
+3701048= Copy Full Name to Clipboard
+3701049= Select too many files may cause the software not responding, you are sure to continue?
+
+//frmSetting
+3702001= Options
+3702002= Category
+3702003= General
+3702004= Start automatically on Windows logon
+3702005= Double-click 'Ctrl' key to hide or show the search box
+3702006= Language:
+3702007= Category Name
+3702008= File Extensions
+3702009= Add
+3702010= Modify
+3702011= Remove
+3702012= OK
+3702013= Cancel
+3702014= Please select a category!
+3702015= This category can not be deleted
+3702016= Disks
+3702017= Please select the disk to search
+3702018= Drive Name
+3702019= File System
+3702020= Capacity
+3702021= Used Space
+
+//frmGroupSetting
+3703001= Category Name:
+3703002= File Extensions:
+3703003= File Extension:
+3703004= Extension
+3703005= File Type
+3703006= Enter extension(*.doc;*.txt)
+3703007= Category name can not be empty!
+3703008= File extensions can not be empty!
+3703009= Category name %s already exists, please re-enter the category name.
+3703010= Add a category
+3703011= Modify a category
+
+//UnitFunction
+3704001= There is no text in the Clipboard!
+
+//frmAbout
+3705001= About
+3705002= Version:
+3705003= Website:
+3705004= Copyright @ 2013, Glarysoft ltd. All rights reserved
+
+//tray icon
+3706001= Open Quick Search
+
+//Task
+3707001= Glary Utilities QuickSearch
+
+[Disk Defrag]
+3400001= Disk Defrag
+3400101= Disk SpeedUp
+3400002= Defrag hard Disks to speedup the PC performance
+
+3400003= Your computer is running on batteries, we recommend you not to defrag. If you want to defrag it, please untick Stop defragmenting while using battery in the settings.
+
+//frmMain
+3401001= Drive Name
+3401002= File System
+3401003= Capacity
+3401004= Free Space
+3401005= Fragmented
+3401006= Status
+3401007= Boot Time Defrag 
+3401008= File
+3401009= Tools
+3401010= Help
+3401011= Defrag a file...
+3401012= Defrag a folder...
+3401013= Analyze
+3401014= Defrag
+3401015= Defrag and Optimize (slower, use once a week)
+3401016= Exit
+3401017= Priority
+3401018= Low Priority
+3401019= Normal Priority
+3401020= High Priority
+3401021= Options
+3401022= Home page
+3401023= Check for Updates
+3401024= About
+3401025= Defrag
+3401026= Analyze
+3401027= Defrag and Optimize (slower, use once a week)
+3401028= Pause
+3401029= Resume
+3401030= Stop
+3401031= Turn off PC after defragmentation
+3401032= Select All
+3401033= Select None
+3401034= State
+3401035= Report
+3401036= Used Space
+3401037= Free Space
+3401038= Processing
+3401039= Free Space
+3401040= Used Space
+3401041= Not Fragmented
+3401042= Unmovable Files
+3401043= Fragmented Files
+3401044= Busy
+3401045= MFT Reserved Zones
+3401046= Ready
+3401047= Analyzing
+3401048= Defragmenting
+3401049= Optimizing
+3401050= Analyzed
+3401051= Defragmented
+3401052= Optimized
+3401053= Analysis Completed
+3401054= Defragmentation Completed
+3401055= Optimization Completed
+3401056= Analysis Interrupted
+3401057= Defragmentation Interrupted
+3401058= Optimization Interrupted
+3401059= Boot Time Defrag is activated on this volume.
+3401060= Boot Time Defrag is not activated on this volume.
+3401061= Turn off
+3401062= Turn on
+3401063= Configure
+3401064= Defragment page file, hibernation file
+3401065= Defragment MFT
+3401066= Defragment system files
+3401067= Boot Time Defrag History (Double Click to view details)
+3401068= Date
+3401069= Total Size
+3401070= Defragmented
+3401071= Total Files && Dirs:
+3401072= Fragments:
+3401073= Fragmentation Rate:
+3401074= File Name
+3401075= Fragments
+3401076= Size
+3401077= Path
+3401078= Yes
+3401079= No
+3401080= file(s)
+3401081= Select Folder
+3401082= Hint
+3401083= Disk Defragmenter is still running.
+3401084= Unknown driver
+3401085= The root directory can''t be added into exclusions list. Please select another directoary.
+3401086= Select Invert
+3401087= Stop One
+3401088= Stop All
+3401089= This volume is Solid State Drives (SSD) storage, and there is no need to defragment it.
+3401090= The disk appears to be solid state. Defragmentation may reduce its lifetime. Are you sure you want to continue?
+
+//frmOption
+3402000= Options
+3402001= General
+3402002= Defrag
+3402003= Auto defrag
+3402004= Schedule
+3402005= Boot Time Defrag
+3402006= Optimize
+3402007= Excludes
+3402008= Language:
+3402009= Start automatically on Windows logon
+3402010= Minimize to tray when you close the program window
+3402011= Show balloon tips when minimize to tray
+3402012= Integrate Disk Defragmenter into Windows Explorer context menu
+3402013= Automatically check for updates
+3402014= Simultaneous defragmentation of disks
+3402015= Default
+3402016= Intelligent
+3402017= Aurora
+3402018= Windows Standard
+3402019= Accessibility
+3402020= Rainbow
+3402021= Sea Breeze
+3402022= Only defrag files that:
+3402023= Have fragments smaller than
+3402024= Have more than
+3402025= Are larger than
+3402026= Are smaller than
+3402027= fragments
+3402028= Move large files to the end of the drive
+3402029= Minimum file size:
+3402030= Files that were not accessed in last month
+3402031= Files in the recycle bin
+3402032= Files in the selected types
+3402033= Category
+3402034= Type
+3402035= Add
+3402036= Edit
+3402037= Delete
+3402038= Exclude the files that you don't want to defrag. eg. video files. {#13#10}It will speed up the defragmentation. 
+3402039= Add Files
+3402040= Add Folder
+3402041= Auto defrag is Off
+3402042= Auto defrag is On
+3402043= When auto defrag is on, it will defrag your hard drive automatically to keep your computer running at top speed.
+3402044= Auto defrag when system is idle for %s minute(s)
+3402045= Pause when your CPU or disk usage exceeds %s%
+3402046= Drives
+3402047= Last defragmentation:
+3402048= Defragmented files:
+3402049= Run on a schedule
+3402050= Action:
+3402051= Frequency:
+3402052= Time:
+3402053= Defrag Only
+3402054= Defrag and Optimize
+3402055= Daily
+3402056= Weekly
+3402057= Monthly
+3402058= Monday
+3402059= Tuesday
+3402060= Wednesday
+3402061= Thursday
+3402062= Friday
+3402063= Saturday
+3402064= Sunday
+3402065= Enable Boot Time Defrag
+3402066= Defrag Model:
+3402067= Method
+3402068= Everyday boot
+3402069= Everyday first boot
+3402070= Every %s day first boot
+3402071= Max log files:
+3402072= Start Check Disk(Chkdsk) before running boot time defrag 
+        
+3402073= Advanced Defrag
+3402074= Fast Defrag
+3402075= Select Folder
+3402076= Please checked the drive which you wanted to defrag!
+3402077= Tips
+3402078= Please select a category! 
+3402079= Do you really want to delete this category?
+3402080= Add File Category
+3402081= Edit File Category
+3402082= OK
+3402083= Cancel
+3402084= Boot Time Defrag defragments files that cannot be safely moved while Windows is running.
+3402085= Stop VSS when defragmenting NTFS volume
+3402086= Stop Automatic Defrag while using battery
+
+//frmConfig
+3403001= Archives
+3403002= Movies
+3403003= Disk Images
+
+//frmCategory
+3404001= Category name can not be empty! 
+3404002= Type format error! For example: (*.doc/*.doc,...,*.Txt).
+
+//frmFileType
+3405001= Category: 
+3405002= Type:
+3405010= Category name %s already exists, please re-enter the category name.
+
+[SpyRemover]
+2701001= Malware Remover
+2701002= Malware Remover
+2701003= Quick scan and remove spyware and adware
+2701004= Scan
+2701005= Remove
+2701006= Restore
+2701007= Rescan
+2701008= Please select a backup which you want to restore and click 'Restore' button.
+2701010= Type
+2701011= Status
+2701012= Backups
+2701013= Are you sure you want to restore %s to the system registry?
+2701014= %s has been successfully restored into the registry.
+2701015= Scanning %s
+2701016= Scanned files: %s
+2701017= Malware have been cleaned successfully!
+2701018= Restore
+2701019= Scan Malware
+2701020= Scanning Completed
+2701021= %s malwares found
+2701022= No malware found
+2701023= 1 malware found
+2701024= No item checked
+2701025= %s item checked
+2701026= %s items checked
+2701027= Malware Info
+2701028= No malware found!
+2702001= Details
+2702002= Please selete the entries you wish to delete.
+	 
+[BOOT TIME]
+2901001= For reference only.
+2901002= Your Windows boot time is Very Slow, %s of users are slower.
+2901003= Your Windows boot time is Slower, %s of users are slower.
+2901004= Your Windows boot time is General, %s of users are slower.
+2901005= Your Windows boot time is Fast, %s of users are slower.
+2901006= Your Windows boot time is Very Fast, %s of users are slower.
+2901007= Failed to get data, the reference value can not be calculated.
+2901008= Getting the boot time, please wait...
+
+[DRIVER BACKUP]
+2200001= Driver Manager
+2201001= Backup
+2201002= Uninstall
+2201003= Restore
+
+2201004= Select the drivers you want to backup and then click "Backup" button.
+2201005= Select the drivers you want to uninstall and then click "Uninstall" button.
+2201006= Choose the destination folder where you have saved the backup file:
+2201007= Save backup file to:
+2201008= Driver Backup
+2201009= %s Creation failed!
+2201010= Are you sure you want to uninstall this device?
+2201011= Device Name
+2201012= Version
+2201013= Backup Date
+2201014= Your computer may need to be restarted!
+
+
+[Software Update]
+4000001= SoftwareUpdate
+4000002= Customize Results
+4000003= Hide Beta Versions
+4000004= Update Detector
+4000005= OK
+4000006= Software Update
+4001001= Read more...  
+4001002= Cancel
+4001003= Continue
+4001004= Run Software Update when Windows starts
+4001005= Scan
+4001006= Rescan
+4001007= 100% scanning completed.
+4001009= Customize Results
+4001010= Ready starting ...
+4001011= Scanning computer ...
+4001012= Sending data for analysis ...
+4001013= Opening results ...
+4001014= Click 'Scan' button to scan your computer for installed software!
+4001015= Visit www.filepuma.com
+4001016= Restore from tray
+4001017= Exit
+4001019= Click this message to view more.
+4001020= View details
+4001021= Scan for updates
+
+4001022= You have 1 new update available.
+4001023= You have %s new updates available. 
+4001024= You have 1 beta update available. 
+4001025= You have %s beta updates available. 
+
+4001026= You have 1 new update and 1 beta update available.
+4001027= You have 1 new update and %s beta updates available. 
+4001028= You have %s new updates and 1 beta update available. 
+4001029= You have %s new updates and %s2 beta updates available.
+4001030= No updates are currently available.
+
+4001040= Show all releases
+4001041= Hide all releases
+4001042= Hide this release
+4001043= Installed version:
+
+4001050= General
+4001051= Results
+4001052= Advanced
+
+4001053= Interface
+4001054= Automatic Update
+4001055= Language
+4001056= Notify me when new version of Software update is available
+4001057= Automatically update to the last version
+
+4001058= Results
+4001059= Hide beta versions
+
+4001060= Windows Starts
+4001061= System Tray
+4001062= Run Software Update When Windows Starts
+4001063= Exit the program when close the window
+4001064= Minimize to the tray
+4001065= Settings
+4001066= Upgrade to Pro
+
+[Portable Maker]
+5001001= Glary Utilities Portable Maker
+5001002= By clicking the "Generate" button, a portable version for Glary Utilities will be created for you. It will be saved to your Desktop by default. Or
+5001003= click here to change the default path
+5001004= Generate
+5001005= Open file location
+5001006= Generate the portable version successfully. Click "Open file location" to get it. Uncompress the zipped file and the run "Integrator_Portable.exe". Please note that the portable version only includes functions in free edition.
+
+[error report]
+6001001= %s has encountered a problem and needs to close. We are sorry for the inconvenience.
+6001002= Please tell Glarysoft about this problem.
+6001003= We have created an error report that you can send to us. We will treat this report as confidential an anonymous.
+6001004= To see what data this error report contains,
+6001005= click here
+6001006= Send Error Report
+6001007= Don't Send
+6001008= Tips
+6001009= Please select the files you want to send to us!
+6001010= Failed to send error report, please send a list of files as attachments to: {\r\n}%s{\r\n}Thank you for your participation!
+
+[GU Downloader]
+7001001= Downloading Glary Utilities
+7001002= Start Download
+7001003= Stop
+7001004= Hint
+7001005= Please wait while the file is downloading
+7001006= Download successfully, begin to install
+7001007= Download fails, go to the official website to download.
+7001008= Download is not finished, are you sure to quit?
+7001009= Install
+
+[Glary UnLocker]
+8001001= Files/Folders Selected
+8001002= File/Folder
+8001003= Status
+8001004= More
+8001005= Add File
+8001006= Add Folder
+8001007= Occupied Files/Folders Info
+8001008= Process Name
+8001009= Process Path
+8001010= PID
+8001011= UnLock
+
+8001012= UpProcessPriority Failed!
+8001013= CreateToolhelp32Snapshot error!
+8001014= Unlock UnSuccessfully!
+8001015= Unlock Successfully!
+8001016= Occupied by the following process.
+8001017= UnLocked.
+8001018= UnLocked
+8001019= Locked
+8001021= Press the arrow keys only
+8001022= Please choose the required folder.
+8001023= Open driver failure!
+
+8001020= help

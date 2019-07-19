@@ -1,0 +1,16 @@
+安裝 .NET Framework 4 時出現 Error HRESULT 0xc8000222 解決方法
+從 Microsoft Download Center 下載 .NET Framework 4 安裝時，出現「Error HRESULT 0xc8000222」錯誤訊息。(下載連結)
+
+解決方法：
+
+開啟命令提式字元，鍵入 net stop WuAuServ 並按下 Enter，此指令是關閉 Windows Update 功能。
+在 C:\Windows 目錄下尋找 SoftwareDistribution 資料夾，將它命名為其他名稱，例如 SD.old。
+再度開啟命令提示字元，鍵入 net start WuAuServ 並按下 Enter，來開啟 Windows Update 功能。
+再次嘗試安裝 .NET Framework 4
+
+如果還是不行的話，可以嘗試在第 2 步驟後就安裝 .NET Framework 4。
+
+2014/07/23更新
+根據熱心匿名網友分享，使用命令提示字元時，要使用系統管理員身分執行才有權限關閉 Windows Update，遇到問題的朋友不妨試試看。
+
+本文參考 How to fix Failed install Code Error HRESULT 0xc8000222 .NET Framework 4.0

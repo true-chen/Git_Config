@@ -1,0 +1,1 @@
+﻿FileCopy, D:\Config\Documents\Link\Windows Explorer.lnk, C:\Users\%A_UserName%\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\ , 1

@@ -1,0 +1,6 @@
+用登錄檔的RunOnce以及R2排程的時間差達成：
+第一次執行要先將Restart插入目前的RunOnce
+1.add Restart插入restart指令	
+2.用R2排程讓間延遲到重新開機過後，例如一分鐘之後
+3.之後每次開機都會自動重開一次，因為RunOnce都會有一個重開指令
+4.不需要的話再執行del Restart把RunOnce的值殺掉

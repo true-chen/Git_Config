@@ -1,0 +1,33 @@
+1.不正常開機之後的30秒調整~還沒找到答案
+關鍵字"Advanced Boot Options"
+"BcdBootMgrInteger_Timeout"
+BCD Elements
+http://www.geoffchappell.com/notes/windows/boot/bcd/elements.htm
+
+2.釘選 工具列 及 開始功能表
+關鍵字"pin & unpin"
+
+用Config\Documents\BAT裡面的
+Reset_Clear_Pinned_Start-Menu_Items.bat
+也還是會有不能辨識的空白圖示殘留
+
+
+3.取消工具列的其餘圖示
+4.取消鎖定工具列
+5.IE瀏覽器的顯示功能表及隱藏我的最愛工具列
+6.Chrome的自動安裝及設定
+7.控制台中Flash的 取消自動更新 及 受信任的位置設定
+8.自動設定 AIR的停用自動更新
+9.行動作業中心全部的勾勾取消
+10.停用防毒軟體安裝後會自動打開的選項
+11.遠端連線部分
+12.影片的檔案關聯
+13.7zip的檔案關聯
+
+
+
+
+
+
+
+

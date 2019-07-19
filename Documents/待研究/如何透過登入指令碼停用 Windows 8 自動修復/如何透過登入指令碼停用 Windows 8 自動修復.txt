@@ -1,0 +1,32 @@
+﻿如何透過登入指令碼停用 Windows 8 自動修復
+技術文章 ID：  KB76649
+上次修改：  2013/12/17
+已評分：
+
+
+環境
+McAfee Endpoint Encryption for PC 7
+Microsoft Windows 8
+摘要
+本文說明 McAfee Endpoint Encryption for PC 安裝後，多種 Windows 8 修復工具對這些工具與作業系統的一般互動有何影響。
+McAfee 針對這些工具之使用所引發之潛在問題提出研究解決方案或解決方法時，本文將更新。
+問題
+Windows 8 作業系統內含「自動修復」功能。如果執行此功能的系統，其硬碟資料已加密，則作業系統檔案將不當損毀，導致永久開機問題。 
+
+
+附註：Windows 舊版系統會詢問使用者是否要在開始修復前修復系統。但是，Windows 8 會在偵測到問題時，立即啟動「自動修復」，不讓使用者取消動作，也沒有辦法可以防止加密資料毀損。
+
+解決方案
+系統管理員應該執行以下步驟，透過登入指令碼停用 Windows 8 自動修復：
+
+從本文中斷連結 disableautorecovery.zip。
+將上述檔案解壓縮 disableautorecovery.ps1。
+開啟 [系統管理工具]，選取 [群組原則管理]。
+選取 [預設網域原則] (或是您用於網域電腦的自訂原則)。
+用滑鼠右鍵按一下並選取 [編輯]。
+按一下 [電腦設定]、[原則]、[Windows 設定]、[指令碼] (啟動/關機)。
+按兩下 [啟動]，選取 [PowerShell 指令碼]。
+按一下 [新增]，瀏覽至儲存 disableautorecovery.ps1 的位置。
+根據 Windows 預設設定，該原則會在 90-120 分鐘內傳播到您的電腦。
+附件
+disableautorecovery.zip

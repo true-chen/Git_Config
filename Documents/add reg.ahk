@@ -1,0 +1,1 @@
+﻿Run regedit.exe /s "file.reg"

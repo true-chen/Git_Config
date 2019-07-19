@@ -1,0 +1,2653 @@
+[Language]
+Description= Magyar
+
+[Globals]
+10001= Fájl
+10002= Szerkesztés
+10003= Nézet
+10004= Súgó
+10005= Kilépés
+10023= Súgó tartalom
+10018= Honlap
+10019= Névjegy
+10006= Leállítás
+10007= Frissítés
+10008= Tulajdonságok
+10009= Név
+10010= Megnyitás
+10011= Méret
+10012= OK
+10013= Mégse
+10014= Bezárás
+10015= Igen
+10016= Nem
+10017= Tallózás...
+10020= Exportálás...
+10021= Mappa megnyitása
+10022= Feladatok
+10024= Tovább
+10025= Vissza
+10026= Beállítások
+19026= Teljes méret
+19027= Szabad terület
+14023= Állapot
+10027= Leírás
+10028= Kész
+10029= Lomtár
+14009= Részletek
+10030= Hozzáad
+10031= Töröl
+10032= Alapérték
+10033= Létrehozás ideje
+10034= Törlés
+10035= Ajánlás a barátoknak
+10036= Vásárlás
+10037= Regisztrálási kód megadása
+15009= Mindet kijelöl
+15010= Egyiket sem
+15011= Megfordítás
+15014= Kijelölés
+10038= Menü
+10039= Frissítések ellenõrzése
+10040= Nyelvek
+10041= Biztos benne, hogy a kijelölt elemeket áthelyezi a Lomtárba?
+10043= Néhány fájlt nem lehetett törölni. Ellenõrizze, hogy azok nincsenek-e használatban, a lemez nincs-e tele, vagy az elemek nem írásvédettek-e.
+10044= Figyelmeztetés
+10045= Információ
+10046= Hiba
+10047= Jóváhagyás
+10048= Elõkészítés
+
+10050= Ajánlott
+10051= Alkalmaz
+10052= Eszközök
+10053= A program nem futtatható egy hiányzó, vagy sérült fájl miatt. A hiba kijavításához próbálja meg újratelepíteni azt. Kattintson az 'Igen' gombra a Glary Utilities legújabb verziójának letöltéséhez.
+10055= Elõzmények
+10054= Elõzmények mutatása
+
+10060= Újra kell indítania a programot, a nyelvi módosítások érvényesítéséhez.\r\nBiztos benne, hogy kilép és újraindítja azt?
+10061= Értseítsen, ha újabb verzió érhetõ el
+10062= Automatikus frissítés a legújabb verzióra
+10063= Frissítés a Pro-ra
+
+[Integrator]
+10801= Takarítás és kijavítás
+10802= Opzimalizálás és kijavítás
+10803= Adatvédelem és biztonság
+10804= Fájlok és mappák
+10805= Rendszereszközök
+
+10806= Állapot
+10807= Program állapot
+10808= Aktuális verzió:
+10809= Legutóbbi frissítés:
+10810= Adatbázis dátuma:
+10811= Licenc állapot
+10812= Típus:
+10813= Free kiadás
+10814= Professional kiadás
+10815= Lejárati dátum:
+10816= Sohasem
+10817= A fizetõs terméket a lenti gombra történõ kattintással regisztrálhatja.
+10818= Regisztrálás
+10819= AutoCare beállítások
+
+10799= Modulok
+
+10820= Beállítások
+10821= Általános
+10822= Nyelv:
+10823= A Glary Utilities elindítása a Windows-al együtt.
+10824= Lekicsinyítés a tálcára a program ablakának bezárásakor
+10825= Környezeti menü
+10826= A Windows Intézõbe integrálandó környezeti menük kiválasztása.
+10827= Automatikus frissítés
+10828= Frissítés futtatása egy ütemezett idõpontban.
+10829= Ütemezés:
+10830= A Free kiadásban nem érhetõ el
+10831= Módosítás
+10832= Auto Care
+10833= Személyes nyomok törlése kijelentkezéskor, vagy leállításkor.
+10834= Személyes nyomok
+10835= Válassza ki a kijelentkezéskor, vagy a leállításkor törlendõ nyomokat
+10836= Automatikus gyorskarbantartás
+10837= Gyorskarbantartás futtatása egy ütemezett idõpontban.
+10838= Visszaállítási központ
+10839= Helyreállítási központ védelem
+10840= Válassza ki a Helyreállítási központ által felügyelendõ modulokat.
+10841= Elérhetõ modulok:
+10842= Mentési beállítások
+10843= Mentések automatikus törlése:
+10844= Mentések maximális száma:
+10845= Mellõzési lista
+10846= Egy hét után
+10847= Kettõ hét után
+10848= Három hét után
+10849= Egy hónap után
+10850= Kettõ hónap után
+10851= Három hónap után
+10852= Automatikus gyorskarbantartás beállításai
+10853= Csak probléma keresés
+10854= Probléma keresés és kijavítás
+10855= Törlendõ nyomok kiválasztása
+10856= Ballon tippek mutatása a Tálcára történõ lekicsinyítéskor
+10857= Frissítések ellenõrzése a program elindításakor
+
+10900= Módosítások visszavonása
+10901= Válassza ki a helyreállítandó mentést, majd kattintson a 'Visszaállítás'-ra.
+10902= Rendszer-visszaállítás
+10903= Pont létrehozása
+10914= Az új visszaállítási pont sikeresen létrehozásra került.
+10904= Nem sikerült a visszaállítási pont létrehozása! Lehet, hogy a Rendszer-visszaállítási szolgáltatás le van tiltva, vagy Önnek nincs ehhez jogosultsága.
+10905= Rendszer-visszaállítás engedélyezése: Vezérlõpult -> Rendszer -> Rendszer visszaállítás fül. Törölje a "Rendszer-visszaállítás kikapcsolása az összes meghajtón" opció kijelölését. Majd kattintson az OK gombra.
+10906= Kérem elõször válasszon ki egy visszaállítási pontot!
+10907= Kérem mentse a munkáját, és zárja be a programjait. A Windows automatikusan újraindul a visszaállítási folyamat közben.
+10908= Kérem elõször válasszon ki egy mentést!
+10911= Mentések
+10912= Biztos benne, hogy visszaállítja ezt: %s?
+10913= A visszaállítás sikerült.
+10915= Kérem válasszon ki egy visszaállítási pontot, majd kattintson a 'Visszaállítás' gombra.
+
+10909= Figyelmeztetés
+10910= A Glary Utilities továbbra is fut.
+
+10916= GYIK
+10917= Skin-ek
+10918= Portable verzió
+10919= Vészhelyzeti támogatás
+
+[License Dialog]
+20001= Ez egy idõkorlátos próbaverzió.
+20002= Kötelezettségek nélkül kipróbálhatja a program minden funkcióját %s napig.
+20003= Ha megtetszett a program, és a tesztidõszak után is szeretné használni, kattintson a "Vásárlás" lehetõségre.
+20004= Próbaidõszak: %s / %s2 nap
+20005= A próbaidõszak lejárt. A program minden funkcióját tesztelhette %s napig.
+20006= Ha megtetszett a program, és továbbra is szeretné használni, kattintson a "Vásárlás" lehetõségre.
+20007= A próbaidõszak lejárt
+20008= Nem regisztrált
+20009= Copyright(c)
+20010= A terméket licencelte:
+20011= Figyelem: A programot szerzõi jogi törvények, és nemzetközi egyezmények védik. A program engedély nélküli másolása, vagy terjesztése polgári peres, vagy büntetõjogi eljárást vonhat maga után, és a törvény által kiszabható legszigorúbb büntetéssel sújtható.
+20012= Webhely
+20013= Vásárlás
+20014= Kód megadása
+20015= Kipróbálás
+20016= Az Ön neve:
+20017= Regisztrációs kód
+20018= Ha nem rendelkezik regisztrációs kóddal, a próbaverzió feloldásához, azt
+20019= megvásárolhatja online módon.
+20020= A megadott regisztrációs kód érvénytelen. Kérem ellenõrizze, hogy helyesen adta-e meg azt.
+20021= Köszönet a következõ személyeknek a támogatásukért
+20022= Frissítés!
+20023= Kérem adja meg a licencinformációit
+20024= Licenc típusa:
+20025= Szerezzen be egy licencet,
+20026= Honlap:
+
+20027= Frissítés
+20037= Kérem adja meg a nevét!
+20038= Licenckód:
+20039= Aktiválás
+20040= Még nincsen licence?
+20041= Itt beszerezhet egyet.
+20042= Elveszítettem a licenckódomat.
+20043= A Glary Utilities Pro kiadásának aktiválása
+20044= Licenc név:
+20045= Lejárati dátum:
+20046= %s nap van hátra
+20047= Lejárt %s nappal ezelõtt
+20048= Megújítás
+20049= Licenc exportálása
+20050= Glary Utilities licenckezelõ
+20051= Pl.: AC6E-D9C6-FAB8-A8C8
+20052= Licenckezelõ
+20053= A licencinformációk sikeresen elmentésre kerültek:
+
+[Updater]
+30001= Nem sikerült az információk beszerzése innen: %s
+30002= A gépén a(z) %s legújabb verziója fut. Jelenleg nem érhetõk el frissítések.
+30003= Ön ezt használja %s : %s2.
+30004= A(z) %s újabb verziója érhetõ el: %s2. Kattintson az "OK" gombra a letöltés részleteinek megtekintéséhez, vagy a Mégse gombra ha nem szeretné most a frissítést elvégezni.
+30005= Sikeresen frissítve
+30006= Frissített verzió információinak visszakeresése (%s)...
+30007= Frissített referencia-fájl információinak visszakeresése (%s)...
+30008= Frissítések ellenõrzése...
+30009= Kész
+30010= Frissítés végrehajtása...
+30011= Becsült hátrelevõ idõ:
+30012= Átviteli sebesség:
+30013= Ismeretlen
+30014= %s sec
+30015= %s / %s2 másolva
+30016= %s / sec
+30017= Önnek frissítenie kell a(z) %s PRO verziójára, hogy ezt a lehetõséget használhassa. Frissít most?
+30018= A(z) %s most elérhetõ. Kattintson az üzenetre a telepítéséhez.
+30019= %s perc %s2 mp.
+30020= Frissített nyelvi fájl információinak visszakeresése (%s)...
+30021= Már elérhetõ a(z) %s verzió. Frissítsen most!
+30022= Glary Utilities frissítés
+30023= A Glary Utilities újabb verziója érhetõ el!
+30024= A Glary Utilities %s verziója már elérhetõ - Ön a(z) %s2 verzióval rendelkezik. Szeretné letölteni az újabb verziót?
+30025= Kiadási megjegyzés:
+30026= Új verzió mellõzése
+30027= Késõbb emlékeztessen
+30028= Letöltés
+30029= A jövõben automatikusan töltse le a frissítéseket
+
+[Context Menu]
+40001= Lemezterület ellenõrzése a Glary Utilities-el
+40002= Egyesítés a Glary Utilities-el
+40003= Feldarabolás a Glary Utilities-el
+40004= Dekódolás a Glary Utilities-el
+40005= Titkosítás a Glary Utilities-el
+40006= Törlés a Glary Utilities-el
+40007= Üres mappák keresése a Glary Utilities-el
+
+40008= Lemez-töredezettségmentesítés a Glary Utilities-el
+40009= Lemez töredezettségmentesítése a Glary Utilities-el
+40010= Mappa töredezettségmentesítése a Glary Utilities-el
+40011= Fájl töredezettségmentesítése a Glary Utilities-el
+
+[Registry Cleaner]
+11001= Rendszerleíró javító
+11901= Rendszerleíró kitakarítása a rendszerteljesítmény megnöveléséhez.
+11002= Átvizsgálandó területek
+
+11003= Mûvelet
+11004= Beállításjegyzék ellenõrzése
+11005= Rendszerleíró kijavítása
+11006= Korábbi javítások visszaállítása
+11007= Eszközök
+
+11008= A kijelölt problémák sikeresen kijavításra kerültek.
+11009= Biztos benne, hogy hozzáadja az elemet a mellõzési listához? Az elem nem lesz többet azonosítva.
+11010= A fájl mentési helye:
+11011= Azonosított hibák:
+11012= 1 probléma azonosítva
+11013= %s probléma azonosítva
+11014= 1 probléma kijelölve a kijavításhoz
+11015= %s probléma kijelölve a kijavításhoz
+11016= Nem találhatók hibák
+11017= Egyetlen probléma sincs kijelölve a kijavításhoz
+11018= (%s probléma azonosítva)
+11019= Elemzés
+11020= Szakasz:
+11021= Javítás:
+11022= Regedit
+11023= Bejegyzés megnyitása a Regedit-ben
+11024= Bejegyzés törlése
+11025= Hagyja a bejegyzést változtatás nélkül
+11026= Zárja ki a bejegyzést mindig (ne keresse újra)
+11027= Tulajdonságok
+11028= Parancsikon tulajdonságok megnyitása
+11029= Parancsikon törlése
+11030= Hagyja a parancsikont módosítás nélkül
+
+11031= A vizsgálat kész
+11032= Kijavítás
+11033= Kijavítás gomb az automatikus javításhoz, Bezárás gomb a részletekhez.
+11034= A kijavítás kész
+11035= Ellenõrzés
+11036= Kijavítás
+
+11037= Visszaállítás
+11038= Válassza ki a helyreállítandó mentést, majd kattintson a 'Visszaállítás'-ra.
+11039= Mentés
+11040= Biztos benne, hogy helyreállítja ezt %s, a rendszerleíróba?
+11041= A(z) %s sikeresen helyreállításra került a rendszerleíróba.
+
+11042= A(z) %s bejegyzés erre a hiányzó fájlra, vagy mappára mutat %s2
+11043= A rendszerleíró kulcs erre a hiányzó kulcsra mutat %s
+11044= A rendszerleíró kulcs nem tartalmaz adatokat, ezért törölhetõ.
+11045= A rendszerleíró kulcs erre a hiányzó CLSID bejegyzésre mutat %s
+11046= A rendszerleíró kulcs erre a hiányzó ikonfájlra mutat %s
+11047= A(z) %s környezeti menü bejegyzés erre a hiányzó programra mutat %s2
+11048= Ez a bejegyzés hiányos, mert a Command alkulcs hiányzik.
+11049= A rendszerleíró kulcs hiányos, mert nem tartalmaz semmilyen adatot, amelyre a Windows-nak szüksége lenne.
+11050= A rendszerleíró kulcs erre a hiányzó InprocServer bejegyzésre mutat %s. A társított CLSID bejegyzés törölhetõ.
+11051= A rendszerleíró kulcs erre a hiányzó LocalServer32 bejegyzésre mutat %s. A társított CLSID bejegyzés törölhetõ.
+11052= A rendszerleíró kulcs erre a hiányzó típuskönyvtárra mutat %s
+11053= A rendszerleíró kulcs erre a hiányzó mappára mutat %s
+11054= A(z) %s rendszerleíró kulcs nem tartalmaz adatokat. A társított típuskönyvtár törölhetõ.
+11055= A rendszerleíró kulcs erre a hiányzó fájlra mutat %s
+11056= A megadott fájl - %s - nem található.
+11057= A(z) %s fájl, amely ehhez a bejegyzéshez van társítva %s2, nem létezik.
+11058= A(z) %s bejegyzés erre a hiányzó súgóállományra mutat %s2
+11059= Hiányzó megosztott fájl %s
+11060= A(z) %s megosztott fájlt nincs már többé használatban.
+11061= Ez az ImagePath bejegyzés erre a hiányzó fájlra mutat %s. A társított szolgáltatás törölhetõ.
+11062= A(z) %s bejegyzés erre a hiányzó fájlra mutat %s2
+11063= A parancsikon erre a hiányzó célra mutat %s
+11064= A rendszerleíró kulcs egy olyan %s Start menü mappa-hivatkozást tartalmaz, amely már áthelyezésre, vagy törlésre került.
+11065= A(z) %s bejegyzés erre a hiányzó programra mutat %s2
+11066= Ez az eltávolítási bejegyzés nem tartalmaz olyan adatokat, amelyek szükségesek volnának a program, vagy egy összetevõ eltávolításához.
+11067= A szükséges eltávolítóprogram - %s - nem található
+11068= A(z) %s bejegyzés erre a hiányzó mappára mutat %s2
+
+11069= Kulcs törlése :
+11070= Érték törlése :
+11071= Fájl törlése :
+
+11072= Mellõzési-lista kezelõ
+11073= A bejegyzések kihagyásra kerülnek a vizsgálat közben. Ha azt szeretné, hogy a(z) %s ellenõrizze azokat, távolítsa el a kijelölésüket.
+11074= Rendszerleíró kulcs
+
+11075= Válassza ki a célmappát, ahova a kijavítással kapcsolatos módosítások mentésre kerülnek
+11076= Mentések maximális száma:
+11077= A(z) %s már létezik. Lecseréli azt?
+11078= Csere
+11079= Problémák összegzése: (%s probléma azonosítva, %s2 kijelölve a kijavításhoz)
+11080= Problémák összegzése: (1 probléma azonosítva, 1 kijelölve a kijavításhoz)
+11081= (1 probléma azonosítva)
+11082= Problémák összegzése: (Nincsenek hibák, semmi sincs kijelölve a kijavításhoz)
+11083= Vizsgálat...
+11084= Nincsenek hibák, semmi sincs kijelölve a kijavításhoz.
+11085= %s probléma azonosítva, %s2 kijelölve a kijavításhoz.
+11086= %s probléma azonosítva, %s2 kijelölve a kijavításhoz.
+11087= Kijavítás...
+11088= Rendszerleíró fájl exportálása
+11089= Aktuális kulcs:
+11090= Exportált kulcs:
+11091= %s probléma kijelölve kijavításra
+11092= Az exportálás sikerült!
+11093= %s probléma azonosítva, %s2 probléma kijavítva.
+11094= %s probléma azonosítva, %s2 probléma kijavítva.
+11095= Ma kijavítva: %s probléma, összesen: %s2 probléma. 
+11096= Ma kijavítva: %s probléma, összesen: %s2 probléma. 
+11097= Ma kijavítva: %s probléma, összesen: %s2 probléma.
+11098= %s probléma
+11099= 1 probléma
+11100= Nincsenek hibák
+11101= Kérem legalább egy átvizsgálandó elemet válasszon ki!
+11102= Kérem legalább egy kitakarítandó elemet válasszon ki!
+11103= Kattintson a 'Beállításjegyzék ellenõrzése' gombra a beállításjegyzék hibáinak a felkutatásához.
+11104= %s probléma beazonosítva, %s2 probléma kijelölve a kijavításhoz.
+11105= %s probléma kijavítva
+11106= %s probléma kijavítva
+
+[Disk Analysis]
+19001= Lemezterület elemzõ
+19901= Fájlok és mappák lemezfoglalásának megjelenítése
+19003= Intézõ
+19004= Parancssor
+19005= Törlés (Lomtárba)
+19006= Eszköztár mutatása
+19007= Állapotsor mutatása
+19008= Fájltípusok mutatása
+19009= Nagy állományok mutatása
+19010= Fájl
+19011= Mappa
+19012= Attribútum
+19013= Százalék
+19014= Fájltípus
+19015= Leírás
+19016= Fájlnév
+19017= Mappa
+19018= Módosítva
+19019= Fájltípusok betöltése...
+
+19020= [Fájlok]
+19021= Sajátgép
+
+19022= Meghajtók kiválasztása
+19023= Minden helyi meghajtó
+19024= Egyedi meghajtók
+19025= Mappa
+19028= Használt/Összes
+19029= Mappa kiválasztása:
+
+1801001= Elemzés
+1801002= Vissza
+1801003= Számítógép
+1801004= 
+1801005= Kiterjesztések mutatása
+1801006= Minden típus
+1801007= Videók
+1801008= Tömörített
+1801009= Zenék
+1801010= Képek
+1801011= Dokumentumok
+1801012= Egyebek
+1801013= Kiterjesztés
+1801014= Fájlok száma
+1801016= Típus
+1801017= Hely
+1801018= Módosítás dátuma
+1801019= Szabad terület
+
+1801020= Eszköztár
+1801021= Navigáció
+1801022= Részletek
+1801023= Minden fájl mutatása
+1801024= Fájlok és mappák
+
+1801025= Meghajtó elemzése
+1801026= A meghajtó még nem volt vizsgálva. \nMivel a meghajtó még sohasem volt áttekintve, nincsenek információk a lemezhasználat, a fájltípusok, vagy a nagy állományok vonatkozásában. Az elemzés során a kijelölt meghajtók fontosabb információi összegyûjtésre, és megjelenítésre kerülnek.
+1801027= Csak ezt ellenõrizze
+
+1801028= Fájlméret:
+1801029= Teljes méret:
+1801030= Megnyitva:
+1801031= Módosítva:
+1801032= Létrehozva:
+1801033= %s elem kijelölve
+1801034= Méret:
+1801035= Teljes tartalom
+1801036= Ismeretlen
+1801037= Foglalt:
+1801038= Elemezve
+1801039= Nem volt elemezve
+
+1801040= Mappa kibontása, ha kivan jelölve
+
+1802001= Kész
+1802002= Sikertelen
+1802003= Megszakítva
+1802004= Tárolóhelyek elemzése
+1802005= Kérem várjon, amíg a Lemezterület ellenõrzõ befejezi a tárolóhelyeinek az áttekintését.
+
+1803001= Érvénytelen útvonalak:\n
+1803002= Fájlútvonalak:\n
+1803003= %s elemet nem lehetett átvizsgálni
+
+1804001= A kijelölt meghajtó még nem volt ellenõrizve. Szeretné azt átvizsgálni most?
+
+1805001= Biztos benne, hogy áthelyezi a(z) %s elemet a Lomtárba?
+1805002= Törlés
+1805003= %s elem törlése
+
+[Startup Manager]
+14001= Indítópult kezelõ
+14901= A rendszer betöltésekor automatikusan elinduló programok kezelése
+14002= Bejegyzés letiltása
+14003= Bejegyzés engedélyezése
+14004= Program hozzáadása...
+14005= Bejegyzés törlése
+14006= Bejegyzés szerkesztése...
+14007= Részletek sáv mutatása
+14008= Indítópult lista frissítése
+14010= Egyéb automatikusan indulók
+14011= Ütemezett feladatok
+14012= Helyi szolgáltatások
+14013= A Windows elindulásakor, vagy a felhasználó bejelentkezésekor elinduló programok.
+14014= Nincsenek kijelölt elemek.
+14015= Érvénytelen bejegyzés. Törölhetõ.
+14016= <Nincs információ>
+14017= Termék:
+14018= Vállalat:
+14019= Indítópult elem hozzáadása
+14020= Biztos benne, hogy törli ezt az Indítópult bejegyzést
+14021= Kijelölt Indítópult elem szerkesztése
+
+14022= Útvonal
+14024= Hely
+14035= Értékelés
+14025= Engedélyezve
+14026= Letiltva
+
+14027= Indítópult lista jelentés létrehozva itt %s, ezáltal %s2
+14028= Összesen %s elem
+14029= A jelentés elmentve ide %s
+
+14030= Google keresés...
+
+14031= Indítópult elem beállítás
+14032= Adjon meg egy nevet.
+14033= Adja meg a parancssort.
+14034= A megadott fájl nem található. Biztos benne, hogy folytatja?
+
+14043= Ismeretlen
+14036= Megbízható
+14037= Felhasználói választás
+14038= Semleges
+14039= Nem szükséges
+14040= Veszélyes
+14041= Megjegyzés
+14042= További információ
+
+14044= Megjegyzés
+14045= Az Ön véleménye errõl a bejegyzésrõl
+14046= Ön szerint ez a bejegyzés
+14047= Ezzel módosításra kerül a kockázati besorolása
+14048= Vélemény elküldése
+
+14049= Késleltetés
+14050= Indítás
+14051= Késleltetett indítású programok.
+14052= Fel
+14053= Le
+14054= Program késleltetéséhez válassza ki azt a fenti listában, vagy húzza át a lenti listába.
+14055= Program késleltetésének megszûntetéséhez válassza ki azt a lenti listában, vagy húzza át a fenti listába.
+14056= Ismétlõdõ bejegyzés észlelése
+14057= Úgy tûnik, hogy a(z) %s hozzáadta magát az Indítópulthoz, miután azt elhelyezte a késleltetési listában.
+14058= A kijavításhoz nyissa meg ezt %s, és keressen olyan opciót, hogy 'Indítás a Windows-al együtt', vagy valami hasonlót, és tiltsa le azt.
+14059= Ha ilyen lehetõség nincs lehet, hogy fel kell vennie a kapcsolatot a(z) %s fejlesztõjével, hogy miért adja magát hozzá automatikusan, valamint építsenek be egy olyan lehetõséget, hogy a(z) %s ne induljon el automatikusan a Windows-al együtt.
+14060= Ha a(z) %s nem kapcsolható ki, hogy elinduljon a Windows-al, akkor hagyja hogy a Windows kezelje azt, és távolítsa el a késleltetési listából ezt %s.
+14061= Biztos benne, hogy eltávolítja ezt %s a késleltetési listából?
+14062= Késleltetett
+14063= Késleltetés
+14064= Ne késleltesse
+14065= sec
+
+2501001= Részletek sáv
+2501002= Állapotsor
+2501003= Fut
+2501004= Leállítva
+2501005= Memóriahasználat
+2501006= Az Indítópult bejegyzés msá létezik.\nLecseréli azt?
+2501007= Nem sikerült az adatok beállítása ehhez '%s'
+2501008= Részletek
+2501009= Betöltési idõ
+2501010= Indítópult
+2501011= Ütemezett feladatok
+2501012= Beépülõ modulok
+2501013= Programok szolgáltatásai
+2501014= Windows szolgáltatások
+
+2501015= Legyen Ön az elsõ, aki megjegyzést fûz ehhez az indítópult programhoz
+2501016= A felhasználók %s -a azt javasolja, hogy tiltsa le, vagy késleltesse ezt az indítópult programot
+
+2501017= Az indítás engedélyezve
+2501018= A kijelölt program automatikus elindítása engedélyezve van
+2501019= Az indítás letiltva
+2501020= A kijelölt program automatikus elindítása levan tiltva
+
+2501021= mp.
+2501022= p.
+2501023= %s program kerül elindításra a Windows indításakor, vagy a felhasználó bejelentkezésekor
+
+2501024= Módosítások visszavonása
+2501025= Speciális gyorsítás
+2501026= Betöltödési idõ, a következõ rendszerindítást követõen
+2501027= Hasznosság
+
+2501028= Az indítás késleltetve
+2501029= A kijelölt program automatikus elindítása késleltetve van
+
+2502002= Mindet töröl
+2502003= Törlés
+2502004= Idõ
+2502005= Visszaállítás
+2502006= Mûvelet
+2502007= Összes törlése ezek után
+2502008= Összes törlése ezek elõtt
+2502009= Összes visszaállítása ezek után
+
+2502101= Ma
+2502102= Továbbiak
+
+
+2503002= Hasznos
+2503003= Haszontalan
+
+2503004= Kérjük írja le az észrevételeit. Köszönjük.
+2503005= Kérjük adja meg a nevét. Köszönjük.
+2503006= További részletek (elhagyható)
+2503007= Az Ön neve
+2503008= Az észrevételei sikeresen megérkeztek hozzánk.
+
+[Disk Cleaner]
+13001= Lemeztakarító
+13901= Felesleges adatok kitakarítása, és a lemezterület felszabadítása
+13002= Lemeztakarítás
+13003= További beállítások
+13004= Kitakarítandó meghajtók kiválasztása.
+13005= Ha végzett a meghajtók kiválasztásával, kattintson a Tovább gombra.
+13006= Kérem várjon, amíg a(z) %s befejezi a kiválasztott meghajtók ellenõrzését.
+13010= Ha végzett a meghajtók kiválasztásával, kattintson a Tovább gombra.
+13007= A Lemeztakarító használatával %s lemezterületet szabadíthat fel, a(z) %s2 meghajtón.
+13008= Teljes visszanyerhetõ terület:
+13009= A(z) %s biztonsági mentése, a kitakarítás elõtt.
+13110= Fájlok megtekintése
+13011= Kattintson a Tovább gombra a takarítási folyamat elkezdéséhez.
+13012= Windows összetevõk
+13013= További lemezterületet szabadíthat fel, a nem használt Windows összetvõk eltávolításával.
+13014= Takarítás...
+13015= Visszaállítás
+13016= A törölt állományokat visszaállíthatja a biztonsági mentésbõl.
+13017= Visszaállítás...
+
+13018= A takarítás sikeresen befejezõdött.
+13019= A biztonsági mentés létrehozásra került.
+13020= Kattintson a Kész gombra a kezdõlapra történõ visszatéréshez.
+
+13021= Kérem legalább egy átvizsgálandó meghajtót válasszon ki.
+
+13022= Vizsgálat...
+13023= Kész
+13024= Elõkészítés...
+13025= A számítógépérõl törölt fájlokat a Lomtár tartalmazza. Ezek a fájlok addíg nem kerülnek végleges törlésre, amíg a Lomtárat ki nem üríti.
+13026= Ideiglenes állományok
+13027= Az ideiglenes állományokat a programok egy közbensõ tárolási helyként használják, és ezek a használat után általában eltávolíthatók.
+13028= Nulla méretû fájlok
+13029= A nulla méretû fájlok nem tartalmaznak adatokat, és általában törölhetõk.
+13064= Ideiglenes Internetes állományok
+13065= Az ideiglenes Internetes fájlokban a weboldalak kerülnek eltárolásra a merevlemezen, a gyorsabb megjelenítés érdekében. A személyes beállításai érintetlenek maradnak.
+
+13030= Lomtár kiürítése...
+13031= Ideiglenes Internetes állományok kitakarítása...
+13032= Ideiglenes állományok törlése...
+13033= Nulla méretû fájlok törlése...
+
+13034= Kérem válassza ki a törlendõ állományokat.
+13035= Nincsenek fájlok kijelölve.
+13036= Fájl megnyitása
+13058= Összesen %s fájl
+13059= Létrehozva:
+13060= Módosítva:
+13061= Megnyitva:
+
+13037= Általános
+13038= Kizárás
+13039= Hozzáadás
+
+13040= A listában áttekintheti a felesleges fájltípusokat. A megfelelõ jelölõnégyzetek segítségével kiválaszthatja, vagy visszavonhatja az ellenõrzendõ elemeket.
+13041= Fájltípus
+13042= Ha bizonytalan ezekben az opciókban, javasolt az alapértelmezett beállítások meghagyása.
+13043= Az ezekben a mappákban levõ fájlok sohasem tekintendõk feleslegesnek.
+13044= Mappa
+13045= Az ezekben a mappákban levõ fájlok mindig szemétnek tekintendõk, a típusuktól függetlenül.
+
+13046= Helyettesítõ karaktereket is használhat, pl.: *.tmp
+13047= Fájlnév végzõdés:
+13048= Kérem adja meg a kiterjesztést.
+13049= Helyettesítõ karaktereket is használhat.
+13050= Nem lehet üres.
+
+13051= Válassza ki a helyreállítandó mentést, majd kattintson a 'Visszaállítás'-ra.
+
+13052= Egyéni visszaállítás
+13053= Jelölje ki a helyreállítandó bejegyzéseket, majd kattintson a Visszaállítás gombra.
+13054= A visszaállítás sikerült.
+
+13055= Objektumok
+13056= Fájl
+13057= Útvonal
+13062= Típus
+
+13063= Fájltípus hozzáadása
+
+1301001= Kitakarítás
+1301002= Vizsgálat
+1301003= Visszaállítás
+1301004= Útvonal
+1301005= Kijelöltek mentése
+1301006= Mindet kijelöl
+1301007= Egyiket sem
+1301008= Alapértelmezés
+1301009= Utolsó idõpont, amikor takarítás volt: 
+1301010= %s/%s2/%s3
+1301011= Gyors és egyszerû módja annak, hogy kitakarítsa a felesleges fájlokat a gépérõl.
+1301012= Teljes visszanyert terület: %s
+1301013= Gratulálunk! A meghajtói tiszták.
+1301014= A felesleges fájlok kitakarításával lemezterületet szabadíthat fel.
+1301015= Eredmények
+1301016= Fájllista
+1301017= Újravizsgál
+1301018= Fájl kizárása
+
+1302001= Windows
+1302002= Rendszer ideiglenes állomány
+1302003= Felhasználói ideiglenes állomány
+1302004= Miniatûrök gyorsítótár
+1302005= Memóriakiíratás állományok
+1302006= Hibajelentések
+1302007= Rendszernaplók
+1302008= Távoli asztal gyorsítótár
+1302009= Lomtár
+1302010= Start menü érvénytelen parancsikonjai
+1302011= Asztal érvénytelen parancsikonjai
+1302012= IIS naplók
+1302013= Régi prefetch adatok
+1302014= Betûtípusok gyorsítótára
+1302015= Letöltött programok
+1302016= Windows frissítések
+1302017= Böngészõk
+1302018= Internet Explorer
+1302019= Mozilla Firefox gyorsítótár
+1302020= Google Chrome gyorsítótár
+1302021= Opera gyorsítótár
+1302022= Alkalmazások
+1302023= Google Earth gyorsítótár
+1302024= Picasa gyorsítótár
+1302025= ACDSee gyorsítótár
+1302026= Meghajtók
+1302027= Kérem legalább egy átvizsgálandó meghajtót válasszon ki
+1302028= Szeretne mentést készíteni a fájlokról, a takarítás elõtt?
+1302029= A mentés nem sikerült. Szeretné folytatni a takarítást?
+1302030= Fájlok száma: %s   Fájlméret: %s2
+1302031= %s elem kijelölve
+1302032= A vizsgálat kész. %s fájl, összesen %s2 elõtalálva.
+1302033= Javasoljuk, hogy takarítsa ki a meghajtóit most.
+1302034= Gratulálunk! Önnek van egy tiszta gépe!
+1302035= Tartsa meg a gépe tisztaságát, ez legyen egy jó szokása!
+1302036= A vizsgálat visszavonásra került!
+1302037= Kiválasztott %s fájlt, összesen %s2.
+1302038= A takarítás kész. Összesen %s felesleges állomány került kitakarításra.
+1302039= A takarítás kész.
+1302040= A(z) %s használatban van, jelenleg nem törölhetõ.
+1302041= Felesleges fájl : %s
+1302042= Egyéni fájlok és mappák
+1302043= Egyéni név
+1302044= Egyéni fájlok és mappák
+1302045= Hely
+1302046= Példa: *.tmp|*.log
+1302047= Példa: *.sys|*.txt
+1302048= Csak a fájlokat adja hozzá
+1302049= Fájlok és almappák hozzáadása
+1302050= A biztonság érdekében a Windows rendszerkönyvtárában nem törölhetõk a fájlok.
+1302051= Biztos benne, hogy kiüríti ezt a könyvtárat?
+1302052= A biztonsága érdekében ne válasszon ki Windows rendszerfájlokat.
+1302053= Kiegészítõ fájlok és mappák kiválasztása törléshez (csak képzett felhasználóknak).
+1302054= Kérem válassza ki a törlendõ fájlokat, vagy mappákat.
+1302055= Az egyéni fájl, vagy mappa már létezik. Biztos benne, hogy hozzáadja?
+1302056= Az egyéni fájl, vagy mappa már létezik. Biztos benne, hogy módosítja?
+1302057= A gépén nem találhatók felesleges fájlok. Tartsa meg a gépe tisztaságát, ez legyen egy jó szokása!
+
+
+1303001= Mentés...
+
+1304001= Az adat nem jeleníthetõ meg!
+
+1305001= Kezdés: 
+1305002= Eredmény: 
+1305003= Nem találhatók felesleges fájlok
+1305004= %s fájl, %s2 az összesbõl
+1305005= Vége: 
+1305006= Összesen: 
+1305007= %s fájl, %s2 eltávolítható
+1305008= Kezdés
+1305009= Befejezés
+1305010= Kitakarítva %s fájl, összesen %s2
+1305011= %s fájlt nem lehetett kitakarítani.
+1305012= Írási idõ:
+1305013= Összesen %s fájl, %s2
+
+1305014= A(z) %s-t be kell zárni az Internetes gyorsítótár kitakarításához.\nSzeretné, hogy a Glary Utilities bezárja ezt %s?
+1305015= Firefox
+1305016= Google Chrome
+1305017= Opera
+1305018= Zárja be a(z) %s -t, a gyorsítótár kitakarításához.\nSzeretné ha a(z) %s2 bezárná ezt: %s?
+
+1306001= Ma kitakarítva: %s, összesen: %s2.
+1306002= %s beazonosítva, %s2 eltávolítva.
+1306003= Biztos benne, hogy visszaállítja ezt: %s?
+1306004= A(z) %s sikeresen visszaállításra került.
+1306005= %s felesleges fájl kitakarítva.
+1306006= Kattintson a 'Vizsgálat' gombra a felesleges fájlok felkutatásához
+1306007= %s fájl, összesen %s2 elõtalálva.
+1306008= %s visszaállítva
+1306009= Összesen %s felesleges fájl eltávolítva.
+
+[Uninstaller]
+12001= Eltávolítás kezelõ
+12901= Az eszközzel eltávolíthatja a szükségtelenné vált programjait
+12002= Eltávolítási információk mentése
+12003= Eltávolítási információk visszaállítása
+12004= Programlista exportálása
+12005= Program eltávolítása
+12006= Kijelölt programok eltávolítása
+12007= Tulajdonságok módosítása
+12008= Törölt bejegyzések visszaállítása
+12009= Parancssor mutatása
+12010= Jelenleg telepítve van:
+12011= Rendezés:
+12012= Telepítés dátuma
+12013= Érvénytelen bejegyzések automatikus javítása
+12014= Kötegelt eltávolítás
+12015= Programok keresése
+12016= Támogatási információk.
+12017= Parancssor
+12038= Bejegyzés törlése
+
+12018= Módosítás
+12019= Töröl
+12020= Módosítás/Törlés
+
+12021= Összesen %s program
+12022= A(z) %s mappát nem lehetett törölni, azt egy másik személy, vagy egy program használja. Szeretné törölni a következõ indításkor?
+12023= Új!
+
+12024= A(z) %s program módosításához, vagy eltávolításához, kattintson a Módosítás/Eltávolítás lehetõségre.
+12025= A(z) %s program módosításához, vagy eltávolításához, kattintson a Módosítás, vagy az Eltávolítás lehetõségre.
+12026= A(z) %s program eltávolításához, kattintson az Eltávolítás lehetõségre.
+
+12027= Telepítve
+12028= Registry fájlok (*.reg)
+12031= Szövegfájlok (*.txt)
+12029= A(z) %s eltávolítási információi sikeresen helyreállításra kerültek
+12030= Biztos benne, hogy eltávolítja ezt %s a gépérõl?
+12032= Jelentés létrehozva
+12033= A számítógépén telepített programok (összesen %s program):
+12034= A fájl mentési helye:
+12035= A rendszerében telepített valamennyi program rendben van, nincsenek érvénytelen bejegyzések.
+12036= Biztos benne, hogy eltávolítja ezt %s a telepített programok listájából?
+
+12037= Hiba történt a(z) %s eltávolítása közben. Lehet, hogy az már el lett távolítva. Szeretné ezt %s2 eltávolítani a telepített programok listájából?
+12039= A(z) %s egy "Rejtett" program és lehet, hogy a rendszere használja. Biztos benne, hogy eltávolítja?
+12040= Még maradtak fájlok a(z) "%s" telepítési könyvtárában. Gyõzõdjön meg arról, hogy azok felesleges állományok-e. A könyvtár áttekintéséhez kattintson a "Könyvtár tallózása" gombra. Ha biztos abban, hogy a fájlok feleslegesek, kattintson a "Mindet töröl" gombra.
+12041= Könyvtár tallózása
+12042= Mindet töröl
+12043= Bejegyzés mentése a törlése elõtt.
+
+12044= A keresett elem nem található.
+12045= Keresés
+12046= Következõ
+12047= Mit keres:
+
+12048= A következõ érvénytelen bejegyzéseket találtam. Szeretné törölni ezeket a rendszerleíró bejegyzéseket? (Késõbb is törölheti õket kézzel)
+12049= Érvénytelen bejegyzések
+12050= Bejegyzések mentése a törlésük elõtt.
+
+12051= Kérem válassza ki a helyreállítandó bejegyzést, majd kattintson a 'Visszaállítás' gombra.
+12052= Visszaállítás
+12053= Program bejegyzés
+12054= Mentés dátuma
+12055= Biztos benne, hogy visszaállítja a(z) %s programbejegyzést a rendszerleíró adatbázisba?
+
+12056= A következõ információkat használja a technikai támogatáshoz
+12058= Kiadó
+12059= Verzió:
+12060= Kapcsolat:
+12061= Támogatási információ:
+12062= Olvass el:
+12063= Termékfrissítések:
+12064= Megjegyzés:
+12065= Termékazonosító:
+12066= Bejegyzett cég:
+12067= Bejegyzett tulajdonos:
+12068= Telepítési hely:
+
+12069= Programok (*.exe;*.com;*.bat)
+12070= Minden fájl (*.*)
+12071= A megadott parancssor lehet, hogy érvénytelen. Biztos, hogy folytatja?
+
+12072= Telepítõprogram futtatása
+12073= Parancssor a program eltávolításához:
+12074= Hiba történt a(z) %s eltávolítása közben. Önnek nincs hozzáférése ehhez %s2.
+12075= Alul megadhat egy új eltávolító programot.
+
+12076= Bejegyzés mentése
+12077= Támogatási információ
+12078= Windows frissítések mutatása
+
+12080= Ikonok
+12081= Lista
+12082= Részletek
+
+12083= Minden program
+12084= Legutóbb telepített programok
+12085= Nagy programok
+12086= Ritkán használt programok
+12087= Windows frissítések
+
+12088= Legutóbbi használat:
+12089= Eltávolítási információk mentése:
+12090= Legutóbbi hozzáférés frissítésének a letiltása
+
+[Duplicate Files Finder]
+15001= Fájlmásolatok keresõ
+15901= A helyet pazarló, és hibákat okozó fájlmásolatok felkutatása
+15002= Fájlmásolatok keresése
+15003= Fájl megnyitása
+15004= Megnyitás...
+15005= Mappa tallózása
+15006= Fájltulajdonságok
+15007= Jelentés készítése
+15008= Kijelölt fájlok törlése
+15012= Jelöljön ki egyet minden csoportban
+15013= Zárja ki ezt a mappát a további vizsgálatokból
+15015= Útvonal
+15016= %s / %s2 elem megjelölve törlésre.
+15017= Fájlmásolati csoportok
+15018= Biztos benne, hogy a(z) %s mappában levõ összes elemet kizárja, a következõ összes vizsgálatból?
+15019= Nincsenek törlésre kijelölt elemek.
+
+15020= Vizsgálati varázsló
+15021= Kérem válassza ki az átvizsgálandó meghajtókat, vagy mappákat.
+15022= Meghajtók
+15023= Mappák
+15024= Mappa
+15025= Fájlmásolat keresési kritérium
+15026= Azonos fájlnév
+15027= Azonos méret
+15028= Azonos idõpont
+15029= Kihagyás, ha kisebb mint
+15030= Csak az alábbi gyakoribb fájlokat ellenõrizze
+15031= Mindet ellenõriz
+15032= Fájltípus
+15033= Ezeket a mappákat zárja ki a vizsgálatból:
+15034= Mappa
+15035= Fájlmásolatok keresése...
+
+15036= Nem jelölt ki meghajtókat. Kérem legalább egy meghajtót jelöljön ki a folytatáshoz.
+15037= Nincsenek mappák kijelölve. Kérem legalább egy mappát jelöljön ki a folytatáshoz.
+15038= Nincsenek fájltípusok kijelölve. Kérem legalább egy fájltípust jelöljön ki a folytatáshoz.
+15039= Fájlok összerendezése. Ez egy ideig eltarthat, a fájlok számától függõen. Kérem várjon...
+15040= Átvizsgálva összesen %s fájl, és %s2 másolat azonosítva.
+
+15041= Új fájlnév megadása a kereséshez
+15042= Hassználhat helyettesítõ karaktereket is, pl. *.avi
+15043= Fájlnév végzõdés:
+15044= Kérem adja meg a kiterjesztést.
+
+15045= Mappa megadása
+15046= Mappa kiválasztása
+15047= Használhatja ezeket a helyettesítõ karaktereket: *, ?
+15048= Nem lehet üres.
+15049= Módosítás dátuma
+15050= Ez a fájltípus már hozzáadásra került.
+
+1501001= Paraméterek beállítása
+1501002= Intelligens vizsgálat
+1501003= %d / %d elem megjelölve törlésre
+1501004= A(z) %s már létezik.\nLecseréli azt?
+1501005= Máskénti mentés megerõsítése
+1501006= Fájl törlése
+1501007= Dokumentumok
+1501008= Zenék
+1501009= Képek
+1501010= Programozási fájlok
+1501011= Videók
+1501012= Egyebek
+1501013= Fájlmásolat-keresési jelentés létrehozva %s, ezáltal %s2
+1501014= Összesen %s fájl
+1501015= A fájl mentési helye:
+1501016= Kizárás
+1501017= Kizárt mappák listája
+1501018= Biztos benne, hogy törli az összes fájlmásolatot?
+
+1502002= Fájl kizárása
+
+1503001= Fájlmásolat keresési kritérium
+
+1504001= Vizsgálat
+1504002= Teljes méret
+1504003= Foglalt méret
+1504004= Szabad terület
+1504005= Fájl útvonal
+
+1505001= Tárolási hely
+1505002= Állapot
+1505003= Várakozás
+1505004= Betöltés
+1505005= Átvizsgálva összesen %d fájl, és %d fájlmásolat azonosítva.
+1505006= Fájlok összerendezése, kérem várjon...
+
+1506001= Általános
+1506002= Fájl kizárása
+
+[Empty Folders Finder]
+16001= Üres mappák keresõ
+16901= Üres mappák felkutatása és eltávolítása
+16002= Üres mappák keresése
+16003= Kizárt mappák listája
+16004= Kijelölt mappák törlése
+16005= Kijelölt mappák kizárása (többé nem vizsgálja õket)
+16006= Kizárás
+16007= Mappa
+16008= Biztos benne, hogy hozzáadja a kijelölt elemeket a mellõzési listához? Ezek az elemek nem lesznek újból észlelve.
+
+16009= Mellõzési-lista kezelõ
+16010= A listában levõ elemek kihagyásra kerülnek a mappavizsgálat során. Ha szeretné valamelyiket beemelni a vizsgálatba, vonja vissza a kijelölését.
+
+16011= Vizsgálat
+16012= Jelölje ki az átvizsgálandó meghajtó(ka)t
+
+1601001= Üres mappaszerkezet létrehozása...
+
+1602001= Mappalista létrehozása...
+1602002= Az ellenõrzés kész.
+1602003= Ellenõrzés %s
+1602004= Lemezek betöltése...
+1602005= Fájlok rendezése...
+1602006= Adatok mentése...
+1602007= Elõkészítés...
+1602008= Üres mappák ellenõrzése...
+1602009= Üres mappák rendezése...
+
+[Shortcuts Fixer]
+17001= Parancsikon javító
+17901= A Start menü és az Asztal hibás parancsikonjainak kijavítása
+17002= Vizsgálat
+17003= Kijavítás
+17004= Törlés
+17005= Cél
+17006= Hely
+17007= Hiányzó parancsikon célok tallózása
+17008= Vizsgálat
+17009= Vizsgálati beállítások
+17010= Csak a Start menü, és az Asztal vizsgálata
+17011= Üres Start menü mappák keresése
+17012= Jelölje ki az átvizsgálandó meghajtó(ka)t
+17013= Nem található.
+
+1701001= Gyorsvizsgálat
+1701002= Speciális vizsgálat
+1701003= Leállítás
+1701004= Kijelöltek javítása
+1701007= Hiba
+1701008= Kijavítva
+1702001= Hely:
+1702002= Cél:
+1702003= Paraméterek:
+1702004= Leírás:
+1702005= Kattintson az "Alkalmaz" gombra a módosítások mentéséhez.
+1702006= Ön kiválasztott egy mappát.
+1703001= Töröl
+1703002= Kattintson erre "%s" a kijelölt parancsikon listából való eltávolításához;{\r\n}Kattintson erre "%s2" a parancsikon Lomtárba való helyezéséhez;{\r\n}Kattintson erre "%s3" a parancsikon végleges törléséhez.
+1703003= Kijelölt parancsikonok mentése a törlésük elõtt
+
+[Tracks Eraser]
+18001= Nyomok takarító
+18901= Internetes elõzmények, sütik, bizonyítékok, és mindenféle nyomok törlése
+18002= Kijelölt nyomok törlése
+18003= Csak az elérhetõ nyomok mutatása
+18004= Ezeknek a nyomoknak a törlése
+18005= Nincsenek nyomok kijelölve. Az adott nyomok törléséhez való kiválasztásához, használja a bal oldalon levõ jelölõnégyzeteket.
+18006= Biztos benne, hogy törli a(z) %s nyomok beállításait?
+18007= A nyomok sikeresen törlésre kerültek.
+18008= Biztos benne, hogy törli a(z) %s nyomait?
+
+18009= IE sütikezelõ
+18010= IE begépelt URL-ek
+18011= Jelölje ki azokat a sütiket, amelyeket szeretne megtartani a takarítás közben
+18012= Webhely
+18013= Találati arány
+18014= Utoljára módosítva
+18015= Lejár
+18016= Teljes cím
+18017= Kijelöletlen sütik törlése
+18018= Jelölje ki a takarítás közben megtartandó URL-eket - URL elõzmények
+18019= URL-ek
+18020= Kijelöletlen URL-ek törlése
+
+18021= Törlés
+
+18022= Windows
+18023= Elõzményeknek, a legutóbb használtak listáinak (MRU listák), és az egyéb Windows nyomoknak a kitakarítása
+18024= Legutóbbi Windows dokumentumok
+18025= A legutóbbi dokumentumok listájának, és a megnyitott fájlok listájának a törlése. Ezek itt találhatók: Start menü > Legutóbbi dokumentumok.
+18026= Start menü futtatási elõzmények
+18027= A Start menü > Futtatás lehetõségnél megadott parancsok kitakarítása.
+18028= Microsoft Common Dialog - Fájl/mappa lista
+18029= A Microsoft Common Dialog, egy olyan szabványos összetevõ, amelyet számos program használ fájl, mappa, szín, vagy nyomtató kijelöléséhez. A takarítóeszközzel kitakaríthatja a kívánt elõzményeket a gépérõl. Mivel a Microsoft Common Dialog vezérlõt használja a legtöbb MEGNYITÁS/MENTÉS fájlablak, ezért az eszközzel kiürítheti a legutóbb megnyitott alkalmazások elõzményeit, valamint a legutóbbi fájl-, és mappakeresési listákat.
+18030= Start menü keresés
+18031= A Start menüben levõ  Keresés lehetõség elõzményeinek a kitakarítása.
+18032= Windows Vágólap
+18033= A fájlokkal való tevékenységek magukba foglalják a "másolás", és a "beillesztés" mûveleteket. A Windows vágólapja megõrzi a legutóbbi másolási mûveleteket, amelyek lehetnek jelszavak, vagy személyes információk is.
+18034= Windows ideiglenes állományok
+18035= A Windows Temp mappájának a kiürítése.
+18036= Windows Lomtár
+18037= A Lomtár tartalmának kiürítése.
+18038= Windows hozzárendelt hálózati meghajtók
+18039= Amikor egy hálózati meghajtó kerül csatlakoztatásra, a Windows megjegyzi annak a betûjelét a rendszerleíróban. Ezzel a beállítással megszabadulhat ezektõl az információktól.
+18040= Start menü kattintási elõzmények
+18041= A Windows eltárolja annak a listáját, hogy legutóbb mely elemekre kattintott rá a Start menüben. Ezzel az opcióval kiürítheti ezt a listát.
+18042= Hálózati helyek
+18043= Amikor a Hálózati helyek lehetõséget használja egy távoli kiszolgálóhoz történõ hozzáféréshez, az összes megosztott helyei eltárolásra kerülnek. Az opcióval kitakarathatja ezt a területet.
+
+18044= Internet Explorer
+18045= Elõzmények, legutóbbi listák (MRU listák), ideigelens internetes fájlok, és egyéb az IE használata során keletkezett nyomok kitakarítása.
+18046= Internet Explorer - URL elõzmények
+18047= Az IE címsorába korábban begépelt URL elõzmények kitakarítása. Ha az elõzmények eltárolásra kerülnek az IE legközelebb megpróbálja "intelligens" módon kitalálni, hogy mely oldalt szeretné meglátogatni. Ha pl.-ul ezt írja be, hogy www.gl - errõl azt gondolhatja, hogy ez a www.glarysoft.com címe, vagy más olyan oldalé lehet, amely így kezdõdik: www.gl
+18048= Internet Explorer elõzmények
+18049= Az Internet Explorer böngészõvel meglátogatott webhely-elõzmények törlése.
+18050= Internet Explorer sütik
+18051= A weboldalak információi eltárolásra kerülnek egy kis szöveges fájlban, az ún. "sütiben" a merevlemezen. A sütik információkat tartalmazhatnak Önrõl és a beállításairól. Illetve eltárolja a meglátogatott oldalak bejegyzéseit is, hogy azokat legközelebb könnyebben megtekinthesse. Mivel egyes sütik hasznosak lehetnek, ezért érdemes megtartani õket. Kattintson a "Beállítások" gombra a megtartandó sütik kiválastásához. A kijelöletlenek törlésre kerülnek.
+18052= Intelligens ûrlapok -Jelszavak automatikus kiegészítése
+18053= Az IE által eltárolt jelszavak, és automatikus ûrlapkitöltési elõzmények törlése. Ha úgy van beállítva az IE eltárolja az online ûrlapokba beírt felhasználói neveket és jelszavakat. Ezek automatikusan beillesztésre kerülnek ha egy gyakran látogatott helyre tér vissza. Az ilyen jellegû nyomok kitakarításával megakadályozhatja, hogy más felhasználók is hozzáférhessenek az Ön profiljaihoz.
+18054= Ideiglenes Internetes állományok
+18055= Az IE által, a böngészés közben létrehozott valamennyi ideiglenes fájl törlése.
+
+18056= Bõvítmények
+18057= Számos harmadik féltõl származó program nyilvántartást vezet a legutóbb megnyitott/futtatott fájlokról. Ezzel az MRU listák telítõdnek a fájlok elõzményeivel.
+
+18058= Mozilla Firefox
+18059= Elõzmények, ideiglenes fájlok, legutóbbi listák (MRU listák), és egyéb a Mozilla Firefox használata során keletkezett nyomok kitakarítása.
+18060= Mozilla Firefox - elõzmények
+18061= A Mozilla Firefox böngészõvel meglátogatott webhely-elõzmények törlése.
+18062= Mozilla Firefox - sütik
+18063= A Mozilla Firefox által elmentett sütik kitakarítása.
+18064= Mozilla Firefox - Internet gyorsítótár
+18065= A Mozilla Firefox által gyorsítótárazott fájlok kiürítése.
+18066= Mozilla Firefox - elmentett ûrlapkitöltési elõzmények
+18067= Azoknak az adatoknak a törlése, amelyeket a Google Chrome mentett el a weboldalakon levõ ûrlapok kitöltésekor.
+18068= Mozilla Firefox - elmentett jelszavak
+18069= A Firefox által elmentett, a weoldalak ûrlapjain megadott jelszó-adatok törlése.
+18070= Mozilla Firefox - letöltési elõzmények
+18071= A letöltéskezelõ által letöltött fájl-elõzmények kiürítése.
+18072= Mozilla Firefox - keresési elõzmények
+18073= A Firefox keresõsávjába beírt adatok kiürítése.
+
+18074= A(z) %s nyomainak a kitakarítása. Ez egy ideig eltarthat...
+18075= A(z) %s nyomainak a törlése...
+
+18076= Index.dat-fájlok
+18077= Az Index.dat-fájlok rejtett állományok a gépén, amelyek eltárolják az online aktivitása nyomait, hogy merre járt az Interneten, mely helyeket látogatta meg, milyen fájlokta, és dokumentumokat nyitott meg.
+18078= A(z) %s nyomainak a keresése. Ez egy ideig eltarthat...
+18079= %s nyomok keresése...
+18080= Jelentés létrehozása...
+18081= JELENTÉS
+18082= %s elem törölhetõ a Rendszerleíróból.
+18083= %s (%s2 fájl) törölhetõ.
+18084= Törölhetõ fájlok részletei:
+18085= Elemzés
+
+18086= Nyomok
+18087= Eredmények
+
+18088= Google Chrome
+18089= Elõzmények, ideiglenes fájlok, legutóbbi listák (MRU listák), és egyéb a Google Chrome használata során keletkezett nyomok kitakarítása.
+18090= Google Chrome - elõzmények
+18091= A Google Chrome böngészõvel meglátogatott webhely-elõzmények törlése.
+18092= Google Chrome - sütik
+18093= A Google Chrome által elmentett sütik kitakarítása.
+18094= Google Chrome - Internet gyorsítótár
+18095= A Google Chrome által gyorsítótárazott fájlok kiürítése.
+18096= Google Chrome - elmentett ûrlapkitöltési elõzmények
+18097= Azoknak az adatoknak a törlése, amelyeket a Google Chrome mentett el a weboldalakon levõ ûrlapok kitöltésekor.
+18098= Google Chrome - letöltési elõzmények
+18099= A letöltéskezelõ által letöltött fájl-elõzmények kiürítése.
+
+18100= Javasoljuk, hogy a folytatás elõtt zárja be ezt: %s. Az eszköz nem tudja eltávolítani a nyomokat, ha közben más program is használja azokat.
+
+2101001= %s elem kijelölve.
+2101002= Nincsenek nyomok kijelölve. Az egyes nyom-típusok ellenõrzéséhez, jelölje ki azt a nyom neve elõtti jelölõnégyzetben.
+
+2102001= Windows Live eszköztár
+2102002= A Windows Live eszköztár keresési elõzményeinek a kiürítése.
+2102003= Google eszköztár
+2102004= A Google eszköztár keresési elõzményeinek a kiürítése az IE-ben.
+2102005= Google Deskbar
+2102006= A Google Deskbar keresési elõzményeinek a kiürítése.
+2102007= Kazaa keresési elõzmények
+2102008= A Kazaa keresési elõzmények kiürítése.
+2102009= eMule
+2102010= Az eMule keresési elõzményeinek kitakarítása:
+2102011= MSN Messenger
+2102012= A MSN Messenger gyorsítótár elõzmények kitakarítása.
+2102013= Sound Forge 6.0
+2102014= A Sound Forge 6.0 gyorsítótár elõzmények kitakarítása.
+2102015= Fresh Download
+2102016= A Fresh Download letöltési elõzményeinek kitakarítása.
+2102017= Windows Media Player
+2102018= A Windows Media Player fájlmegnyitási elõzményeinek a törlése.
+2102019= Real Player
+2102020= A Real Player fájlmegnyitási elõzményeinek a törlése.
+2102021= Quicktime Player
+2102022= A Quicktime Player fájlmegnyitási elõzményeinek a törlése.
+2102023= SWiSH
+2102024= A SWiSH fájlmegnyitási elõzményeinek a törlése.
+2102025= Windows Movie Maker
+2102026= A Windows Movie Maker fájlmegnyitási elõzményeinek a törlése.
+2102027= BSPlayer
+2102028= A BSPlayer fájlmegnyitási elõzményeinek a törlése.
+2102029= Media Player Classic
+2102030= A Media Player Classic fájlmegnyitási elõzményeinek a törlése.
+2102031= Axialis IconWorkshop
+2102032= Az Axialis IconWorkshop fájlmegnyitási elõzményeinek a törlése.
+2102033= Ulead Smart Saver Pro 3.0
+2102034= Az Ulead Smart Saver Pro 3.0 fájlmegnyitási elõzményeinek a törlése.
+2102035= Macromedia Flash Player
+2102036= A Macromedia Flash Player fájlmegnyitási elõzményeinek a törlése.
+2102037= Macromedia Flash MX
+2102038= A Macromedia Flash MX fájlmegnyitási elõzményeinek a törlése.
+2102039= Macromedia Flash 5.0
+2102040= A Macromedia Flash 5.0 fájlmegnyitási elõzményeinek a törlése.
+2102041= Macromedia Flash 4.0
+2102042= A Macromedia Flash 4.0 fájlmegnyitási elõzményeinek a törlése.
+2102043= Adobe Flash Player
+;2102044=
+2102045= AVI Preview
+2102046= Az AVI Preview fájlmegnyitási elõzményeinek a törlése.
+2102047= Paint Shop Pro 7.0
+2102048= A Paint Shop Pro 7.0 fájlmegnyitási elõzményeinek a törlése.
+2102049= Paint Shop Pro 8.0
+2102050= A Paint Shop Pro 8.0 fájlmegnyitási elõzményeinek a törlése.
+2102051= Paint Shop Pro 9.0
+2102052= A Paint Shop Pro 9.0 fájlmegnyitási elõzményeinek a törlése.
+2102053= Office XP
+2102054= A Microsoft Office XP fájlmegnyitási elõzményeinek a törlése.
+2102055= Office 2000
+2102056= A Microsoft Office 2000 fájlmegnyitási elõzményeinek a törlése.
+2102057= Office 2003
+2102058= A Microsoft Office 2003 fájlmegnyitási elõzményeinek a törlése.
+2102059= Office 2007
+2102060= A Microsoft Office 2007 fájlmegnyitási elõzményeinek a törlése.
+2102061= MS Management Console
+2102062= A MS Management Console fájlmegnyitási elõzményeinek a törlése.
+2102063= MS WordPad
+2102064= A WordPad fájlmegnyitási elõzményeinek a törlése.
+2102065= MS Paint
+2102066= A Microsoft Paint fájlmegnyitási elõzményeinek a törlése.
+2102067= Microsoft Visual Basic 6.0
+2102068= A Visual Basic 6.0 fájlmegnyitási elõzményeinek a törlése.
+2102069= Távoli asztal
+2102070= A Távoli asztal által gyorsítótárazott adatok törlése.
+2102071= PowerArchiver
+2102072= A PowerArchiver-el végzett tömörítési/kicsomagolási elõzmények törlése.
+2102073= WinISO
+2102074= A WinISO fájlmegnyitási elõzményeinek a törlése.
+2102075= WinRAR
+2102076= A WinRAR-al végzett tömörítési/kicsomagolási elõzmények törlése.
+2102077= 7-Zip
+2102078= A 7-Zip-el végzett tömörítési/kicsomagolási elõzmények törlése.
+2102079= WinZip
+2102080= A WinZip-el végzett tömörítési/kicsomagolási elõzmények törlése.
+2102081= SpyBot Search and Destroy
+2102082= A SpyBot Search and Destroy által gyorsítótárazott adatok törlése.
+2102083= WinAce 2.0
+2102084= A WinAce 2.0 elõzményeinek kitakarítása.
+2102085= Norton AntiVirus
+2102086= A Norton AntiVirus naplófájljainak eltávolítása.
+2102087= Adobe Acrobat Reader 5.0
+2102088= Az Adobe Acrobat 5.0 fájlmegnyitási elõzményeinek törlése.
+2102089= Adobe Acrobat Reader 6.0
+2102090= Az Adobe Acrobat 6.0 fájlmegnyitási elõzményeinek törlése.
+2102091= XML Spy
+2102092= Az XML Spy fájlmegnyitási elõzményeinek törlése.
+2102093= Installshield Developer 7.0
+2102094= Az Installshield Developer 7.0 fájlmegnyitási elõzményeinek törlése.
+2102095= Macromedia Homesite 5.0
+2102096= A Macromedia Homesite 5.0 fájlmegnyitási elõzményeinek törlése.
+2102097= Ahead Nero Burning ROM
+2102098= Az Ahead Nero Burning ROM fájlmegnyitási elõzményeinek törlése.
+2102099= ZipMagic
+2102100= A ZipMagic-al végzett tömörítési/kicsomagolási elõzmények törlése.
+2102101= PicoZip
+2102102= A PicoZip-el végzett tömörítési/kicsomagolási elõzmények törlése.
+2102103= Adobe Acrobat Reader 7.0
+2102104= Az Adobe Acrobat 7.0-ás verziójával megtekintett PDF fájl-elõzmények kitakarítása.
+2102105= Adobe Reader 8.0
+2102106= Az Adobe Reader 8.0-ás verziójával megtekintett PDF fájl-elõzmények kitakarítása.
+2102107= Adobe Reader 9.0
+2102108= Az Adobe Reader 9.0-ás verziójával megtekintett PDF fájl-elõzmények kitakarítása.
+2102109= Adobe Reader 10.0
+2102110= Az Adobe Reader 10.0-ás verziójával megtekintett PDF fájl-elõzmények kitakarítása.
+2102111= Adobe Reader 11.0
+2102112= Az Adobe Reader 11.0-ás verziójával megtekintett PDF fájl-elõzmények kitakarítása.
+
+2102113= Opera - Elõzmények
+2102114= Az Opera böngészõvel meglátogatott webhelyek elõzményeinek a kitakarítása.
+2102115= Opera - Sütik
+2102116= Az Opera böngészõ által elmentett sütik kitakarítása.
+2102117= Opera - Internetes gyorsítótár
+2102118= Az Opera böngészõ által gyorsítótárazott internetes fájlok kitakarítása.
+2102119= Opera - Elmentett ûrlapinformációk
+2102120= Az Opera böngészõ által elmentett ûrlap-adatok kitakarítása.
+2102121= Opera - Letöltési elõzmények
+2102122= A letöltéskezelõ által letöltött fájl-elõzmények kiürítése.
+
+2102123= Opera
+2102124= Elõzmények, ideiglenes fájlok, legutóbbi listák (MRU listák), és egyéb az Opera böngészõ használata során keletkezett nyomok kitakarítása.
+
+2103001= Mindet kijelöl
+2103002= Egyiket sem
+2103003= Alapértelmezés
+2103004= Megnyitás a RegEdit-ben
+2103005= Hozzáad a Kizárási listához
+2103006= Mellõzési-lista kezelõ
+2103007= Ma törölve: %s elem, összesen: %s2.
+2103008= Ma törölve: %s elem, összesen: %s2.
+2103009= %s elõtalálva, összesen %s2.
+2103010= %s adatvédelmi probléma
+2103011= %s adatvédelmi probléma
+2103012= %s adatelem törölve.
+2103013= Ma törölve: %s elem, összesen: %s2 elem.
+2103014= Ma törölve: %s elem, összesen: %s2 elem.
+2103015= %s elem elõtalálva, %s2 elem törölve. 
+2103016= %s elem elõtalálva, %s2 elem törölve. 
+2103017= Nincsenek adatvédelmi problémák. 
+2103018= %s adatvédelmi probléma kijavítva 
+2103019= %s adatvédelmi probléma kijavítva 
+2103020= %s elem törölve a Beállításjegyzékbõl. %s2 fájl és %s3 adatbázis elem törölve 
+2103021= Kattintson az 'Elemzés' gombra, a rendszerében levõ adatvédelmi problémák felkutatásához. 
+2103022= A lista a vizsgálatból kihagyott elemeket tartalmazza. Ha szeretné, hogy a(z) %s újra ellenõrizzen egy, vagy több elemet, távolítsa el a kijelölésüket.
+
+[Memory Optimizer]
+21001= Memória optimalizáló
+21901= Szabad memória figyelése és optimalizálása a háttérben
+21002= Optimalizálás
+21003= Kézi optimalizálás
+21004= Fizikai memória felhasználása:
+21018= %s%(%s2 MB) / %s3 MB szabad
+21005= CPU-használat
+21006= Adja meg a felszabadítandó, és optimalizálandó memória méretét.  
+21007= Memória mennyiség:
+21008= Optimalizálás
+21009= Vágólap kiürítése
+21010= Vágólap aktuális mérete:
+21011= Automatikus optimalizálás
+21012= Autom. optimalizálás ha a szabad memória:
+21013= Memória megnövelése:
+21014= Ekkora CPU-használat alatt optimalizáljon:
+21015= Automatikus betöltés a Windows-al együtt
+21016= Ajánlott
+21017= Optimalizálás...
+21019= Fõablak mutatása
+
+[File Shredder]
+22001= Fájlmegsemmisítõ
+22901= A fájlok végleges, és visszaállíthatatlan módon való törlése
+22002= Az eszközzel úgy semmisítheti meg a kényes adatait, hogy azok többé már nem lesznek helyreállíthatók. Az eszköz az USA Védelmi Minisztériuma által kifejlesztett American Dod 5220.22-M módszert használja a megsemmisítéshez.
+22003= Típus
+22012= Módosítás dátuma
+22004= Hozzáadás
+22005= Mappa
+22006= Megsemmisítés
+22007= Törlési mûvelet ismétlése:
+22008= Fájlmappa
+22009= Ön a listában kijelölt összes adat megsemmisítésére készül. Ezek a fájlok késõbb már speciális eszközökkel sem lesznek visszaállíthatók. Biztos, hogy folytatja?
+22010= Törlés
+22011= Törölve
+22019= Szabad hely törlése
+22013= Amikor fájlokat töröl, és azokat kiüríti a Lomtárból valójában azok nem kerülnek eltávolításra a lemezrõl. Ezek a fájlok könnyedén visszaállíthatók adatvisszaállító programokkal. Azért, hogy a fájlok teljesen törlõdjenek rendszeresen törölnie kell a merevlemez szabad területeit is. Az opcióval a lemezen fizikailag még meglevõ fájlok véglegesen törlõdnek.
+22014= Szabad terület törlése ezen a meghajtón :
+22015= Megsemmisítés
+22016= Szabad terület törlése %s
+22017= A mûveletet megszakította a felhasználó.
+22018= A mûvelet sikeresen befejezõdött.
+22020= Célmappa kiválasztása:
+22021= Kérm válasszon ki egy meghajtót.
+22022= MFT szabad terület felülírása - %s meghajtó
+
+[Internet Explorer Assistant]
+23001= Böngészõ kezelõ
+23901= Internet Explorer bõvítmények kezelése, módosítások visszaállítása
+23002= IE BHO-k
+23003= IE eszköztárak
+23004= IE böngészõsávok
+23005= IE extra környezeti menük
+23006= IE extra gombok
+23007= IE letöltött ActiveX-ek
+23008= Eltérítés visszaállítás
+23009= [Blokkolt]
+23010= Kiadó
+23011= Fájl útvonal
+23012= Parancs
+23013= Elem blokkolása
+23014= Blokkolás feloldása
+23015= Elem végleges eltávolítása
+23016= Biztos benne, hogy helyreállítja ezt %s?
+23017= Biztos benne, hogy blokkolja ezt %s, az Internet Explorer-ben?
+23018= Biztos benne, hogy végleg eltávolítja ezt %s, az Internet Explorer-bõl?
+23019= Figyelem, a fájl hiányzik
+23020= Böngészõ segédobjektumok
+23021= Internet Explorer eszköztárak
+23022= Internet Explorer böngészõsávok
+23023= Internet Explorer extra környezeti menü
+23024= Internet Explorer extra gomb
+23025= Letöltött ActiveX alkalmazások
+23026= Sérült
+23027= Telepítve
+
+23028= Beállítás
+23029= Jelenlegi beállítás
+23030= Visszaállítás erre
+23031= Módosítás visszaállítása egy új URL-bõl...
+23032= Visszaállítás
+23033= IE alapérték
+23034= Biztos benne, hogy visszaállítja a kiválasztott beállításokat?
+23035= A(z) %s Internet Explorer beállítás sikeresen módosítva lett.
+23036= IE módosításainak visszaállítása
+23037= Az IE %s módosításának visszaállítása. A mezõben levõ URL, az IE alapértelmezettként beállított URL-je ehhez a beállításhoz. A mezõben más oldalt, vagy URL-t is megadhat alapértelmezettként.
+23038= Kezdõlap
+23039= Az URL-hez kapcsolódó weboldal jelenik meg, ha az IE böngészõben egy új ablak kerül megnyitásra.
+23040= Keresõlap
+23041= Ez az alapértelmezett keresõmodul, amikor rákattint a Keresés gombra az IE-ben.
+23042= Alapértelmezett lap
+23043= Ezt az URL-t használja alapértelmezett lapként az IE.
+23044= Helyi lap
+23045= Ez az oldal töltõdik be, ha az IE címsávjában megadott oldal nem található.
+23046= Keresõsáv
+23047= Ez az oldal akkor jelenik meg, ha rákattint a Keresés Ikonra az IE-ben. A Keresõsáv lehetõvé teszi a részletes információk eltárolását.
+23048= Alapértelmezett keresõ
+23049= Ez az oldal jelenik meg az IE-ben, egy keresés végrehajtásakor.
+23050= Kezdõlap (minden felhasználó)
+23051= Ez az oldal jelenik meg, amikor egy új böngészõablakot nyit meg az IE-ben.
+23052= Keresõlap (minden felhasználó)
+23053= Ez az alapértelmezett keresõmodul, amikor rákattint a Keresés gombra az IE-ben. Minden felhasználó ezt fogja használni.
+23054= Alapértelmezett lap (minden felhasználó)
+23055= Ezt az URL-t használja alapértelmezett lapként az IE. Minden felhasználó ezt fogja használni.
+23056= Helyi lap (minden felhasználó)
+23057= Ez az oldal töltõdik be, ha az IE címsávjában megadott oldal nem található. Minden felhasználónál ez fog megjelenni.
+23058= Keresõsáv (minden felhasználó)
+23059= Ez az oldal akkor jelenik meg, ha rákattint a Keresés Ikonra az IE-ben. A Keresõsáv lehetõvé teszi a részletes információk eltárolását. Minden felhasználónál ez fog megjelenni.
+23060= Alapértelmezett keresõ (minden felhasználó)
+23061= Ez az oldal jelenik meg az IE-ben, egy keresés végrehajtásakor. Minden felhasználónál ez fog megjelenni.
+23062= Keresés testreszabása (minden felhasználó)
+23063= Ez az oldal jelenik meg az IE-ben, amikor a keresõmezõben egy egyedi keresést végez. A keresõ segéd alkalmazásával egyetlen egységes felületen végezhetnek különbözõ kereséseket a felhasználók. Az itt levõ beállítások minden felhasználóra vonatkoznak.
+23064= Keresõ segéd (minden felhasználó)
+23065= Ez a Keresõ segéd oldal jelenik meg az IE-ben. A keresõ segéd alkalmazásával egyetlen egységes felületen végezhetnek különbözõ kereséseket a felhasználók. Az itt levõ beállítások minden felhasználóra vonatkoznak.
+23066= Keresés
+23067= A keresõ URL-ek kényelmes módja annak, hogy különbözõ keresõmodulokat használjon. Pl. ha egy hírt szeretne megkeresni valamelyik online hírcsatornán, csak gépelje be a kulcsszavakat a címsávba, és ekkor automatikusan megjelennek azok a hírcsatornák, amelyek a kapcsolódó cikkeket tartalmazzák.
+23068= Keresés (minden felhasználó)
+23069= A keresõ URL-ek kényelmes módja annak, hogy különbözõ keresõmodulokat használjon. Pl. ha egy hírt szeretne megkeresni valamelyik online hírcsatornán, csak gépelje be a kulcsszavakat a címsávba, és ekkor automatikusan megjelennek azok a hírcsatornák, amelyek a kapcsolódó cikkeket tartalmazzák. Minden felhasználóra vonatkozik.
+23070= Üres lap
+23071= Az oldal nem jeleníthetõ meg - Ez az oldal fog megjelenni az IE-ben, ha a keresett oldal, vagy webhely nem található.
+23072= Asztali navigációs hiba
+23073= Ezt az oldalt jeleníti meg az IE, ha a gépe nincs kapcsolódva az Internethez.
+23074= A navigáció megszakítva
+23075= Ezt az oldalt jeleníti meg az IE, ha megszakítja a navigálást.
+23076= Navigációs hiba
+23077= Ezt az oldalt jeleníti meg az IE, ha a gépe nincs kapcsolódva az Internethez.
+23078= Offline információ
+23079= Ezt az oldalt jeleníti meg az IE, ha a gépe nem tud kapcsolódni az Internethez, vagy az adott weblap nem érhetõ el.
+23080= Nincs gyorsítótárazva
+23081= Figyelem: Az oldal lejárt - Ezt az oldalt jeleníti meg az IE, ha a tartalmat nem lehet beolvasni a gyorsítótárból.
+23100= Biztos benne, hogy véglegesen törli a kijelölt elemeket?
+23101= Beépülõ modulok
+23102= Bõvítmények
+23103= Keresõmotorok
+23104= Elõzmények
+23105= Sütik
+23106= Cím
+23107= Látogatások száma
+23109= Alaptartomány
+23110= állomáskulcs
+23111= Kulcsszó
+23117= Biztos benne, hogy blokkolja ezt - %s - a Mozilla Firefox böngészõben?
+23118= Biztos benne, hogy véglegesen törli ezt - %s - a Mozilla Firefox böngészõbõl?
+23121= Mozilla Firefox beépülõ modulok
+23122= Mozilla Firefox bõvítmények
+23123= Mozilla Firefox keresõmotorok
+23124= Mozilla Firefox elõzmények
+23125= Mozilla Firefox sütik
+23126= Mozilla Firefox kezdõlap
+23131= Google Chrome beépülõ modulok
+23132= Google Chrome bõvítmények
+23133= Google Chrome keresõmotorok
+23134= Google Chrome elõzmények
+23135= Google Chrome sütik
+23136= Google Chrome kezdõlap
+23141= Felfelé mozgat
+23142= Lefelé mozgat
+23143= Oldal hozzáadása
+23144= Oldal törlése
+23146= Kezdõlap megadása
+23147= Adja meg az új Kezdõlapot a(z) %s böngészõ részére.
+23149=  Nézõke
+23150= Nagyon ajánlott a(z)\n\n %s \n\nbezárása a folytatás elõtt. Egyébként az eszköz nem fog helyesen mûködni.
+23151= %s elem véglegesen eltávolításra került
+23152= A mûvelet nem sikerült. Kérem zárja be a(z) %s böngészõt, majd próbálja meg újra.
+23153= felhasználói mûvelet-megszakítás
+23154= Elemtörlési-folyamat párbeszédablak
+23155= Elemek törlése
+23217= Biztos benne, hogy blokkolja ezt - %s - a Google Chrome böngészõben?
+23218= Biztos benne, hogy véglegesen törli ezt - %s - a Google Chrome böngészõbõl?
+
+[Process Manager]
+24001= Folyamatkezelõ
+24901= Futó folyamatok figyelése, és igény szerinti leállításuk.
+24002= Új feladatok (Futtatás...)
+24003= Kilépés a Windows-ból
+24004= Számítógép újraindítása
+24005= Számítógép leállítása
+24006= Folyamat befejzése
+24007= Folyamat blokkolása
+24008= Blokkolási lista
+24009= Google
+24010= Megjegyzés
+24011= Részletek
+24012= Név
+24013= Értékelés
+24014= Futtatható
+24015= Prioritás
+24016= Szálak
+24017= CPU
+24018= CPU-idõ
+24019= Memória
+24020= Vállalat
+24021= Elindítva
+24022= Folyamatok
+24023= Prioritás beállítása
+24024= Valósidejû
+24025= Magas
+24026= Normál feletti
+24027= Normál
+24028= Normál alatti
+24029= Alacsony
+24030= FIGYELEM: A folyamat prioritásának módosítása lehet, hogy nem kívánt rendszer-instabilitással járhat. Biztos benne, hogy módosítja a prioritást?
+24031= Általános információk
+24032= Használt modulok
+24033= Adat
+24034= Érték
+24035= Folyamat információk
+24036= ID
+24037= Fájl
+24038= Paraméterek
+24039= Mappa
+24040= Szálak
+24041= Prioritás
+24042= Memóriahasználat
+24043= Elindítva
+24044= Elindította
+24045= Verzióinformációk
+24046= Fájltípus
+24047= Vállalat
+24048= Leírás
+24049= Verzió
+24050= Belsõ név
+24051= Szerzõi jog
+24052= Védjegy
+24053= Eredeti fájlnév
+24054= Terméknév
+24055= Termékverzió
+24056= Megjegyzés
+24137= Biztonságos
+24139= Kockázatos
+24057= Biztos, hogy megszakítja ezt a folyamatot %s?
+24058= Biztos, hogy blokkolja ezt a folyamatot %s?
+24059= Biztos, hogy újraindítja a számítógépet most?
+24060= Biztos, hogy leállítja a számítógépet most?
+24061= Futó folyamatok:
+24062= CPU-használat:
+24063= Memóriahasználat:
+24064= Rendszer szolgáltatás
+24065= Feladatkezelõ lecserélése
+24066= Mindig felül
+
+[Context Menu Manager]
+25001= Környezeti menü kezelõ
+25901= Fájlok, mappák környezeti menüjének kezelése...
+25002= Fájlok és mappák
+25003= Új
+25004= Küldés
+25005= Egy elem engedélyezéséhez/letiltásához kattintson az elõtte levõ négyzetbe. A végleges eltávolításához kattintson a(z) %s gombra.
+25006= Nem található
+25007= Biztos benne, hogy véglegesen eltávolítja: '%s'?
+25008= Minden fájl (*)
+25009= Mappák
+25010= Könyvtárak
+25011= Meghajtók
+25012= Zene mappa
+25013= Videó mappa
+25014= Képek mappa
+25015= Minden fájlrendszer objektum
+25016= Sajátgép
+25017= Lomtár
+25018= Háttér
+25019= Parancsikon
+
+[File Encrypter and Decrypter]
+27001=Fájl kódoló
+27901= Fájlok védelme a jogosulatlan hozzáférések, és használat ellen.
+27002= Fájl titkosítása
+27003= Fájl dekódolása
+27004= Kérem válassza ki a titkosítandó fájlt:
+27005= Jelszó a titkosításhoz:
+27006= Jelszó ellenõrzése:
+27007= Jelszó emlékeztetõ (kérdés):
+27008= Automatikus dekódolású EXE-fájl létrehozása (a felhasználói felület angol)
+27009= Eredeti fájl törlése a sikeres titkosítást követõen
+27010= Titkosítás!
+27011= Kérem válassza ki a dekódolandó fájlt:
+27012= Jelszó a dekódoláshoz:
+27013= Jelszó emlékeztetõ
+27014= Kicsomagolás:
+27015= Célmappa megnyitása a sikeres dekódolás után
+27016= Dekódolás!
+27017= Kattintson a 'Tallózás' gombra a titkosítandó fájl kiválasztásához!
+27018= A kiválasztott fájl nem létezik. Kérem válasszon egy másikat.
+27019= Adja meg a jelszót, amelynek 6 és 16 karakter-hossz közé kell esnie!
+27020= Kérem, hogy mindkét mezõben ugyanazt a jelszót adja meg!
+27021= A következõ fájl már létezik. Felülírja azt?
+27022= A(z) %s fájl sikeresen titkosításra került.
+27023= Titkosított fájlok
+27024= A kijelölt fájl, nem ezzel programmal lett titkosítva. Kérem válasszon egy másikat.
+27025= Kattintson a 'Tallózás' gombra a dekódolandó fájl kiválasztásához!
+27026= A kiválasztott fájl nem létezik. Kérem válasszon egy másikat.
+27027= Kérem válassza ki azt a mappát, ahova helyreállításra kerül a fájl.
+27028= A(z) %s célmappát nem lehetett létrehozni
+27029= A(z) %s fájl már létezik, felülírja azt?
+27030= A(z) %s fájl sikeresen dekódolásra került.
+27031= Hibás jelszó, kérem adja meg újra.
+27032= Kérem válassza ki azt a mappát, ahova helyreállításra kerül a fájl.
+27033= A mûvelet nem sikerült, kérem próbálja meg újra.
+27034= A titkosítás folyamatban van, ez egy ideig eltarthat. Kérem legyen türelemmel.
+27035= A dekódolás folyamatban van, ez egy ideig eltarthat. Kérem legyen türelemmel.
+27036= Ez a fájl a program egy régebbi verziójával lett titkosítva. A fájl dekódolásához szeretné letölteni a File Encrypter v2 verzióját?
+27037= Titkosított fájl mentése:
+27038= Kérem válassza ki azt a mappát, ahova szeretné elhelyezni a titkosított fájlt.
+27039= A célmappa nem létezik, szeretné létrehozni azt?
+27040= Célmappa megnyitása a sikeres titkosítás után
+27041= Hozzáadás
+27042= A fájlokat át is húzhatja ide.
+27043= Helyi fájl
+27044= Állapot
+27045= Folyamat
+27046= Titkosított fájl
+27047= Kész
+27048= Várakozás...
+27049= Titkosítás...
+27050= A titkosítás sikerült.
+27051= A forrásfájl nem létezik.
+27052= A célfájl már létezik.
+27053= A forrásfájlt nem lehetett törölni.
+27054= Kattintson a 'Hozzáadás' gombra a titkosítandó fájlok kiválasztásához, vagy csak húzza át azokat a listába.
+27055= Nincsenek titkosítandó fájlok kiválasztva! Kérem próbálja meg újra.
+27056= Eltávolítás
+27057= Mindet kijelöl
+27058= Egyiket sem
+27059= Megfordítás
+27060= Kijelölt elem eltávolítása
+27061= Biztos benne, hogy a(z) %s kijelölt fájlt eltávolítja a titkosítási listából?
+
+[File Splitter and Joiner]
+28001= Fájldaraboló
+28901= Nagyméretû fájlok feldarabolása kisebb, könnyebben kezelhetõ méretre.
+28002= Darabolás
+28003= Egyesítés
+28004= Kérem válassza ki a feldarabolandó fájlt
+28005= Kérem válassza ki azt a mappát, ahova a feldarabolt fájlt szeretné elhelyezni
+28006= Kérem válassza ki a létrehozandó fájldarabok méretét
+28007= Floppy lemez (1.44MB)
+28008= Zip(TM) lemez (100MB)
+28009= Jaz(TM) lemez (1GB)
+28010= Egyrétegû DVD (4.7GB)
+28011= Egyéni fájlméret
+28012= Körülbelül %s darab fájl kerül létrehozásra.
+28013= Ön-egyesítõ funkció hozzáadása a fájlokhoz
+28014= Darabolás!
+28015= Kérem válasszon ki egyet a fájlok közül, az eredeti fájl helyreállításához. Bármelyiket kiválaszthatja, a többi automatikusan hozzáadásra kerül.
+28016= Darab információk:
+28017= Kérem adja meg azt a mappát, ahova szeretné elhelyezni a helyreállított fájlt.
+28018= Egyesítés!
+28019= A(z) %s fájlt nem lehetett létrehozni
+28020= A(z) %s fájlt nem lehetett megnyitni
+28021= Kattintson a 'Tallózás' gombra a feldarabolandó fájl kiválasztásához!
+28022= A fájl nem létezik! Kattintson a 'Tallózás' gombra a feldarabolandó fájl kiválasztásához!
+28023= A kijelölt fájl már kisebb, mint a maximális méret.
+28024= Kattintson a 'Tallózás' gombra a célmappa kiválasztásához!
+28025= A(z) %s célmappát nem lehetett létrehozni
+28026= A(z) %s célmeghajtón nincs elég szabad terület
+28027= A fájl sikeresen felosztásra került %s darabra. Az eredeti fájl nem lett törölve.
+28028= Kérem adja meg azt a mappát, ahova szeretné elhelyezni a feldarabolt fájlt.
+28029= Darabolt fájlok
+28030= Fájlnév:
+28031= Méret:
+28032= Darabok száma:
+28033= A kijelölt fájl nem része, egy feldarabolt fájlnak. Kérem válasszon egy másikat.
+28034= A következõ fájldarabok nem találhatók:
+28035= A fájl már létezik, felülírja azt?
+28036= Az eredeti fájl sikeresen összeállításra került.
+28037= Kérem válassza ki azt a mappát, ahova helyreállításra kerül a fájl.
+28038= A mûvelet nem sikerült, kérem próbálja meg újra.
+28039= A darabolás folyamatban van. Ez egy ideig eltarthat, kérem legyen türelemmel.
+28040= Az egyesítés folyamatban van. Ez egy ideig eltarthat, kérem legyen türelemmel.
+28041= Ez a mappa hozzáadásra került.
+
+[1-Click Maintenance]
+29001= Gyorskarbantartás
+29601= Rendszeleíró takarító
+29602= Parancsikon javító
+29603= Indítópult kezelõ
+29604= Ideiglenes fájl takarító
+29605= Nyomok takarító
+29606= Kémprogram eltávolító
+
+10603= Érvénytelen, vagy hibás bejegyzések kijavítása
+10605= Érvénytelen parancsikonok kitakarítása
+10607= Veszélyes indítópuejegyzések kitakarítása
+10609= Ideiglenes állományok kitakarítása, lemezterület felszabadítása
+10611= Internetes nyomok, és a tevékenysége nyomainak a kitakarítása
+10613= Adware, és kémprogramok eltávolítása
+10614= Elemzés...
+10615= Részletek
+10616= Hibakeresés
+10617= Nincsenek problémák.
+10618= 1 probléma azonosítva.
+10619= %s probléma azonosítva.
+10620= %s fájl azonosítva.
+10621= Nincsenek fájlok.
+10622= %s nyom kijelölve.
+10623= 1 nyom kijelölve.
+10624= Nincs kijelölt nyom.
+10625= Elemzés...
+10626= Kattintson a Hibajavítás lehetõségre a folytatáshoz.
+10627= Hibajavítás
+10628= A problémák kijavítva.
+10629= Visszanyert terület
+10630= A nyomok kitakarítva.
+10631= Kijavítás...
+10632= Takarítás...
+10633= Törlés...
+10634= %s probléma kijavítva.
+10635= %s nyom törölve.
+10636= %s visszanyerve.
+10637= Kérem válassza ki a törlendõ fájlokat.
+10638= Fájlok megtekintése
+10639= Összesen %s fájl, %s2 helyreállítható.
+10640= Kérem válassza ki a törlendõ nyomokat.
+10641= Kérem válassza ki a kijavítandó bejegyzéseket. Ha jobb gombbal kattint egy elemen, további lehetõségeket tekinthet meg.
+10645= Kérem válassza ki a törlendõ bejegyzéseket. Ha jobb gombbal kattint egy elemen, további lehetõségeket tekinthet meg.
+10642= Kérem válassza ki a törlendõ indítópult bejegyzéseket.
+10644= Kérem válassza ki a törlendõ bejegyzéseket.
+10643= Gyorskarbantartás megszakítása
+10646= Újravizsgál
+10647= "Hibajavítás" gomb >> folytatás. "Újravizsgál" gomb >> új ellenõrzés.
+
+[Glary Undelete]
+31001= Fájl visszaállítás
+31901= Véletlenül törölt fájlok gyors, és hatékony helyreállítása
+31002= Keresés
+31003= Szûrõ
+31004= Mappák
+31005= Fájltípusok
+31006= Név
+31007= Állapot
+31008= Eredeti útvonal
+31009= Méret
+31010= Típus
+31011= Utoljára módosítva
+31012= Visszaállítás
+31013= Meghajtók ellenõrzése, kérem várjon...
+31014= Átvizsgálandó mappa:
+31015= Nagyon jó
+31016= Jó
+31017= Közepes
+31018= Rossz
+31019= Felülírva
+31020= Célmappa kiválasztása:
+31021= Az ugyanazon meghajtóra történõ visszaállítás, csökkenti a helyreállítás esélyét. Biztos, hogy folytatja?
+31022= már létezik ebben a mappában %s. Biztos, hogy felülírja azt?
+31023= már létezik ebben a mappában %s. Biztos, hogy felülírja azt?
+31024= Szûrõ: BE
+31025= Szûrõ: KI
+31026= Azonosítva: %s, kijelölve: %s2
+31027= Keresés
+31028= Aktuális folyamat: %s%, %s2 fájl azonosítva.
+31029= Nem lehetett ellenõrizni: %s
+31030= Visszaállítás %s..., %s2 fájl helyreállítva.
+31031= A(z) %s fájlt nem lehetett létrehozni
+31032= Fájlnév szerint
+31033= Fájlnév részben, vagy egészben. Használhat helyettesítõket is pl.: *.doc
+31034= ? - egy karaktert helyettesíthet
+31035= * - bármennyi karaktert helyettesíthet
+31036= Méret szerint
+31037= Nagyobb mint
+31038= Kisebb mint
+31039= Dátum szerint
+31040= Ettõl
+31041= eddig
+31042= Állapot szerint
+31043= Minden típus
+
+31044= Nem érhetõ el elõnézet
+31045= Elõnézet
+31046= Kattintson a nagyításhoz
+31047= Kattintson a bezáráshoz
+31048= Helyi lemez
+
+[Registry Defrag]
+32001= Rendszerleíró mentesítés
+32901= A Rendszerleíró töredezettségmentesítése, a gép felgyorsításához
+32002= Üdvözli Önt a Rendszerleíró mentesítõ
+32003= Idõvel a Windows Rendszerleírója töredezetté válhat, több helyet foglal el a lemezen mint amennyi szükséges, és lassítja a betöltõdést is. A Rendszerleíró töredezettségmentesítõ tömöríti, és optimalizálja a Rendszerleírót. Ezzel jelentõsen javulhat a gépe teljesítménye.
+32004= - Töredezettség csökkentése
+32005= - Szerkezeti hibák kijavítása
+32006= - Nem használt memória visszaszerzése
+32007= Kattintson a Tovább gombra a töredezettség elemzéséhez.
+32008= Optimalizálás utáni méret:
+32009= Méretkülönbség:
+32010= Az eszköz által elérhetõ méretcsökkentés %s
+32011= Kattintson a Tovább gombra a mentesítéshez (újraindítás szükséges). Ha nem szeretné az optimalizálást, kattintson a Mégse gombra.
+32012= A töredezettségmentesítõ azt észlelte, hogy most nem szükséges a mentesítés. Havonta egyszer ajánlott a töredezettségmentesítés elvégzése.
+32013= Kattintson a Bezárás gombra a munka befejezéséhez
+32014= FIGYELEM: A Rendszerleíró elemzése közben ne futtasson más programokat!
+32015= Kérem mentse a munkáját, és zárja be a programjait a folyamat elõtt.
+32016= Ugyanígy az elemzés idejére kapcsolja ki a vírusvédelmi programját is. Általában a tûzfalprogram leállítása nem szükséges.
+32017= Miután bezárt minden más programot, kattintson az OK gombra a folytatáshoz.
+32018= A mentesítés nem lehetséges, mert a Rendszerleíró védve van a módosítások ellen. A probléma megoldásához zárja be a futó programokat, kapcsolja ki a vírus-, és kémprogram védelmét, majd próbálja meg újra. A mentesítés után ne feledje visszakapcsolni a védelmeit!
+32019= FIGYELEM: Az optimalizáláshoz a gép most újra fog indulni.
+32020= Szeretné optimalizálni most?
+32021= Rendszerleíró elemzése
+32022= Kérem várjon...
+32023= A számítógépe egy ideig nem fog reagálni, amíg az elemzés be nem fejezõdik. A vizsgálati folyamatot az Esc billentyû lenyomásával megszakíthatja...
+32024= A Rendszerleíró sikeresen optimalizálásra került.
+
+[System Information]
+33001= Rendszerinformáció
+33901= Hardver- és szoftverinformációk összegyûjtése
+33002= Jelentés létrehozása
+33003= Jelentés létrehozása (MIND)
+33004= Áttekintés
+33005= Operációs rendszer
+33006= Rendszereszközök
+33007= Memória
+33008= Meghajtók
+33009= Megjelenítés
+33010= Hálózat
+33011= Egyéb eszközök
+33012= Általános
+33013= Processzor
+33014= Alaplap
+33015= Windows verzió
+33016= Telepítés dátuma
+33017= Megjelenítés
+33018= Monitor
+33019= Videókártya
+33020= Bevitel
+33021= Egér
+33022= Billentyûzet
+33023= Lemez meghajtó
+33024= DVD/CD-ROM meghajtó
+33025= Operációs rendszer tulajdonságai
+33026= Név
+33027= Nyelv
+33028= Verzió
+33029= Bejegyzett tulajdonos
+33030= Bejegyzett szervezet
+33031= Termékazonosító
+33032= Termékkulcs
+33033= Telepítés dátuma
+33034= Gyökér útvonal
+33035= Aktuális munkamenet
+33036= Számítógépnév
+33037= Felhasználó név
+33038= Bejelentkezési tartomány
+33039= Üzemidõ
+33040= Összetevõk verziói
+33041= Internet Explorer
+33042= Windows Media Player
+33043= DirectX
+33044= Rendszermappák
+33045= Megosztott mappák
+33046= Alaplap
+33047= Alaplap név
+33048= Alaplap gyártója
+33049= BIOS tulajdonságok
+33050= BIOS verzió
+33051= Rendszer-BIOS dátuma
+33052= Videó-BIOS dátuma
+33053= CPU tulajdonságok
+33054= CPU azonosítása
+33055= CPU általános név
+33056= CPU forgalmazó
+33057= Sorozatszám
+33058= CPU frekvencia
+33059= L1 kód-gyorsítótár
+33060= L1 adat-gyorsítótár
+33061= L2 gyorsítótár
+33062= CPU foglalat
+33063= Csomagonkénti magok
+33064= Logikai magok
+33065= Konfiguráció részletei
+33066= CPU-használat
+33067= CPU-használati elõzmények
+33068= Fizikai memória
+33069= Virtuális memória
+33070= Összes memória
+33071= Szabad memória
+33072= Foglalt memória
+33073= Kijelölt memória
+33074= Alkalmazás
+33075= Memóriahasználat
+33076= Útvonal
+33077= Kötet részletei
+33078= Meghajtó betûjel
+33079= Eszköztípus
+33080= Sorozatszám
+33081= Fájlrendszer
+33082= Összes bájt
+33083= Szabad bájt
+33084= Foglalt bájt
+33085= Fájlrendszer
+
+33086= Fájltömörítés engedélyezve
+33087= A kötet tömörített
+33088= Hosszú fájlnevek engedélyezve
+33089= Unicode fájlnevek engedélyezve
+33090= Titkosított fájlrendszer
+
+33091= Logikai információk
+33092= Klaszterek száma
+33093= Szabad klaszterek
+33094= Foglalt klaszterek
+33095= Klaszterenkénti bájtok
+33096= Klaszterenkénti szektorok
+33097= Foglalt szektorok
+33098= Szabad szektorok
+
+33099= Konfiguráció részletei
+33100= Szektoronkénti bájtok
+33101= Összes szektor
+
+33102= Teljes lemezterület
+33103= Szabad lemezterület
+33104= Foglalt lemezterület
+
+33105= Videókártya tulajdonságai
+33106= Eszköz leírása
+33107= Adapter karaktersorozat
+33108= BIOS karaktersorozat
+33109= Lapka típusa
+33110= DAC-típus
+33111= Illesztõprogram dátuma
+33112= Illesztõprogram verzió
+33113= Illesztõprogram kiadója
+33114= Memóriaméret
+
+33115= Monitor tulajdonságok
+33116= Monitor neve
+33117= Modell
+33118= Gyártási dátum
+33119= Sorozatszám
+33120= Max. látható képernyõméret
+33121= Gamma
+
+33122= Támogatott üzemmódok
+
+33123= Hálózati adapter leírása
+
+33124= Hálózati adapter tulajdonságai
+33125= Hálózati adapter
+33126= Interfész típusa
+33127= Hardver cím
+33128= Kapcsolat neve
+33129= Kapcsolati sebesség
+33130= MTU
+33131= Fogadott bájtok
+33132= Elküldött bájtok
+
+33133= Hálózati adapter cím
+33134= IP/alhálózati maszk
+33135= Átjáró
+33136= DNS
+
+33137= Fogadott adat
+33138= Elküldött adat
+
+33139= Hangeszközök
+33140= Portok
+33141= USB
+33142= USB vezérlõ
+33143= Nyomtatók
+
+33144= Név
+33145= Érték
+
+33148= Rendszermappák
+33149= Megosztott mappák
+33150= Jobb kattintás egy mappán, az Intézõben történõ megnyitáshoz
+33151= Mappa megnyitása
+33152= Tulajdonságok
+33153= SEC
+33154= (%s óra %s2 perc %s3 másodperc)
+
+33155= OS típusa
+33156= %s bites
+
+[GLARYUTILITIES]
+1001001= Visszaállítás
+1001002= Visszajelzés
+1001003= Kis méret
+1001004= Verzió:
+1001005= Tetszik
+
+[OVERVIEW]
+1002001= Áttekintés
+1002002= Automatikus karbantartás bekapcsolása
+1002003= Személyes adatok kitakarítása a Windows leállításakor
+1002004= Frissítések ellenõrzése a program elindításakor
+1002005= Mélyvizsgálat, és kijavítás bekapcsolása
+1002006= Betöltõdési idõ
+1002007= A felesleges indítópult programok letiltásával, a Windows gyorsabban fog betöltõdni
+1002008= Indítópult kezelõ
+1002009= Ön ezt használja %s
+1002010= Frissítés
+1002011= Csatlakozzon a Felhasználói élmény fokozása programhoz
+1002012= Óra
+1002013= Perc
+1002014= Másodperc
+1002015= Kijelölés
+1002016= Licencelte:
+1002017= Licencek kezelése
+1002018= A licenc lejárt
+1002019= Szoftverfrissítések automatikus ellenõrzése
+1002020= Frissítési eredmények
+
+[ONECLICK]
+1003001= Lemezkarbantartó
+1003002= Rendszerleíró töredezettségmentesítése
+1003003= Malware immunizálás
+1003004= Rendszeroprimalizálás
+1003005= Merevlemezek töredezettségmentesítése
+
+[ADVANCED TOOLS]
+1004001= Speciális
+1004002= Windows rendszerleíró
+1004003= Kijavítás
+1004004= Töredezettségmentesítés
+1004005= Mentés
+1004006= Visszaállítás
+   
+1004007= Lemezterület
+1004008= Takarítás
+1004009= Fájlmásolatok kitakarítása
+1004010= Üres mappák eltávolítása
+1004011= Hibás parancsikonok törlése
+1004012= Lemezek áttekintése
+   
+1004013= Rendszer-finomhangolások
+1004014= Rendszer-finomhangolások
+1004015= Rendszerindítás optimalizálása
+1004016= Memória felszabadítása
+1004017= Internet felgyorsítása
+1004018= Turbó üzemmód
+   
+1004019= Adatvédelem
+1004020= Elõzmények törlése
+1004021= Fájlok megsemmisítése
+1004022= Szabad terület törlése
+1004023= Fájlok titkosítása
+   
+1004024= Illesztõprogramok
+1004025= Mentés
+1004026= Visszaállítás
+1004027= Eltávolítás
+1004028= Frissítések ellenõrzése
+   
+1004029= Fájlkezelés
+1004030= Fájldarabolás
+1004031= Törölt fájlok visszaállítása
+1004032= Gyorskeresés
+   
+1004033= Merevlemezek
+1004034= Töredezettségmentesítés
+1004035= Mentesítés rendszertöltés közben
+1004036= Hibaellenõrzés
+   
+1004037= Rendszerkezelés
+1004038= Indítópult elemek
+1004039= Szolgáltatások
+1004040= Ütemezett feladatok
+1004041= Környezeti menük
+1004042= Folyamatok
+1004043= Böngészõ kezelõ
+   
+1004044= Rendszerállapot
+1004045= Rendszerinformáció
+1004046= Számítógép biztonsági mentése
+1004056= Rendszerfájlok kijavítása
+1004047= Rendszer visszaállítás
+1004048= Módosítások visszavonása
+   
+1004049= Anti-malware
+1004050= Rosszindulatú kódok törlése
+1004051= Immunizálás
+   
+1004052= Programok
+1004053= Eltávolítás
+1004054= Frissítések ellenõrzése
+1004055= További programok keresése
+1004057=
+
+[QUICKLAUNCHBAR]
+1005001= A dokk-sávhoz történõ elem hozzáadásához, vagy az eltávolításhoz kattintson a +/- jelre
+1005002= Ez már létezik itt
+1005003= Nincs elég hely a dokk-sávon. Távolítson el egy elemet a "-" (mínusz) jelre történõ kattintással.
+1005004= Nincs elég hely a dokk-sávon. Távolítson el egy elemet úgy, hogy lehúzza dokk-sávról.
+
+[SKINSCENTER]
+1006001= Skin központ
+1006002= Képek mappa
+1006003= Kompakt színek
+1006004= A következõ fájl már létezik. Felülírja azt?
+1006005= Minden támogatott fájl
+1006006= Egyéni
+
+1007001= A próba licence lejárt. 
+1007002= kattintson erre az üzenetre a Glary Utilities Pro aktiválásához.
+1007003= A licence lejárt. 
+1007004= kattintson erre az üzenetre a Glary Utilities Pro újraaktiválásához.
+
+[CHECKDISK]
+2400001= Lemezellenõrzés
+2401001= Kérem válassza ki az ellenõrzendõ lemezt
+2401002= A fájlrendszer hibáinak automatikus kijavítása
+2401003= Hibás szektorok felkutatása, és kísérlet a visszaállításukra
+2401004= Lemezellenõrzés
+2401010= Meghajtó név
+2401011= Utolsó elemzés
+2401012= Állapot
+2401013= Elemzés
+2401014= Jelentés
+2401015= Kész
+2401016= Ellenõrzés szükséges
+2401017= Ellenõrzés %s
+2401018= A lemezellenõrzés megszakítva
+2401019= Hibák találhatók
+2401020= Nincsenek hibák
+2401021= Lemezellenõrzés hiba
+2401022= Elrejtés
+2401023= Részletek
+2401024= A lemezellenõrzõ megvizsgálja a meghajtóját, és a fájlrendszer hibáit.
+2401025= Az adatvesztés megakadályozása miatt, a hibák automatikusan javítva lesznek.
+2401026= Beállítások
+;2401027= Automatically fix file system errors
+;2401028= Scan for and attempt recovery of  bad sectors
+2401029= Ellenõrzés
+2401030= Leállítás
+2401031= A lemezellenõrzés ütemezése nem sikerült!
+2401032= A lemezellenõrzés beütemezésre került a gép következõ elindításakor.
+2401033= A lemezellenõrzés kihagyva.
+2401034= A lemezellenõrzés törölve lett.
+2401035= A lemezellenõrzés megszakításra került.
+2401036= Az ellenõrzés befejezõdött, nem találhatók hibák.
+2401037= Az ellenõrzés %s hibát talált a következõk szerint:
+
+2403001= Ellenõrzés %s
+2403002= Ezt tegye a következõ hibákkal %s
+2403003= Kihagyásra kerül %s másodpercig.
+
+2405001= A funkció nem található.
+2405002= A lemezellenõrzõ, egy hibával találkozott. Indítsa újra az alkalmazást.
+2405003= Fájlrendszer ellenõrzése itt: %s
+2405004= A megadott fájlrendszer %s.
+
+2406001= Mentés
+
+2407001= Eredmények
+2407002= Ellenõrzés ütemezése
+2407003= Újraindítás
+2407004= Részletek
+2407005= A Windows kijavítja a lemezt, a következõ indításkor.
+
+2408001= A Windows nem tudta ellenõrizni a lemezt, mert az használatban van
+2408002= Leválasztás kikényszerítése\nBiztos, hogy elõször leválasztja a kötetet? Figyelem: A kötet összes megnyitott kezelõje érvénytelen lesz.
+2408003= Lemezellenõrzés ütemezése\nSzeretné ellenõrizni a lemeze hibáit, a gép következõ elindításakor?
+2408004= Kihagyás
+
+[RESTORE CENTER]
+
+2602001= Visszaállítási pont létrehozása...
+2603001= Adjon meg egy leírást a visszaállítási pont azonosításához. Az aktuális dátum és idõpont automatikusan hozzáadásra kerül.
+2603002= Létrehozás
+2603003= Kérem adjon meg egy leírást.
+2604001= Rendszer elõkészítése a visszaállításhoz ...
+2605001= Visszaállítva %s elem
+
+
+[SETTINGS]
+2801001= Általános beállítások
+2801002= A lenti elemek kihagyásra kerülnek a vizsgálat végrehajtása közben.
+2801003= Továbbiak
+2801004= A rendszerleíró átvizsgálásán keresztül javaslatokat kaphat az azonosított hibák kijavításához.
+2801005= Dokk-sáv tippek mutatása
+2801006= Többszörös forrópont megadva
+2801007= A feladat nincs ütemezve
+2801008= UAC figyelmeztetések mellõzése
+2801009= Almenü megjelenítése a környezeti menüben
+2801010= Csatlakozom a Glary Utilities tökéletesítési programjához
+2801011= Bõvebben...
+
+2802001= Ütemezés:
+2802002= Kezdési idõ:
+2802003= Ne indítsa el a feladatot, ha a gép telep üzemmódban van.
+2802004= Feladat leállítása telep üzemmódban.
+2802005= Számítógép felébresztése a feladat futtatásához.
+2802006= Energiagazdálkodás
+
+2803001= Napló
+2803002= Napló beállítások
+2803003= Elmentett naplók
+2803004= Mappa megnyitása
+2803005= Megtekintés
+2803006= Törlés
+2803007= Mindet töröl
+2803008= Napló létrehozása, a PC-n történt bármilyen módosítás esetén
+2803009= Max. fájl:
+
+[Quick Search]
+3700001= Gyorskeresés
+3700002= 
+
+//frmMain
+3701001= Fájl
+3701002= Szerkesztés
+3701003= Nézet
+3701004= Súgó
+3701005= Megnyitás
+3701006= Mappa megnyitása
+3701007= Exportálás
+3701008= Bezárás
+3701009= Másolás
+3701010= Útvonal egyezés
+3701011= Beállítások
+3701012= Szövegméret
+3701013= Ikonok rendezése mint
+3701014= Frissítés
+3701015= Növelés
+3701016= Csökkentés
+3701017= Normál
+3701018= Név
+3701019= Útvonal
+3701020= Méret
+3701021= Módosítás dátuma
+3701022= Honlap
+3701023= Névjegy
+3701024= Kategória módosítása
+3701025= Mindet mutat
+3701026= Parancsikon
+3701027= Dokumentumok  
+3701028= Képek        
+3701029= Videók        
+3701030= Zenék      
+3701031= Programozás 
+3701032= %s fájlok mutatása
+3701033= Fájl hozzáadás 
+3701034= Mappa hozzáadás
+3701035= %s elem található
+3701036= %s ellenõrzése ...
+3701037= Típus   
+3701038= Fájl leírása 
+3701039= Fájlverzió 
+3701040= Termék verzió 
+3701041= Vállalat név 
+3701042= Szövegfájl (*.txt)|*.txt|Minden fájl (*.*)|*.*
+3703043= A fájl létezik
+3703044= Tippek
+3703045= %s elem kijelölve
+3701046= A(z) %s betöltése ...
+3701047= Útvonal másolása a Vágólapra
+3701048= Teljes név másolása a Vágólapra
+3701049= Túl sok fájlt jelölt ki, ezért lehet, hogy a program nem fog válaszolni. Biztos benne, hogy folytatja?
+
+//frmSetting
+3702001= Beállítások
+3702002= Kategória
+3702003= Általános
+3702004= Automatikus indítás a bejelentkezéskor
+3702005= Kattintson duplán a 'Ctrl' billentyûvel, a keresõmezõ mutatásához/elrejtéséhez
+3702006= Nyelv:
+3702007= Kategória név
+3702008= Fájlkiterjesztések
+3702009= Hozzáad
+3702010= Módosít
+3702011= Töröl
+3702012= OK
+3702013= Mégse
+3702014= Válasszon ki egy kategóriát!
+3702015= Ez a kategória nem törölhetõ
+3702016= Lemezek
+3702017= Kérem válassza ki az átvizsgálandó lemezt
+3702018= Meghajtó név
+3702019= Fájlrendszer
+3702020= Kapacitás
+3702021= Foglalt terület
+
+//frmGroupSetting
+3703001= Kategória név:
+3703002= Fájlkiterjesztés:
+3703003= Fájlkiterjesztés:
+3703004= Kiterjesztés
+3703005= Fájltípus
+3703006= Kiterjesztés megadása (*.doc)
+3703007= A kategória név nem lehet üres!
+3703008= A fájlkiterjesztés nem lehet üres!
+3703009= A(z) %s név már létezik, adjon meg egy másik nevet.
+3703010= Hozzáadás
+3703011= Módosítás
+
+//UnitFunction
+3704001= Nincs szöveg a Vágólapon!
+
+//frmAbout
+3705001= Névjegy
+3705002= Verzió:
+3705003= Webhely:
+3705004= Copyright @ 2013, Glarysoft ltd. Minden jog fenntartva
+
+//tray icon
+3706001= Gyorskeresés megnyitása
+
+//Task
+3707001= Glary Utilities 4 - Gyorskeresés
+
+[Disk Defrag]
+3400001= Lemez mentesítés
+3400002= Lemezek felgyorsítása, a PC jobb teljesítményéhez
+
+3400003= A számítógépe teleprõl mûködik, ezért nem ajánlott a töredezettségmentesítés. Ha mégis szeretné a mentesítést elvégezni, vonja vissza a "Mentesítés leállítása telep üzemmódban" opció kijelölését a beállításoknál.
+
+//frmMain
+3401001= Meghajtó név
+3401002= Fájlrendszer
+3401003= Kapacitás
+3401004= Szabad terület
+3401005= Töredezett
+3401006= Állapot
+3401007= Betöltéskori mentesítés 
+3401008= Fájl
+3401009= Eszközök
+3401010= Súgó
+3401011= Fájl töredezettségmentesítése...
+3401012= Mappa töredezettségmentesítése...
+3401013= Elemzés
+3401014= Mentesítés
+3401015= Mentesítés és optimalizálás (lassú, hetente egyszer használja)
+3401016= Kilépés
+3401017= Prioritás
+3401018= Alacsony prioritás
+3401019= Normál prioritás
+3401020= Magas prioritás
+3401021= Beállítások
+3401022= Kezdõlap
+3401023= Frissítések ellenõrzése
+3401024= Névjegy
+3401025= Mentesítés
+3401026= Elemzés
+3401027= Mentesítés és optimalizálás (lassú, hetente egyszer használja)
+3401028= Szünet
+3401029= Folytatás
+3401030= Leállítás
+3401031= PC kikapcsolása a mentesítés után
+3401032= Mindet kijelöl
+3401033= Egyiket sem
+3401034= Állapot
+3401035= Jelentés
+3401036= Foglalt terület
+3401037= Szabad terület
+3401038= Feldolgozás
+3401039= Szabad terület
+3401040= Foglalt terület
+3401041= Nem töredezett
+3401042= Nem mozgathatók
+3401043= Töredezett fájlok
+3401044= Foglalt
+3401045= MFT
+3401046= Kész
+3401047= Elemzés
+3401048= Mentesítés
+3401049= Optimalizálás
+3401050= Elemezve
+3401051= Mentesített
+3401052= Optimalizált
+3401053= Az elemzés kész
+3401054= A töredezettségmentesítés kész
+3401055= Az optimalizálás kész
+3401056= Az elemzés megszakítva
+3401057= A töredezettségmentesítés megszakítva
+3401058= Az optimalizálás megszakítva
+3401059= A rendszertöltéskori mentesítés aktiválva van ezen a köteten.
+3401060= A rendszertöltéskori mentesítés nincs aktiválva ezen a köteten.
+3401061= Kikapcsolás
+3401062= Bekapcsolás
+3401063= Beállítás
+3401064= Lapozófájl, hibernálási fájl mentesítése
+3401065= MFT mentesítése
+3401066= Rendszerfájlok mentesítése
+3401067= Rendszertöltéskori mentesítés elõzményei (dupla kattintás a részletekhez)
+3401068= Dátum
+3401069= Teljes méret
+3401070= Mentesített
+3401071= Összes fájl és mappa:
+3401072= Töredékek:
+3401073= Töredezettségi arány:
+3401074= Fájlnév
+3401075= Töredékek
+3401076= Méret
+3401077= Útvonal
+3401078= Igen
+3401079= Nem
+3401080= fájl
+3401081= Mappa kiválasztása
+3401082= Figyelmeztetés
+3401083= A töredezettségmentesítõ még fut.
+3401084= Ismeretlen illesztõprogram
+3401085= A gyökérkönyvtárat nem lehet hozzáadni a kizárási listához. Kérem válasszon egy másikat.
+3401086= Kijelölés megfordítása
+3401087= Egy leállítása
+3401088= Mind leállítása
+3401089= Ez a kötet egy SSD tárolóegység, és nem szükséges a töredezettségmentesítése.
+3401090= Úgy tûnik, hogy ez egy SSD merevlemez. A töredezettségmentesítés csökkentheti az élettartamát. Biztos benne, hogy folytatja?
+
+//frmOption
+3402000= Beállítások
+3402001= Általános
+3402002= Mentesítés
+3402003= Automatikus mentesítés
+3402004= Ütemezés
+3402005= Betöltéskori mentesítés
+3402006= Optimalizálás
+3402007= Kizárások
+3402008= Nyelv:
+3402009= Automatikus indítás a bejelentkezéskor
+3402010= Lekicsinyítés a tálcára a program ablakának bezárásakor
+3402011= Ballon tippek mutatása a Tálcára történõ lekicsinyítéskor
+3402012= Töredezettségmentesítõ integrálása az Intézõ környezeti menüjébe
+3402013= Frissítések automatikus ellenõrzése
+3402014= Lemezek egyidejû töredezettségmentesítése
+3402015= Alapérték
+3402016= Intelligens
+3402017= Aurora
+3402018= Windows szabvány
+3402019= Hozzáférhetõség
+3402020= Rainbow
+3402021= Sea Breeze
+3402022= Csak azokat a fájlokat mentesítse, amelyeknek:
+3402023= A töredezettsége kevesebb mint
+3402024= Több mint
+3402025= Nagyobb mint
+3402026= Kisebb mint
+3402027= töredék
+3402028= Nagy fájlok átmozgatása a meghajtó végére
+3402029= Minimális fájlméret:
+3402030= Azok a fájlok, amelyek az elmúlt hónapban nem kerültek megnyitásra
+3402031= A Lomtárban levõ fájlok
+3402032= A kiválasztott típusú fájlok
+3402033= Kategória
+3402034= Típus
+3402035= Hozzáad
+3402036= Szerkesztés
+3402037= Törlés
+3402038= Bizonyos fájlokat kizárhat a mentesítésbõl (pl. videófájlok). {#13#10}Ezzel felgyorsíthatja a mentesítést.
+3402039= Fájl
+3402040= Mappa
+3402041= Automatikus mentesítés kikapcsolva
+3402042= Automatikus mentesítés bekapcsolva
+3402043= Ha az automatikus mentesítés be van kapcsolva, a lemezei automatikusan mentesítve lesznek, hogy a gépe csúcsformában legyen.
+3402044= Autom. mentesítés, %s perc üresjárat után
+3402045= Szünet a %s%-ot meghaladó CPU/lemezhasználatnál
+3402046= Meghajtók
+3402047= Utolsó mentesítés.
+3402048= Mentesített fájl:
+3402049= Futtatás ütemezése
+3402050= Mûvelet:
+3402051= Gyakoriság:
+3402052= Idõpont:
+3402053= Csak mentesítés
+3402054= Mentesítés és optimalizálás
+3402055= Naponta
+3402056= Hetente
+3402057= Havonta
+3402058= Hétfõ
+3402059= Kedd
+3402060= Szerda
+3402061= Csütörtök
+3402062= Péntek
+3402063= Szombat
+3402064= Vasárnap
+3402065= Betöltéskori mentesítés engedélyezése
+3402066= Mentesítési típus:
+3402067= Módszer
+3402068= Minden indításkor
+3402069= A napi elsõ indításkor
+3402070= %s naponta, az elsõ indításkor
+3402071= Max. naplófájl:
+3402072= Lemezellenõrzõ (Chkdsk) elindítása a mentesítés elõtt 
+        
+3402073= Speciális mentesítés
+3402074= Gyorsmentesítés
+3402075= Mappa kiválasztása
+3402076= Kérem válassza ki a mentesítendõ meghajtót!
+3402077= Tippek
+3402078= Kérem válasszon ki egy kategóriát!
+3402079= Biztos benne, hogy törli ezt a kategóriát?
+3402080= Kategória hozzáadása
+3402081= Kategória szerkesztése
+3402082= OK
+3402083= Mégse
+3402084= A rendszertöltéskori mentesítéssel biztonságosan áthelyezheti azokat a fájlokat, amelyeket egyébként a Windows futása közben nem lehetne.
+3402085= VSS leállítása NTFS kötet mentesítése esetén
+3402086= Mentesítés leállítása telep üzemmódban
+
+//frmConfig
+3403001= Archívumok
+3403002= Filmek
+3403003= Lemezképek
+
+//frmCategory
+3404001= A kategória név nem lehet üres! 
+3404002= Formátum megadási hiba! Példa: (*.doc/*.doc,...,*.Txt).
+
+//frmFileType
+3405001= Kategória:
+3405002= Típus:
+3405010= A(z) %s név már létezik, adjon meg egy másik nevet.
+
+[SpyRemover]
+2701001= Malware eltávolító
+2701002= Malware eltávolító
+2701003= Kémprogramok, adware-k gyorvizsgálata, és eltávolítása
+2701004= Vizsgálat
+2701005= Töröl
+2701006= Visszaállítás
+2701007= Újravizsgál
+2701008= Válassza ki a helyreállítandó mentést, majd kattintson a 'Visszaállítás'-ra.
+2701010= Típus
+2701011= Állapot
+2701012= Mentések
+2701013= Biztos benne, hogy helyreállítja ezt %s, a rendszerleíróba?
+2701014= A(z) %s sikeresen helyreállításra került a rendszerleíróba.
+2701015= Ellenõrzés %s
+2701016= Átvizsgált fájl: %s
+2701017= A rosszindulatú sikeresen törlésre került!
+2701018= Visszaállítás
+2701019= Malware vizsgálat
+2701020= A vizsgálat kész
+2701021= %s rosszindulatú található
+2701022= Nem található rosszindulatú kód
+2701023= 1 rosszindulatú alkalmazás észlelve
+2701024= Nincsenek kijelölt elemek
+2701025= %s elem kijelölve
+2701026= %s elem kijelölve
+2701027= Malware információ
+2701028= Nem találhatók rosszindulatú kódok!
+2702001= Részletek
+2702002= Kérem válassza ki a törlendõ bejegyzéseket.
+	 
+[BOOT TIME]
+2901001= Csak tájékoztató jellegû adat!
+2901002= A Windows betöltõdése Nagyon lassú, lassabb mint a felhasználók %s-a.
+2901003= A Windows betöltõdése Lassú, lassabb mint a felhasználók %s-a.
+2901004= A Windows betöltõdése Általános, lassabb mint a felhasználók %s-a.
+2901005= A Windows betöltõdése Gyors, a felhasználók %s-a ennél lassabb.
+2901006= A Windows betöltõdése Nagyon gyors, a felhasználók %s-a ennél lassabb.
+2901007= Az adatok összegzése nem sikerült, az érték nem számítható ki.
+2901008= Betöltõdési idõ megállapítása, kérem várjon...
+
+[DRIVER BACKUP]
+2200001= Illesztõprogram kezelõ
+2201001= Mentés
+2201002= Eltávolítás
+2201003= Visszaállítás
+
+2201004= Válassza ki az elmentendõ illesztõprogramokat, majd kattintson a "Mentés" gombra.
+2201005= Válassza ki az eltávolítandó illesztõprogramokat, majd kattintson az "Eltávolítás" lehetõségre.
+2201006= Válassza ki a biztonsági mentés eltárolásához használt mappát:
+2201007= Biztonsági másolat mentése:
+2201008= Illesztõprogram mentés
+2201009= A(z) %s létrehozása nem sikerült!
+2201010= Biztos benne, hogy eltávolítja ezt az eszközt?
+2201011= Eszköz név
+2201012= Verzió
+2201013= Mentés dátuma
+2201014= Lehet, hogy a számítógépet újra kell indítani!
+
+
+[Software Update]
+4000001= Programfrissítõ
+4000002= Frissítési eredmények
+4000003= Bétaverziók elrejtése
+4000004= Programfrissítés
+4000005= OK
+4001001= Részletek...
+4001002= Mégse
+4001003= Tovább
+4001004= Programfrissítõ elindítása a Windows-al együtt
+4001005= Vizsgálat
+4001006= Újravizsgál
+4001007= A 100%-os vizsgálat kész.
+4001009= Frissítési eredmények
+4001010= Indításra kész ...
+4001011= Számítógép ellenõrzése ...
+4001012= Adatok elküldése elemzésre ...
+4001013= Eredmények megnyitása ...
+4001014= Kattintson a 'Vizsgálat' gombra, a telepített programok ellenõrzéséhez!
+4001015= A www.glarysoft.com meglátogatása
+4001016= Visszaállítás a tálcáról
+4001017= Kilépés
+4001019= Kattintson az üzenetre a továbbiakhoz.
+4001020= Részletek
+4001021= Frissítések ellenõrzése
+
+4001022= 1 új frissítés érhetõ el.
+4001023= %s új frissítés érhetõ el. 
+4001024= 1 bétafrissítés érhetõ el. 
+4001025= %s bétafrissítés érhetõ el. 
+
+4001026= 1 új frissítés, és 1 bétafrissítés érhetõ el.
+4001027= 1 új frissítés, és %s bétafrissítés érhetõ el. 
+4001028= %s új frissítés, és 1 bétafrissítés érhetõ el. 
+4001029= %s új frissítés, és %s2 bétafrissítés érhetõ el.
+4001030= Jelenleg nem érhetõk el frissítések.
+
+4001040= Összes kiadás mutatása
+4001041= Összes kiadás elrejtése
+4001042= Rejtse el ezt a kiadást
+4001043= Telepített verzió:
+
+4001050= Általános
+4001051= Eredmények
+4001052= Speciális
+
+4001053= Felület
+4001054= Automatikus frissítés
+4001055= Nyelv
+4001056= Értesítsen, ha a program újabb verziója érhetõ el
+4001057= Automatikus frissítés a legújabb verzióra
+
+4001058= Eredmények
+4001059= Béta verziók elrejtése
+
+4001060= Windows indítás
+4001061= Tálca
+4001062= Programfrissítõ elindítása a Windows-al együtt
+4001063= Kilépés a programból az ablaka bezárásakor
+4001064= Lekicsinyítés a Tálcára
+4001065= Beállítások
+4001066= Frissítés a Pro-ra
+
+[Portable Maker]
+5001001= Glary Utilities Portable készítõ
+5001002= A "Létrehozás" gombra történõ kattintással elkészítheti a Glary Utilities hordozható verzióját. Ez az Asztalon kerül létrehozásra, vagy kattintson
+5001003= ide az alapértelmezett útvonal módosításához
+5001004= Létrehozás
+5001005= Fájl helyének megnyitása
+5001006= A hordozható verzió sikeresen elkészült. Kattintson a "Fájl helyének megnyitása" lehetõségre a megtekintéséhez. Tömörítse ki a zip-fájlt, majd indítsa el az "Integrator_Portable.exe" fájlt. Figyelem: a hordozható verzió, csak a free kiadás lehetõségeit tartalmazza.
+
+[error report]
+6001001= A(z) %s egy problémába ütközött, ezért az be kell zárnia. Elnézést kérünk a kellemetlenségért.
+6001002= Kérjük értesítse a Glarysoft-ot errõl a problémáról.
+6001003= A program létrehozott egy hibajelentést, amelyet elküldhet nekünk. A hibajelentést bizalmasan és név nélkül fogjuk kezelni.
+6001004= Ha szeretné megtekinteni a hibajelentés tartalmát,
+6001005= kattintson ide
+6001006= Hibajelentés küldése
+6001007= Ne küldje el
+6001008= Tippek
+6001009= Kérem válassza ki, a nekünk elküldendõ fájlokat!
+6001010= A hibajelentés elküldése nem sikerült. Kérjük, hogy egy mellékletként küldje el ide a fájlok listáját: {\r\n}%s{\r\n}Köszönjük a közremûködését!
+

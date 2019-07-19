@@ -1,0 +1,2359 @@
+[Language]
+Description= Nederlands
+
+[Globals]
+10001= Bestand
+10002= Bewerken
+10003= Beeld
+10004= Help
+10005= Afsluiten
+10023= Help weergeven
+10018= Home Page
+10019= Over
+10006= Stop
+10007= Vernieuwen
+10008= Eigenschappen
+10009= Naam
+10010= Openen
+10011= Grootte
+10012= OK
+10013= Annuleren
+10014= Sluiten
+10015= Ja
+10016= Nee
+10017= Bladeren...
+10020= Export...
+10021= Map openen
+10022= Taken
+10024= Volgende
+10025= Terug
+10026= Opties
+19026= Totale Grootte
+19027= Beschikbaar
+14023= Status
+10027= Beschrijving
+10028= Beëindigen
+10029= Prullenbak
+14009= Details
+10030= Toevoegen
+10031= Verwijderen
+10032= Default
+10033= Aanmaak datum
+10034= Verwijderen
+10035= Aan vrienden aanbevelen
+10036= Nu kopen
+10037= Enter a Registration Code
+15009= Selecteer Alles
+15010= Niets selecteren
+15011= Selectie omkeren
+15014= Selecteren
+10038= Menu
+10039= Controleren op updates
+10040= Talen
+10041= Weet u zeker dat u de geselecteerde bestanden in de prullenbak wilt stoppen?
+10043= Sommige bestanden kunnen niet verwijderd worden. Controleer of de bestanden niet in gebruik zijn en dat de disk niet vol of tegen schrijven beschermd 
+10044= Waarschuwing
+10045= Informatie
+10046= Fout
+10047= Bevestiging
+10048= Initialiseren
+
+10050= Aanbevelen
+10051= Toepassen
+10052= Extra
+10053= Het programma wil niet starten door een niet aanwezig bestand of een beschadigd bestand, Installeer het programma opnieuw om het probleem te verhelpen. Klik 'Ja' om de laatste versie van Glary Utilities te downloaden.
+
+[Integrator]
+10801= Opschonen & Repareren
+10802= Optimaliseren & verbeteren
+10803= Privacy & Beveiliging
+10804= Bestanden & Mappen
+10805= Systeem Gereedschappen
+
+10806= Status
+10807= Program Status
+10808= Huidige versie:
+10809= Laatste Update:
+10810= Database Datum:
+10811= Licentie Status
+10812= Type:
+10813= Gratis Versie
+10814= Professionele Versie
+10815= Uiterste Datum:
+10816= Nooit
+10817= Registreer uw betaald product door op de knop hieronder te klikken.
+10818= Registreer
+10819= AutoCare Instellingen
+
+10799= Modules
+
+10820= Instellingen
+10821= Algemeen
+10822= Taal:
+10823= Glary Utilities automatisch starten met Windows startup.
+10824= Minimaliseren naar de taakbalk als u het venster sluit
+10825= Context Menu
+10826= Selecteer de context menus die u wilt integreren in Windows Explorer.
+10827= Automatische Update
+10828= Web Update uitvoeren op een geplande tijd.
+10829= Planning:
+10830= Niet beschikbaar in de gratis versie
+10831= Planning aanpassen
+10832= Auto Care
+10833= Privacy sporen verwijderen bij uitloggen of afsluiten van Windows.
+10834= Privacy Sporen
+10835= Selecteer sporen die u wilt verwijderen bij uitloggen of afsluiten van Windows
+10836= Automatisch 1-Klik Onderhoud
+10837= Automatisch 1-Klik Onderhoud uitvoeren op een geplande tijd.
+10838= Restore Center
+10839= Restore Center Protection
+10840= Selecteer de modules die door het Restore Center beschermd moeten worden.
+10841= Beschikbare modules:
+10842= Backup Opties
+10843= Verwijder backups automatisch:
+10844= Beperk het aantal backups tot:
+10845= Negeren Lijst
+10846= Na een week
+10847= Na 2 weken
+10848= Na 3 weken
+10849= Na een maand
+10850= Na 2 maanden
+10851= Na 3 maanden
+10852= Automatisch 1-Click Onderhoud Opties
+10853= Alleen scannen naar problemen
+10854= Naar Problemen scannen en repareren
+10855= Selecteer sporen die u wilt verwijderen
+10856= Toon balloon tips bij minimaliseren op de balk
+10857= Controleer op updates als het programma start
+
+10900= Ongedaan maken
+10901= Selecteer een backup om terug te zetten en klik 'Terugzetten' knop.
+10902= System Restore
+10903= Herstelpunten maken
+10914= Nieuw Herstelpunt aangemaakt.
+10904= Aanmaken Herstelpunt mislukt! System Restore is waarschijnlijk uitgeschakeld op dit systeem, of u heeft niet de juiste toestemming.
+10905= Om System Restore in te schakelen, Voer de volgende stappen uit: Start Configuratiescherm -> Systeem -> System Restore tab. Verwijder de "Turn off System Restore op alle disken" vinkje om System Restore in te schakelen. Klikk OK.
+10906= Selecteer eerst een herstelpunt!
+10907= Sla uw wijzigingen op en sluit alle open programma's af. Windows zal automatisch herstarten in het herstel proces.
+10908= Selecteer eerst een backup!
+10911= Backups
+10912= Weet u zeker dat u %s wilt herstellen?
+10913= Herstel uitgevoerd.
+10915= Selecteer een herstel punt voor herstel, en klik op de 'Herstel' knop.
+
+10909= Hint
+10910= Glary Utilities draait nog steeds.
+
+10916= FAQ
+10917= Skins
+10918= Portable Versie
+10919= Emergency Support
+
+[License Dialog]
+20001= Dit is een proef versie voor een beperkte tijd.
+20002= U kunt de volle functionaliteit van de software testen voor %s dagen zonder enige verplichting.
+20003= Bevalt de software en wilt u het gebruiken na de test periode, Klik dan op "Bestel Nu".
+20004= Test periode: dag %s van %s2
+20005= Deze proef versie is verlopen. U heeft de volledige functionaliteit van de software %s dagen kunnen testen.
+20006= Als u de software wilt blijven gebruiken, klik op "Bestel Nu".
+20007= Test periode verlopen
+20008= Niet Geregistreerd
+20009= Copyright(c)
+20010= Een gebruiksrecht is toegekend aan:
+20011= Waarschuwing: Dit computer programma is Beschermd door copyright Wetten en internationale verdragen. Ongeauthoriseerde reproductie of verspreiding van dit programma kan resulteren in strenge civil en Strafrechtelijke straffen en zal vervolgd worden tot het maximaal mogelijke onder de wet.
+20012= Web Site
+20013= Bestel Nu
+20014= Voer Code in
+20015= Keep Testing
+20016= Uw naam:
+20017= Registratie code
+20018= Als u geen Registratie Code voor het deblokkeren van deze proefversie, kunt u
+20019= Online bestellen.
+20020= De ingevoerde registratie code is niet geldig. Controleer of de code juist is ingevoerd.
+20021= Met dank aan de volgende personen voor hun bijdrage
+20022= Nu Upgraden!
+20023= Voer uw licentie informatie in
+20024= Licentie Type:
+20025= Om uw licentie te verkrijgen,
+20026= Home Page:
+
+20027= Nu Upgraden
+20037= Voer uw naam in!
+20038= Licentie code:
+20039= Activateer Nu
+20040= Heeft u geen licentie?
+20041= Klik hier om er een te verkrijgen.
+20042= Ik ben mijn licentie code kwijt.
+20043= Voer uw licentie informatie in
+20044= Licentie Naam:
+20045= Verloop Datum:
+20046= %s dag(en) over
+20047=  %s dag(en) geleden verlopen
+20048= Vernieuwen
+20049= Export Licentie Gegevens
+20050= Glary Utilities Licentie Manager
+20051= E.g. AC6E-D9C6-FAB8-A8C8
+20052= Licentie Manager
+20053= Licentie informatie is opgeslagen in:
+
+[Updater]
+30001= Unable to retrieve information from %s
+30002= Uw computer heeft de meest recente versie van %s. Update is nu niet nodig.
+30003= U gebruikt %s : %s2.
+30004= Een nieuwere versie van %s is beschikbaar voor downloaden: %s2. Klik "OK" om een venster te openen met download details, of klik Annuleren als u niet nu wilt upgraden.
+30005= Update successvol
+30006= Ophalen van updated versie (%s)...
+30007= Ophalen van Referentie updated bestand (%s)...
+30008= Controleren op updates...
+30009= Klaar
+30010= WebUpdate Uitvoeren...
+30011= Geschatte tijd te gaan:
+30012= Transfer Rate:
+30013= Onbekend
+30014= %s sec
+30015= %s van %s2 gekopieerd
+30016= %s/Sec
+30017= U moet upgraden naar de PRO versie van %s om deze feature te gebruiken. Nu Upgraden?
+30018= %s is nu beschikbaar. Klick op dit bericht om het te installeren.
+30019= %s min %s2 sec
+30020= Ophalen van taal updated bestand (%s)...
+
+[Context Menu]
+40001= Analiseer de diskruimte met Glary Utilities
+40002= Samenvoegen met Glary Utilities
+40003= Opsplitsen met Glary Utilities
+40004= Decrypt met Glary Utilities
+40005= Encrypt met Glary Utilities
+40006= Schoon maken met Glary Utilities
+40007= Lege mappen vinden met Glary Utilities
+
+40008= Disk Defragmenteren met Glary Utilities
+40009= Defragmenteer de Disk met Glary Utilities
+40010= Map defragmenteren met Glary Utilities
+40011= Bestand defragmenteren met Glary Utilities
+
+[Registry Cleaner]
+11001= Register Repareren
+11901= Schoont het register om om de systeem prestaties te verbetren.
+11002= Selecteer te scannen secties
+
+11003= Actie
+11004= Scan register op problemen
+11005= Repareer het register
+11006= Maak reparaties ongedaan
+11007= Gereedschappen
+
+11008= De geselecteeerde problemen zijn met succes verholpen.
+11009= Weet u zeker dat u het item wilt toevoegen aan de Negeren lijst? Dit item wordt dan niet meer gevonden.
+11010= Het bestand is opgeslagen als:
+11011= Overzicht van gevonden problemen:
+11012= 1 probleem gevonden
+11013= %s problemen gevonden
+11014= 1 probleem geselecteerd voor reparatie
+11015= %s problemen geselecteerd voor reparatie
+11016= Geen problemen gevonden
+11017= Geen problemen geselecteerd voor reparatie
+11018= (%s problemen gevonden)
+11019= Analyseren
+11020= Sectie:
+11021= Correctie:
+11022= Openen in Regedit
+11023= Open deze entry in Regedit
+11024= Verwijder deze entry
+11025= Laat deze entry ongewijzigd
+11026= Deze regel altijd uitsluiten(Wordt nooit meer gevonden)
+11027= Eigenschappen
+11028= Open de eigenschappen van deze snelkoppeling
+11029= Verwijder deze snelkoppeling
+11030= Laat deze snelkoppeling ongewijzigd
+
+11031= Scan voltooid
+11032= Repareren
+11033= Klik Repareren voor automatisch oplossen of klik Skluiten om details te bekijken.
+11034= Reparatie voltooid
+11035= Aan het Scannen
+11036= Repareren
+11037= Terugzetten
+11038= Selecteer de backup die u wilt terugzetten en klik 'Restore' knop.
+11039= Backup
+11040= Bent u er zeker van dat u %s wilt terugzetten in het system register?
+11041= %s is met succes teruggezet in het register.
+
+11042= De entry %s wijst naar het niet gevonden bestand of map %s2
+11043= Deze register sleutel wijst naar de niet gevonden sleutel %s
+11044= Deze register sleutel bevat geen data, kan worden verwijderd.
+11045= Deze register sleutel wijst naar de niet gevonden CLSID %s
+11046= Deze register sleutel wijst naar het niet gevonden icon bestand %s
+11047= De context menu regel %s wijst naar het niet gevonden programma %s2
+11048= Dit register is incompleet omdat de subsleutel Command mist.
+11049= Deze register sleutel is incomplete omdat het geen data bevat die nodig is voor windows.
+11050= Deze register sleutel wijst naar de niet gevonden InprocServer %s. De bijbehorende CLSID kan verwijderd worden.
+11051= Deze register sleutel wijst naar de niet gevonden LocalServer32 %s. De bijbehorende CLSID kan verwijderd worden.
+11052= Deze register sleutel wijst naar de niet gevonden type bibliotheek %s
+11053= Deze register sleutel wijst naar de niet gevonden map %s
+11054= De register sleutel %s bevat geen data. De bijbehorende Type bibliotheek kan verwijderd worden.
+11055= Deze register sleutel wijst naar het niet gevonden bestand %s
+11056= Het aangegeven bestand %s is niet gevonden.
+11057= Het bestand %s geassocieerd is met entry %s2 bestaat niet.
+11058= De entry %s wijst naar het niet gevonden help bestand %s2
+11059= Gedeeld bestand %s mist
+11060= Gedeeld bestand %s wordt niet meer gebruikt.
+11061= Deze entry ImagePath wijst naar het niet gevonden bestand %s. De bijbehorende Service kan worden verwijderd.
+11062= De entry %s wijst naar de niet gevonden bestand %s2
+11063= Deze snelkoppeling wijst naar het niet gevonden doel %s
+11064= Deze register sleutel bevat een referentie naar de Start menu map %s , die is verwijderd.
+11065= De entry %s wijst naar het niet gevonden programma %s2
+11066= Deze deïnstalleer entry bevat geen informatie nodig voor windows om het programma of component te verwijderen.
+11067= Het benodigde deïnstalleer programnma %s kan niet worden gevonden
+11068= De entry %s wijst naar de niet gevonden map %s2
+
+11069= Verwijder sleutel :
+11070= Verwijder waarde :
+11071= verwijder bestand :
+
+11072= Negeren Lijst Manager
+11073= De lijst met entries is momenteel overgeslagen bij het scannen van het Register. Als u %s een van deze entries wilt meescannen, haal dan het vinkje weg.
+11074= Register sleutel
+
+11075= Selecteer een map om wijzigingen gemaakt bij het repareren op te slaan (backup)
+11076= Beperk het aantal backups tot:
+11077= %s bestaat al. Wilt u het vervangen?
+11078= Vervangen
+11079= Overzicht van gevonden problemen: (%s problemen gevonden, %s2 problemen geselecteerd voor reparatie)
+11080= Overzicht van gevonden problemen: (1 probleem gevonden, 1 probleem geselecteerd voor reparatie)
+11081= (1 probleem gevonden)
+11082= Overzicht van gevonden problemen: (Geen problemen gevonden, geen problemen geselecteerd voor reparatie)
+11083= Scanning...
+11084= Geen problemen gevonden, geen problemen geselecteerd voor reparatie.
+11085= %s probleem gevonden, %s2 probleem geselecteerd voor reparatie.
+11086= %s problemen gevonden, %s2 problemen geselecteerd voor reparatie.
+11087= Repareren...
+11088= Exporteer Register bestand
+11089= Huidige sleutel:
+11090= Geëxporteerde sleutel:
+11091= %s probleem(en) geselecteerd voor reparatie
+11092= Export succesvol voltooid!
+
+[Disk Analysis]
+19001= Disk Ruimte Analyseren
+19901= Toont het disk ruimte gebruik van uw bestanden en mappen
+19003= Explorer
+19004= Opdracht Prompt
+19005= Verwijder(naar prullenbak)
+19006= Toon Toolbar
+19007= Show Statusbar
+19008= Toon Bestand Types
+19009= Toon Grote Bestanden
+19010= Bestanden
+19011= Mappen
+19012= Attribute
+19013= Percentage
+19014= Bestands Type
+19015= Beschrijving
+19016= Bestandsnaam
+19017= Map
+19018= Gewijzigd
+19019= Bestandstypes laden...
+
+19020= [Files]
+19021= Mijn Computer
+
+19022= Selecteer Disken
+19023= Alle Lokale Disken
+19024= Geselcteerde Disken
+19025= Een Map
+19028= Gebruikt/Totaal
+19029= Selecteer Map:
+
+1801001= Analyseren
+1801002= Terug
+1801003= Computer
+1801004= 
+1801005= Toon Extensies
+1801006= Alle Types
+1801007= Videos
+1801008= Gecomprimeerd
+1801009= Muziek
+1801010= Afbeeldingen
+1801011= Documenten
+1801012= Anders
+1801013= Extensie
+1801014= Aantal bestanden
+1801016= Type
+1801017= Locatie
+1801018= Datum Gewijzigd
+1801019= Beschikbaar
+
+1801020= Toolbar
+1801021= Navigatie
+1801022= Details
+1801023= Toon Alle Bestanden
+1801024= Mappen and Bestanden
+
+1801025= Disk nu analyseren
+1801026= De disk is nog niet geanalyseerd. \nOmdat de disk nog niet is geanalyseerd, er is geen informatie over disk ruimte, bestand type of de grootste bestanden beschikbaar, Gedurende de analyse wordt informatie over de geselecteerde Disken, de bestanden en mappen en het disk gebruik verzameld en getoond.
+1801027= Alleen controleren
+
+1801028= Bestands grootte:
+1801029= Totaal:
+1801030= Accessed on:
+1801031= Gewijzigd op:
+1801032= Aangemaakt op:
+1801033= %s items geselecteerd
+1801034= Grootte:
+1801035= Totale Inhoud
+1801036= Onbekend
+1801037= In Gebruik:
+1801038= Geanalyseerd
+1801039= Niet Geanalyseerd
+
+1802001= Klaar
+1802002= Mislukt
+1802003= Onderbroken
+1802004= Analyse van de opslag locaties
+1802005= Wacht tot Disk Analyse klaar is met het analyseren van de geselecteerde locaties.
+
+1803001= ongeldige pad lijst:\n
+1803002= Bestands pad lijst:\n
+1803003= %s items kunnen niet gescanned worden
+
+1804001= De geselecteerde disk is nog niet geanaliseerd. Nu analyseren?
+
+1805001= Weet u zeker dat u deze %s items naar de prullenbak wilt verplaatsen?
+1805002= Verwijderen
+1805003= verwijderen van %s items
+
+[Startup Manager]
+14001= Startup Manager
+14901= Beheert Programma's die automatisch starten met Windows Startup
+14002= Deze Regel Uitschakelen
+14003= Deze Regel inschakelen
+14004= Programma Toevoegen...
+14005= Deze Regel Verwijderen
+14006= Regel Aanpassen...
+14007= Toon de Details Balk
+14008= Vernieuw Opstart Lijst
+14010= Andere Autorun
+14011= Geplande Taken
+14012= Lokale Services
+14013= Programma's die starten als Windows start of als een gebruiker inlogt.
+14014= Geen Items Geselecteerd.
+14015= Ongeldige entry. Het kan verwijderd worden.
+14016= <No information>
+14017= Product:
+14018= Bedrijf:
+14019= Een StartUp Regel Toevoegen
+14020= Wilt u de StartUp regel echt verwijderen
+14021= Bewerk het geselecteerde StartUp Item
+
+14022= Pad
+14024= Locatie
+14035= Waarde
+14025= Ingeschakeld
+14026= Uitgeschakeld
+
+14027= Startup Lijst rapport gemaakt op %s door %s2
+14028= Totaal %s Items
+14029= Rapport is opgeslagen in %s
+
+14030= Zoek op met Google...
+
+14031= Startup Item Configuratie
+14032= Type een naam.
+14033= Type een opdracht lijn.
+14034= Het opgegeven bestand is niet gevonden. Wilt u echt doorgaan?
+
+14043= Onbekend
+14036= Betrouwbaar
+14037= Keuze van de Gebruikers
+14038= Neutraal
+14039= Niet vereist
+14040= Gevaarlijk
+14041= Commentaar
+14042= Meer informatie
+
+14044= Commentaar
+14045= Uw commentaar op deze regel
+14046= Uw opinie over deze regel
+14047= Dit wijzigt de risico rating
+14048= Commentaar verzenden
+
+14049= Vertragings Tijd
+14050= Start Nu
+14051= Programma's die vertraagd opstarten.
+14052= Omhoog
+14053= Naar beneden
+14054= Om een applicatie vertraagd te starten, selecteer het in de lijst hierboven, of sleep het naar de lijst hieronder.
+14055= Om de applicatie zonder vertraging te starten, selecteer het in de lijst hieronder, of sleep het naar de lijst hierboven.
+14056= Duplikaat Regel Gevonden
+14057= Het blijkt dat %s zich heeft teruggeplaatst op de lijst van Windows Startup procesen nadat u het op de vertraagd opstarten lijst had geplaatst.
+14058= Om dit te herstellen, moet u %s openen en zoeken naar een optie die aangeeft 'Start with Windows' of iets dergelijks en schakel die optie uit.
+14059= Als de optie niet bestaat, dan moet u contact zoeken met de auteur van %s dit zichzelf automatisch toevoegt aan de lijst, en hem vragen of er een mogelijkheid toegevoegd kan worden om %s te verwijderen van de Windows Startup lijst.
+14060= Als het niet mogelijk is %s te verhinderen om met Windows op te starten, dan is het beter om Windows het te laten regelen en %s te verwijderen van de vertraagd opstarten lijst.
+14061= Wilt u %s van de vertraagd opstarten lijst verwijderen?
+14062= Vertraagd
+14063= Vertraagd
+14064= Direct
+14065= Sec
+
+2501001= Details Bar
+2501002= Status Bar
+2501003= Actief
+2501004= Gestopt
+2501005= Gebruikt Geheugen
+2501006= StartUp regel bestaat al.\nWilt u de regel vervangen?
+2501007= Failed to set data for '%s'
+
+[Disk Cleaner]
+13001= Disk Opschonen
+13901= Removes junk data from your disks and recovers disk space
+13002= Disk Opschonen
+13003= Meer Opties
+13004= Selecteer de Disken om op te schonen.
+13005= Klik Volgende als de gewenste disk(en) geselcteerd zijn.
+13006= Wacht tot %s klaar is met het scannen van de geselecteerde Disken.
+13010= Klik Volgende als de Disken geselcteerd zijn.
+13007= U kunt Disk Opschonen gebruiken om %s disk ruimte op disk %s2 vtij te maken
+13008= Totale hoeveelheid disk ruimte die vrij komt:
+13009= Backup %s voor het opschonen.
+13110= Toon bestanden
+13011= Klik Volgende om het opschonen te beginnen.
+13012= Windows onderdelen
+13013= U kunt meer diskruimte vrij maken als u optionele Windows onderdelen die u niet gebruikt verwijdert.
+13014= Opschonen...
+13015= Restore
+13016= U kunt de verwijderde tijdelijke bestanden terugzetten met behulp van een backup bestand.
+13017= Restore...
+
+13018= Opschonen voltooid.
+13019= Backup is aangemaakt.
+13020= Klik Finish om terug te gaan naar de startpagina.
+
+13021= Selecteer tenminste één disk om te zoeken.
+
+13022= Scannen...
+13023= Klaar
+13024= Initialiseren...
+13025= De prullenbak bevat bestanden die u verwijderd heeft van de computer. Deze bestanden zijn niet definitief verwijderd totdat u de Prullenbak leeg maakt.
+13026= Tijdelijke bestanden
+13027= Tijdelijke bestanden worden gebruikt door programma's als tussen opslag ruimte en gewoonlijk verwijderd na gebruik.
+13028= Zero-Byte bestanden
+13029= Zero-Byte bestanden bevatten geen informatie, en kunnen gewoonlijk worden verwijderd.
+13064= Tijdelijke Internet bestanden
+13065= De map met tijdelijke Internet bestanden bevat Web pagina's die zijn opgeslagen op de computer om sneller bekijken mogelijk te maken. Uw persoonlijke instelling voor Web pagina's wordt niet gewijzigd.
+
+13030= Prullenbak leegmaken...
+13031= Tijdelijke Internet bestanden verwijderen...
+13032= Tijdelijke bestanden verwijderen...
+13033= Zero-byte bestanden verwijderen...
+
+13034= Selecteer e bestanden die u wilt verwijderen.
+13035= Geen bestand geselecteerd.
+13036= Open bestand
+13058= Totaal %s bestanden
+13059= Aangemaakt:
+13060= Gewijzigd:
+13061= Laatste Access:
+
+13037= Algemeen
+13038= Uitsluiten
+13039= Insluiten
+13040= Bekijk de lijst met junk bestand types hieronder en selecteer of deselecteer items mee te nemen de zoek actie door het markeren of niet markeren van de bijbehorende vakjes boxes.
+13041= Bestand Type
+13042= Als u niet zeker weet wat de opties betekenen, kunt u de default instelling beter ongewijzigd laten.
+13043= Alle bestanden in deze mappen moeten nooit als junk beschouwd worden.
+13044= Map
+13045= Alle bestanden in deze mappen worden altijd als 'junk', ongeacht het type.
+
+13046= U kunt Jokers gebruiken, b.v., *.tmp
+13047= Bestandname eindigt met:
+13048= Voer een extensie naam in.
+13049= U kunt wild cards gebruiken.
+13050= Zou niet leeg mogen zijn.
+
+13051= Selecteer een backup welke u wilt terugzetten en klik de 'Terugzetten' button.
+
+13052= Custom Restore
+13053= Markeer de regels die teruggezet moeten worden, en klik Terugzetten.
+13054= Met succes teruggezet.
+
+13055= Objects
+13056= Bestanden
+13057= Pad
+13062= Type
+
+13063= Voeg een 'junk' bestand type toe
+
+1301001= Start\r\n Opschonen
+1301002= Scan
+1301003= Restore
+1301004= Pad
+1301005= Backup Gemarkeerde
+1301006= Controleer Alles
+1301007= Controleer Niets
+1301008= Controle Default
+1301009= De laatste keer dat de disk is opgeschoond was op: 
+1301010= %s/%s2/%s3
+1301011= Snelle en makkelijke manier om ongebruikte bestanden te verwijderen.
+1301012= Bespaarde Ruimte: %s
+1301013= Gefeliceteerd! De Disken waren schoon.
+1301014= Verwijderen van overbodige bestanden spaart disk ruimte.
+1301015= Resultaat
+1301016= Bestands Lijst
+1301017= Herscan
+1301018= Dit bestand uitsluiten
+
+1302001= Windows
+1302002= System tijdelijk
+1302003= Gebruiker tijdelijk
+1302004= Thumbnail Cache
+1302005= Geheugen Dump Bestanden
+1302006= Fout Rapport Bestanden
+1302007= Systeem Log Bestanden
+1302008= Bureaublad op Afstand Cache
+1302009= Prullenbak
+1302010= Startmenu Ongeldige Snelkoppelingen
+1302011= Desktop Ongeldige Snelkoppelingen
+1302012= IIS Log Bestanden
+1302013= Oude Prefetch Data
+1302014= Font Cache
+1302015= Gedownloade Programma's
+1302016= Windows Updates
+1302017= Browsers
+1302018= Internet Explorer
+1302019= Mozilla Firefox Cache
+1302020= Google Chrome Cache
+1302021= Opera Cache
+1302022= Toepassingen
+1302023= Google Earth Cache
+1302024= Picasa Cache
+1302025= ACDSee Cache
+1302026= Disken
+1302027= Kies tenminste één disk om te scannen
+1302028= Wilt u een backup maken van de bestanden voor het opschonen?
+1302029= Backup mislukt, Wilt u doorgaan met opschonen?
+1302030= Bestanden aantal: %s   Bestanden grootte: %s2
+1302031= %s items gecontroleerd
+1302032= Scanning voltooid. %s bestanden, totaal %s2 gevonden.
+1302033= Het is aanbevolen uw disken op te schonen.
+1302034= Cefeliciteerd! Uw computer is schoon!
+1302035= Uw PC schoon houden is een goede gewoonte. Doe het regelmatig!
+1302036= De scan is geannuleerd!
+1302037= U heeft %s bestanden gekozen, totaal %s2.
+1302038= Opschonen voltooid. In totaal werden %s junk bestanden gewist.
+1302039= Opschonen voltooid.
+1302040= %s is in gebruik, kan nu niet verwijderd worden.
+1302041= Junk bestanden : %s
+1302042= Custom Bestanden en Mappen
+1302043= Custom Name
+1302044= Custom Bestanden en Mappen
+1302045= Locatie
+1302046= Voorbeeld: *.tmp|*.log
+1302047= Voorbeeld: *.sys|*.txt
+1302048= Include only bestanden only
+1302049= Include bestanden and subfolders
+1302050= Om veiligheids redenen, kunt u bestanden in de Windows system map niet opschonen.
+1302051= Weet u zeker dat u deze map leeg wil maken?
+1302052= Om veiligheids redenen, kies geen Windows system bestanden.
+1302053= Selecteer meer bestanden en mappen die u wilt verwijderen(Alleen voor deskundige gebruikers).
+1302054= Kies de bestanden of mappen die verwijderd moeten worden.
+1302055= Het custom bestand of map bestaat reeds, wilt u doorgaan met toevoegen?
+1302056= Het custom bestand of map bestaat reeds, wilt u doorgaan met wijzigen?
+1302057= Uw PC heeft weinig 'junk' bestanden. Uw PC schoon houden is een goede gewoonte. Doe het regelmatig!
+
+
+1303001= Backup...
+
+1304001= Kan de data niet tonen!
+
+1305001= Begin scan: 
+1305002= Scan resultaat: 
+1305003= Geen junk bestanden gevonden
+1305004= %s bestanden, een totaal van %s2
+1305005= Einde scan: 
+1305006= Totaal resultaat: 
+1305007= %s bestanden, %s2 worden verwijderd
+1305008= Begin opschonen
+1305009= Opschonen klaar
+1305010= %s bestanden opschonen, totaal %s2
+1305011= %s bestand kan niet opgeschoond worden.
+1305012= Schrijf tijd:
+1305013= In totaal %s bestanden, %s2.
+
+1305014= %s moet worden afgesloten om Internet Cache op te schonen.\nWilt u dat Glary Utilities het sluit %s?
+1305015= Firefox
+
+[Uninstaller]
+12001= Deïnstallatie Manager
+12901= Deïnstalleert programma's die niet meer nodig zijn volledig
+12002= Backup Deïnstallatie Informatie
+12003= Restore Uninstall Info
+12004= Export Applicatie Lijst
+12005= Deïnstalleer dit programma
+12006= Deïnstalleer geselecteerde programma's
+12007= Wijzig eigenschappen
+12008= Herstel verwijderde Entries
+12009= Toon Command Line
+12010= Huidig geinstalleerde programma's:
+12011= Sorteren op:
+12012= Installatie Datum
+12013= AutoFix ongeldige entries
+12014= Batch Deïnstallatie
+12015= Zoek naar programma's
+12016= Klik hier voor ondersteuning information.
+12017= Command Regel
+12038= Verwijder Entry
+
+12018= Wijzigen
+12019= Verwijderen
+12020= Wijzigen/Verwijderen
+
+12021= Totaal %s programma's
+12022= Kan map %s niet verwijderen, Het is in gebruik door een andere gebruiker of programma. Bij de volgende Windows (her)start verwijderen?
+12023= Nieuw!
+
+12024= Om dit programnma te wijzigen of verwijderen, %s klik Wijzigen/Verwijderen.
+12025= Om dit programnma te wijzigen of verwijderen, %s klik Wijzigen of Verwijderen.
+12026= Om dit programnma te verwijderen, %s klik Verwijderen.
+
+12027= Geinstalleerd
+12028= Register bestanden(*.reg)
+12031= Tekst bestanden(*.txt)
+12029= Deïnstallatie informatie met succes teruggezet van %s
+12030= Weet u zeker dat u %s van de computer wilt verwijderen?
+12032= Rapport gemaakt op
+12033= Programma's geinstalleerd op de computer (Totaal %s Programma's):
+12034= Het bestand is opgeslagen als:
+12035= Alle programma's op uw systeem zijn OK, geen ongeldige entries gevonden.
+12036= Weet u zeker dat u %s wilt verwijderen uit de lijst met geinstalleerde programma's?
+
+12037= Er is een fout opgetreden bij het verwijderen van %s. Het kan zijn dat het al verwijderd is. Wilt u %s2 van de lijst met geinstalleerde programma's verwijderen?
+12039= %s is een "Hidden" programma en is waarschijnlijk in gebruik door het systeem. Wilt u het werkelijk deïnstalleren?
+12040= Er staan nog bestanden in de installatie map "%s". Om zeker te zijn dat u geen nuttige data bestanden verwijdert, kunt u in de map bladerendoor te kliken op de "Bladeren" knop. Als u zeker bent dat de bestanden overbodig zijn, klik "Alles Verwijderen" knop.
+12041= Bladeren
+12042= Alles Verwijderen
+12043= Backup deze entry voor het verwijderen.
+
+12044= De Zoek string is niet gevonden.
+12045= Zoek
+12046= Zoek volgende
+12047= Zoek naar:
+
+12048= De volgende ongeldige entries zijn gevonden. Wilt u deze register entries verwijderen?(U kunt ze ook later handmatig verwijderen)
+12049= Ongeldige Entries
+12050= Backup deze entries voor het verwijderen.
+
+12051= Selecteer een programma entry die u wilt terugzettenen klik op de 'Terugzetten' knop.
+12052= Terugzetten
+12053= Programma Entry
+12054= Backup Datum
+12055= Weet u zeker dat u de programma entry %s wilt terugzetten in het systeem register?
+
+12056= Gebruik de volgende informatie om technische ondersteuning te krijgen voor
+12058= Uitgever
+12059= Versie:
+12060= Contact:
+12061= Support Informatie:
+12062= LeesMe:
+12063= Product Updates:
+12064= Opmerkingen:
+12065= Product ID:
+12066= Geregistreerd Bedrijf:
+12067= Geregistreerde Eigenaar:
+12068= InstallLocatie:
+
+12069= Programma's (*.exe;*.com;*.bat)
+12070= Alle bestanden (*.*)
+12071= De Command Line die u heeft ingevoerd is waarschijnlijk ongeldig. Wilt u toch doorgaan?
+
+12072= Voer Installatie Programma uit
+12073= Command line voor het deïnstalleer programma:
+12074= Er is een fout opgetreden bij het verwijderen van %s. U heeft geen toegang tot %s2 .
+12075= U kunt het nieuwe deïnstalleer programma hieronder opgeven.
+
+12076= Backup deze entry
+12077= Ondersteuning Informatie
+12078= Toon Windows Updates
+
+12080= Icon
+12081= Lijst
+12082= Details
+
+12083= Alle programma's
+12084= Recent geïnstalleerde programma's
+12085= Grote programma's
+12086= Weinig gebruikte programma's
+12087= Windows updates
+
+12088= Laatst gebruikt:
+12089= Deïnstallatie informatie opgeslagen in:
+
+[Duplikaat Bestanden Zoeken]
+15001= Duplikaat Bestanden Zoeken
+15901= Zoekt naar ruimte verspillende en fout genererende duplikaat bestanden
+15002= Zoek naar duplikaat bestanden
+15003= Open Bestand
+15004= Open Met...
+15005= Map Doorzoeken
+15006= Bestands Eigenschappen
+15007= Genereer Rapport
+15008= Verwijder geselecteerde bestanden
+15012= Selecteer Een In Elke Groep
+15013= Sluit deze map uit van toekomstige zoek acties
+15015= Pad
+15016= %s van %s2 items geselecteerd voor verwijderen.
+15017= Duplikaat Bestanden Groep
+15018= Weet u zeker dat u alle items in de geselecteerde map %s wilt uitsluiten voor alle volgende zoek acties?
+15019= Geen items geselecteerd voor verwijderen.
+
+15020= Scanning Wizard
+15021= Selecteer de disken of mappen die gescanned moeten worden.
+15022= Disken
+15023= Mappen
+15024= Add Map
+15025= Duplikaat bestanden vergelijk criteria
+15026= Zelfde Naam
+15027= Gelijke grootte
+15028= Zelfde Tijd
+15029= Negeer bestanden kleiner dan
+15030= Zoek alleen naar meest gebruikte bestanden
+15031= Scan alle bestanden
+15032= Bestands Type
+15033= Deze mappen uitsluiten voor het zoeken:
+15034= Map
+15035= Scannen naar duplikaat bestanden...
+
+15036= Er zijn geen disken geselecteerd. Selecteer tenminste één disk om verder te gaan.
+15037= Er zijn geen mappen geselecteerd. Selecteer tenminste één map om verder te gaan.
+15038= Er zijn geen bestand types geselecteerd. Selecteer tenminste één bestands type om verder te gaan.
+15039= Bestanden schikken. Het kan even duren, afhankelijk van het aantal bestanden. Wacht even...
+15040= In totaal %s bestanden gescanned en %s2 duplikaat(en) gevonden.
+
+15041= Voeg een nieuwe bestands naam om op te zoeken
+15042= U kunt "wild cards" gebruiken, b.v., *.avi
+15043= Bestandsnaam eindigt met:
+15044= Type een extension naam.
+
+15045= Type Map
+15046= Selecteer Map
+15047= U kunt "wild cards" gebruiken, b.v. *,?
+15048= Zou niet leeg mogen zijn.
+
+1501001= Set up scan for parameter
+1501002= Intelligent Controleren
+1501003= %d van %d items gemarkeerd om te verwijderen
+1501004= %s bestaat al.\nWilt u het vervangen?
+1501005= Bevestig Opslaan Als
+1501006= Verwijder Bestand
+
+1502002= Bestand Uitsluiten
+
+1503001= Duplikaat bestanden voldoen aan criteria
+
+1504001= Scan
+1504002= Totale Grootte
+1504003= Gebruikt
+1504004= Beschikbaar
+1504005= Bestands Pad
+
+1505001= Opslag locatie
+1505002= Status
+1505003= Wachtend
+1505004= Aan het laden
+1505005= Totaal %d bestanden zijn gescanned en %d duplikaten zijn gevonden.
+1505006= De bestanden aan het rangschikken, even gebuld a.u.b....
+
+1506001= Algemeen
+1506002= Bestand Uitsluiten
+
+[Empty Folders Finder]
+16001= Lege Mappen Zoeken
+16901= Zoekt en verwijdert lege mappen in uw windows
+16002= Scan naar Lege Mappen
+16003= Lijst met Uitgesloten Mappen
+16004= Verwijder Gemarkeerde Mappen
+16005= Gemarkeerde Mappen Uitsluiten(Nooit meer vinden)
+16006= Uitsluiten
+16007= Map
+16008= Weet u zeker dat u de gemarkeerde items wilt toevoegen aan de negeer lijst? Deze items worden niet meer gevonden.
+
+16009= Negeer Lijst Manager
+16010= De lijst met entries die momenteel worden genegeerd bij het scannen naar lege mappen. Als u een van deze mappen mee wil nemen in de scan, verwijder dan het vinkje.
+
+16011= Scan Nu
+16012= Markeer de hokjes van de disk(en) die gescanned moeten worden
+
+1601001= Voorbereiden lege mappen boom...
+
+1602001= Voorbereiden mappen lijst...
+1602002= Scannen Voltooid.
+1602003= Scannen %s
+1602004= Disks inlezen...
+1602005= Bestanden sorteren...
+1602006= Data opslaan...
+1602007= Initialiseren...
+1602008= Scanning lege mappen...
+1602009= Lege mappen sorteren...
+
+[Shortcuts Fixer]
+17001= Snelkoppeling Repareren
+17901= Corrigeert de fouten in het startmenu & desktop snelkoppelingen
+17002= Scan
+17003= Repareer Snelkoppeling
+17004= Verwijder
+17005= Doel
+17006= Locatie
+17007= Blader naar ontbrekende snelkoppeling doel
+17008= Nu scannen
+17009= Scan Opties
+17010= Scan alleen Start Menu and Desktop
+17011= Scan naar lege Start Menu map
+17012= Markeer de hokjes van de disk(en) die gescanned moeten worden
+
+17013= Niets gevonden.
+
+1701001= Snelle Scan
+1701002= Geavanceerde Scan
+1701003= Stop Scan
+1701004= Repareer Alle gemarkeerde
+1701007= Fout
+1701008= Gerepareerd
+1702001= Locatie:
+1702002= Doel:
+1702003= Argumenten:
+1702004= Beschrijving:
+1702005= Klik "Toepassen" om de wijzigingen op te slaan.
+1702006= U heeft een map geslecteerd.
+1703001= Verwijder
+1703002= Klik "%s" om de geselecteerde snelkoppeling(en) te verwijderen uit de lijst;{\r\n}Klik "%s2" om de geselcteerde snelkoppeling(en) naar de Prullenbak te verplaatsen;{\r\n}Klik "%s3" om de geselecteerde snelkoppeling(en) definitief te verwijderen.
+1703003= Backup de geselecteerde snelkoppelingen voor het verwijderen
+
+[Tracks Eraser]
+18001= Sporen verwijderaar
+18901= Verwijdert alle sporen, bewijzen, cookies, internet geschiedenis en meer
+18002= Verwijder gemarkeerde sporen
+18003= Toon alleen verwijderbare sporen
+18004= Verwijder deze sporen
+18005= Geen sporen gemarkeerd. Om sporen te wissen, selecteer elk spoor dat gewist moet worden door gebruik te maken van het markeervak links van de naam van het spoor.
+18006= Are you sure you would like to erase %s tracks settings?
+18007= De sporen zijn gewist.
+18008= Are you sure you would like to clean your %s tracks?
+
+18009= IE Cookie Manager
+18010= IE Typed URLs
+18011= Markeer de cookies die bewaard moeten worden bij het opschonen van Internet Explorer cookies
+18012= Website
+18013= Hit Rate
+18014= Laatste Wijziging
+18015= Verloopt
+18016= volledig Adres
+18017= Verwijder niet gemarkeerde cookies nu
+18018= Markeer de URLs die bewaard moeten worden bij het opschonen van Internet Explorer - URL geschiedenis
+18019= Urls
+18020= Verwijder niet gemarkeerde URLs
+
+18021= Verwijderen
+
+18022= Windows
+18023= Verwijdert geschiedenis, Laatst gebruikte lijsten(MRU Lijsten) en andere sporen van Microsoft Internet Explorer.
+18024= Windows Laatst gebruikte Documenten
+18025= Maak de lijst met Recente Documenten en Bestanden open op de computer. Deze lijst vindt u gewoonlijk in Start Menu > Mijn Recente Documenten.
+18026= Windows Start Menu Uitvoeren
+18027= Verwijderd de geschiedenis van commandos gebruikt in Window's Start > Uitvoeren.
+18028= Microsoft Common Dialog - Bestand/Map Lijsten
+18029= Microsoft Common Dialog is een standaard component gebruikt door veel programma's om te voorzien in de mogelijkheid, bestand, map, kleur, en printer te selecteren. Deze sporen wisser wist de geschiedenis van keuzes gemaakt op deze PC. Daar de Microsoft Common Dialog Control gebruikt wordt voor de meeste OPEN/OPSLAAN Bestands Dialog vensters, leegt sporen wisser de lijst met mappen en bestanden die gezocht zijn op deze computer.
+18030= Start Menu Zoeken
+18031= Wist de hele geschiedenis van zoekopdrachten uitgevoerd door Windows Zoeken in het Start Menu.
+18032= Windows Clipboard
+18033= Werken met bestanden houdt gewoonlijk in het gebruik van "kopiëren" en "plakken" opdrachten. Windows Clipboard onthoudt de laatste kopieer opdracht en kan relevante informatie bevatten over je handelingen zoals wachtwoord, credit card of persoonlijke informatie.
+18034= Windows Tijdelijke Bestanden
+18035= Leegt de Windows Tijdelijke map.
+18036= Windows Prullenbak
+18037= Leegt de Windows Prullenbak.
+18038= Windows Gekoppelde Netwerk Disken
+18039= Als u netwerk disken koppelt om ze via disk letters te benaderen, onthoudt Windows alle koppelingen in het register. Verwijder deze informatie met deze instelling.
+18040= Start Menu Klik Geschiedenis
+18041= Windows bewaart de lijst met recentelijk geklikte items in Start menu. Markeer deze optie om de "Start Menu Klik Geschiedenis" te legen.
+18042= Network
+18043= Als u My Network Places gebruikt om servers op afstand te benaderen, worden alle 'shares' bewaard, iedereen kan zien welke network plekken u gebruikt door de MRU lijst te bekijken in de My Network Places map. Markeer deze optie om de lijst te legen.
+
+18044= Internet Explorer
+18045= Verwijdert geschiedenis, recent geopent lijsten(MRU Lijsten), tijdelijke internet bestanden en andere sporen van de Internet Explorer web browser.
+18046= Internet Explorer - URL Geschiedenis
+18047= Verwijdert de geschiedenis van getypte URL's van de Internet Explorer adres balk. Als deze geschiedenis wordt bewaard, probeert Internet explorer te raden welke website u probeert te bezoeken door "Intelligentie" te gebruiken. Als u typt www.gl - raad het www.glarysoft.com, of enig ander adres dat begint met www.gl en dat u in het verleden bezocht heeft.
+18048= Internet Explorer Geschiedenis
+18049= Verwijdert de geschiedenis van bezochte websites gebruik makend van Internet Explorer.
+18050= Internet Explorer Cookies
+18051= Web sites slaan informatie op in een klein tekst bestand,  "cookie" genaamd op de harde schijf. Cookies bevatten information over u en over uw voorkeuren. Of het onthoudt slechts  welke pagina's u bezocht op deze site, om de site aan te passen aan uw voorkeuren als u de site opnieuw bezoekt. Daar sommige cookies handig zijn, kan het zijn dat u ze wilt behouden. Klik "Opties" om de cookies te selecteren die u wilt behouden. Alle niet gemarkeerde  cookies worden verwijderd.
+18052= Intelligent Forms - Auto Aanvullen Wachtwoorden
+18053= Verwijdert de hele geschiedenis van Auto Aanvullen van formulieren &  wachtwoorden in de Internet Explorer. Als het is ingesteld, zal Internet Explorer gegevens voor formulieren, gebruikersnamen, en wachtwoorden onthouden. Deze worden dan automatisch ingevuld als u terugkeert bij de site waar de gegevens voor zijn bewaard. Deze sporen wisser verwijderd deze gegevens en beschermt u van andere gebruikers op de PC die met uw gegevens in loggen op sites.
+18054= Tijdelijke Internet Bestanden
+18055= Vewijdert alle opgeslagen tijdelijke bestanden die Internett Explorer heeft aangemaakt bij het bezoeken van sites of downloaden van bestanden.
+
+18056= Plug-ins
+18057= Veel third party progamma's houden bij welke bestanden u via hen recent heeft geopend of uitgevoerd. Gebruik makend van deze plugins, kunt u de MRU geschiedenis van veel populaire applicaties verwijderen.
+
+18058= Mozilla Firefox
+18059= Verwijdert geschiedenis, Laatst gebruikte lijsten(MRU Lijsten), tijdelijke bestanden en andere sporen van Firefox web browser.
+18060= Mozilla Firefox - Geschiedenis
+18061= RVerwijdert de geschiedenis van getypte URL's van de Firefox adres balk.
+18062= Mozilla Firefox - Cookies
+18063= Verwijdert cookies opgeslagen in de Firefox cache map.
+18064= Mozilla Firefox - Internet Cache
+18065= Verwijdert internet bestanden cached door Firefox.
+18066= Mozilla Firefox - Opgeslagen formulier Informatie
+18067= Verwijdert formulier gegevens opgeslagen door Firefox bij het invullen van formulieren op webpagina's.
+18068= Mozilla Firefox - Opgeslagen wachtwoorden
+18069= Verwijderd wachtwoorden opgeslagen door Firefox bij het invullen van webformulieren.
+18070= Mozilla Firefox - Download Manager Geschiedenis
+18071= Verwijdert sporen van recent gedownloade bestanden in Download Manager.
+18072= Mozilla Firefox - Zoek Geschiedenis
+18073= Verwijdert de Zoekopdrachten getyped in de Firefox Zoekbalk.
+
+18074= Sporen verwijderen voor %s.Dit kan even duren...
+18075= Sporen verwijderen voor %s...
+
+18076= Index.dat bestanden
+18077= Index.dat bestanden zijn verborgen bestanden die al uw online activiteiten bijhouden, waar u bent geweest op het internet, Welke sites u bezocht, notities van URL-s, bestanden en documenten die u pas heeft gebruikt.
+18078= Scannen naar sporen %s.Dit kan even duren...
+18079= Scannen naar sporen %s...
+18080= Rapport opmaken...
+18081= ANALYSIS REPORT
+18082= %s items worden verwijdert uit het Windows register.
+18083= %s (%s2 bestanden) worden verwijdert.
+18084= Details van te verwijderen bestanden:
+18085= Analyseren
+
+18086= Sporen
+18087= Resultaat
+
+18088= Google Chrome
+18089= Verwijdert geschiedenis, Laatst gebruikte lijsten(MRU Lijsten), tijdelijke bestanden en andere sporen van Google Chrome web browser.
+18090= Google Chrome - Geschiedenis
+18091= Verwijdert alle adressen getyped in de Google Chrome adresbalk.
+18092= Google Chrome - Cookies
+18093= Verwijdert cookies opgeslagen in de Google Chrome cache map.
+18094= Google Chrome - Internet Cache
+18095= Verwijdert internet bestanden cached door Google Chrome.
+18096= Google Chrome - Opgeslagen formulier Informatie
+18097= Verwijdert formulier gegevens opgeslagen door Google Chrome bij het invullen van formulieren op webpagina's.
+18098= Google Chrome - Download Geschiedenis
+18099= Verwijdert sporen van recent gedownloade bestanden in Download Manager.
+
+18100= U wordt verzocht %s te sluiten voor u verder gaat. Sporen  Wisser kan geen sporen wissen die in gebruik zijn bij andere programma's.
+
+2101001= %s items gemarkeerd.
+2101002= Geen sporen geselecteerd. Om sporen te analyseren, markeer elk spoor dat u wilt analyseren met de checkbox links van de spoornaam.
+
+2102001= Windows Live Toolbar
+2102002= Verwijdert de recente zoekgeschiedenis van de Windows Live Toolbar.
+2102003= Google Toolbar
+2102004= Verwijdert de recente zoekgeschiedenis van de Google Toolbar in de Internet Explorer.
+2102005= Google Deskbar
+2102006= Verwijdert de recente zoekgeschiedenis van de Google Deskbar.
+2102007= Kazaa Zoekgeschiedenis
+2102008= Verwijdert Kazaa Bestand Zoekgeschiedenis.
+2102009= eMule
+2102010= Verwijdert eMule Bestand Zoekgeschiedenis.
+2102011= MSN Messenger
+2102012= Verwijdert MSN Messenger cache geschiedenis.
+2102013= Sound Forge 6.0
+2102014= Verwijdert Sound Forge 6.0 cache geschiedenis.
+2102015= Fresh Download
+2102016= Verwijdert FreshDownload download geschiedenis.
+2102017= Windows Media Player
+2102018= Geschiedenis Recent Bestanden, URLS, and geschiedenis for windows media player movies and music.
+2102019= Real Player
+2102020= Verwijdert de Real Player geschiedenis van recent gespeelde muziek en film bestanden.
+2102021= Quicktime Player
+2102022= Verwijdert de Quicktime Player geschiedenis van recent gespeelde film bestanden.
+2102023= SWiSH
+2102024= Verwijdert de geschiedenis van recent geopende bestanden van SWiSH.
+2102025= Windows Movie Maker
+2102026= Verwijdert de geschiedenis van recent geopende bestanden van Windows Movie Maker.
+2102027= BSPlayer
+2102028= Verwijdert de geschiedenis van recent geopende bestanden van BSPlayer.
+2102029= Media Player Classic
+2102030= Verwijdert Media Player Classic geschiedenis van recent gespeelde muziek en film bestanden.
+2102031= Axialis IconWorkshop
+2102032= Verwijdert de cache en geschiedenis van recent geopenede bestanden van Axialis IconWorkshop.
+2102033= Ulead Smart Saver Pro 3.0
+2102034= Verwijdert de geschiedenis van recent geopende bestanden van Ulead Smart Saver Pro 3.0.
+2102035= Macromedia Flash Player
+2102036= Verwijdert de geschiedenis van recent geopende bestanden van Macromedia Flash Player.
+2102037= Macromedia Flash MX
+2102038= Verwijdert de geschiedenis van recent geopende bestanden van Macromedia Flash MX.
+2102039= Macromedia Flash 5.0
+2102040= Verwijdert de geschiedenis van recent geopende bestanden van Macromedia Flash 5.0.
+2102041= Macromedia Flash 4.0
+2102042= Verwijdert de geschiedenis van recent geopende bestanden van Macromedia Flash 4.0.
+2102043= Adobe Flash Player
+;2102044=
+2102045= AVI Preview
+2102046= Verwijdert de geschiedenis van recent geopende bestanden van AVI Preview.
+2102047= Paint Shop Pro 7.0
+2102048= Verwijdert de geschiedenis van bestanden gemaakt/geopend/of gewijzigd in Paint Shop Pro 7.0.
+2102049= Paint Shop Pro 8.0
+2102050= Verwijdert de geschiedenis van bestanden gemaakt/geopend/of gewijzigd in Paint Shop Pro 8.0.
+2102051= Paint Shop Pro 9.0
+2102052= Verwijdert de geschiedenis van bestanden gemaakt/geopend/of gewijzigd in Paint Shop Pro 9.0.
+2102053= Office XP
+2102054= Verwijdert de geschiedenis van recent geopende bestanden van Microsoft Office XP.
+2102055= Office 2000
+2102056= Verwijdert de geschiedenis van recent geopende bestanden van Microsoft Office 2000.
+2102057= Office 2003
+2102058= Verwijdert de geschiedenis van recent geopende bestanden van Microsoft Office 2003.
+2102059= Office 2007
+2102060= Verwijdert de geschiedenis van recent geopende bestanden van Microsoft Office 2007.
+2102061= MS Management Console
+2102062= Verwijdert de geschiedenis van recent geopende bestanden van MS Management Console.
+2102063= MS Wordpad
+2102064= Verwijdert de geschiedenis van bestanden gemaakt/geopend/of gewijzigd in WordPad.
+2102065= MS Paint
+2102066= Verwijdert de geschiedenis van bestanden geopend in Microsoft Paint.
+2102067= Microsoft Visual Basic 6.0
+2102068= Verwijdert de recent bestand geschiedenis van Visual Basic 6.0 developers.
+2102069= Remote Desktop
+2102070= Verwijdert de cache data opgeslagen door Remote Desktop.
+2102071= PowerArchiver
+2102072= Verwijdert de geschiedenis van bestanden gecomprimeerd/gedecomprimeerd met PowerArchiver.
+2102073= WinISO
+2102074= Verwijdert de geschiedenis van bestanden geopend door WinISO.
+2102075= WinRAR
+2102076= Verwijdert de geschiedenis van bestanden gecomprimeerd/gedecomprimeerd met WinRAR.
+2102077= 7-Zip
+2102078= Verwijdert de geschiedenis van bestanden gecomprimeerd/gedecomprimeerd met 7-Zip.
+2102079= WinZip
+2102080= Verwijdert de geschiedenis van bestanden gecomprimeerd/gedecomprimeerd met WinZip.
+2102081= SpyBot Search and Destroy
+2102082= Verwijdert de cache data opgeslagen door SpyBot Search and Destroy.
+2102083= WinAce 2.0
+2102084= Verwijdert de geschiedenis van WinAce.
+2102085= Norton AntiVirus
+2102086= Verwijdert de log bestanden opgeslagen door Norton AntiVirus.
+2102087= Adobe Acrobat Reader 5.0
+2102088= Verwijdert de geschiedenis van PDF bestanden die u heeft bekeken met Adobe Acrobat 5.0.
+2102089= Adobe Acrobat Reader 6.0
+2102090= Verwijdert de geschiedenis van PDF bestanden die u heeft bekeken met Adobe Acrobat 6.0.
+2102091= XML Spy
+2102092= Verwijdert de geschiedenis van XML bestanden die u heeft bekeken met XML Spy.
+2102093= Installshield Developer 7.0
+2102094= Verwijdert de geschiedenis van bestanden opened by Installshield Developer 7.0.
+2102095= Macromedia Homesite 5.0
+2102096= Verwijdert de geschiedenis van bestanden opened by Macromedia Homesite 5.0.
+2102097= Ahead Nero Burning ROM
+2102098= Verwijdert de geschiedenis van bestanden/mappen geopend met Ahead Nero Burning ROM.
+2102099= ZipMagic
+2102100= Verwijdert de geschiedenis van bestanden gecomprimeerd/gedecomprimeerd met ZipMagic.
+2102101= PicoZip
+2102102= Verwijdert de geschiedenis van bestanden gecomprimeerd/gedecomprimeerd met PicoZip.
+
+
+[Memory Optimizer]
+21001= Memory Optimizer
+21901= Bekijkt en optimaliseert vrij geheugen op de achtergrond
+21002= Optimalisatie
+21003= Handmatige Optimalisatie
+21004= Geheugen gebruik grafiek:
+21018= %s van %s2 is Vrij
+21005= CPU Usage
+21006= Geef aan hoeveel geheugen u wilt vrijmaken en klik op Optimaliseren.
+21007= Hoeveelheid geheugen:
+21008= Optimaliseren
+21009= Maak clipboard leeg
+21010= Huidige grootte clipboard:
+21011= Schakel Auto Optimalisatie in
+21012= Optimaliseer automatisch als vrij geheugen:
+21013= Verhoog vrij geheugen tot:
+21014= ALLEEN optimaliseren als CPU-Gebruik minder is dan:
+21015= Automatisch starten by Windows startup
+21016= Aanbevolen
+21017= Optimaliseren...
+21019= Toon Hoofdvenster
+
+[File Shredder]
+22001= Bestand Shredder
+22901= Wist bestanden definitief opdat niemand ze nog kan herstellen
+22002= Gereedschap om gevoelige data te vernietigen opdat ze niet meer hersteld kan worden en door anderen bekeken worden. Dit gereedschap gebruikt de uiterst veilige American Dod 5220.22-M methode ontwikkeld door de US Department of Defence om data veilig te verwijderen.
+22003= Type
+22012= Datum Gewijzigd
+22004= Bestand(en)
+22005= Map(pen)
+22006= Nu Wissen
+22007= herhaal de wis procedure:
+22008= Bestands Map
+22009= U staat op het punt om alle geselecteerde data te wissen. U kunt nooit deze bestanden meer herstellen met enig welk herstel tool. Bent u zeker dat u door wilt gaan?
+22010= Wissen
+22011= Gewist
+22019= Wis Vrije Ruimte
+22013= Als bestanden zijn verwijderd en geleegd uit de prullenbak zijn ze niet werkelijk verwijderd van de harde disk. De bestanden kunnen nog gemakkelijk hersteld worden met behulp van 'data recovery' software. Om te verzekeren dat bestanden echt verwijderd zijn moet u de vrije ruimte op de disk regelmatig wissen. Deze optie vernietigd bestanden die al verwijderd zijn definitief zodat ze echt niet meer hersteld kunnen worden.
+22014= Selecteer de disk waarvan u de vrije ruimte wilt wissen:
+22015= Nu Wissen
+22016= Vrije ruimte wissen op %s
+22017= Proces gestopt door gebruiker.
+22018= Het proces is voltooid.
+22020= Selecteer een doel map:
+22021= Selecteer een disk.
+
+[Internet Explorer Assistant]
+23001= Browser Assistant
+23901= Beheert Internet Explorer Add-ons herstelt gekaapte (hijacked) instellingen
+23002= IE BHOs
+23003= IE Toolbars
+23004= IE Explorer Balken
+23005= IE Extra Context Menus
+23006= IE Extra Knoppen
+23007= IE Downloaded ActiveX
+23008= Hijack Restore
+23009= [Blocked]
+23010= Uitgever
+23011= Bestands Pad
+23012= Commando
+23013= Blokkeer dit item
+23014= De-blokkeer dit item
+23015= Verwijder dit item definitief
+23016= Weet u zeker dat u %s wilt herstellen?
+23017= Weet u zeker dat u %s wilt blokkeren in internet explorer?
+23018= Weet u zeker dat u %s definitief wilt verwijderen in internet explorer?
+23019= Waarschuwing, bestand mist
+23020= Browser Helper Objects
+23021= Internet Explorer Toolbars
+23022= Internet Explorer Explorerbars
+23023= Internet Explorer Extra Context Menu
+23024= Internet Explorer Extra Knop
+23025= Downloaded ActiveX Programs
+23026= Beschadigd
+23027= Geïnstalleerd
+
+23028= Instelling
+23029= Huidige Instelling
+23030= Hertsel insteling naar
+23031= Wijzig de Herstel instelling naar een nieuwe URL...
+23032= Herstellen
+23033= IE Default
+23034= Weet u zeker dat u de instellingen die geselecteerd zijn wilt herstellen?
+23035= %s internet explorer browser instellingen zijn aangepast.
+23036= Wijzig de Internet Explorer Herstel instelling
+23037= Wijzig de Internet Explorer Herstel instelling voor %s. De URL in het veld hieronder is de default Internet Explorer URL voor deze instelling. U kunt een andere pagina of URL in dit veld opgeven dan de default instelling.
+23038= Start Pagina
+23039= Dit is de URL van de web pagina die getoond wordt als een nieuw Internet Explorer venster wordt geopend.
+23040= Zoek Pagina
+23041= Dit is de default zoek machine als u de Zoek knop klikt in Internet Explorer.
+23042= Start Pagina URL
+23043= Dit is de Start web pagina URL gebruikt door Internet Explorer.
+23044= Lokale Pagina
+23045= Dit is de pagina die getoond wordt als een website niet gevonden wordt na het invoeren van een adres in de Internet Explorer adres balk.
+23046= Zoek Balk
+23047= Dit is de pagina die getoond wordt als u klikt op de Zoek icon in Internet Explorer. De Zoekbalk heeft de mogelijkheid om gedetailleerde informatie op te slaan.
+23048= Default Zoek URL
+23049= Dit is de pagina die getoond wordt als Internet Explorer probeert een zoekopdracht uit te voeren.
+23050= Start Pagina (Alle gebruikers)
+23051= Dit is de pagina die getoond wordt als een nieuw browser venster van Internet Explorer wordt geopend.
+23052= Zoekpagina (Alle gebruikers)
+23053= Dit is de default zoekmachine als u klikt op de Zoek knop in Internet Explorer. Dit geldt voor alle gebruikers van deze computer.
+23054= Default Pagina URL (Alle gebruikers)
+23055= Dit is de default web pagina URL gebruikt door Internet Explorer. Dit geldt voor alle gebruikers van deze computer.
+23056= Lokale Pagina (Alle gebruikers)
+23057= Dit is de pagina die getoond wordt als een website niet gevonden wordt na het invoeren van een adres in de Internet Explorer adres balk. Dit geldt voor alle gebruikers van deze computer.
+23058= Zoekbalk (alle users)
+23059= Dit is de pagina die getoond wordt als u klikt op de Zoek icon in Internet Explorer. De Zoekbalk heeft de mogelijkheid om gedetailleerde informatie op te slaan. Dit geldt voor alle gebruikers van deze computer.
+23060= Default Zoek URL (Alle gebruikers)
+23061= Dit is de pagina die getoond wordt als Internet Explorer probeert een zoekopdracht uit te voeren. Dit geldt voor alle gebruikers van deze computer.
+23062= Aangepaste Zoekopdracht (Alle gebruikers)
+23063= Dit is de pagina die getoond wordt in het Internet Explorer Zoekvak als u een aangepaste zoekactie uitvoert. De Zoek Assistent voorziet gebruikers van een enkele, eenduidige zoekactie over meerdere types zoekacties. Deze instelling geldt voor alle gebruikers van deze computer.
+23064= Search Assistant (Alle gebruikers)
+23065= Dit is de Search Assistant pagina die getoond wordt door Internet Explorer. De Zoek Assistent voorziet gebruikers van een enkele, eenduidige zoekactie over meerdere types zoekacties. Deze instelling geldt voor alle gebruikers van deze computer.
+23066= Zoek URL
+23067= Zoek URLs zijn een handige manier om verschillende zoekmachines te gebruiken. Bij voorbeeld, u heeft een zoek URL news genaamd die online newsgroups doorzoekt. Als u de sleutelwoorden intypt in de adresbalk om automatisch online nieuwsgroupen naar alle aan deze sleutelwoorden gerelateerde artikelen te doorzoeken.
+23068= Zoek URL (Alle gebruikers)
+23069= Zoek URLs zijn een handige manier om verschillende zoekmachines te gebruiken. Bij voorbeeld, u heeft een zoek URL news genaamd die online newsgroups doorzoekt. Als u de sleutelwoorden intypt in de adresbalk om automatisch online nieuwsgroupen naar alle aan deze sleutelwoorden gerelateerde artikelen te doorzoeken. Dit geldt voor alle gebruikers van deze computer.
+23070= Lege Pagina
+23071= De pagina kan niet worden getoond - Deze pagina wordt door Internet Explorer getoond als de website of pagina niet gevonden is.
+23072= Desktop Navigatie Fout
+23073= Dit is de Internet Explorer pagina die getoond wordt als de computer geen Internet access heeft.
+23074= Navigatie Geannuleerd
+23075= Dit is de Internet Explorer pagina die getoond wordt als u de navigatie annuleert.
+23076= Navigatie Fout
+23077= Dit is de Internet Explorer pagina die getoond wordt als de computer geen Internet access heeft.
+23078= Offline Informatie
+23079= Dit is de Internet Explorer pagina die getoond wordt als de computer geen Internet access heeft of een Web pagina is niet beschikbaar of offline.
+23080= Post Not Cached
+23081= Waarschuwing: Pagina is verlopen - Dit is de waarschuwings pagina als de Internet explorer de inhoud niet in de cache kan vinden.
+
+[Process Manager]
+24001= Proces Manager
+24901= Bekijkt actieve processen en stopt ze indien nodig.
+24002= Nieuwe Taken(Run...)
+24003= Windows Afsluiten
+24004= Herstart Computer
+24005= Computer Afsluiten
+24006= Proces beëindigen
+24007= Proces blokkeren
+24008= Block Lijst
+24009= Zoek op met Google
+24010= Commentaar
+24011= Toon Details
+24012= Naam
+24013= Waardering
+24014= Executable
+24015= Prioriteit
+24016= Threads
+24017= CPU
+24018= CPU Tijd
+24019= Geheugen
+24020= Bedrijf
+24021= Gestart
+24022= Processen
+24023= Stel Prioriteit in
+24024= Realtime
+24025= Hoog
+24026= Hoger dan Normaal
+24027= Normal
+24028= Lager dan Normal
+24029= Laag
+24030= WAARSCHUWING: Wijzigen van de prioriteit klasse van dit proces kan onverwachte resultaten hebben inclusief systeem instabiliteit. Weet u zeker dat u de prioriteit class wilt wijzigen?
+24031= Algemene Informatie
+24032= Gebruikte Modules
+24033= Data
+24034= Waarde
+24035= Process Informatie
+24036= ID
+24037= Bestand
+24038= Argumenten
+24039= Map
+24040= Threads
+24041= Prioriteit
+24042= Geheugengebruik
+24043= Gestart op
+24044= Gestart door
+24045= Versie Informatie
+24046= Bestands type
+24047= Bedrijf
+24048= Beschrijving
+24049= Versie
+24050= Interne naam
+24051= Copyright
+24052= Trademark
+24053= Originele bestandsnaam
+24054= Product naam
+24055= Product versie
+24056= Commentaar
+24137= Veilig
+24139= Riskant
+24057= Wilt het proces %s echt stoppen?
+24058= Wilt u het process %s echt blokkeren?
+24059= Wilt u de computer nu opnieuw opstarten?
+24060= Wilt u de computer nu afsluiten?
+24061= Active Processen:
+24062= CPU Gebruik:
+24063= Geheugen Gebruik:
+24064= System Service
+24065= Vervang Task Manager
+24066= Altijd bovenop
+
+[Context Menu Manager]
+25001= Context Menu Manager
+25901= Beheert het context-menu voor bestanden, mappen...
+25002= Bestanden & Mappen
+25003= Nieuw
+25004= Kopiëren naar
+25005= Markeer de regel om het item toe te voegen aan de lijst. Klick de '%s' knop om het voorgoed uit de lijst te verwijderen.
+25006= Niet Gevonden
+25007= Weet u zeker dat '%s' voorgoed verwijderd moet worden?
+25008= Alle bestanden(*)
+25009= Mappen
+25010= Mappen
+25011= Disken
+25012= Muziek mappen
+25013= Video mappen
+25014= Afbeeldingen mappen
+25015= All Bestand System Objects
+25016= Mijn Computer
+25017= Prullenbak
+25018= Achtergrond
+25019= Snelkoppelingen
+
+[File Encrypter and Decrypter]
+27001= Bestand Versleutelen
+27901= Beschermd uw bestanden tegen ongeauthoriseerd openen en gebruik.
+27002= Versleutel bestand
+27003= Ontsleutel bestand
+27004= Kies het bestand dat u wilt versleutelen:
+27005= Wachtwoord voor versleutelen:
+27006= Bevestig Wachtwoord:
+27007= Wachtwoord Hint(Raadsel):
+27008= Maak een zelf-ontsleutelend EXE bestand(De gebruikers interface is in het Engels)
+27009= Verwijder het originele bestand na het succesvol versleutelen
+27010= Versleutel Nu!
+27011= Kies het bestand dat u wilt ontsleutelen:
+27012= Wachtwoord om te ontsleutelen:
+27013= Wachtwoord Hint
+27014= Extract to:
+27015= Open de doel map na succesvol ontsleutelen
+27016= Ontsleutel Nu!
+27017= Klik 'Bladeren' knop om een bestand te kiezen voor het versleutelen!
+27018= Het gekozen bestand bestaat niet. Kies aan ander.
+27019= Voer een wachtwoord in, tussen de 6 en 16 karakters lang!
+27020= Voer hetzelfde wachtwoord in in beide velden!
+27021= Het volgende bestand bestaat al, overschrijven?
+27022= Bestand was versleuteld naar %s.
+27023= Versleutelde Bestanden
+27024= Het gekozen bestand is niet versleuteld met dit programma. Kies een ander.
+27025= Klik 'Bladeren' knop om een bestand te kiezen voor het ontsleutelen!
+27026= Het gekozen bestand bestaat niet. Kies aan ander.
+27027= Selecteer de map waar u het herstelde bestand wilt opslaan.
+27028= Kan de doel map %s niet aanmaken
+27029= Het volgende bestand %s bestaat al, overschrijven?
+27030= Het bestand is ontsleuteld naar %s.
+27031= Ongeldig wachtwoord, probeer opnieuw.
+27032= Selecteer de map waar u het herstelde bestand wilt opslaan.
+27033= De handeling is mislukt. Probeer opnieuw.
+27034= Versleutelen is bezig. Dit kan even duren, wees geduldig.
+27035= Ontsleutelen is bezig. Dit kan even duren, wees geduldig.
+27036= Dit bestand is versleuteld door de oude versie van het programma voor ontsleutelen, download de oude versie van het ontsleutel programma, wilt u downloaden?
+<<<<<<< .mine
+=======
+27037=Het versleutelde bestand is opgeslagen in:
+27038=Selecteer de map waar u het versleutelde bestand wilt opslaan.
+27039=Doel map bestaat niet, was het wel aangemaakt?
+27040=Open doel map na  successvol versleutelen
+27041=Toevoegen
+27042=Ondersteund slepen van bestanden.
+27043=Lokale Bestand(en)
+27044=Status
+27045=Voortgang
+27046=Versleuteld bestand
+27047=Klaar
+27048=Wachten...
+27049=Versleutelen...
+27050=Succesvol Versleuteld.
+27051=Bron bestand bestaat niet of is verwijderd.
+27052=Doel bestand bestaat reeds.
+27053=Kan bron bestand niet verwijderen.
+27054=Klik op de 'Bestand(en)' knop om het bestand te kiezen dat u wilt versleutelen of sleep een bestand naar de lijst.
+27055=Kon het bestand niet versleutelen, selecteer en probeer opnieuw.
+27056=Verwijderen
+>>>>>>> .r2315
+27057= Markeer Alles
+27058= Markeer Niets
+27059= Markering Omkeren
+27060= Verwijder geselecteerd item
+27061= Wilt u het geselecteerde %s bestand verwijderen van de bestand versleutelen lijst?
+
+[File Splitter and Joiner]
+28001= Bestand Splitter
+28901= Deelt grote bestanden op in kleinere handzame, en stelt ze weer samen.
+28002= Split bestand
+28003= Join bestand
+28004= Kies het bestand dat opgedeeld moet worden in kleinere bestanden
+28005= Geef het pad op van de doel map waar het opgedeelde bestand opgeslagen moet worden
+28006= Kies de maximale grootte van de individuele bestanden die aangemaakt moeten worden
+28007= Floppy disk (1.44MB)
+28008= 100MB Zip(TM)  disk
+28009= 1GB Jaz(TM) disk
+28010= 4.7GB Single-layer DVD
+28011= Door gebruiker bepaalde bestands grootte
+28012= Ongeveer %s deel bestand(en) worden aangemaakt.
+28013= Voeg Zelf-Samenvoegende Functionaliteit toe aan de gedeelde bestanden set
+28014= Nu Delen!
+28015= Selecteer een vam de bestanden die samengevoegd moet worden naar het originele bestand. U kunt eender welk deelbestand kiezen, de andere delen worden automatisch bijgevoegd.
+28016= Deel Set Informatie:
+28017= Geef het pad op van de doel map waar het hersteld bestand opgeslagen moet worden.
+28018= Nu Samenvoegen!
+28019= Bestand %s niet gemaakt
+28020= Bestand %s niet geopend
+28021= Klik de 'Bladeren' knop om het bestand te kiezen dat opgedeeld moet worden in kleinere bestanden!
+28022= Bestand bestaat niet! Klik de 'Bladeren' knop om het bestand te kiezen dat opgedeeld moet worden in kleinere bestanden!
+28023= Het gekozen bestand is al kleiner dan de maximum grootte.
+28024= Klik de 'Bladeren' knop om een doel map te kiezen!
+28025= Kan de doel map %s niet aanmaken
+28026= Er is niet genoeg ruimte op de Doel disk %s
+28027= Bestand is opgedeeld naar %s. Het originele bestand is niet verwijderd.
+28028= Selecteer de map waar u het gedeelde bestand wilt opslaan
+28029= Gedeelde Bestanden
+28030= Bestandname:
+28031= Size:
+28032= Aantal delen:
+28033= Het gekozen bestand is geen deel van een set gedeelde bestanden. Kies een ander.
+28034= Kan de volgende deel bestanden niet vinden:
+28035= Bestand bestaat al! Het bestand overschrijven?
+28036= Originele bestand is samengevoegd.
+28037= Kies de map waar het originele bestand moet worden opgeslagen.
+28038= De actie is mislukt Probeer het opnieuw.
+28039= Het opdelen is in gang. Dit kan even duren, wees geduldig.
+28040= Samenvoegen van het bestand is in gang. Dit kan even duren, wees geduldig.
+28041= Deze map is toegevoegd.
+
+[1-Click Maintenance]
+29001= 1-Click Onderhoud
+29601= Register Cleaner
+29602= Snelkoppeling Repareren
+29603= Startup Manager
+29604= Tijdelijke Bestanden Opschonen
+29605= Tracks Eraser
+29606= Spyware Verwijderen
+
+10603= Repareert ongeldige of niet ccorrecte register regels
+10605= Verwijdert ongeldige snelkoppelingen
+10607= Verwijdert gevaarlijke opstart regels
+10609= Verwijderd tijdelijke bestanden en maakt disk ruimte vrij
+10611= Wist de geschiedenis van activiteiten en Internet sporen
+10613= Verwijdert spyware en adware
+10614= Analyseren...
+10615= Toon Details
+10616= Scannen
+10617= Geen problemen gevonden.
+10618= 1 probleem gevonden.
+10619= %s problemen gevonden.
+10620= %s bestanden gevonden.
+10621= Geen bestanden gevonden.
+10622= %s tracks geselecteerd.
+10623= 1 track geselecteerd.
+10624= Geen tracks geselecteerd.
+10625= Analyseren...
+10626= Klik Herstel Problemen om door te gaan.
+10627= Herstel Problemen
+10628= Problemen opgelost.
+10629= Ruimte Recovered
+10630= Tracks Gewist.
+10631= Repareren...
+10632= Opschonen...
+10633= Wissen...
+10634= %s problemen gerepareerd.
+10635= %s tracks gewist.
+10636= %s hersteld.
+10637= Selecteer de bestanden die u wilt verwijderen.
+10638= Toon Bestanden
+10639= Totaal %s bestanden, %s2 herstelbaar.
+10640= Select de tracks die u wilt verwijderen.
+10641= Selecteer register entries die u wilt repareren. Klik een item met de rechter muisknop voor extra opties.
+10645= Selecteer shortcuts entries die u wilt verwijderen. Klik een item met de rechter muisknop voor extra opties.
+10642= Selecteer startup entries die u wilt verwijderen.
+10644= Selecteer entries die u wilt verwijderen.
+10643= Annuleer 1-Click Onderhoud
+10646= Rescan
+10647= Klik "Repair Problems" om door te gaan, klik "Rescan" om opnieuw te scannen naar problemen.
+
+[Glary Undelete]
+31001= Bestand Herstellen
+31901= Snelle en effectieve manier om per ongeluk verwijderde bestanden te herstellen
+31002= Zoek
+31003= Filter
+31004= Mappen
+31005= Bestanamme
+31007= Status
+31008= Origineell Pad
+31009= Grootte
+31010= Type
+31011= Laatst Gewijzigd
+31012= Herstel
+31013= Disken scannen, Even wachten...
+31014= Kies een map om te zoeken:
+31015= Erg goed
+31016= Goed
+31017= Matig
+31018= Slecht
+31019= Overschreven
+31020= Kies een doel map:
+31021= Herstellen op dezelfde disk reduceert de kans op een succesvol herstel, Weet u zeker dat u wilt doorgaan?
+31022= Bestaat al in map %s, Weet u zeker dat het wil overschrijven?
+31023= bestaan reeds in map %s, Weet u zeker dat ze wil overschrijven?
+31024= Filter: AAn
+31025= Filter: UIT
+31026= Gevonden: %s, Geselecteerd: %s2
+31027= Zoeken
+31028= Huidige voortgang: %s%, %s2 bestanden gevonden.
+31029= Kan scan niet starten: %s
+31030= Herstellen %s..., %s2 bestanden Hersteld.
+31031= Kan bestand %s niet aanmaken
+31032= Op Bestandsnaam
+31033= Geheel of gedeelte van de bestandsnaam. U mag Jokers gebruiken, bv., *.doc
+31034= ? Willekeurig teken
+31035= * Willekeurige reeks van tekens
+31036= Op Grootte
+31037= Meer dan
+31038= Minder dan
+31039= Op Datum
+31040= Van
+31041= Naar
+31042= Op Status
+31043= Alle Types
+
+31044= Geen voorbeeld beschikbaar
+31045= Voorbeeld
+31046= Klik om te Vergroten
+31047= Klik om te Sluiten
+31048= Lokale Disk
+
+[Registry Defrag]
+32001= Register Defragmenteren
+32901= Defragmenteer het Windows register om de computer sneller te maken
+32002= Welkom bij Registry Defrag
+32003= Windows Register na een tijd kan gefragmenteerd raken, daarbij meer ruimte op de harde disk innemend dan nodig is en de boot tijd verlenge. Registry Defrag maakt het register compact en optimaliseert het Windows register door het verwijderen van onnodige openingen en verspilde ruimte. Dit kan de computer prestaties drastisch verbeteren
+32004= - Fragmentatie verminderen
+32005= - Structurele fouten verbeteren
+32006= - Ongebruikte geheugen ruimte vrij maken
+32007= Klik Volgende om de mate van fragmentatie te onderzoeken.
+32008= Grootte na optimalisatie:
+32009= Verschil in Grootte:
+32010= Registry Defrag kan de grootte van het register verkleinen met %s
+32011= Klik Volgende om defragmentatie te beginnen (Reboot vereist). Klik Annuleren als u het register niet wilt optimaliseren, of als u later wilt optimaliseren.
+32012= Registry Defrag heeft ontdekt dat register defragmentatie op dit moment niet nodig is. Het is aan te bevelen om het Windows register minstens een keer per maand te defragmenteren.
+32013= Klik Sluiten om het programma af te sluiten
+32014= ATTENTIE: Voor Register defragmentatie mogen er geen programma´s draaien tijdens de analyse.
+32015= Sla al uw werk op en sluit alle programma´s af voor u verder gaat.
+32016= Schakel ook uw antivirus programma uit gedurende de analyse. Firewalls hoeven gewoonlijk niet uitgeschakeld te worden.
+32017= Nadat alle andere programma´s zijn afgesloten, klik OK om door te gaan.
+32018= Defragmentatiis niet mogelijk, omdat een gedeelte van het reister beschermd is tegen wijzigingen. Om dit te verhelpen kunt u alle open programma´s sluiten, schakel uw antivirus en antispyware bescherming uit en probeer het opnieuw. Vergeet niet om uw antivirus en antispyware bescherming weer in te schaklen na de register defragmentatie.
+32019= WAARSCHUWING: De computer moet opnieuw opgestart worden om de optimalisatie af te maken.
+32020= Wilt u nu optimaliseren?
+32021= Register analyseren
+32022= Even wachten...
+32023= Het kan zijn dat uw computer niet reageert gedurende enkele minuten terwijl de analyse wordt voltooid. U kunt het scannen stoppen door op de Esc knop te drukken...
+32024= Windows register is geoptimaliseerd.
+
+[System Information]
+33001= Systeem Informatie
+33901= Verzamelt informatie over de hardware en software
+33002= Rapport Aanmaken
+33003= Rapport Aanmaken(ALLES)
+33004= Overzicht
+33005= Operating Systeem
+33006= Systeem Onderdelen
+33007= Geheugen
+33008= Disken
+33009= Beeld
+33010= Netwerk
+33011= Other Devices
+33012= Algemeen
+33013= Processor
+33014= Moederbord
+33015= Windows Versie
+33016= Installatie Datum
+33017= Display
+33018= Monitor
+33019= Video Adapter
+33020= Input
+33021= Muis
+33022= Toetsenbord
+33023= Disk
+33024= DVD/CD-ROM
+33025= Operating Systeem Eigenschappen
+33026= OS Naam
+33027= OS Taal
+33028= OS Versie
+33029= Geregistreerde Eigenaar
+33030= Geregistreerde Organisatie
+33031= Product ID
+33032= Product Sleutel
+33033= OS Installatie Datum
+33034= OS Root
+33035= Huidige Sessie
+33036= Computer Naam
+33037= Gebruikersnaam
+33038= Login Domein
+33039= Uptime
+33040= Componenten Versie
+33041= Internet Explorer
+33042= Windows Media Speler
+33043= DirectX
+33044= Systeem Mappen
+33045= Gedeelde Mappen
+33046= Moederbord
+33047= Moederbord Naam
+33048= Moederbord Fabrikant
+33049= BIOS Eigenschappen
+33050= BIOS Versie
+33051= System BIOS Datum
+33052= Video BIOS Datum
+33053= CPU Eigenschappen
+33054= CPU Identificatie
+33055= CPU Generieke Naam
+33056= CPU Verkoper
+33057= Serie Nummer
+33058= CPU Frequentie
+33059= L1 Code Cache
+33060= L1 Data Cache
+33061= L2 Cache
+33062= CPU Socket
+33063= Core Per Package
+33064= Logical Per Core
+33065= Configuratie Details
+33066= CPU Gebruik
+33067= CPU Gebruik Geschiedenis
+33068= Physical Geheugen
+33069= Virtueel Geheugen
+33070= Totaal Geheugen
+33071= Vrij Geheugen
+33072= Gebruikt Geheugen
+33073= Geselecteerd Geheugen
+33074= Applicatie
+33075= Geheugen Gebruik
+33076= Pad
+33077= Volume Details
+33078= Disk Letter
+33079= Device Type
+33080= Serie Nummer
+33081= Bestands System
+33082= Totaal Bytes
+33083= Bytes Vrij
+33084= Bytes Gebruikt
+33085= Bestands System
+
+33086= Bestands Compressie Ingeschakeld
+33087= Volume is Gecomprimeerd
+33088= Lange Bestands Naam Toegestaan
+33089= Unicode Bestansd Name Toegestaan
+33090= Versleuteld Bestands System
+
+33091= Logische Informatie
+33092= Aantal Clusters
+33093= Vrije Clusters
+33094= Gebruikte Clusters
+33095= Bytes per Cluster
+33096= Sectors per Cluster
+33097= Gebruikte Sectors
+33098= Vrije Sectors
+
+33099= Configuratie Details
+33100= Bytes per Sector
+33101= Totaal Sectors
+
+33102= Totael Disk Ruimte
+33103= Vrije Disk Ruimte
+33104= Gebruikte Disk Ruimte
+
+33105= Video Adapter Eigenschappen
+33106= Device Beschrijving
+33107= Adapter String
+33108= BIOS String
+33109= Chip Type
+33110= DAC Type
+33111= Driver Datum
+33112= Driver Versie
+33113= Driver Provider
+33114= Hoeveelheid Geheugen
+
+33115= Monitor Eigenschappen
+33116= Monitor Naam
+33117= Model
+33118= Fabricage Datum
+33119= Serie Nummer
+33120= Max.ZXichtbaar Display Grootte
+33121= Gamma
+
+33122= Video Model Ondersteund
+
+33123= Network Adapter Beschrijving
+
+33124= Netwerk Adapter Eigenschappen
+33125= Netwerk Adapter
+33126= Interface Type
+33127= Hardware Adres
+33128= Verbinding Naam
+33129= Verbinding Snelheid
+33130= MTU
+33131= Bytes Ontvangen
+33132= Bytes Verzonden
+
+33133= Netwerk Adapter Adressen
+33134= IP/Subnet Masker
+33135= Gateway
+33136= DNS
+
+33137= Ontvangen Data
+33138= Verzonden Data
+
+33139= Audio Devices
+33140= Poorten
+33141= USB
+33142= USB Controller
+33143= Printers
+
+33144= Naam
+33145= Waarde
+33148= Systeem Mappen
+33149= Gedeelde Mappen
+33150= Klik met rechts op een map om het te openen in Windows Explorer
+33151= Open Map
+33152= Eigenschappen
+33153= SEC
+33154= (%s Uur %s2 Minuten %s3 Seconden)
+
+[GLARYUTILITIES]
+1001001= Restore
+1001002= Terugkoppeling
+1001003= Minimaliseren
+1001004= Versie:
+30021= Versie %s beschikbaar. Update nu!
+
+[OVERVIEW]
+1002001= Overzicht
+1002002= Schakel automatisch onderhoud in
+1002003= Wis privacy sporen bij het afsluiten van Windows 
+1002004= Controleer op updates als het programma start
+1002005= Deep clean and fix inschakelen
+1002006= Windows Boot Time
+1002007= Schakel onnodige startup programs uit om Windows sneller te laten starten
+1002008= Startup Manager
+1002009= U gebruikt %s
+1002010= Nu Upgraden
+1002011= Deel mijn windows boot tijd met anderen
+1002012= Uren
+1002013= Minuten
+1002014= Seconden
+1002015= Selecteer Tracks
+1002016= Licentie Verleend Aan:
+1002017= Beheer Licentie
+1002018= Verlopen
+
+[ONECLICK]
+1003001= Disk Reparatie
+1003002= Defragmenteer Register
+1003003= Malware Immunizatie
+1003004= Systeem Optimisatie
+1003005= Defragmenteer Harde Disks
+
+[ADVANCED TOOLS]
+1004001= Geavanceerd
+1004002= Windows Register
+1004003= Repareer
+1004004= Defragmenteer
+1004005= Backup
+1004006= Restore
+   
+1004007= Disk Ruimte
+1004008= Opschonen
+1004009= Verwijder duplicaten
+1004010= Verwijder lege mappen
+1004011= Ongeldige snelkoppelingen
+1004012= Disken analyseren
+   
+1004013= Systeem Tweaks
+1004014= Systeem Tweaks
+1004015= Optimaliseer systeem startup
+1004016= Geheugen vrij maken
+1004017= Internet versnellen
+1004018= Turbo mode
+   
+1004019= Privacy
+1004020= Verwijder geschiedenis
+1004021= Bestanden versnipperen
+1004022= Vrije ruimte schoon maken
+1004023= Versleutel bestanden
+   
+1004024= Drivers
+1004025= Backup
+1004026= Restore
+1004027= Deïnstalleer
+1004028= Controleer op updates
+   
+1004029= Bestands management
+1004030= Split bestanden
+1004031= Verwijderde bestanden herstellen
+1004032= Snel Zoeken
+   
+1004033= Harde disken
+1004034= Defragmenteer
+1004035= Boot defragmenteren
+1004036= Controleer op fouten
+   
+1004037= Systeem Controle
+1004038= Startup items
+1004039= Services
+1004040= Geplande taken
+1004041= Context menus
+1004042= Processen
+1004043= Browser assistent
+   
+1004044= Systeem Status
+1004045= Systeem informatie
+1004046= Backup uw computer
+1004056= Repareer systeem bestanden
+1004047= Systeem terugzetten
+1004048= Wijzigingen ongedaan maken
+   
+1004049= Anti-malware
+1004050= Verwijder malware
+1004051= Immuniseer
+   
+1004052= Programma's
+1004053= Deïnstalleer
+1004054= Controleer op updates
+1004055= Zoek naar meer software
+1004057=
+
+[QUICKLAUNCHBAR]
+1005001= Klik +/- om een item toe te voegen of verwijderen van de dock balk   
+1005002= Bestaat hier al
+1005003= Niet genoeg ruimte in het dock, verwijder er een door te - klikken
+ 
+[SKINSCENTER]
+1006001= Skin Center
+1006002= Afbeeldingen Bibliotheek
+1006003= Solid Kleuren
+1006004= Het volgende bestand bestaat reeds, overschrijven?
+1006005= Alle Support Bestanden
+
+
+[CHECKDISK]
+2400001= Controleer Disk
+2401001= Selecteer de disk die gecontroleerd moet worden
+2401002= Repareer bestands system fouten automatisch
+2401003= Scan naar en herstel van beschadigde sectoren
+2401004= Controleer Disk
+2401010= Disk Naam
+2401011= Vorige Analyse
+2401012= Status
+2401013= Analyse
+2401014= Rapport
+2401015= Klaar
+2401016= Moet gecontroleerd worden
+2401017= Controleert %s
+2401018= Disk Controle Onderbroken
+2401019= Fouten Gevonden
+2401020= Geen Fouten Gevonden
+2401021= Contrleer op Disk Fouten
+2401022= Verberg details
+2401023= Toon details
+2401024= CheckDisk Controleert uw disk en het bestands systeem op fouten.
+2401025= Gevonden Fouten worden automatisch verbeterd om verlies van data te voorkomen.
+2401026= Opties
+;2401027= Verbeter bestands system fouten automatisch
+;2401028= Scan naar en probeer herstel van slechte sectoren
+2401029= Start Controle
+2401030= Stop
+2401031= Geplande disk conrole mislukt!
+2401032= CheckDisk was geplanned voor de volgende computer start.
+2401033= CheckDisk Overgeslagen.
+2401034= CheckDisk Geannuleerd.
+2401035= CheckDisk Onderbroken.
+2401036= Disk controle voltooid. Geen fouten gevonden.
+2401037= CheckDisk heeft de volgende %s disk gevonden:
+
+2403001= Controleert Disk %s
+2403002= Doe dit voor de volgende %s conflicten
+2403003= Wordt overgeslagen binnen %s seconds.
+
+2405001= Function not find.
+2405002= Disk controle heeft een fout gevonden. De applicatie moet opnieuw gestart worden.
+2405003= Controleert bestands system op %s
+2405004= Het type bestands system is %s.
+
+2406001= Sla Rapport op
+
+2407001= Resultaat
+2407002= Schedule disk controle
+2407003= Nu opnieuw starten
+2407004= Toon rapport
+2407005= Windows zal de disk repareren bij de volgende herstart.
+
+2408001= Windows kan de disk niet controleren als de disk in gebruik is
+2408002= Forceer een ontkoppeling(dismount)\nWilt u dit volume eerst ontkoppelen? Note: Alle geopende "handles" naar dit volume worden ongeldig.
+2408003= Plan disk controle\nWilt u op harde disk fouten controleren als u de volgende keer de computer opstart?
+2408004= Overslaan
+
+[RESTORE CENTER]
+
+2602001= Herstelpunt aanmaken...
+2603001= Geef een omschrijving om het herstel punt te identificeren. De huidige datum en tijd worden automatisch toegevoegd.
+2603002= Aanmaken
+2603003= Geef een beschrijving.
+2604001= Voorbereiden om het systeem te herstellen ...
+2605001= Hersteld %s items.
+
+
+[SETTINGS]
+2801001= Algemene Instellingen
+2801002= De volgende items worden overgeslagen als u een scan uitvoerd.
+2801003= Additioneel
+2801004= Werkt zich door het register om fouten te identificeren, voorstel te maken en te repareren.
+2801005= Toon Dock bar Hints
+2801006= Meerdere triggers gedefinieerd
+2801007= Taak niet geplanned
+
+
+[Quick Search]
+3700001= Snel Zoeken
+3700002= 
+
+//frmMain
+3701001= Bestand
+3701002= Bewerken
+3701003= View
+3701004= Help
+3701005= Open
+3701006= Open Map
+3701007= Export
+3701008= Sluiten
+3701009= Kopiëren
+3701010= Match Path
+3701011= Opties
+3701012= Tekst Grootte
+3701013= Sorteer Icons op
+3701014= Vernieuwen
+3701015= Increase
+3701016= Decrease
+3701017= Normaal
+3701018= Naam
+3701019= Pad
+3701020= Grootte
+3701021= Wijzigings Datum
+3701022= Home Page
+3701023= Over
+3701024= Wijzig Categorie
+3701025= Toon Alles
+3701026= Snelkoppelingen
+3701027= Documenten   
+3701028= Afbeeldingen        
+3701029= Videos        
+3701030= Muziek     
+3701031= Programmer 
+3701032= Toon %s bestanden
+3701033= Include Bestand 
+3701034= Include Dir
+3701035= %s items gevonden
+3701036= Scanning %s ...
+3701037= Type   
+3701038= Bestands beschrijving 
+3701039= Bestand versie 
+3701040= Product versie 
+3701041= Bedrijfs naam 
+3701042= Tekst bestand(*.txt)|*.txt|Alle Bestanden(*.*)|*.*
+3703043= Bestand bestaat
+3703044= Tips
+
+//frmSetting
+3702001= Opties
+3702002= Categoriue
+3702003= Algemeen
+3702004= Start automatisch bij Windows logon
+3702005= Dubbel-klik 'Ctrl' toets om het zoekvak te tonen of te verbergen
+3702006= Taal:
+3702007= Categorie Naam
+3702008= Bestands Extensies
+3702009= Toevoegen
+3702010= Wijzigen
+3702011= Verwijderen
+3702012= OK
+3702013= Annuleren
+3702014= Selecteer een categorie!
+3702015= Deze categorie kan niet verwijderd worden
+
+//frmGroupSetting
+3703001= Categorie Naam:
+3703002= Bestands Extensies:
+3703003= Bestansd Extensien:
+3703004= Extensie
+3703005= Bestands Type
+3703006= Type extensie(*.doc)
+3703007= Categorie naam mag niet leeg zijn!
+3703008= Bestands extensies mogen niet leeg zijn!
+3703009= Categorie naam %s bestaat al, Type de categorie naam opnieuw.
+3703010= Voeg een categorie toe
+3703011= Wijzig een categorie
+
+//UnitFunction
+3704001= Er is geen tekst op het Clipboard!
+
+//frmAbout
+3705001= Over
+3705002= Versie
+3705003= Website:
+3705004= Copyright @ 2013, Glarysoft ltd. All rights reserved
+
+//tray icon
+3706001= Start Quick Search
+
+//Task
+3707001= Glary Utilities 3 QuickSearch
+
+[Disk Defrag]
+3400001= Disk Defragmenteren
+3400002= Disks om PC prestaties te verbeteren
+
+//frmMain
+3401001= Disk Naam
+3401002= Bestands System
+3401003= Capaciteit
+3401004= Beschikbaar
+3401005= Gefragmenteerd
+3401006= Status
+3401007= Boot Time Defrag 
+3401008= Bestand
+3401009= Extra
+3401010= Help
+3401011= Defragmenteer een bestand...
+3401012= Defragmenteer een map...
+3401013= Analyseren
+3401014= Defragmenteren
+3401015= Defragmenteren en Optimaliseren (langzamer, voer eens per week uit)
+3401016= Afsluiten
+3401017= Prioriteit
+3401018= Lage Prioriteit
+3401019= Normale Prioriteit
+3401020= Hoge Prioriteit
+3401021= Optie
+3401022= Home page
+3401023= Controleer op Updates
+3401024= Over
+3401025= Defragmenteren
+3401026= Analyseren
+3401027= Defragmenteren en Optimaliseren (langzamer, voer eens per week uit)
+3401028= Pauseren
+3401029= Doorgaan
+3401030= Stop
+3401031= PC afsluiten na defragmenteren
+3401032= Alles Selecteren
+3401033= niets Selecteren
+3401034= Status
+3401035= Rapport
+3401036= Gebruikt
+3401037= Beschikbaar
+3401038= Processing
+3401039= Beschikbaar
+3401040= Gebruikt
+3401041= Niet Gefragmenteerd
+3401042= Niet verplaatsbare Bestanden
+3401043= Gefragmenteerde Bestanden
+3401044= Bezig
+3401045= MFT Reserved Zones
+3401046= Klaar
+3401047= Analyseren
+3401048= Defragmenteren
+3401049= Optimaliseren
+3401050= Geanalyseerd
+3401051= Gedefragmenteeerd
+3401052= Geoptimaliseerd
+3401053= Analyse Voltooid
+3401054= Defragmentatie Voltooid
+3401055= Optimalisatie Voltooid
+3401056= Analyse Onderbroken
+3401057= Defragmentatie Onderbroken
+3401058= Optimalisatie Onderbroken
+3401059= Boot Time Defrag is geactivateerd voor dit volume.
+3401060= Boot Time Defrag is niet geactivateerd voor dit volume.
+3401061= Uitschakelen
+3401062= Inschakelen
+3401063= Configureren
+3401064= Defragmenteer page bestand, hibernation bestand
+3401065= Defragmenteer MFT
+3401066= Defragmenteer system bestanden
+3401067= Boot Time Defrag Geschiedenis(Dubbel Klik voor details)
+3401068= Datum
+3401069= Totale Grootte
+3401070= Gedefragmenteerd
+3401071= Totale Bestanden && Dirs:
+3401072= Fragmenten:
+3401073= Fragmentatie Rate:
+3401074= Bestands Naam
+3401075= Fragmenten
+3401076= Grootte
+3401077= Pad
+3401078= Ja
+3401079= Nee
+3401080= Bestand(en)
+3401081= Selecteer Map
+3401082= Hint
+3401083= Disk Defragmenter is nog bezig.
+3401084= Onbekende driver
+3401085= De root map kan niet aan de uitzonderingen lijst worden toegevoegd. Select een andere map.
+3401086= Selectie Omkeren
+3401087= Stop Een
+3401088= Stop Alles
+
+//frmOption
+3402000= Opties
+3402001= Algemeen
+3402002= Defragmenteer
+3402003= Auto defrag
+3402004= Planning
+3402005= Boot Time Defrag
+3402006= Optimaliseren
+3402007= Uitzonderingen
+3402008= Taal:
+3402009= Start automatisch bij Windows logon
+3402010= Minimaliseer naar de taakbalk als het programma venster gesloten wordt window
+3402011= Toon ballon tips als het programma gemininaliseerd is
+3402012= Integreer Disk Defragmenter in het Windows Explorer context menu
+3402013= Controleer automatisch op updates
+3402014= Disken simultaan defragmeneren
+3402015= Default
+3402016= Smart Defrag
+3402017= Aurora
+3402018= Windows Standard
+3402019= Accessibility
+3402020= Rainbow
+3402021= Sea Breeze
+3402022= Defragmenteer alleen bestanden die:
+3402023= Fragmenten hebben kleiner dan
+3402024= Meer hebben dan
+3402025= Groter zijn dan
+3402026= Kleiner zijn dan
+3402027= Fragmenten
+3402028= Verplaats grote bestanden naar het eind van de disk
+3402029= Minimum grootte:
+3402030= Bestanden die niet gebruikt zijn in de laatste maand
+3402031= Bestanden in de prullenbak
+3402032= Bestanden in de geselecteerde types
+3402033= Categorie
+3402034= Type
+3402035= Toevoegen
+3402036= Bewerken
+3402037= Verwijderen
+3402038= Sluit bestanden uit die u niet wil defragmenteren. bv. video bestanden. {#13#10}Het zal het defragmenteren ssneller maken. 
+3402039= Bestanden
+3402040= Mappen
+3402041= Auto defrag is Uit
+3402042= Auto defrag is Aan
+3402043= Als auto defrag is ingeschakeld, zal het de hard disk automatisch defragmenteren om de computer op top snelheid te laten werken.
+3402044= Auto defrag als het systeem %s minute(n) niet actief is
+3402045= Pauseer als het CPU of disk gebruik meer dan %s% is
+3402046= Disken
+3402047= Laatste defragmentatie:
+3402048= Gedefragmenteerde bestanden:
+3402049= Uitvoeren volgens plan
+3402050= Actie:
+3402051= Frequentie:
+3402052= Tiid:
+3402053= Alleen Defragmenteren
+3402054= Defragmenteren en Optimaliseren
+3402055= Dagelijks
+3402056= Wekelijks
+3402057= Maandelijks
+3402058= Maandag
+3402059= Dinsdag
+3402060= Woensdag
+3402061= Donderdag
+3402062= Vrijdag
+3402063= Zaterdag
+3402064= Zondag
+3402065= Boot Time Defrag is activated
+3402066= Defrag Model:
+3402067= Methode
+3402068= Elke dag boot
+3402069= Elke dag eerste boot
+3402070= Elke %s dagen eerste boot
+3402071= Max log bestanden:
+3402072= Start Autocheck
+        
+3402073= Geadvanceeerd Defragmenteren
+3402074= Snel Defragmenteren
+3402075= Selecteer Map
+3402076= Controleer de disk die u wilt defragmenteren!
+3402077= Tips
+3402078= Selecteer een categorie! 
+3402079= Wilt u echt deze categorie verwijderen?
+3402080= Bestands Categorie toevoegen
+3402081= Bestands Categorie bewerken
+3402082= OK
+3402083= Annuleren
+3402084= Boot Time Defrag defragmenteerd bestanden die niet veilig verplaatst kunnen worden terwijl Windows actief is.
+
+//frmConfig
+3403001= Archieven
+3403002= Films
+3403003= Disk Images
+
+//frmCategory
+3404001= Categorie naam mag niet leeg zijn! 
+3404002= Type formaat fout! bij voorbeeld: (*.doc/*.doc,...,*.Txt).
+
+//frmFileType
+3405001= Categorie: 
+3405002= Type:
+
+[SpyRemover]
+2701001= Malware Verwijderaar
+2701002= Malware Verwijderaar
+2701003= Snelle scan en verwijdeer spyware en adware
+2701004= Scan
+2701005= Verwijder
+2701006= Herstel
+2701007= Rescan
+2701008= Selecteer a backup which you want to restore and klik 'Restore' button.
+2701010= Type
+2701011= Status
+2701012= Backups
+2701013= Weet u zeker dat u %s wilt terugzetten in het systeem register?
+2701014= %s is teruggezet in het register.
+2701015= Scannen %s
+2701016= Gescande bestanden: %s
+2701017= Malware is met succes verwijderd!
+2701018= Herstel
+2701019= Scan Malware
+2701020= Scan klaar
+2701021= %s malwares gevonden
+2701022= Geen malware gevonden
+2701023= 1 malware gevonden
+2701024= Geen item geselecteerd
+2701025= %s items geselecteerd
+2701026= %s items geslecteerd
+2701027= Malware Info
+2701028= Geen malware gevonden!
+2702001= Details
+2702002= Selecteer de entries die u wilt verwijderen.
+	 
+[BOOT TIME]
+2901001= Alleen voor vergelijking.
+2901002= De Windows boot tijd is Erg Traag, %s gebruikers zijn trager.
+2901003= De Windows boot tijd is Traag, %s gebruikers zijn trager.
+2901004= De Windows boot time is Normaal, %s gebruikers zijn trager.
+2901005= De Windows boot time is Snel, %s gebruikers zijn trager.
+2901006= De Windows boot time is Erg Snel, %s gebruikers zijn trager.
+2901007= Geen data gevonden, De referentie waarde kan niet berekend worden.
+2901008= Boot tijd bepalen, even geduld...
+
+[DRIVER BACKUP]
+2200001= Driver Manager
+2201001= Backup
+2201002= Uninstalleer
+2201003= Terugzetten
+
+2201004= Selecteer de drivers die u wilt Backup-en en klik "Backup".
+2201005= Selecteer de drivers die u wilt deïnstalleren en klik "Uninstalleer" knop.
+2201006= Kies de map waar u het backup bestand heeft opgeslagen:
+2201007= Backup bestand opslaan in:
+2201008= Driver Backup
+2201009= %s Aanmaken mislukt!
+2201010= Bent u zeker dat u dit apparaat wilt deïnstalleren?
+2201011= Apparaat Naam
+2201012= Versie
+2201013= Backup Datum
+2201014= Uw computer moet opnieuw opgestart worden!
+
+
+[Software Update]
+4000001= Software Update
+4000002= 
+
+4001001= Lees verder...  
+4001002= Annuleren
+4001003= Doorgaan
+4001004= Voer Software Update uit als Windows start
+4001005= Scan
+4001006= Opnieuw
+4001007= 100% scannen voltooid.
+4001009= 
+4001010= Ready starting ...
+4001011= Computer Scannen ...
+4001012= Data versturen voor analyse ...
+4001013= Openen resultaten ...
+4001014= Klik 'Scan' knop om de computer te scannen op geïnstalleerde software!
+4001015= Bezoek www.glarysoft.com
+4001016= Restore from tray
+4001017= Afsluiten
+4001019= Klik op dit bericht voor meer informatie.
+4001020= Toon details
+4001021= Scan naar updates
+
+4001022= Er is 1 nieuwe update beschikbaar.
+4001023= Er zijn %s nieuwe updates beschikbaar. 
+4001024= Er is 1 beta update beschikbaar. 
+4001025= Er zijn %s beta updates beschikbaar. 
+
+4001026= Er zijn 1 nieuwe update en 1 beta update beschikbaar.
+4001027= Er zijn 1 nieuwe update en %s beta updates beschikbaar. 
+4001028= Er zijn %s nieuwe updates en 1 beta update beschikbaar. 
+4001029= Er zijn %s nieuwe updates en %s2 beta updates beschikbaar.
+4001030= Momentaal geen updates beschikbaar.                 

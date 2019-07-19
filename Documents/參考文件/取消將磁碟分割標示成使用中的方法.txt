@@ -1,0 +1,14 @@
+2010-08-1114:45如何取消將磁碟分割標示成使用中的方法 39701 Windows
+
+
+   1.  按 Windows 鍵 + R，然後輸入 CMD 來開啟命令提示字元
+   2. 輸入 DISKPART
+   3. 輸入 LIST DISK
+   4. 輸入 SELECT DISK n （ n 看你的目標是在哪顆硬碟上，照上面的圖來看應該是 1 ）
+   5. 輸入 LIST PARTITION
+   6. 輸入 SELECT PARTITION n （ n 看你要取消 Active 的是哪個 partition ）
+   7. 輸入 INACTIVE
+   8. 輸入 EXIT
+   9. 再輸入一次 EXIT
+   10.重開機
+

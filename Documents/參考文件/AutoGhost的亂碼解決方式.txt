@@ -1,0 +1,6 @@
+AutoGhost的亂碼解決方式
+
+開CMD
+[下午 02:58:20] william yang: bcdedit /set {current} locale zh-TW
+[下午 02:58:25] william yang: 這是開機畫面
+[下午 02:58:30] william yang: bcdboot %WinDir% /l zh-TW

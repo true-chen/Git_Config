@@ -1,0 +1,8 @@
+øÈ•XACLs
+icacls C:\Users\true /save D:\config\AclFile.txt
+
+¡Ÿ≠ÏACLs
+
+D:
+cd/config
+icacls D:/ /restore AclFile.txt

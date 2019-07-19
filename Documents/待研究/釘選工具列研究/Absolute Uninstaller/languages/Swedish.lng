@@ -1,0 +1,2657 @@
+; Software = Glary Utilities PRO v. 5.2.0.5
+; Language in English = Swedish
+; Language Local = Svenska
+; Language Code Short = SWE
+; Language Code Long = sv-se (Svenska-Sverige = Swedish-Sweden)
+; Translator Name = Göran Malmberg, Idre, Sweden
+; Translator email = info.idre@telia.com
+; Translation Date = 2014-06-18
+;==================================================================
+[Language]
+Description= Swedish(Sweden)
+
+[Globals]
+10001= Fil
+10002= Ändra
+10003= Visa
+10004= Hjälp
+10005= Avsluta
+10023= Hjälpinnehåll
+10018= Hemsida
+10019= Om
+10006= Stoppa
+10007= Uppdatera
+10008= Egenskaper
+10009= Namn
+10010= Öppna
+10011= Storlek
+10012= OK
+10013= Avbryt
+10014= Stäng
+10015= Ja
+10016= Nej
+10017= Bläddra...
+10020= Exportera...
+10021= Öppna mapp
+10022= Uppgifter
+10024= Nästa
+10025= Tillbaka
+10026= Alternativ
+19026= Total storlek
+19027= Fritt utrymme
+14023= Status
+10027= Beskrivning
+10028= Avsluta
+10029= Papperskorg
+14009= Detaljer
+10030= Lägg till
+10031= Ta bort
+10032= Standard
+10033= Skapandedatum
+10034= Ta bort
+10035= Tipsa vänner
+10036= Köp nu
+10037= Ange en registreringskod
+15009= Välj alla
+15010= Välj inga
+15011= Omvänd markering
+15014= Kolla
+10038= Meny
+10039= Sök uppdateringar
+10040= Språk
+10041= Är du säker på att du vill skicka dessa valda objekt till papperskorgen?
+10043= Vissa filer kan ej raderas. Se till att filerna ej används f.n., och att disken ej är full eller skrivskyddad.
+10044= Varning
+10045= Info
+10046= Fel
+10047= Bekräftelse
+10048= Initiering
+
+10050= Förordas
+10051= Tillämpa
+10052= Verktyg
+10053= Programmet körs ej p.g.a. en saknad eller skadad fil, v.g. försök installera på nytt för att åtgärda problemet. Klicka på "Ja" för att hämta den senaste versionen av Glary Utilities.
+10055= Historik
+10054= Visa historik
+
+10060= Du behöver starta om detta program för att språkändringar får effekt.\r\nVill Du avsluta och starta om det?
+10061= Meddela mig när ny version finns
+10062= Automatiskt uppdatera till den senaste versionen
+10063= Uppgradera till Pro
+
+[Integrator]
+10801= Rensa & reparera
+10802= Optimera & förbättra
+10803= Sekretess & säkerhet
+10804= Filer & mappar
+10805= Systemverktyg
+
+10806= Status
+10807= Programstatus
+10808= Aktuell version:
+10809= Senaste uppdatering:
+10810= Databasens datum:
+10811= Licens-status
+10812= Typ:
+10813= Fri utgåva
+10814= Pro utgåva
+10815= Utgångsdatum:
+10816= Aldrig
+10817= Registrera Din betalda produkt genom att klicka på knappen nedan.
+10818= Registrera
+10819= AutoVård inställningar
+
+10799= Moduler
+
+10820= Inställningar
+10821= Allmänt
+10822= Språk:
+10823= Starta Glary Utilities automatiskt vid start av Windows..
+10824= Minimera till systemfältet när Du stänger programfönstret
+10825= Snabbmeny
+10826= Välj de snabbmenyer som du vill integrera i Windows Utforskaren.
+10827= Automatisk uppdatering
+10828= Utför webbuppdatering vid en schemalagd tidpunkt.
+10829= Schema:
+10830= Ej tillgänglig för fri utgåva
+10831= Ändra schema
+10832= AutoVård
+10833= Radera sekretess-spår vid Windows utloggning eller avstängning.
+10834= Sekretess-spår
+10835= Välj spår som du vill radera vid Windows utloggning eller avstängning
+10836= Automatisk 1-klicks underhåll
+10837= Kör 1-klicks underhåll vid en schemalagd tid.
+10838= Återställnings- center
+10839= Återställningscenters-skydd
+10840= Välj de moduler som Du vill ha skyddade av Återställningscenter här.
+10841= Tillgängliga moduler:
+10842= Backup- alternativ
+10843= Ta bort backups automatiskt:
+10844= Begränsa antalet backups till:
+10845= Ignoreringslista
+10846= Efter en vecka
+10847= Efter 2 veckor
+10848= Efter 3 veckor
+10849= Efter en månad
+10850= Efter 2 månader
+10851= Efter 3 månader
+10852= Automatiska 1-klicks underhållsalternativ
+10853= Sök bara efter problem
+10854= Skanna och reparera problem
+10855= Välj spår Du vill radera
+10856= Visa ballongtips vid minimering till systemfält
+10857= Sök uppdateringar vid programstart
+
+10900= Ångra ändringar
+10901= V.g. välj en backup Du vill återställa och klicka på 'Återställ'- knappen.
+10902= Systemåterställning
+10903= Skapa återställningspunkter
+10914= Ny återställningspunkt skapades OK.
+10904= Skapande av återställningspunkt gick ej! Systemåterställning kan vara inaktiverat på detta system, eller Du har ej åtkomsttillåtelser.
+10905= För att aktivera systemåterstäällning, vidta dessa steg: Start -> Kontrollpanel -> System -> Systemåterställnings-flik. Avbocka "Slå av systemåterställning på alla diskar" i kryssrutan för att aktivera systemåterställning. Klicka på "OK".
+10906= V.g. välj en återställningspunkt först!
+10907= V.g. spara Dina ändringar och stäng öppna program. Windows omstartar automatiskt under återställningsprocessen.
+10908= V.g. välj en backup först!
+10911= Backups
+10912= Vill Du återställa %s? Säkert?
+10913= Återställd(a) OK.
+10915= V.g. välj en återställningspunkt Du vill återställa till, och klicka sedan på "Återställ"- knappen.
+
+10909= Tips
+10910= Glary Utilities kör ännu.
+
+10916= FAQ
+10917= Skinn
+10918= Bärbar version
+10919= Nödläges-stöd
+
+[License Dialog]
+20001= Detta är en tidsbegränsad test-version.
+20002= Du kan testa full funktionalitet i programvaran under %s dagar utan förpliktelser.
+20003= Om Du gillar programmet och vill använda det längre än testperioden, klicka på "Beställ nu".
+20004= Testperiod: dag %s av %s2
+20005= Denna testversion har gått ut. Du kunde testa alla funktioner i programvaran under %s dagar.
+20006= Om du gillar programmet och vill fortsätta använda det, klicka på "Beställ nu".
+20007= Testperiod gick ut
+20008= Ej registrerad
+20009= Upphovsrätt(c)
+20010= Denna produkt licensieras till:
+20011= Varning: Detta datorprogram är skyddat av upphovsrätt och internationella avtal. Otillåten kopiering eller distribution av detta program kan resultera i allvarliga civilrättsliga och straffrättsliga påföljder och kommer att beivras i största möjliga utsträckning enligt lagen.
+20012= Webbsajt
+20013= Beställ nu
+20014= Ange kod
+20015= Fortsätt att testa
+20016= Ditt namn:
+20017= Registreringskod
+20018= Om Du ej har en registreringskod för att låsa upp denna testversion, kan Du
+20019= Beställa en via nätet.
+20020= Den registreringskod Du angav är ogiltig. V.g. kontrollera koden för att se till att den angetts korrekt.
+20021= Tack till dessa personer för deras bidrag
+20022= Uppgradera nu!
+20023= V.g. ange Din licensinfo
+20024= Licenstyp:
+20025= För att få Din licens,
+20026= Hemsida:
+
+20027= Uppgradera nu
+20037= V.g ange Ditt namn!
+20038= Licenskod:
+20039= Aktivera nu
+20040= Har Du ej en licens?
+20041= Klicka här för att få en
+20042= Jag förlorade min licenskod.
+20043= Ange Din licensinfo
+20044= Licensnamn:
+20045= Utgångsdatum:
+20046= %s dag(ar) kvar
+20047= Utgick för %s dag(ar) sedan
+20048= Förnya
+20049= Exportera licens
+20050= Glary Utilities' licenshanterare
+20051= T.ex. AC6E-D9C6-FAB8-A8C8
+20052= Licenshanterare
+20053= Licensinfo sparades till:
+
+[Updater]
+30001= Kunde ej hämta info från %s
+30002= Din Dator kör den senaste versionen av %s. Ingen uppdatering finns just nu.
+30003= Du använder %s : %s2.
+30004= En nyare version av %s finns för hämtning: %s2. V.g. klicka på "OK" för att öppna en sida med hämtningsdetaljer, eller klicka på "Avbryt", om Du ej vill uppgradera just nu.
+30005= Uppdaterad OK
+30006= Hämtar uppdaterad version (%s) ..
+30007= Hämtar referens till den uppdaterade filen (%s) ...
+30008= Söker uppdateringar...
+30009= Klar
+30010= Utför webb-uppdatering ...
+30011= Beräknad tid kvar:
+30012= Överföringshastighet:
+30013= Okänd
+30014= %s sek
+30015= %s av %s2 kopierad(e)
+30016= %s/sek
+30017= Du måste uppgradera till PRO-versionen av %s för att använda denna funktion. Uppgradera nu?
+30018= %s finns nu. Klicka på detta meddelande för att installera den.
+30019= %s min %s2 sek
+30020= Hämtar uppdaterade språkfilen (%s) ...
+30021= Version %s available. Update now!
+30022= Glary Utilities Uppdatering
+30023= En ny version av Glary Utilities finns!
+30024= Glary Utilities %s finns nu - Du har %s2. Vill Du hämta den nya versionen nu?
+30025= Utgåve-anteckningar:
+30026= Skippa denna version
+30027= Påminn mig senare
+30028= Hämta
+30029= Hämta uppdateringar automatiskt i framtiden
+
+[Context Menu]
+40001= Analysera diskutrymme med Glary Utilities
+40002= Förena med Glary Utilities
+40003= Splittra med Glary Utilities
+40004= Dekryptera med Glary Utilities
+40005= Kryptera med Glary Utilities
+40006= Skrubba med Glary Utilities
+40007= Finn tomma mappar med Glary Utilities
+
+40008= Diskdefragga med Glary Utilities
+40009= Defragga disken med Glary Utilities
+40010= Defragga mappen med Glary Utilities
+40011= Defragga filen med Glary Utilities
+
+[Registry Cleaner]
+11001= Register-reparation
+11901= Rensar Ditt register för att förbättra systemprestandan.
+11002= Välj sektionerna att skanna
+
+11003= Åtgärd
+11004= Sök registerproblem
+11005= Reparera Ditt register
+11006= Återställ tidigare reparationer
+11007= Verktyg
+
+11008= Dina valda problem har reparerats OK.
+11009= Vill Du lägga till posten i ignoreringslistan? Säkert? Denna post hittas ej igen.
+11010= Filen har sparats till:
+11011= Summering av funna problem:
+11012= 1 problem funnet
+11013= %s problem funna
+11014= 1 problem valt för reparation
+11015= %s problem valda för reparation
+11016= Inga problem funna
+11017= Inga problem valda för reparation
+11018= (%s problem funna)
+11019= Analysera
+11020= Sektion:
+11021= Rättelse:
+11022= Öppna i Regedit
+11023= Öppna denna post i Regedit
+11024= Ta bort denna post
+11025= Lämna denna post utan ändring
+11026= Exkludera alltid denna post(Aldrig hitta igen)
+11027= Egenskaper
+11028= Öppna denna genvägs egenskaper
+11029= Ta bort denna genväg
+11030= Lämna denna genväg utan ändring
+
+11031= Skanning klar
+11032= Reparera
+11033= Klicka på "Reparera" att lösa dem automatiskt eller klicka på "Stäng" för att visa detaljer.
+11034= Reparation klar
+11035= Skanning
+11036= Reparerar
+
+11037= Återställ
+11038= V.g. välj en backup, som Du vill återställa och klicka på "Återställ"- knappen.
+11039= Ta Backup
+11040= Vill Du återställa %s till systemregistret? Säkert?
+11041= %s har framgångsrikt återställts i registret.
+
+11042= Posten %s pekar på saknad fil eller mapp %s2
+11043= Denna registernyckel pekar på saknad nyckel %s
+11044= Denna registernyckel innehåller ingen data, den kan tas bort.
+11045= Denna registernyckel pekar på den saknade CLSID %s
+11046= Denna registernyckel pekar på den saknade ikonfilen %s
+11047= Snabbmenyposten %s pekar på det saknade programmet %s2
+11048= Detta register är ej komplett då undernyckeln "Kommando" saknas.
+11049= Detta register är ej komplett då det ej innehåller någon data som behövs av Windows.
+11050= Denna registernyckel pekar på den saknade InprocServer %s. Den associerade CLSID kan tas bort.
+11051= Denna registernyckel pekar på den saknade LocalServer32 %s. Den associerade CLSID kan tas bort.
+11052= Denna registernyckel pekar på det saknade typbiblioteket %s
+11053= Denna registernyckel pekar på den saknade mappen %s
+11054= Registernyckeln %s innehåller ingen data. Det associerade typbiblioteket kan tas bort.
+11055= Denna registernyckel pekar på den saknade filen %s
+11056= Den angivna filen %s kunde ej hittas.
+11057= Filen %s som är associerad med posten %s2 finns ej.
+11058= Posten %s pekar på saknad hjälpfil %s2
+11059= Saknad delad fil %s
+11060= Den delade filen %s är ej i bruk längre.
+11061= Posten ImagePath pekar på den saknade filen %s. De associerade tjänsterna kan tas bort.
+11062= Posten %s pekar på den saknade filen %s2
+11063= Denna genväg pekar på det saknade målet %s
+11064= Denna registernyckel innehåller en hänvisning till Startmeny-mappen %s, som har borttagits.
+11065= Posten %s pekar på det saknade programmet %s2
+11066= Denna avinstalleringspost innehåller ej nödvändig data för Windows för att ta bort programmet eller komponenten.
+11067= Det erforderliga avinstallationprogrammet %s kunde ej hittas
+11068= Posten %s pekar på den saknade mappen %s2
+
+11069= Ta bort nyckel :
+11070= Ta bort värde :
+11071= Ta bort fil :
+
+11072= Ignoreringlista-hanterare
+11073= Postlistan är f.n. ignorerad under skanning av registret. Om Du vill %s inkludera en av dessa poster, ta då bort dess förbockning.
+11074= Registernyckel
+
+11075= Välj en målmapp för att ta backup av ändringar gjorda av reparation
+11076= Begränsa antalet backups till:
+11077= %s finns redan. Vill Du ersätta den?
+11078= Ersätt
+11079= Summering av funna problem: (%s problem funna, %s2 problem valda för reparation)
+11080= Summering av funna problem: (1 problem hittat, 1 problem valt för reparation)
+11081= (1 problem funnet)
+11082= Summering av funna problem: (Inga problem funna, inga problem valda för reparation)
+11083= Skannar...
+11084= Inga problem funna, inga problem valda för reparation.
+11085= %s problem hittad(e), %s2 problem valda för reparation.
+11086= %s problem hittad(e), %s2 problem valda för reparation.
+11087= Reparerar...
+11088= Exportera registerfil
+11089= Aktuell nyckel:
+11090= Exporterad nyckel:
+11091= %s problem valda för reparation
+11092= Exporterad(e) OK!
+11093= %s problem funna, %s2 problem fixade.
+11094= %s problem funnet, %s2 problem fixat.
+11095= Idag fixat: %s problem, totalt: %s2 problem. 
+11096= Idag fixat: %s problem, totalt: %s2 problem.
+11097= Idag fixat: %s problem, totalt: %s2 problem.
+11098= %s problem
+11099= 1 problem
+11100= Inga problem
+11101= V.g. välj minst en post att söka!
+11102= V.g. välj minst en post att rensa!
+11103= Klicka på 'Sök register' för att söka Ditt register efter problem.
+11104= %s problem funna, %s2 problem(s) valda för reparation.
+11105= %s problem fixades
+11106= %s problem fixades
+
+[Disk Analysis]
+19001= Diskutrymmes- analyserare
+19901= Visar Dig diskutrymmet för Dina filer och mappar
+19003= Utforskaren
+19004= Kommandotolken
+19005= Ta bort(till papperskorg)
+19006= Visa verktygsfält
+19007= Visa statusfält
+19008= Visa filtyper
+19009= Visa stora filer
+19010= Filer
+19011= Mappar
+19012= Attribut
+19013= Procentsats
+19014= Filtyp
+19015= Beskrivning
+19016= Filnamn
+19017= Mapp
+19018= Ändrad
+19019= Laddar filtyper ...
+
+19020= [Files]
+19021= Min dator
+
+19022= Välj diskar
+19023= Alla lokala diskar
+19024= Individuella diskar
+19025= En mapp
+19028= Använt/Totalt
+19029= Välj mapp:
+
+1801001= Analysera
+1801002= Tillbaka
+1801003= Dator
+1801004= 
+1801005= Visa tillägg
+1801006= Alla typer
+1801007= Videor
+1801008= Komprimerad(e)
+1801009= Musik
+1801010= Bilder
+1801011= Dokument
+1801012= Annat
+1801013= Tillägg
+1801014= Antal filer
+1801016= Typ
+1801017= Plats
+1801018= Ändringsdatum
+1801019= Fri storlek
+
+1801020= Verktygsfält
+1801021= Navigering
+1801022= Detaljer
+1801023= Visa alla filer
+1801024= Mappar och filer
+
+1801025= Analysera disk nu
+1801026= Disk har ej ännu analyserats. \nDå disken ej ännu analyserats, finns ingen info om diskutrymmesanvändning, filtyp eller de största filerna. Under analysen samlas och visas info om de valda diskarna, de filer och mappar som de innehåller och diskutrymmesanvändning.
+1801027= Bara kolla detta.
+
+1801028= Filstorlek:
+1801029= Total storlek:
+1801030= Använd:
+1801031= Ändrad:
+1801032= Skapad:
+1801033= %s poster valda
+1801034= Storlek:
+1801035= Totalt innehåll
+1801036= Okänd
+1801037= Använt utrymme:
+1801038= Analyserad(e)
+1801039= Ej analyserad(e)
+
+1801040= Öppna mappen när den är vald
+
+1802001= Avslutad(e)
+1802002= Slog fel
+1802003= Avbrutet
+1802004= Analys av Dina lagerplatser
+1802005= V.g. vänta på att diskanalysen av de valda lagringsplatserna är klar.
+
+1803001= Ogiltig sökvägslista:\n
+1803002= Filsökväglista:\n
+1803003= %s poster kan ej genomsökas
+
+1804001= Disken Du valde har ännu ej analyserats. Skall analys utföras nu?
+
+1805001= Vill Du flytta dessa %s objekt till papperskorgen? Säkert?
+1805002= Ta bort
+1805003= Tar bort %s poster
+
+[Startup Manager]
+14001= Uppstart-hanterare
+14901= Hanterar program som körs automatiskt vid uppstart
+14002= Inaktivera denna post
+14003= Aktivera denna post
+14004= Lägg till program...
+14005= Ta bort denna post
+14006= Ändrar post...
+14007= Visa detaljfält
+14008= Uppdatera uppstartlistan
+14010= Annan Autokör
+14011= Schemalagda uppgifter
+14012= Lokala tjänster
+14013= Program som startas när Windows startar eller en användare loggar in
+14014= Inga poster valda.
+14015= Ogiltig post. Den kan tas bort.
+14016= <Ingen info>
+14017= Produkt:
+14018= Företag:
+14019= Lägg till en uppstartpost
+14020= Vill Du ta bort uppstartposten? Säkert?
+14021= Ändra vald uppstartspost
+
+14022= Sökväg
+14024= Plats
+14035= Gradering
+14025= Aktiverad(e)
+14026= Inaktiverad(e)
+
+14027= Rapport för uppstartlistan skapades på %s av %s2
+14028= Totalt %s poster
+14029= Rapport har sparats till %s
+
+14030= Sök Google ...
+
+14031= Uppstartpost-konfigurering
+14032= V.g ange ett namn.
+14033= V.g ange en kommandorad.
+14034= Den angivna filen kunde ej hittas. Vill Du verkligen fortsätta?
+
+14043= Okänd
+14036= Pålitlig(a)
+14037= Användares val
+14038= Neutral
+14039= Fordras ej
+14040= Farlig(a)
+14041= Kommentera det
+14042= Mer info
+
+14044= Kommentar
+14045= Din kommentar om denna post
+14046= Din åsikt om denna post
+14047= Detta ändrar riskgraderingen
+14048= Skicka kommentar
+
+14049= Fördröjningstid
+14050= Starta nu
+14051= Program som har fördröjd start.
+14052= Upp
+14053= Ned
+14054= Att fördröja ett program, v.g. välj det från listan ovan, eller dra och släpp det i nedanstående lista.
+14055= Att ej fördröja ett program, v.g. välj det från listan nedan, eller dra och släpp det i listan ovan.
+14056= Postdubblett upptäckt
+14057= Det verkar som om %s har lagt sig tillbaka in i Windows uppstartprocess efter det Du lämnade det i fördröjnings-startlistan.
+14058= För att fixa detta, bör Du öppna %s och leta efter ett alternativ som säger "Börja med Windows" eller något liknande och inaktivera det.
+14059= Om detta alternativ ej existerar, då kan Du behöva kontakta författaren till %s, som automatiskt startar upp, och fråga om de kan lägga till en funktion för att stänga av %s från att starta upp med Windows automatiskt.
+14060= Det är ej möjligt att stoppa %s från att starta med Windows, då skulle det vara bättre att helt enkelt låta Windows hantera det och ta bort %s från den fördröjda uppstartlistan.
+14061= Vill Du ta bort %s från den fördröjda uppstartlistan?
+14062= Fördröjd(a)
+14063= Fördröj
+14064= Ångra fördröjning
+14065= Sek
+
+2501001= Detaljfält
+2501002= Statusfält
+2501003= Körs
+2501004= Stoppad(e)
+2501005= Minne använt
+2501006= Uppstartpost finns redan.\nVill Du ändå ersätta den?
+2501007= Kunde ej fastställa uppgifter för '%s'
+2501008= Detaljer
+2501009= Laddningstid
+2501010= Uppstart-program
+2501011= Schemalagda uppgifter
+2501012= Insticksprogram
+2501013= Programtjänster
+2501014= Windows tjänster
+
+2501015= Bli först med att kommentera detta startprogram
+2501016= %s användare förordar att inaktivera eller fördröj detta uppstartprogram
+
+2501017= Uppstart aktiverad
+2501018= Valt uppstart-program är aktiverat
+2501019= Uppstart inaktiverat
+2501020= Valt uppstart-program är inaktiverat
+
+2501021= sek
+2501022= min
+2501023= %s program startade vid Windows uppstart eller vid en användares inloggning
+
+2501024= Ångra ändringar
+2501025= Avancerad uppstart
+2501026= Uppstart tillgänglig efter nästa omstart
+2501027= Nytta
+
+2501028= Uppstart fördröjd
+2501029= Valt uppstart-program är fördröjt
+
+2502002= Ta bort alla
+2502003= Ta bort
+2502004= Tid
+2502005= Återställ
+2502006= Åtgärd
+2502007= Ta bort alla efter denna
+2502008= Ta bort alla före denna
+2502009= Återställ alla efter denna
+
+2502101= Idag
+2502102= Mer
+
+
+2503002= Nyttig(a)
+2503003= Onyttig(a)
+
+2503004= V.g. ange Dina kommentarer. Tack.
+2503005= V.g. ange Ditt namne. Tack.
+2503006= Länk för mer info(tillval)
+2503007= Ditt namn
+2503008= Ditt bidrag har tagits emot av oss.
+
+[Disk Cleaner]
+13001= Disk-rensning
+13901= Tar bort skräpdata från Dina diskar och återställer diskutrymme
+13002= Disk-rensning
+13003= Mer alternativ
+13004= Välj diskarna Du vill rensa.
+13005= Klicka på "Nästa" när Du avslutat att välja Dina diskar.
+13006= V.g. vänta tills %s avslutar skanning av valda diskar.
+13010= Klicka på "Nästa" när Du avslutat att välja Dina diskar.
+13007= Du kan använda Disk- rensning för att frigöra upp till %s av diskutrymme på disk %s2
+13008= Total mängd diskutrymme Du vinner:
+13009= Ta backup %s före rensning.
+13110= Visa filer
+13011= Klicka på "Nästa" för att börja rensningsprocessen.
+13012= Windows' komponenter
+13013= Du kan frigöra mer diskutrymme genom att ta bort valfria Windows-komponenter som Du ej använder.
+13014= Städar upp...
+13015= Återställ
+13016= Du kan återställa de borttagna tillfälliga filerna från en backup- fil.
+13017= Återställ...
+
+13018= Rensning klar OK!.
+13019= En backup skapades.
+13020= Klicka på "Avsluta" för att återgå till huvudsidan.
+
+13021= V.g välj minst en disk för sökning.
+
+13022= Skannar...
+13023= Avslutad(e)
+13024= Initierar ...
+13025= Papperskorgen innehåller filer Du har borttagit från Din dator. Dessa filer är ej permanent borttagna tills Du tömmer papperskorgen.
+13026= Tillfälliga filer
+13027= Tillfälliga filer används av program som ett mellanlagringsutrymme och borttages vanligen efter användning.
+13028= Noll-Byte filer
+13029= Noll-Byte filer innehåller ej någon data och kan vanligtvis tas bort.
+13064= Tillfälliga Internet-filer
+13065= Den tillfälliga Internet-filsmappen innehåller webbsidor lagrade på Din hårddisk för snabbvising. Dina personliga inställningar för webbsidor lämnas intakta.
+
+13030= Tömmer papperskorg...
+13031= Rensar tillfälliga Internet-filer...
+13032= Tar bort tillfälliga filer...
+13033= Tar bort noll-byte filer...
+
+13034= V.g. välj filer Du vill ta bort.
+13035= Ingen fil vald.
+13036= Öppna fil
+13058= Totalt %s filer
+13059= Skapad(e):
+13060= Ändrad(e):
+13061= Senast använd(a):
+
+13037= Allmänt
+13038= Exkludera
+13039= Inkludera
+
+13040= Granska listan över skräpfiler nedan och välj eller välj bort poster som ska inkluderas i sökningen genom att välja eller välja bort motsvarande rutor.
+13041= Filtyp
+13042= Om Du är osäker på dessa förordade alternativ, lämna dem som standard.
+13043= Alla filerna i dessa mappar borde aldrig betraktas som skräppost.
+13044= Mapp
+13045= Alla filerna i dessa mappar ska alltid betraktas som skräppost, oavsett typ.
+
+13046= Du kan använda jokertecken, t.ex. *.tmp
+13047= Filnamn slutar med:
+13048= V.g. ange ett tilläggsnamn.
+13049= Du kan använda jokertecken.
+13050= Borde ej tömma.
+
+13051= V.g. välj en backup som Du vill återställa och klicka på "Återställ"- knappen.
+
+13052= Anpassad återställning
+13053= V.g. välj posterna Du vill återställa och klicka på "Återställ".
+13054= Återställd(a) OK.
+
+13055= Objekt
+13056= Filer
+13057= Sökväg
+13062= Typ
+
+13063= Lägg till en skräpfilstyp
+
+1301001= Starta rensning
+1301002= Skanna
+1301003= Återställ
+1301004= Sökväg
+1301005= Backup vald
+1301006= Välj alla
+1301007= Välj inga
+1301008= Välj standard
+1301009= Den senaste gången Du rengjorde Din disk var: 
+1301010= %s/%s2/%s3
+1301011= Snabbt och enkelt sätt att rensa upp onödiga filer från Din dator.
+1301012= Totalt utrymme sparat: %s
+1301013= Grattis! Dina diskar var rena
+1301014= Att rensa upp onödiga filer kan spara diskutrymme.
+1301015= Resultat
+1301016= Fil-lista
+1301017= Skanna igen
+1301018= Exkludera denna fil
+
+1302001= Windows
+1302002= System-tillfällig
+1302003= Användar-tillfällig
+1302004= Miniatyr-cacheminne
+1302005= Minnesdumpfiler
+1302006= Felrapportfiler
+1302007= System-loggfiler
+1302008= Avlägset skrivbordscache
+1302009= Papperskorg
+1302010= Startmenyns ogiltiga genvägar
+1302011= Skrivbordets ogiltiga genvägar
+1302012= IIS loggfiler
+1302013= Gammal förhämtningsdata
+1302014= Typsnitts cache-minne
+1302015= Hämtade program
+1302016= Windows uppdateringar
+1302017= Webbläsare
+1302018= IE
+1302019= Mozilla Firefox' cache-minne
+1302020= Google Chromes cache-minne
+1302021= Operas cache-minne
+1302022= Program
+1302023= Google Earths cache-minne
+1302024= Picasas cache-minne
+1302025= ACDSee cache-minne
+1302026= Volym
+1302027= V.g. välj minst en disk att skanna
+1302028= Vill Du ta backup av filerna före rensning?
+1302029= Ta backup gick ej! Vill Du fortsätta att rensa?
+1302030= Filantal: %s   Filers storlek: %s2
+1302031= %s poster valda
+1302032= Skanning klar. %s filer, totalt %s2 hittad(e).
+1302033= Det förordas att rensa Dina diskar nu.
+1302034= Grattis! Du har en ren dator!
+1302035= Hålla Din PC ren är en bra vana. V.g. fortsätt så!
+1302036= Skanning har avbrutits!
+1302037= Du väljer %s filer, totalt %s2.
+1302038= Rensning klar. Totalt %s skräpfiler rensades.
+1302039= Rensning klar.
+1302040= %s är i användning, den kan ej tas bort nu.
+1302041= Skräpfiler: %s
+1302042= Anpassade filer och mappar
+1302043= Anpassat namn
+1302044= Anpassade filer och mappar
+1302045= Plats
+1302046= T.ex. *.tmp|*.log
+1302047= T.ex. *.sys|*.txt
+1302048= Inkludera bara filer
+1302049= Inkludera filer och undermappar
+1302050= För att bevara säkerheten, kan Du ej rengöra filerna i Windows-katalogen.
+1302051= Är Du säker på att tömma denna katalog?
+1302052= För att bevara säkerheten, v.g välj ej Windows systemfiler.
+1302053= Välj extra filer och mappar Du vill ta bort(Bara avancerade användare).
+1302054= V.g. välj filerna eller mapparna Du vill ta bort.
+1302055= Den anpassade filen eller mappen finns redan. Vill Du ändå lägga till den?
+1302056= Den anpassade filen eller mappen finns redan. Vill Du ändå ändra den?
+1302057= Din PC har ej många skräpfiler. Att hålla Din PC ren är en bra vana. V.g. fortsätt så! 
+
+
+1303001= Tar backup...
+
+1304001= Kan ej visa datan!
+
+1305001= Börja skanna: 
+1305002= Skanningsresultat: 
+1305003= Inga skräpfiler funna
+1305004= %s filer, totalt %s2
+1305005= Skannings-slut: 
+1305006= Totalt resultat: 
+1305007= %s filer, %s2 att tas bort
+1305008= Börja rensa
+1305009= Sluta rensa
+1305010= Rena %s filer, totalt %s2
+1305011= %s en fil kan ej rensas.
+1305012= Skrivtid:
+1305013= Totalt %s filer, %s2.
+
+1305014= %s behöver stängas för att rensa Internet-cache.\nVill Du att Glary Utilities stänger %s?
+1305015= Firefox
+1305016= Google Chrome
+1305017= Opera
+
+1306001= Idag rensade: %s, totalt: %s2.
+1306002= %s funna, %s2 återställda.
+1306003= Vill Du återställa %s? Säkert?
+1306004= %s har återställts OK!.
+1306005= %s skräpfiler togs bort.
+1306006= Klicka på 'Skanna' för att söka Ditt system efter skräpfiler
+1306007= %s fil(er), totalt %s2 funna.
+1306008= %s återställda
+1306009= Totalt %s skräpfil(er) togs bort.
+
+[Uninstaller]
+12001= Avinstallation- hanterare
+12901= Avinstallerar fullständigt program som Du ej behöver längre
+12002= Ta backup av avinstallerings-info
+12003= Återställ avinstalleringsinfo
+12004= Exportera programlistan
+12005= Avinstallera detta program
+12006= Avinstallera valda program
+12007= Ändra egenskaper
+12008= Återställ borttagna poster
+12009= Visa kommandorad
+12010= F.n. installerade program:
+12011= Sortera efter:
+12012= Installationsdatum
+12013= AutoFixa ogiltiga poster
+12014= Satsvis avinstallering
+12015= Sök program
+12016= Klicka här för supportinfo.
+12017= Kommandorad
+12038= Ta bort post
+
+12018= Ändra
+12019= Ta bort
+12020= Ändra/Ta bort
+
+12021= Totalt %s program
+12022= Kan ej ta bort mapp %s. Den används av annan person eller annat program. Vill Du ta bort den vid nästa datorstart?
+12023= Ny!
+
+12024= För att ändra detta program eller ta bort det från Din dator, %s klicka på "Ändra/Ta bort".
+12025= För att ändra detta program eller ta bort det från Din dator, %s klicka på "Ändra" eller "Ta bort".
+12026= För att ta bort detta program från Din dator, %s klicka på "Ta bort".
+
+12027= Installerad
+12028= Registerfiler(*.reg)
+12031= Textfiler(*.txt)
+12029= Avinstalleringsinfo återställd från %s OK
+12030= Vill Du ta bort %s från Din dator? Säkert?
+12032= Rapport skapad 
+12033= Program installerade i Din dator (Totalt %s program):
+12034= Filen har sparats till:
+12035= Alla program installerade i Ditt system är OK, inga ogiltiga poster hittades.
+12036= Vill Du ta bort %s från listan över installerade program? Säkert?
+
+12037= Ett fel inträffade under försök att ta bort %s. Det kanske redan avinstallerats. Vill Du ta bort %s2 från listan över installerade program?
+12039= %s är ett "Dolt" program och har säkerligen använts av systemet. Vill Du verkligen avinstallera det?
+12040= Det är ännu filer kvar i installationskatalogen "%s". För att vara säker på att ej ta bort nyttiga datafiler, kan Du bläddra i katalogen genom att klicka på "Bläddra i katalogen"- knappen. Om Du är säker, att de är onödiga, klicka på "Ta bort allal"- knappen.
+12041= Bläddra i katalogen
+12042= Ta bort alla
+12043= Ta backup av denna post före borttagning.
+
+12044= Söksträngen kunde ej hittas.
+12045= Sök
+12046= Sök nästa
+12047= Sök vad:
+
+12048= Dessa poster har hittats. Vill Du ta bort dessa registerposter?(Du kan även ta bort dem manuellt senare)
+12049= Ogiltiga poster
+12050= Ta backup av dessa poster före borttagning.
+
+12051= V.g. välj en programpost som Du vill återställa och klicka på 'Återställ'- knappen.
+12052= Återställ
+12053= Programpost
+12054= Backup- datum
+12055= Vill Du återställa programposten %s till systemregistret? Säkert?
+
+12056= Använd denna info för att få tekniskt stöd för
+12058= Utgivare
+12059= Version:
+12060= Kontakt:
+12061= Supportinfo:
+12062= ReadMe:
+12063= Produkt-uppdateringar:
+12064= Kommentarer:
+12065= Produkt ID:
+12066= Registrerat företag:
+12067= Registrerad ägare:
+12068= Installationsplats:
+
+12069= Program (*.exe;*.com;*.bat)
+12070= Alla filer (*.*)
+12071= Kommandoraden Du angav kan vara ogiltig. Vill Du fortsätta? Säkert?
+
+12072= Kör installationsprogram
+12073= Kommandorad för programavinstallation:
+12074= Ett fel inträffade under försök att ta bort %s. Har Du tillgång till %s2 ?
+12075= Du kan ange det nya avinstallationprogrammet nedan.
+
+12076= Ta backup av denna post
+12077= Support-info
+12078= Visa Windows uppdateringar
+
+12080= Ikoner
+12081= Lista
+12082= Detaljer
+
+12083= Alla program
+12084= Nyss installerade program
+12085= Stora program
+12086= Sällan använda program
+12087= Windows uppdateringar
+
+12088= Senast använd:
+12089= Avinstallationinfo sparad till:
+2090= Inaktivera uppdatering av Senast Använd
+
+[Duplicate Files Finder]
+15001= Fildubblett-hittare
+15901= Söker efter utrymmeskrävande och felskapade fildubbletter
+15002= Sök fildubbletter
+15003= Öppna fil
+15004= Öppna med...
+15005= Utforska mapp
+15006= Filegenskaper
+15007= Skapa rapport
+15008= Ta bort valda filer
+15012= Välj en i varje grupp
+15013= Exkludera denna mapp från ytterligare sökningar
+15015= Sökväg
+15016= %s av %s2 poster valda för borttagning.
+15017= Dubblettfilgrupp
+15018= Vill Du exkludera alla poster i den valda mappen %s från alla efterföljande sökningar?
+15019= Inga poster valda för borttagning.
+
+15020= Skannings-guide
+15021= V.g. välj diskarna eller mapparna Du vill skanna.
+15022= Diskar
+15023= Mappar
+15024= Lägg till mapp
+15025= Dubblettfiler matchar kriterierna
+15026= Samma filnamn
+15027= Samma storlek
+15028= Samma filtid
+15029= Ignorera filer mindre än
+15030= Sök bara efter de vanligaste filerna nedan
+15031= Skanna alla filer
+15032= Filtyp
+15033= Exkludera dessa mappar från sökningen:
+15034= Mapp
+15035= Söker fildubbletter...
+
+15036= Inga diskar är valda. V.g. välj minst en disk för att fortsätta.
+15037= Inga mappar är valda. V.g. lägga till minst en mapp för att fortsätta.
+15038= Inga filtyper är valda. V.g. välj minst en filtyp för att fortsätta.
+15039= Arrangera filerna. Det kan ta lite tid beroende på antalet filer. V.g. vänta ..
+15040= Totalt %s filer skannades och %s2 dubbletter hittades.
+
+15041= Lägg till nytt filnamn att söka efter
+15042= Du kan användae jokertecken t.ex. *.avi
+15043= Filnamn slutar med:
+15044= V.g. ange ett tilläggsnamn.
+
+15045= Ange mapp
+15046= Välj mapp
+15047= Du kan använda jokertecken *,?
+15048= Borde ej tömma.
+15049= Ändringsdatum
+15050= Denna filtyp har till-lagts.
+
+1501001= Ställ in skanning-parametrar
+1501002= Kontrollera Intelligent
+1501003= %d av %d poster valda för borttagning
+1501004= %s finns redan.\nVill Du ersätta den?
+1501005= Bekräfta Spara som
+1501006= Ta bort fil
+1501007= Dokument
+1501008= Musik
+1501009= Bilder
+1501010= Program
+1501011= Videor
+1501012= Annat
+1501013= Dubblettfilsrapport skapade på %s av %s2
+1501014= Totalt %s filer
+1501015= Filen har sparats till:
+1501016= Undanta
+1501017= Listan över undantagna mappar
+1501018= Vill Du ta bort alla fildubbletter? Säkert?
+
+1502002= Undanta fil
+
+1503001= Dubblettfiler matchar kriterierna
+
+1504001= Skanna
+1504002= Total storlek
+1504003= Använd storlek
+1504004= Fri storlek
+1504005= Filsökväg
+
+1505001= Lagringsplats
+1505002= Status
+1505003= Väntar
+1505004= Laddar
+1505005= Totalt %d filer skannades och %d dubbletter hittades.
+1505006= Arrangera filerna! V.g. ha tålamod ...
+
+1506001= Allmänt
+1506002= Undanta fil
+
+[Empty Folders Finder]
+16001= Sökare av tomma mappar
+16901= Finner och tar bort tomma mappar från Dina fönster
+16002= Sök tomma mappar
+16003= Exkluderad mapplista
+16004= Ta bort valda mappar
+16005= Exkludera valda mappar(Aldrig hitta igen)
+16006= Exkludera
+16007= Mapp
+16008= Vill Du lägga till valda objekt till ignoreringslistan? Dessa poster kommer ej hittas igen.
+
+16009= Ignoreringslista-hanterare
+16010= Postlistan ignoreras f.n. under sökning efter tomma mappar. Om Du vill inkludera en av dessa poster, ta då bort dess förbockning.
+
+16011= Skanna nu
+16012= Välj rutorna för disk(ar) Du vill skanna
+
+1601001= Förbereder tomt mapp-träd ...
+
+1602001= Förbereder mapplistan ...
+1602002= Skanning klar.
+1602003= Skannar %s
+1602004= Laddar diskar...
+1602005= Sorterar filer...
+1602006= Sparar data...
+1602007= Initierar...
+1602008= Skannar tomma mappar...
+1602009= Sorterar tomma mappar...
+
+[Shortcuts Fixer]
+17001= Genvägs- fixare
+17901= Korrigerar fel i startmenyns & skrivbordets genvägar
+17002= Skanna
+17003= Fixa genväg
+17004= Ta bort
+17005= Mål
+17006= Plats
+17007= Bläddra efter saknat genvägsmål
+17008= Skanna nu
+17009= Skanningsalternativ
+17010= Skanna bara startmeny och skrivbord
+17011= Skanna tom startmenymapp
+17012= Välj rutorna för disk(ar) Du vill skanna
+17013= Inget funnet.
+
+1701001= Snabb skanning
+1701002= Avancerad skanning
+1701003= Stoppa skanning
+1701004= Fixa alla valda
+1701007= Fel
+1701008= Fixade
+1702001= Läge:
+1702002= Mål:
+1702003= Argument:
+1702004= Beskrivning:
+1702005= Klicka på "Tillämpa" för att spara ändringarna.
+1702006= Du valde en mapp.
+1703001= Ta bort
+1703002= Klicka på "%s" för att ta bort valda genvägar from listan;{\r\n}Klicka på "%s2" för att flytta valda genvägar till papperskorg;{\r\n}Klicka på "%s3" för att permanent ta bort valda genvägar.
+1703003= Ta backup av valda genvägar före borttagning
+
+[Tracks Eraser]
+18001= Spår- raderaren
+18901= Raderar alla spår, bevis, kakor, Internet historik m.m.
+18002= Radera valda spår
+18003= Visa bara tillgängliga raderbara spår
+18004= Radera dessa spår
+18005= Inga spår valda. För att radera spår, v.g. välj varje spår Du vill radera i rutan till vänster om spårnamnet.
+18006= Vill Du radera %s spårinställningar? Säkert?
+18007= Spåren har raderats OK.
+18008= Vill Du rensa Dina %s spår? Säkert?
+
+18009= IEs Kakor-hanterare
+18010= IEs inskrivna webbadresser
+18011= Välj kakorna Du vill behålla vid rensning av IEs kakor
+18012= Webbsajt
+18013= Träffvärde
+18014= Senast ändrad
+18015= Utgår
+18016= Fullständig adress
+18017= Ta bort ej valda kakor nu
+18018= Välj webbadresserna Du vill behålla när Du rensar IEs webbadress-historik
+18019= Webbadresser
+18020= Ta bort ej valda webbadresser
+
+18021= Radering
+
+18022= Windows
+18023= Tar bort historik, nyss använda listor(MRU Listor) och andra bevis från Microsoft Windows.
+18024= Windows senaste dokument
+18025= Rensar listan över senaste dokument och filer öppnade i datorn. Denna lista finns vanligen i Startmeny > Mina senaste dokument.
+18026= Kör i Windows startmeny
+18027= Rensar historiken av senaste kommandon Du angett i Window's Start > Kör- funktion.
+18028= Microsoft Common Dialog - Fil-/Mapplistor
+18029= Microsoft Common Dialog är en vanlig komponent som används av många program att erbjuda, fil, mapp, färg och skrivareval. Denna spår-rensare rensar historik över val Du gjort på Din dator. Då Microsoft Common Dialog Control används för de flesta öppna/spara Windows fildialoger, kommer denna spår-rensare att rensa historiken i mappen Du senast öppnade för de flesta tillämpningar. Rensar de senaste mappar och fil-listor Du sökte på Din dator.
+18030= Startmeny-sökning
+18031= Rensar hela historiken över sökningar Du utfört i Windows-sökning i startmenyn.
+18032= Windows Urklipp
+18033= Arbete med filer innefattar normalt användning av "kopiera" och "klistra in" åtgärder. Windows Urklipp kommer ihåg den senaste kopieringsåtgärden och kan innehålla relevant info om Dina aktiviteter som lösenord, kreditkorts- eller personliginfo.
+18034= Windows tillfälliga filer
+18035= Tömmer Windows tillfälliga katalog.
+18036= Windows papperskorg
+18037= Tömmer Windows papperskorg.
+18038= Windows kartlagda nätverksdiskar
+18039= När Du kartlägger nätverksenheter att få tillgång till dem via enhetsbeteckningar, minns Windows alla Dina avbildningar i registret. Bli av med denna info m.h.a. denna inställning.
+18040= Startmenyns klickningshistorik
+18041= Windows lagrar en lista över de senast klickade objekten på Startmenyn. Välj detta alternativ för att rengöra "Startmenyns klickningshistorik"- lista.
+18042= Mina nätverksplatser
+18043= När Du använder Mina nätverksplatser för att få tillgång till avlägsna servrar, lagras alla Dina senaste delar. Vem som helst kan se vilka nätverk Du använder bara genom att titta på MRU listan placerad i Mina nätverksplatser-mappen. Välj detta alternativ för att rengöra den.
+
+18044= Internet Explorer
+18045= Tar bort historik, nyss använda listor(MRU Listor), tillfälliga Internet-filer och annat bevis från webbläsaren IE.
+18046= Internet Explorer - Webbadresshistorik
+18047= Tar bort Din historik över inskrivna webbadresser från IEs adressfält. När denna historik lagras, försöker IE gissa webbsajten Du försöker besöka genom att använda "Intelligens". När Du skriver www.gl - gissar den www.glarysoft.com, eller annan adress som börjar med www.gl Du besökt tidigare.
+18048= Internet Explorers Historik
+18049= Tar bort historiken över webbsajter besökta vid användandet av IE på datorn. Tar bort historik över besökta webbsajter vid användande av IE.
+18050= Internet Explorers Kakor
+18051= Webbsajter lagrar info i en liten textfil, kallad en "kaka" på Din hårddisk. Kakor innehåller info om Dig och Dina inställningar. Eller den kan bara innehålla en post över vilka sidor på sajten Du besökte för att hjälpa sajten anpassa vyn för Dig nästa gång Du besöker. Då vissa kakor är nyttiga, kan Du vilja behålla dem. Klicka på "Alternativ" för att välja kakorna Du vill behålla. Alla de ej valda tas bort.
+18052= Intelligenta Formulär - Autokomplettera lösenord
+18053= Tar bort hela historiken över autokomplettering av formulär &  lösenord från IE. Om konfigurerat, IE lagrar data för vanliga formulär, användarnamn och lösenord via nätet. Dessa kommer att automatiskt fyllas i när Du återvänder till de platser där denna data sparats för. Denna Spår-raderare rensar denna data och skyddar Dig från att andra användare på Din dator loggar in i Dina profiler på nätet.
+18054= Tillfälliga Internet-filer
+18055= Tar bort alla sparade tillfälliga filer som IE skapar när Du besöker webbsajter eller hämtar innehåll.
+
+18056= Insticksmoduler
+18057= Många av de tredje-parts programmen för ett register över de nyss öppnade eller körda filerna via dem. Genom att använda dessa tillägg, kan Du bli av med MRU-historiken från många populära program.
+
+18058= Mozilla Firefox
+18059= Tar bort historik, nyss använda listor(MRU Listor), tillfälliga Internet-filer och annat bevis från Firefox' webbläsare.
+18060= Mozilla Firefox - Historik
+18061= Tar bort alla adresser inskrivna i Firefox' adressfält.
+18062= Mozilla Firefox - Kakor
+18063= Tar bort kakorna sparade i Firefox cacheminnesmapp.
+18064= Mozilla Firefox - Internet Cache
+18065= Tar bort Internet-filerna cachelagrade av Firefox.
+18066= Mozilla Firefox - Sparad Formulärinfo
+18067= Tar bort formulärdata sparad av Firefox, när Du ifyllde webbsideformulären.
+18068= Mozilla Firefox - Sparade Lösenord
+18069= Tar bort lösenordsdata sparad av Firefox, när Du ifyllde webbsideformulären.
+18070= Mozilla Firefox - Nedladdningshanteringshistorik
+18071= Tar bort spår från nyss hämtade filer i Nedladdningshanteraren.
+18072= Mozilla Firefox - Sökhistorik
+18073= Tar bort söksträngen inskriven i Firefox' sökfält.
+
+18074= Raderar spår för %s. Detta tar några ögonblick...
+18075= Raderar spår för %s...
+
+18076= Index.dat filer
+18077= Index.dat filer är dolda filer i Din dator vilka innehåller alla spår av Din aktivitet på nätet, var har Du varit på Internet, vilka sajter Du besökt, webbadresslistan, filer och dokument Du nyligen använt.
+18078= Skannar spår för %s. Detta kan ta några ögonblick...
+18079= Skannar spår för %s...
+18080= Skapar rapport...
+18081= ANALYSRAPPORT
+18082= %s poster att borttagas från Windows' register.
+18083= %s (%s2 filer) att tas bort.
+18084= Fildetaljer att tas bort:
+18085= Analysera
+
+18086= Spår
+18087= Resultat
+
+18088= Google Chrome
+18089= Tar bort historik, nyss använda listor(MRU Listor), tillfäliga Internet-filer och annat bevis från Google Chromes webbläsare.
+18090= Google Chrome - Historik
+18091= Tar bort alla adresser inskrivna i Google Chromes adressfält.
+18092= Google Chrome - Kakor
+18093= Tar bort kakorna sparade i Google Chromes cachemapp.
+18094= Google Chrome - Internet Cache
+18095= Tar bort Internet-filerna från Google Chromes cachemapp.
+18096= Google Chrome - Sparad Formulärinfo
+18097= Tar bort formulärdata sparad av Google Chrome, när Du ifyllde webbsideformulären.
+18098= Google Chrome - Nedladdningshistorik
+18099= Tar bort spår av nyss hämtade filer i Nedladdningshanteraren.
+
+18100= Det förordas starkt att Du stänger %s innan du fortsätter. Spår- raderaren kan ej radera de spår som används av andra program.
+
+2101001= %s poster valda.
+2101002= Inga spår valda. För att analysera spår, v.g. välj varje spår Du vill analysera genom att använda rutan till vänster om spårnamnet.
+
+2102001= Windows Lives Verktygsfält
+2102002= Tar bort senaste sökhistorik från Windows Lives verktygsfält.
+2102003= Google Verktygsfält
+2102004= Tar bort senaste sökhistorik från Googles verktygsfält för IE.
+2102005= Google Skrivbordfält
+2102006= Tar bort senaste sökhistorik från Googles skrivbordsverktyg.
+2102007= Kazaa Sökhistorik
+2102008= Rensar Kazaafilens sökhistorik.
+2102009= eMule
+2102010= Rensar eMules sökhistorik.
+2102011= MSN Messenger
+2102012= Tar bort MSN Messengers cachehistorik.
+2102013= Sound Forge 6.0
+2102014= Tar bort Sound Forge 6.0 cachehistorik.
+2102015= Fresh Download
+2102016= Tar bort FreshDownloads hämtningshistorik.
+2102017= Windows Media Player
+2102018= Rensar de senaste filerna, webbadresserna och historiken för Windows Media Players filmer och musik.
+2102019= Real Player
+2102020= Rensar Real Players historik över musik- och filmfiler nyligen spelade.
+2102021= Quicktime Player
+2102022= Rensar Quicktime Players historik över filmfiler nyligen spelade.
+2102023= SWiSH
+2102024= Tar bort historiken över nyss öppnade filer från SWiSH.
+2102025= Windows Movie Maker
+2102026= Tar bort historiken över nyss öppnade filer från Windows Movie Maker.
+2102027= BSPlayer
+2102028= Tar bort historiken över nyss öppnade filer från BSPlayer.
+2102029= Media Player Classic
+2102030= Rensar Media Player Classics historik över musik- och filmfiler nyligen spelade.
+2102031= Axialis IconWorkshop
+2102032= Tar bort cacheminnet och historiken över nyss öppnade filer från Axialis IconWorkshop.
+2102033= Ulead Smart Saver Pro 3.0
+2102034= Tar bort historiken över nyss öppnade filer från Ulead Smart Saver Pro 3.0.
+2102035= Macromedia Flash Player
+2102036= Tar bort historiken över nyss öppnade filer från Macromedia Flash Player.
+2102037= Macromedia Flash MX
+2102038= Tar bort historiken över nyss öppnade filer från Macromedia Flash MX.
+2102039= Macromedia Flash 5.0
+2102040= Tar bort historiken över nyss öppnade filer från Macromedia Flash 5.0.
+2102041= Macromedia Flash 4.0
+2102042= Tar bort historiken över nyss öppnade filer från Macromedia Flash 4.0.
+2102043= Adobe Flash Player
+;2102044=
+2102045= AVI Preview
+2102046= Tar bort historiken över nyss öppnade filer från AVI Preview.
+2102047= Paint Shop Pro 7.0
+2102048= Rensar historiken över filer skapade/öppnade/eller ändrade av Paint Shop Pro 7.0.
+2102049= Paint Shop Pro 8.0
+2102050= Rensar historiken över filer skapade/öppnade/eller ändrade av Paint Shop Pro 8.0.
+2102051= Paint Shop Pro 9.0
+2102052= Rensar historiken över filer skapade/öppnade/eller ändrade av Paint Shop Pro 9.0.
+2102053= Office XP
+2102054= Tar bort historiken över nyss öppnade filer från Microsoft Office XP.
+2102055= Office 2000
+2102056= Tar bort historiken över nyss öppnade filer från Microsoft Office 2000.
+2102057= Office 2003
+2102058= Tar bort historiken över nyss öppnade filer från Microsoft Office 2003.
+2102059= Office 2007
+2102060= Tar bort historiken över nyss öppnade filer från Microsoft Office 2007.
+2102061= MS Management Console
+2102062= Tar bort historiken över nyss öppnade filer från MS Management Console.
+2102063= MS Wordpad
+2102064= Rensar historiken över filer skapade/öppnade/eller ändrade från WordPad.
+2102065= MS Paint
+2102066= Rensar historiken över filer öppnade av Microsoft Paint.
+2102067= Microsoft Visual Basic 6.0
+2102068= Rensar den senaste filhistoriken från Visual Basic 6.0 utvecklare.
+2102069= Remote Desktop
+2102070= Tar bort cachedatan sparad av Remote Desktop.
+2102071= PowerArchiver
+2102072= Rensar historiken över filer komprimerade/okomprimerade av PowerArchiver.
+2102073= WinISO
+2102074= Rensar historiken över filer öppnade av WinISO.
+2102075= WinRAR
+2102076= Rensar historiken över filer komprimerade/okomprimerade av WinRAR.
+2102077= 7-Zip
+2102078= Rensar historiken över filer komprimerade/okomprimeraded av 7-Zip.
+2102079= WinZip
+2102080= Rensar historiken över filer komprimerade/okomprimeraded av WinZip.
+2102081= SpyBot Search and Destroy
+2102082= Tar bort cachedatan sparad av SpyBot Search and Destroy.
+2102083= WinAce 2.0
+2102084= Tar bort historiken från WinAce.
+2102085= Norton AntiVirus
+2102086= Tar bort loggfilerna sparade av Norton AntiVirus.
+2102087= Adobe Acrobat Reader 5.0
+2102088= Tar bort historiken över PDF-filer som Du betraktat i Adobe Acrobat 5.0.
+2102089= Adobe Acrobat Reader 6.0
+2102090= Tar bort historiken över PDF-filer som Du betraktat i Adobe Acrobat 6.0.
+2102091= XML Spy
+2102092= Tar bort historiken över XML-filer som Du betraktat i XML Spy.
+2102093= Installshield Developer 7.0
+2102094= Rensar historiken över filer öppnade av Installshield Developer 7.0.
+2102095= Macromedia Homesite 5.0
+2102096= Rensar historiken över filer öppnade av Macromedia Hemsite 5.0.
+2102097= Ahead Nero Burning ROM
+2102098= Rensar historiken över filer/mappar öppnade av Ahead Nero Burning ROM.
+2102099= ZipMagic
+2102100= Rensar historiken över filer komprimerade/okomprimeraded av ZipMagic.
+2102101= PicoZip
+2102102= Rensar historiken över filer komprimerade/okomprimeraded av PicoZip.
+2102103= Adobe Acrobat Reader 7.0
+2102104= Tar bort historiken över PDF filer som Du visat vid användning av Adobe Acrobat 7.0.
+2102105= Adobe Reader 8.0
+2102106= Tar bort historiken över PDF filer som Du visat vid användning av Adobe Reader 8.0.
+2102107= Adobe Reader 9.0
+2102108= Tar bort historiken över PDF filer som Du visat vid användning av Adobe Reader 9.0.
+2102109= Adobe Reader 10.0
+2102110= Tar bort historiken över PDF filer som Du visat vid användning av Adobe Reader 10.0.
+2102111= Adobe Reader 11.0
+2102112= Tar bort historiken över PDF filer som Du visat vid användning av Adobe Reader 11.0.
+
+2102113= Opera - Historik
+2102114= Tar bort historiken över webbsajter besökta vid användning av Opera på datorn.
+2102115= Opera - Cookies
+2102116= Tar bort sparade kakor i Opera cacheminnesmapp.
+2102117= Opera - Internet Cacheminne
+2102118= Tar bort Internet-filerna cachelagrade av Opera.
+2102119= Opera - Sparad Formulärsinfo
+2102120= Tar bort formulärdata sparad av Opera när Du fyllde i webbsidans formulär.
+2102121= Opera - Hämtningshistorik
+2102122= Tar bort spår av nyss hämtade filer i Hämtningshanteraren.
+
+2102123= Opera
+2102124= Tar bort historik, nyss använda listor(MRU Listor), temporära Internet filer och andra spår från Opera webbläsare.
+
+2103001= Kolla alla
+2103002= Kolla inga
+2103003= Kolla standard
+2103004= Öppna i RegEdit
+2103005= Lägg till i undantagslista
+2103006= Ignoreringslista-hanterarare
+2103007= Idag raderad: %s post, totalt: %s2.
+2103008= Idag raderade: %s poster, totalt: %s2.
+2103009= %s filer funna, totalt %s2.
+2103010= %s sekretessproblem
+2103011= %s sekretessproblem
+2103012= %s dataposter att ta bort.
+2103013= Idag raderade: %s poster, totalt: %s2 poster.
+2103014= Idag raderat: %s post, totalt: %s2 post.
+2103015= %s poster funna, %s2 poster raderade. 
+2103016= %s post funnen, %s2 post raderad. 
+2103017= Inga sekretessproblem 
+2103018= %s sekretessproblem fixat 
+2103019= %s sekretessproblem fixade 
+2103020= %s post(er) borttogs från Windows register. %s2 fil(er) and %s3 databaspost(er) borttogs 
+2103021= Klicka på 'Analysera' för att skanna Ditt system efter sekretessproblem. 
+2103022= Listan över poster ignoreras f.n. under skanningen. Om Du vill %s att inkludera en av dessa poster, ta då bort markeringen.
+
+[Memory Optimizer]
+21001= Minnes- optimerare
+21901= Övervakar och optimerar fritt minne i bakgrunden
+21002= Optimering
+21003= Manuell optimering
+21004= Fysiskt minne - användningsgraf:
+21018= %s av %s2 fri(tt)
+21005= CPU-användning
+21006= V.g. indikera minnesmängden Du vill frigöra och klicka på "Optimera" sedan.
+21007= Minnesmängd:
+21008= Optimera
+21009= Rensa Urklipp
+21010= Aktuell Urklipps-storlek:
+21011= Aktivera Auto-optimering
+21012= Optimera automatiskt fritt minne vid:
+21013= Öka fritt minne till:
+21014= Optimera BARA om CPU-användning är under:
+21015= Ladda automatiskt vid Windows uppstart
+21016= Förordas
+21017= Optimerar...
+21019= Visa Huvudfönster
+
+[File Shredder]
+22001= Filmakulatör
+22901= Makulerar filer permanent så att ingen kan återställa dem
+22002= Tillbehör för att förstöra känslig data så att den ej kan återvinnas och ses av andra. Detta verktyg använder den största möjliga säkerhetsmetoden: American Dod 5220.22-M utvecklad av USA: s försvarsdepartement för att säkert ta bort data.
+22003= Typ
+22012= Datum ändrat
+22004= Lägg till fil(er)
+22005= Lägg till mapp
+22006= Makulera nu
+22007= Repetera bortagningsåtgärden:
+22008= Filmapp
+22009= Du är på väg att makulera all vald data på listan. Du kan ej återställa dessa filer genom att använda några återställningsverktyg Du kanske har. Vill Du fortsätta? Säkert?
+22010= Tar bort
+22011= Borttagen
+22019= Skrubba Fritt utrymme
+22013= När filer tas bort och töms från papperskorgen, är de ej helt borttagna från hårddisken. Filerna kan lätt återställas med dataåterställningsprogram. För att säkerställa att Dina filer är helt borttagna, bör Du skrubba det fria utrymmet på Din hårddisk regelbundet. Detta val förstör sådana filer, vilka är redan borttagna av Dig så att de ej kan återställas.
+22014= Välj disken Du vill skrubba fritt utrymme på:
+22015= Skrubba nu
+22016= Skrubbar fritt utrymme på %s
+22017= Åtgärd avbröts av användare.
+22018= Åtgärden fullgjordes OK.
+22020= Välj en målmapp:
+22021= V.g. välj en volym.
+22022= Skrubba MFT Fritt utrymme - Disk %s
+
+[Internet Explorer Assistant]
+23001= Webbläsare- assistent
+23901= Hanterar IEs tillägg och återställer kapade inställningar
+23002= IEs BHOs
+23003= IEs Verktygsfält
+23004= IEs Fält
+23005= IEs Extra höger-klicks-meny
+23006= IEs Extra knappar
+23007= IEs Nedladdaded ActiveX
+23008= Kapningsåterställning
+23009= [Blockerad]
+23010= Utgivare
+23011= Filsökväg
+23012= Kommando
+23013= Blockera denna post
+23014= Avblockera denna post
+23015= Permanent ta bort denna post
+23016= Vill Du återställa %s ? Säkert?
+23017= Vill Du blockera %s i IE? Säkert?
+23018= Vill du permanent ta bort %s i IE? Säkert?
+23019= Varning, fil saknas
+23020= BHOs
+23021= IEs Verktygsfält
+23022= IEs Utforkarefält
+23023= IEs Extra höger-klicks-meny
+23024= IEs Extra knapp
+23025= Hämtade ActiveX Program
+23026= Förstörd(a)
+23027= Installerad(e)
+
+23028= Inställning
+23029= Aktuell inställning
+23030= Återställ inställning till
+23031= Ändra återställningsinställning till en ny webbadress...
+23032= Återställ
+23033= IE standard
+23034= Vill Du återställa inställningarna Du valde? Säkert?
+23035= %s IE-webbläsare-inställningar ändrades OK.
+23036= Ändra IEs återställningsinställning
+23037= Ändra IEs återställningsinställning för %s. Webbadressen i fältet nedan är IEs standard-webbadress för denna inställning. Du kan ange en annan sida eller webbadress än den normala.
+23038= Startsida
+23039= Detta är webbadressen till den webbsida som visas när ett nytt IE-fönster öppnas.
+23040= Söksida
+23041= Detta är standard-sökmotorn när Du klickar på knappen "Sök" i IE ..
+23042= Standardsidas Webbadress
+23043= Detta är standard-webbadressen som används av IE.
+23044= Lokal sida
+23045= Denna är den sida som kommer att läsas, om en webbplats ej finns när du skriver den i adressfältet i IE.
+23046= Sökfält
+23047= Detta är den sida som visas när Du klickar på ikonen "Sök" i IE. Sökfältet ger möjlighet att lagra detaljerad info.
+23048= Standard Sökningswebbadress
+23049= Detta är den sida som visas när IE försöker utföra en sökning.
+23050= Startsida (Alla användare)
+23051= Detta är den sida som ska visas när ett nytt webbläsarfönster i IE öppnas.
+23052= Söksida (Alla användare)
+23053= Detta är standard-sökmotorn när Du klickar på knappen "Sök" i IE. Detta är för alla användare av denna dator.
+23054= Standardsidas Webbadress (Alla användare)
+23055= Det är den vanliga webbadressen som används av IE. Detta är för alla användare av denna dator.
+23056= Lokal Sida (Alla användare)
+23057= Denna är sidan som kommer att visas om en webbplats ej finns när du skriver den i adressfältet i IE. Denna är för alla användare av denna dator.
+23058= Sökfält (Alla användare)
+23059= Detta är den sida som visas när Du klickar på ikonen "Sök" i IE. Sökfältet ger möjlighet att lagra detaljerad info. Detta är för alla användare av denna dator.
+23060= Standard söknings-webbadress (Alla användare)
+23061= Detta är den sida som visas när IE försöker utföra en sökning. Detta är för alla användare av denna dator.
+23062= Anpassad Sökning (Alla användare)
+23063= Detta är den sida som visas i IEs sökruta när Du kör en anpassad sökning. Sökassistentent ger användare med en enda enhetlig sökning i olika typer av sökningar. Denna inställning är till för alla användare av denna dator.
+23064= Sökassistentt (Alla användare)
+23065= Detta är Sökassistentsidan som visas av IE. Sökassistenten ger användare med en enda enhetlig sökning i olika typer av sökningar. Denna inställning är till för alla användare av denna dator.
+23066= Sök Webbadress
+23067= Sök webbadresser är ett bekvämt sätt att använda olika sökmotorer på Internet. T.ex. Kanske Du har en söknings-webbadress kallad "Nyheter" som söker nyhetsgrupper.
+23068= Sök Webbadress (All användare)
+23069= Sök webbadresser är ett bekvämt sätt att använda olika sökmotorer på Internet. T.ex. Kanske Du har en söknings-webbadress kallad "Nyheter" som söker nyhetsgrupper. Om Du skriver in sökord i adressfältet för att automatiskt söka nyhetsgrupper för alla artiklar med anknytning till dessa sökord. Detta gäller för alla användare av datorn.
+23070= Blank Sida
+23071= Sidan kan ej visas - Detta är den sida som visas i IE när den ej kan hitta en webbplats eller sida.
+23072= Skrivbordsnavigeringsfel
+23073= Detta är IE- sidan som visas om Din Dator ej kan ansluta till Internet.
+23074= Navigation avbruten
+23075= Detta är IEs sida som visas när Du avbryter navigation.
+23076= Navigationsfel
+23077= Detta är IE- sidan som visas om Din Dator ej kan ansluta till Internet.
+23078= Ej uppkopplad Info
+23079= Detta är IE- sidan som visas om Din Dator ej kan ansluta till Internet eller en webbsida är otillgänglig eller ej ansluten.
+23080= Post ej cachad
+23081= Varning: Sidan har upphört - Detta är en varningsida när IE ej kan läsa innehåll från sin cache.
+23100= Vill Du permanent ta bort posterna Du valt? Säkert? 
+23101= Insticksmoduler
+23102= Tillägg
+23103= Sökmotorer
+23104= Historik
+23105= Kakor
+23106= Rubrik
+23107= Antal besök
+23109= Bas-domän
+23110= Värdnyckel
+23111= Nyckelord
+23117= Vill Du blockera %s i Mozilla Firefox? Säkert?
+23118= Vill Du permanent ta bort %s i Mozilla Firefox? Säkert?
+23121= Mozilla Firefox Insticksmoduler
+23122= Mozilla Firefox Tillägg
+23123= Mozilla Firefox Sökmotorer
+23124= Mozilla Firefox Historik
+23125= Mozilla Firefox Kakor
+23126= Mozilla Firefox Main Page
+23131= Google Chrome Insticksmoduler
+23132= Google Chrome Tillägg
+23133= Google Chrome Sökmotorer
+23134= Google Chrome Historik
+23135= Google Chrome Kakor
+23136= Google Chrome Huvudsida
+23141= Flytta upp
+23142= Flytta ned
+23143= Lägg till sida
+23144= Ta bort sida
+23146= Huvudsidas indata
+23147= V.g. inmata ny huvudsida för %s webbläsare.
+23149= Visare
+23150= Det förordas att Du stänger\n\n %s \n\ninnan Du fortsätter; webbläsare-assistenten fungerar inte som den ska.
+23151= %s poster togs bort permanent
+23152= Åtgärd gick ej, v.g. försök igen efter stängning av %s webbläsare
+23153= Användare avbryter åtgärd
+23154= Ta bort posters utvecklings-dialogruta
+23155= Ta bort poster
+23217= Vill Du blockera %s i Google Chrome? Säkert?
+23218= Vill Du permanent ta bort %s i Google Chrome? Säkert?
+
+[Process Manager]
+24001= Process- hanterare
+24901= Övervakar processer som körs och alternativt stoppar dem.
+24002= Nya uppgifter(Kör...)
+24003= Avsluta Windows
+24004= Omstarta dator
+24005= Avstänga dator
+24006= Sluta process
+24007= Blockera process
+24008= Blockeringslista
+24009= Google det
+24010= Kommentera den
+24011= Visa detaljer
+24012= Namn
+24013= Gradering
+24014= Körbar
+24015= Prioritet
+24016= Trådar
+24017= CPU
+24018= CPU-tid
+24019= Minne
+24020= Företag
+24021= Startad(e)
+24022= Processer
+24023= Sätt prioritet
+24024= Realtid
+24025= Hög
+24026= Över normal
+24027= Normal
+24028= Under normal
+24029= Låg
+24030= VARNING: Att ändra prioritetsklassen av denna process kan orsaka oönskade resultat inklusive systeminstabilitet. Vill Du ändra prioritetsklassen? Säkert?
+24031= Allmän info
+24032= Moduler använda
+24033= Data
+24034= Värde
+24035= Processinfo
+24036= ID
+24037= Fil
+24038= Argument
+24039= Mapp
+24040= Trådar
+24041= Prioritet
+24042= Minnesanvändning
+24043= Startade på
+24044= Startade av
+24045= Versioninfo
+24046= Filtyp
+24047= Företag
+24048= Beskrivning
+24049= Version
+24050= Internt namn
+24051= Upphovsrätt
+24052= Varumärke
+24053= Ursprungligt filnamn
+24054= Produktnamn
+24055= Produktversion
+24056= Kommentarer
+24137= Säkrare
+24139= Riskabel
+24057= Vill Du avsluta process %s? Säkert?
+24058= Vill Du blockera process %s? Säkert
+24059= Vill Du omstarta Din dator nu?
+24060= Vill Du avstänga Din dator nu?
+24061= Processer som körs:
+24062= CPU-användning:
+24063= Minnesanvändning:
+24064= Systemtjänst
+24065= Ersätta Schemaläggaren
+24066= Alltid överst
+
+[Context Menu Manager]
+25001=Höger-Klicks- hanterare
+25901= Hanterar höger-klicks-menyns poster för filer, mappar...
+25002= Filer & mappar
+25003= Ny
+25004= Sänd till
+25005= Klicka på bocken framför objektet till antingen aktivera eller inaktivera den. För att ta bort den permanent, klicka på '% s'- knappen nedan.
+25006= Ej funnen
+25007= Vill du ta bort '%s' permanent? Säkert?
+25008= Alla filer(*)
+25009= Mappar
+25010= Kataloger
+25011= Diskar
+25012= Musik-mappar
+25013= Video-mappar
+25014= Bild-mappar
+25015= Alla filsystemobjekt
+25016= Min dator
+25017= Papperskorg
+25018= Bakgrund
+25019= Genvägar
+
+[File Encrypter and Decrypter]
+27001=Filkrypterare
+27901= Skyddar Dina filer från obehörig åtkomst och användning.
+27002= Kryptera fil
+27003= Dekryptera fil
+27004= V.g. välj filen Du vill kryptera:
+27005= Lösenord för kryptering:
+27006= Verifiera lösenord:
+27007= Lösenords-tips(Gåta):
+27008= Skapa en auto-dekrypterings EXE-fil (Användargränssnittet kommer att vara på engelska)
+27009= Ta bort den ursprungliga filen efter kryptering
+27010= Kryptera nu!
+27011= V.g. välj filen Du vill dekryptera:
+27012= Lösenord för dekryptering:
+27013= Lösenords-tips
+27014= Utdrag till:
+27015= Öppna målmapp efter lyckad dekryptering
+27016= Dekryptera nu!
+27017= V.g. klicka på "Bläddra" för att välja en fil Du vill kryptera!
+27018= Den valda filene finns ej. V.g. välj en annan.
+27019= V.g. ange ett lösenord mellan 6 och 16 tecken långt!
+27020= V.g. ange samma lösenord i båda fälten!
+27021= Denna fil finns redan, överskriva den?
+27022= Fil krypterades till %s OK.
+27023= Krypterade filer
+27024= Den valda filen var ej krypterad med detta program. V.g. välj ett annan.
+27025= V.g. klicka på 'Bläddra'- knappen för att välja en fil Du vill dekryptera!
+27026= Den valda filen finns ej. V.g. välj en annan.
+27027= V.g. välj mappen där Du vill placera den återställda filen.
+27028= Kunde ej skapa målmapp %s
+27029= Filen %s finns redan, överskriva den?
+27030= Filen dekrypterades till %s OK.
+27031= Felaktigt lösenord, v.g försök igen.
+27032= V.g välj mappen där Du vill placera den återställda filen.
+27033= Åtgärden gick ej. V.g. försök igen.
+27034= Kryptering pågår. Detta kan ta en stund, v.g. ha tålamod.
+27035= Dekryptering pågår. Detta kan ta en stund, v.g. ha tålamod.
+27036= Denna fil är krypterad med den gamla versionen av programmet för dekryptering. Hämta den gamla versionen av dekrypteringsprogram. Vill Du ladda ner?
+27037= Den krypterade filen sparas till:
+27038=V.g. välj mappen där Du vill placera den krypterade filen.
+27039=Målmappen existerar ej, blev den skapad?
+27040=Öppna målmapp efter lyckad kryptering
+27041=Lägg till fil(er)
+27042=Stöd dra-och-släpp filer.
+27043=Lokala fil(er)
+27044=Status
+27045=Utveckling
+27046=Krypterad fil
+27047=Färdig(t)
+27048=Väntar...
+27049=Krypterar...
+27050=Krypterad OK.
+27051=Källfil saknas eller är borttagen.
+27052=Målfil finns redan.
+27053=Kunde ej ta bort källfil.
+27054=V.g. klicka på "Lägg till fil(er)"- knappen för att välja filen Du vill kryptera eller dra en fil till listan för att kryptera den.
+27055=Ville Du kryptera filen, välj och försök igen.
+27056=Ta bort fil(er)
+27057= Välj alla
+27058= Välj inga
+27059= Omvänd markering
+27060= Ta bort vald post
+27061= Vill Du ta bort vald %s fil från filkrypteringslistan?
+
+[File Splitter and Joiner]
+28001= Filsplittrare
+28901= Splittrar stora filer i mindre hanterbara filer, och förenar dem sedan.
+28002= Splittra fil
+28003= Anslut fil
+28004= V.g. välj filen Du vill splittra i mindre filer
+28005= V.g. ange sökvägen till målmappen där Du vill placera den splittrade filen
+28006= V.g. välj den maximala storleken för de enskilda filerna att skapas
+28007= Diskett (1.44MB)
+28008= 100MB Zip(TM)- disk
+28009= 1GB Jaz(TM)- disk
+28010= 4.7GB Ett-lagers DVD
+28011= Användardefinierad filstorlek
+28012= Omkring %s delfil(er) skapas.
+28013= Lägg till självkopplande funktionalitet för delfilerna
+28014= Splittra nu!
+28015= V.g. välj en av filerna Du vill återmontera till den ursprungliga filen. Du kan välja någon av filerna, de andra kommer att inkluderas automatiskt.
+28016= Ihopsättningsinfo:
+28017= V.g. ange sökvägen till målmappen där Du vill placera den återställda filen.
+28018= Förena nu!
+28019= Kunde ej skapa fil %s
+28020= Kunde ej öppna fil %s
+28021= V.g. Klicka på "Bläddra" för att välja en fil Du vill splittra i mindre filer!
+28022= Fil finns ej! V.g klicka på "Bläddra" för att välja en fil Du vill splittra i mindre filer!
+28023= Den valda filen är redan mindre än den maximala storleken.
+28024= V.g. klicka på "Bläddra" för att välja en målmapp!
+28025= Kunde ej skapa målmapp %s
+28026= Det finns ej nog med ledigt utrymme på målenheten %s
+28027= Fil splittrades i %s OK. Den ursprungliga filen har ej borttagits.
+28028= V.g. välj mappen där Du vill placera den splittrade filen
+28029= Splttrade filer
+28030= Filnamn:
+28031= Storlek:
+28032= Antal delar:
+28033= Vald fil är ej del av ett splittrat filset. V.g. välj en annan.
+28034= Det gick ej att hitta dessa delfiler:
+28035= Fil finns redan! Överskriva filen?
+28036= Orginalfilen ihopsattes OK.
+28037= V.g. välj mappen där Du vill placera den återställda filen.
+28038= Åtgärd gick ej. V.g. försök igen.
+28039= Splittring av fil pågår. Detta kan ta en stund, v.g. ha tålamod.
+28040= Ihopsättning av fil pågår. Detta kan ta en stund, v.g. ha tålamod.
+28041= Denna mapp har lagts till.
+
+[1-Click Maintenance]
+29001= 1-klicks underhåll
+29601= Register- rensare
+29602= Genvägs- fixare
+29603= Uppstart- hanterare
+29604= Rensare av tillfälliga filer
+29605= Spår-raderare
+29606= Spionvaru-borttagare
+
+10603= Fixar ogiltiga eller felaktiga registerposter
+10605= Rensar ogiltiga genvägar
+10607= Rensar farliga uppstartposter
+10609= Rensar tillfällig fil och återvinner diskutrymme
+10611= Raderar aktivitetshistorik och Internet-spår
+10613= Tar bort spionvara och adware
+10614= Analyserar...
+10615= Visa detaljer
+10616= Sök problem
+10617= Inga problem funna.
+10618= 1 problem funnet.
+10619= %s problem funna.
+10620= %s filer funna.
+10621= Inga filer funna.
+10622= %s spår valda.
+10623= 1 spår valt.
+10624= Inga spår valda.
+10625= Analyserar...
+10626= Klicka på "Reparera problem" för att fortsätta.
+10627= Reparera problem
+10628= Problem lösta.
+10629= Utrymme återvunnet
+10630= Spår raderade.
+10631= Fixning...
+10632= Rensning...
+10633= Raderar...
+10634= %s problem fixade.
+10635= %s spår raderade.
+10636= %s återvunna.
+10637= V.g. välj filer Du vill ta bort.
+10638= Visa filer
+10639= Totalt %s filer, %s2 återvinnbara.
+10640= V.g. välj spåren Du vill radera.
+10641= V.g. välj registerposter Du vill fixa. Klicka på en post med Din högra musknapp för att se flera alternativ.
+10645= V.g. välj genvägsposter Du vill ta bort. Klicka på en post med Din högra musknapp för att se extra alternativ.
+10642= V.g. välj uppstartposter Du vill ta bort.
+10644= V.g. välj poster Du vill ta bort.
+10643= Avbryt 1-klicks underhåll
+10646= Skanna igen
+10647= V.g. klicka på "Reparera problem" för att fortsätta, klicka på "Skanna igen" för att söka problem igen.
+
+[Glary Undelete]
+31001= Filåterställning
+31901= Snabbt och effektivt sätt att återfå oavsiktligt borttagna filer
+31002= Söka
+31003= Filter
+31004= Mappar
+31005= Filtyper
+31006= Namn
+31007= Skick
+31008= Ursprunglig sökväg
+31009= Storlek
+31010= Typ
+31011= Senast ändrad
+31012= Återställ
+31013= Skannar diskar, v.g. vänta...
+31014= Välj en mapp att söka:
+31015= Mycket bra
+31016= Bra
+31017= Medium
+31018= Dålig
+31019= Överskriven
+31020= Välj en målmapp:
+31021= Att återställa till samma disk kan minska risken för en lyckad återhämtning. Vill Du fortsätta? Säkert?
+31022= finns redan i mapp %s. Vill Du överskriva den? Säkert?
+31023= finns redan i mapp %s. Vill Du överskriva dem? Säkert?
+31024= Filter: PÅ
+31025= Filter: AV
+31026= Funna: %s, Valda poster: %s2
+31027= Sökning
+31028= Aktuell utveckling: %s%, %s2 filer funna.
+31029= Kunde ej starta skanna: %s
+31030= Återställer %s..., %s2 filer återställda.
+31031= Kunde ej skapa fil %s
+31032= Efter filnamn
+31033= Hela eller del av filnamnet. Du kan använda jokertecken t.ex. *.doc
+31034= ? Matchar en symbol
+31035= * Matchar en eller flera symboler
+31036= Efter storlek
+31037= Mer än
+31038= Mindre än
+31039= Efter datum
+31040= Från
+31041= Till
+31042= Efter status
+31043= Alla typer
+
+31044= Ingen förhandsvisning finns
+31045= Förhandsvisning
+31046= Klicka för att förstora
+31047= Klicka för att stänga
+31048= Lokal disk
+
+[Registry Defrag]
+32001= Register- defragg
+32901= Defragga Windows register för att snabba upp Din dator
+32002= Välkomna till registerdefragg
+32003= Windows register kan fragmenteras med tiden, uppta mer utrymme på Din hårddisk än nödvändigt och bromsa uppstart. Registerdefragg komprimerar och optimerar Windows-registret genom att ta bort onödiga luckor och slösat utrymme. Detta kan avsevärt höja Din dators prestanda
+32004= - Minska fragmentering
+32005= - Korrigera strukturella fel
+32006= - Återvinna ej nyttjat minnesutrymme
+32007= Klicka på "Nästa" för att analysera graden av fragmentering.
+32008= Storlek efter optimering:
+32009= Storlekskillnad:
+32010= Registerdefragg kan minska storleken av Ditt regidter med %s
+32011= Klicka på "Nästa" för att börja defragg (Omstart krävs). Klicka på "Avbryt", om Du ej vill optimera Ditt register, eller om Du önskar optimera vid ett senare tillfälle.
+32012= Registerdefragg har upptäckt att registerdefragg ej krävs vid denna tidpunkt. Det förordas, att Du defraggar Windows-registret minst en gång i månaden.
+32013= Klicka på "Stäng" för att avsluta att arbeta med programmet
+32014= OBS: Registerdefragg fordrar att inga program körs under registeranalysen.
+32015= V.g. spara allt Ditt arbete och stäng program innan du fortsätter.
+32016= V.g. också inaktivera Ditt antivirusprogram under hela analysen. Brandväggar brukar ej behöva vara inaktiverade.
+32017= Sedan Du har stängt alla andra program, klicka på "OK" för att fortsätta.
+32018= Defragg är ej möjlig, då del av registret är skyddat från ändringar. För att lösa problemet kan Du stänga alla program som körs, inaktivera Ditt antivirus-och antispionprogramskydd och försöka igen. Glöm ej att återaktivera antivirus-och antispionprogramskydd efter registerdefraggen.
+32019= VARNING: Datorn måste omstartas för att slutföra optimering
+32020= Vill Du optimera nu?
+32021= Analyserar registret
+32022= V.g. vänta...
+32023= Din dator reagerar ej under flera minuter medan analysen håller på att slutföras. Du kan stoppa skanningprocessen genom att trycka på "Esc"- knappen...
+32024= Windows register optimerades OK.
+
+[System Information]
+33001= Systeminfo
+33901= Insamlar info om Din hårdvara och mjukvara
+33002= Skapa rapport
+33003= Skapa rapport(ALLA)
+33004= Översikt
+33005= Operativsystem
+33006= Systemenheter
+33007= Minne
+33008= Diskar
+33009= Skärm
+33010= Nätverk
+33011= Andra enheter
+33012= Allmänt
+33013= Processor
+33014= Moderkort
+33015= Windows' version
+33016= Installationsdatum
+33017= Skärm
+33018= Skärm
+33019= Video-adapter
+33020= Indata
+33021= Mus
+33022= Tangentbord
+33023= Volym
+33024= DVD/CD-ROM disk
+33025= Operativsystemets egenskaper
+33026= OS-namn
+33027= OS-språk
+33028= OS-version
+33029= Registrerad ägare
+33030= Registrerad organisation
+33031= Produkt ID
+33032= Produktnyckel
+33033= OS-installationsdatum
+33034= OS-rot
+33035= Aktuell session
+33036= Datornamn
+33037= Användarnamn
+33038= Inloggningsdomän
+33039= Användningstid
+33040= Komponentversion
+33041= IE
+33042= Windows Media Player
+33043= DirectX
+33044= System-mappar
+33045= Delade mappar
+33046= Moderkort
+33047= Moderkorts-namn
+33048= Moderkorts-tillverkare
+33049= BIOS-egenskaper
+33050= BIOS-version
+33051= System BIOS-datum
+33052= Video BIOS-datum
+33053= CPU-egenskaper
+33054= CPU-identifiering
+33055= CPUs generiska namn
+33056= CPU-försäljare
+33057= Serienummer
+33058= CPU-frekvens
+33059= L1-kod cache
+33060= L1-data cache
+33061= L2-cache
+33062= CPU-socket
+33063= Kärna per förpackning
+33064= Logisk per kärna
+33065= Konfigurations-detaljer
+33066= CPU-användning
+33067= CPU-användningshistorik
+33068= Fysiskt minne
+33069= Virtuellt minne
+33070= Totalt minne
+33071= Fritt minne
+33072= Använt minne
+33073= Valt minne
+33074= Program
+33075= Minnesanvändning
+33076= Sökväg
+33077= Volymdetaljer
+33078= Diskbokstav
+33079= Enhetstyp
+33080= Serienummer
+33081= Filsystem
+33082= Bytes totalt
+33083= Bytes fritt
+33084= Bytes använt
+33085= Filsystem
+
+33086= Filkomprimering aktiverad
+33087= Volym är komprimerad
+33088= Långt filnamn aktiverat
+33089= Unicode-filnamn aktiverat
+33090= Krypterat filsystem
+
+33091= Logisk info
+33092= Antalet kluster
+33093= Fria kluster
+33094= Använda kluster
+33095= Bytes per kluster
+33096= Sektorer per kluster
+33097= Använda sektorer
+33098= Fria sektorer
+
+33099= Konfigureringsdetaljer
+33100= Bytes per sektor
+33101= Sektorer totalt
+
+33102= Diskutrymme totalt
+33103= Diskutrymme fritt
+33104= Diskutrymme använt
+
+33105= Video-adapters egenskaper
+33106= Enhetsbeskrivning
+33107= Adaptersträng
+33108= BIOS-sträng
+33109= Chip-typ
+33110= DAC-typ
+33111= Drivrutin-datum
+33112= Drivrutin-version
+33113= Drivrutin-leverantör
+33114= Minnes-storlek
+
+33115= Skärmegenskaper
+33116= Skärmnamn
+33117= Modell
+33118= Tillverkningsdatum
+33119= Serienummer
+33120= Max.synlig skärmstorlek
+33121= Gamma
+
+33122= Video-modell stöds
+
+33123= Nätverk-adapters beskrivning
+
+33124= Nätverk-adapters egenskaper
+33125= Nätverk-adapter
+33126= Gränssnitts-typ
+33127= Hårdvaru-adress
+33128= Anslutnings-namn
+33129= Anslutnings-hastighet
+33130= MTU
+33131= Bytes mottagna
+33132= Bytes sända
+
+33133= Nätverk-adapters adresser
+33134= IP/Subnet Mask
+33135= Gateway
+33136= DNS
+
+33137= Data mottagen
+33138= Data sänd
+
+33139= Ljud-enheter
+33140= Portar
+33141= USB
+33142= USB Controller
+33143= Skrivare
+
+33144= Namn
+33145= Värde
+
+33148= Systemmappar
+33149= Delade mappar
+33150= Höger-klicka på en mapp för att öppna den i Windows Utforskaren
+33151= Öppna mapp
+33152= Egenskaper
+33153= SEK
+33154= (%s tim %s2 min %s3 sek)
+
+33155= OS Typ
+33156= %s bit
+
+[GLARYUTILITIES]
+1001001= Återställ
+1001002= Respons
+1001003= Minimera
+1001004= Version:
+1001005= Gilla
+
+[OVERVIEW]
+1002001= Översikt
+1002002= Slå på automatiskt underhåll
+1002003= Radera sekretess-spår vid Windows' avstängning
+1002004= Sök uppdateringar vid programstart
+1002005= Slå på djup rensning och fixning
+1002006= Windows' uppstart-tid
+1002007= Inaktivera onödiga program för att göra Windows' uppstart snabbare
+1002008= Uppstart-hanterare
+1002009= Du använder %s
+1002010= Uppgradera nu
+1002011= Dela min Windows uppstart-tid
+1002012= tim
+1002013= min
+1002014= sek
+1002015= Välj spår
+1002016= Licensierad till:
+1002017= Hantera licens
+1002018= Licens utgången
+1002019= Sök automatiskt efter programuppdateringar
+1002020= Anpassa resultat
+
+[ONECLICK]
+1003001= Diskreparation
+1003002= Defragga register
+1003003= Parasit-immunisering
+1003004= Systemoptimering
+1003005= Defragga hårddiskar
+
+[ADVANCED TOOLS]
+1004001= Avancerat verktyg
+1004002= Windows register
+1004003= Reparera
+1004004= Defragga
+1004005= Ta backup
+1004006= Återställ
+   
+1004007= Diskutrymme
+1004008= Rensa
+1004009= Ta bort dubbletter
+1004010= Ta bort tomma mappar
+1004011= Ta bort brutna genvägar
+1004012= Utforska diskar
+   
+1004013= Systemjusteringar
+1004014= Systemjusteringar
+1004015= Optimera systemuppstart
+1004016= Frigör minne
+1004017= Uppsnabba internet
+1004018= Turboläge
+   
+1004019= Sekretess
+1004020= Radera historik
+1004021= Makulera filer
+1004022= Skrubba fritt utrymme
+1004023= Kryptera filer
+   
+1004024= Drivrutiner
+1004025= Ta backup
+1004026= Återställ
+1004027= Avinstallera
+1004028= Sök uppdateringar
+   
+1004029= Filhantering
+1004030= Dela filer
+1004031= Återställ borttagna filer
+1004032= Snabbsökning
+   
+1004033= Hårddiskar
+1004034= Defragga
+1004035= Uppstart-defragg
+1004036= Sök fel
+   
+1004037= Systemkontroll
+1004038= Uppstartposter
+1004039= Tjänster
+1004040= Schemalagda uppgifter
+1004041= Innehållsmenyer
+1004042= Processer
+1004043= Webbläsare-assistent
+   
+1004044= Systemstatus
+1004045= Systeminfo
+1004046= Ta backup av Din dator
+1004056= Reparera systemfiler
+1004047= Systemåterställning
+1004048= Ångra ändringar
+   
+1004049= Anti-parasit
+1004050= Ta bort parasiter
+1004051= Immunisera
+   
+1004052= Program
+1004053= Avinstallera
+1004054= Sök uppdateringar
+1004055= Hitta mer program
+1004057=
+
+[QUICKLAUNCHBAR]
+1005001= Klicka på +/- för att lägga till eller ta bort en post i dockfältet   
+1005002= Finns redan här
+1005003= Ej nog med utrymme i bryggan! Du kan ta bort en ikon genom att klicka -
+1005004= Ej nog med utrymme i bryggan! Du kan ta bort en ikon genom att dra den ut från bryggan.
+
+[SKINSCENTER]
+1006001= Skinn-center
+1006002= Bildbibliotek
+1006003= Starka färger
+1006004=Denna fil finns redan, överskriva den?
+1006005=Alla supportfiler
+1006006= Anpassningsbar
+
+1007001= Din testlicens har utgått. 
+1007002= Klicka på detta meddelande för att aktivera Glary Utilities Pro nu.
+1007003= Din licens har utgått. 
+1007004= Klicka på detta meddelande för att om-aktivera Glary Utilities Pro nu.
+
+[CHECKDISK]
+2400001= Kontrollera disk
+2401001= V.g. välj disken att kontrollera
+2401002= Automatiskt fixa filsystemfel
+2401003= Sök efter och försök återställa dåliga sektorer
+2401004= Kontrollera disk
+2401010= Disknamn
+2401011= Senaste analys
+2401012= Status
+2401013= Analys
+2401014= Rapport
+2401015= Färdig
+2401016= Behöver kontrolleras
+2401017= Kontrollerar %s
+2401018= Disk-kontroll avbruten
+2401019= Fel funna
+2401020= Inga fel funna
+2401021= Disk-kontroll-fel
+2401022= Dölj detaljer
+2401023= Visa detaljer
+2401024= CheckDisk kontrollerar Din disk och dess filsystem för fel.
+2401025= Fel upptäckta fixas automatiskt för att hindra dataförlust.
+2401026= Alternativ
+;2401027= Automatiskt fixa filsystemfel
+;2401028= Sök efter och försök återställa dåliga sektorer
+2401029= Starta kontroll
+2401030= Stoppa
+2401031= Schemaläggning av disk-kontrolll gick ej!
+2401032= CheckDisk schemalades vid nästa start av Din dator.
+2401033= CheckDisk skippad.
+2401034= CheckDisk avbruten.
+2401035= CheckDisk avbruten.
+2401036= Disk-kontroll klar. Inga fel funna.
+2401037= CheckDisk fann %s diskfel som följer:
+
+2403001= Kontroll av disk %s
+2403002= Gör detta för nästa %s konflikter
+2403003= Hoppas över om %s sek.
+
+2405001= Funktion ej funnen.
+2405002= Disk-kontroll stötte på ett fel. Behöver starta om programmet.
+2405003= Kontrollerar filsystemet på %s
+2405004= Filsystemets typ är %s.
+
+2406001= Spara rapport
+
+2407001= Resultat
+2407002= Schemalägg diskcheck
+2407003= Omstarta nu
+2407004= Visa rapport
+2407005= Windows fixar disken vid nästa uppstart.
+
+2408001= Windows kan ej kontrollera disken medan den är i bruk
+2408002= Tvinga en demontering \nVill Du demontera denna volym först? Obs: Alla öppnade handtag till denna volym blir ogiltiga.
+2408003= Schemalägg diskkontroll \nVill Du kontrollera hårddisken för fel nästa gång Du startar Din Dator?
+2408004= Skippa
+
+[RESTORE CENTER]
+
+2602001= Skapar en återställningspunkt...
+2603001= Ange beskrivning för att hjälpa Dig identifiera återställningspunkten. Aktuellt datum och tid läggs till automatiskt.
+2603002= Skapa
+2603003= V.g. ange beskrivningen.
+2604001= Förbereder att återställa Ditt system ...
+2605001= Återställda %s poster.
+
+
+[SETTINGS]
+2801001= Allmänna inställningar
+2801002= Nedanstående punkter kommer att hoppas över när Du gör en skanning.
+2801003= Extra
+2801004= Genomborrar sin väg igenom registret för att identifiera, föreslå och reparera fel.
+2801005= Visa dockfält-tips
+2801006= Flera utlösare definierade
+2801007= Uppgift ej schemalagd
+2801008= Skippa UAC-varning
+2801009= I undermenyn för att visa snabbmenyn
+
+2802001= Schema:
+2802002= Starttid:
+2802003= Starta ej uppgiften om datorn kör på bastterier
+2802004= Stoppa uppgiften om batteriläge börjar.
+2802005= Väck datorn för att köra denna uppgift.
+2802006= Strömhantering
+
+2803001= Logg
+2803002= Loggningsalternativ
+2803003= Sparade loggar
+2803004= Öppna Loggmapp
+2803005= Visa logg
+2803006= Ta bort
+2803007= Rensa alla
+2803008= Skapa loggar när det är någon datorändring
+2803009= Max filer:
+
+[Quick Search]
+3700001= Snabbsökning
+3700002= 
+
+//frmMain
+3701001= Fil
+3701002= Ändra
+3701003= Visa
+3701004= Hjälp
+3701005= Öppna
+3701006= Öppna mapp
+3701007= Exportera
+3701008= Stäng
+3701009= Kopiera
+3701010= Matcha sökväg
+3701011= Alternativ
+3701012= Textstorlek
+3701013= Arrangera ikoner efter
+3701014= Uppdatera
+3701015= Öka
+3701016= Minska
+3701017= Normal
+3701018= Namn
+3701019= Sökväg
+3701020= Storlek
+3701021= Ändringsdatum
+3701022= Hemsida
+3701023= Om
+3701024= Ändra kategori
+3701025= Visa alla
+3701026= Genvägar
+3701027= Dokument   
+3701028= Bilder        
+3701029= Videor        
+3701030= Musik      
+3701031= Programmerare 
+3701032= Visa %s filer
+3701033= Inkludera fil
+3701034= Inkludera katalog
+3701035= %s poster funna
+3701036= Skannar %s ...
+3701037= Typ   
+3701038= Filbeskrivning
+3701039= Filversion 
+3701040= Produktversion 
+3701041= Företagsnamn
+3701042= Textfil(*.txt)|*.txt|Alla filer(*.*)|*.*
+3703043= Fil finns
+3703044= Tips
+3703045= %s poster valda
+3701046= Laddar %s ...
+3701047= Kopiera sökväg till Urklipp
+3701048= Kopiera fullt namn till Urklipp
+3701049= Att välja för många filer kan orsaka programmet att ej svara, vill Du fortsätta? Säkert??
+
+//frmSetting
+3702001= Alternativ
+3702002= Kategori
+3702003= Allmänt
+3702004= Starta automatiskt vid Windows inloggning
+3702005= Dubbel-klicka på 'Ctrl'- tangenten för att dölja eller visa sökrutan
+3702006= Språk:
+3702007= Kategorinamn
+3702008= Filtillägg
+3702009= Lägg till
+3702010= Ändra
+3702011= Ta bort
+3702012= OK
+3702013= Avbryt
+3702014= V.g. välj en kategori!
+3702015= Denna kategori kan ej tas bort
+3702016= Diskar
+3702017= V.g. välj disken att söka
+3702018= Disknamn
+3702019= Filsystem
+3702020= Kapacitet
+3702021= Använt utrymme
+
+//frmGroupSetting
+3703001= Kategorinamn:
+3703002= Filtillägg:
+3703003= Filtillägg:
+3703004= Tillägg
+3703005= Filtyp
+3703006= Ange tillägg(*.doc)
+3703007= Företagsnamn kan ej vara tomt!
+3703008= Filtillägg kan ej vara tomt!
+3703009= Kategorinamn %s finns redan, v.g. ange kategorinamnet igen.
+3703010= Lägg till en kategori
+3703011= Ändra en kategori
+
+//UnitFunction
+3704001= Det finns ingen text i Urklipp!
+
+//frmAbout
+3705001= Om
+3705002= Version:
+3705003= Webbsajt:
+3705004= Upphovsrätt @ 2013, Glarysoft Ltd. Alla rättigheter förbehållna
+
+//tray icon
+3706001= Öppna snabbsökning
+
+//Task
+3707001= Glary Utilities - Snabbsökning
+
+[Disk Defrag]
+3400001= Diskdefragg
+3400002= Diskar att snabba upp datorns prestanda
+
+3400003= Din dator kör på batterier, så vi förordar Dig att ej defragga. Om Du vill defragga den, v.g. avmarkera "Stoppa defragg under batterianvändning" i inställningarna.
+
+//frmMain
+3401001= Disknamn
+3401002= Filsystem
+3401003= Kapacitet
+3401004= Fritt utrymme
+3401005= Fragmenterad
+3401006= Status
+3401007= Uppstart-defragg 
+3401008= Fil
+3401009= Verktyg
+3401010= Hjälp
+3401011= Defragga en fil...
+3401012= Defragga en mapp...
+3401013= Analysera
+3401014= Defragga
+3401015= Defragga och optimera (saktare, använd en gång i veckan)
+3401016= Avsluta
+3401017= Prioritet
+3401018= Låg prioritet
+3401019= Normal prioritet
+3401020= Hög prioritet
+3401021= Alternativ
+3401022= Hemsida
+3401023= Sök uppdateringar
+3401024= Om
+3401025= Defragga
+3401026= Analysera
+3401027= Defragga och optimera (saktare, använd en gång i veckan)
+3401028= Pausa
+3401029= Fortsätt
+3401030= Stoppa
+3401031= Stäng av PC efter defragg
+3401032= Välj alla
+3401033= Välj inga
+3401034= Status
+3401035= Rapport
+3401036= Utrymme använt
+3401037= Utrymme fritt
+3401038= Processar
+3401039= Utrymme fritt
+3401040= Utrymme använt
+3401041= Ej fragmenterad
+3401042= Oflyttbara filer
+3401043= Fragmenterade filer
+3401044= Upptagen
+3401045= MFT reserverade zoner
+3401046= Färdig
+3401047= Analyserar
+3401048= Defragg
+3401049= Optimering
+3401050= Analyserad(e)
+3401051= Defraggad(e)
+3401052= Optimerad(e)
+3401053= Analysis klar
+3401054= Defragg klar
+3401055= Optimering klar
+3401056= Analys avbruten
+3401057= Defragg avbruten
+3401058= Optimering avbruten
+3401059= Uppstart-defragg är aktiverad för denna volym.
+3401060= Uppstart-defragg är ej aktiverad för denna volym.
+3401061= Stäng Av
+3401062= Sätt PÅ
+3401063= Konfigurera
+3401064= Defragga växlingsfil, vilolägesfil
+3401065= Defragga MFT
+3401066= Defragga systemfiler
+3401067= Uppstarts-defragghistorik(Dubbelklicka för att visa detaljer)
+3401068= Datum
+3401069= Total storlek
+3401070= Defraggad(e)
+3401071= Totalt filer && kataloger:
+3401072= Fragment:
+3401073= Fragmenteringsgrad:
+3401074= Filnamn
+3401075= Fragment
+3401076= Storlek
+3401077= Sökväg
+3401078= Ja
+3401079= Nej
+3401080= Fil(er)
+3401081= Välj mapp
+3401082= Tips
+3401083= Diskdefragger körs ännu.
+3401084= Okänd drivrutin
+3401085= Rotkatalogen kan ej läggas till i uteslutningslistan. V.g. välj en annan katalog.
+3401086= Omvänt val
+3401087= Stoppa en
+3401088= Stoppa alla
+3401089= Denna volym är Solid State Drives (SSD) lagring, och den behöver ej defraggas.
+3401090= Disken tycks vara "solid state". Defragg kan minska dess livstid. Vill Du fortsätta? Säkert?
+
+//frmOption
+3402000= Alternativ
+3402001= Allmänt
+3402002= Defragga
+3402003= Auto-defragga
+3402004= Schemalägg
+3402005= Uppstart-defragg
+3402006= Optimera
+3402007= Exkluderar
+3402008= Språk:
+3402009= Startar automatiskt vid Windows-inloggning
+3402010= Minimera till systemfältet när Du stänger programfönstret
+3402011= Visa ballongtips vid minimering till systemfältet
+3402012= Integrera diskdefragger i Windows Utforskarens höger-klicks-meny
+3402013= Automatiskt sök uppdateringar
+3402014= Samtidig defragg av diskar
+3402015= Standard
+3402016= Smart defragg
+3402017= Morgonrodnad
+3402018= Windows standard
+3402019= Tillgänglighet
+3402020= Regnbåge
+3402021= Havsbris
+3402022= Defragga bara filer som:
+3402023= Har fragment mindre än
+3402024= Har mer än
+3402025= Är större än
+3402026= Är mindre än
+3402027= Fragment
+3402028= Flytta stora filer till slutet av disken
+3402029= Minimum filstorlek:
+3402030= Filer som ej användes förra månaden
+3402031= Filer i papperskorg
+3402032= Filer i valda typer
+3402033= Kategori
+3402034= Typ
+3402035= Lägg till
+3402036= Ändra
+3402037= Ta bort
+3402038= Exkludera filerna som Du ej vill defragga t.ex. video-filer. {#13#10}Det uppsnabbar defraggen. 
+3402039= Lägg till filer
+3402040= Lägg till mapp
+3402041= Auto-defragg är AV
+3402042= Auto-defragg är PÅ
+3402043= När Auto-defragg är på, defraggar den Din hårddisk automatiskt för att hålla Din datorkörning vid högsta hastighet.
+3402044= Auto-defragga när system går på tomgång under %s minut(er)
+3402045= Pausa när Din CPU eller diskanvändning överskider %s%
+3402046= Diskar
+3402047= Senaste defragg:
+3402048= Defraggade filer:
+3402049= Kör enl. ett schema
+3402050= Åtgärd:
+3402051= Frekvens:
+3402052= Tid:
+3402053= Defragga bara
+3402054= Defragga och optimera
+3402055= Dagligen
+3402056= Veckovis
+3402057= Månatligen
+3402058= måndag
+3402059= tisdag
+3402060= onsdag
+3402061= torsdag
+3402062= fredag
+3402063= lördag
+3402064= söndag
+3402065= Uppstart-defragg är aktiverad
+3402066= Defragg-modell:
+3402067= Metod
+3402068= Uppstart varje dag
+3402069= Första uppstart varje dag
+3402070= Varje %s första uppstart
+3402071= Max loggfiler:
+3402072= Starta Autokontroll (Chkdsk) före uppstart-defragg
+        
+3402073= Avancerad defragg
+3402074= Snabb defragg
+3402075= Välj mapp
+3402076= V.g. välj disken som Du vill defragga!
+3402077= Tips
+3402078= V.g. välj en kategori! 
+3402079= Vill Du ta bort denna kategori? Säkert?
+3402080= Lägg till filkategori
+3402081= Ändra filkategori
+3402082= OK
+3402081= Avbryt
+3402084= Uppstart-defragg defraggar filer som ej kan flyttas säkert medan Windows körs.
+3402085= Stoppa VSS vid defragg av NTFS volym
+3402086= Stoppa Automatisk Defragg under batterianvändning
+
+//frmConfig
+3403001= Arkiv
+3403002= Filmer
+3403003= Diskbilder
+
+//frmCategory
+3404001= Kategorinamn kan ej vara tomt! 
+3404002= Format-typfel! t.ex. (*.doc/*.doc,...,*.Txt).
+
+//frmFileType
+3405001= Kategori: 
+3405002= Typ:
+3405010= Kategorinamn %s finns redan, v.g. ange nytt kategorinamn.
+
+[SpyRemover]
+2701001= Parasit- borttagare
+2701002= Parasit- borttagare
+2701003= Snabb skanning och bortagning av spionvaror och adwares
+2701004= Skanna
+2701005= Ta bort
+2701006= Återställ
+2701007= Skanna igen
+2701008= V.g. välj en backup som Du vill återställa och klicka på 'Återställ'- knappen.
+2701010= Typ
+2701011= Status
+2701012= Backups
+2701013= Vill Du återställa %s till systemregistret? Säkert?
+2701014= %s har återställts in i registret.
+2701015= Skannar %s
+2701016= Skannade filer: %s
+2701017= Parasit har rensats OK!!
+2701018= Återställ
+2701019= Skanna efter parasit
+2701020= Skanning klar
+2701021= %s parasiter funna
+2701022= Ingen parasit funnen
+2701023= 1 parasit funnen
+2701024= Ingen post vald
+2701025= %s post vald
+2701026= %s poster valda
+2701027= Parasitinfo
+2701028= Ingen parasit funnen!
+2702001= Detaljer
+2702002= V.g. välj posterna Du vill ta bort.
+	 
+[BOOT TIME]
+2901001= För referens.
+2901002= Din Windows uppstart-tid är Mycket Långsam, %s användare är långsammare.
+2901003= Din Windows uppstart-tid är Långsam, %s användare är långsammare.
+2901004= Din Windows uppstart-tid är Normal, %s användare är långsammare.
+2901005= Din Windows uppstart-tid är Snabb, %s användare är långsammare.
+2901006= Din Windows uppstart-tid är Mycket Snabb, %s användare är långsammare.
+2901007= Kunde ej få data, referensvärdet kan ej beräknas.
+2901008= Får uppstart-tiden, v.g. vänta...
+
+[DRIVER BACKUP]
+2200001= Drivrutin- hanterare
+2201001= Ta Backup
+2201002= Avinstallera
+2201003= Återställ
+
+2201004= Välj drivrutinerna Du vill installera och klicka på "Återställ" sedan.
+2201005= Välj drivrutinerna Du vill avinstallera och klicka på "Avinstallera"- knappen sedan.
+2201006= Välj målmappen där Du sparat Backup- filen:
+2201007= Spara Backup- fil till:
+2201008= Drivrutins Backup
+2201009= %s skapande gick ej!
+2201010= Vill du avinstallera denna enhet? Säkert?
+2201011= Enhetsnamn
+2201012= Version
+2201013= Backup- datum
+2201014= Din dator måste omstartas!
+
+
+[Software Update]
+4000001= Program- uppdatering
+4000002= Anpassa resultat
+4000003= Dölj Beta-versioner
+4000005= OK
+4001001= Läs mer...  
+4001002= Avbryt
+4001003= Fortsätt
+4001004= Kör programuppdatering när Windows startar
+4001005= Skanna
+4001006= Skanna igen
+4001007= 100% skanning klar.
+4001009= Anpassa resultat
+4001010= Klar att starta ...
+4001011= Skannar dator ...
+4001012= Skickar data för analys ...
+4001013= Öppnar resultat ...
+4001014= Klicka på 'Skanna'- knappen för att söka Din dator efter installerat progran!
+4001015= Besök www.glarysoft.com
+4001016= Återställ från systemfält
+4001017= Avsluta
+4001019= Klicka på detta meddelande för att visa mer.
+4001020= Visa detaljer
+4001021= Sök uppdateringar
+
+4001022= Du har 1 ny uppdatering tillgänglig.
+4001023= Du har %s nya uppdateringar tillgängliga. 
+4001024= Du har 1 beta uppdatering tillgånglig. 
+4001025= Du har %s beta uppdateringar tillgängliga. 
+
+4001026= Du har 1 ny uppdatering och 1 beta uppdatering tillgängliga.
+4001027= Du har 1 ny uppdatering och %s beta uppdateringar tillgängliga. 
+4001028= Du har %s nya uppdateringar och 1 beta uppdatering tillgängliga. 
+4001029= Du har %s nya uppdateringar och %s2 beta uppdateringar tillgängliga.
+4001030= Inga uppdateringar finns f.n.
+
+4001040= Visa alla utgåvor
+4001041= Dölj alla utgåvor
+4001042= Dölj denna utgåva
+4001043= Installerad version:
+
+4001050= Allmänt
+4001051= Resultat
+4001052= Avancerade
+
+4001053= Gränssnitt
+4001054= Automatisk Uppdatering
+4001055= Språk
+4001056= Meddela mig när ny programversionsuppdatering finns
+4001057= Automatiskt uppdatera till den senaste versionen
+
+4001058= Resultat
+4001059= Dölj beta versioner
+
+4001060= Windows startar
+4001061= Systemfält
+4001062= Kör programuppdatering när Windows startar
+4001063= Avsluta programmet när fönstret stängs
+4001064= Minimera till systemfältet
+4001065= Inställningar
+4001066= Uppgradera till Pro
+
+[Portable Maker]
+5001001= Glary Utilities Portable Maker
+5001002= Genom att klicka på "Generera"-knappen, skapas en bärbar version för Glary Utilities will åt Dig. Den sparas på Ditt skrivbord som standard. Eller
+5001003= klicka här för att ändra standard sökväg
+5001004= Generera
+5001005= Öppna filplats
+5001006= Generera den bärbara versionen OK. Klicka på "Öppna filplats" för att få den. Packa upp zip-filen och kör "Integrator_Portable.exe". V.g. observera att den bärbara versionen bara inkluderar funktioner i gratisversionen.
+
+[error report]
+6001001= %s har stött på ett problem och måste stängas. Vi beklagar olägenheten.
+6001002= V.g. rapportera till Glarysoft om detta problem.
+6001003= Vi har skapat en felrapport som Du kan sända till oss. Vi behandlar denna rapport som konfidentiell och anonym.
+6001004= För att se vilken data denna felrapport innehåller,
+6001005= klicka här
+6001006= Sänd felrapport
+6001007= Sänd ej
+6001008= Tips
+6001009= V.g. välj den fil du vill skicka på nytt!
+6001010= Kunde ej sända felrapport, v.g. sänd en fillista som bilagor till: {\r\n}%s{\r\n}Tack för Ditt deltagande!

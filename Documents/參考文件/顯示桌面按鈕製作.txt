@@ -1,0 +1,7 @@
+將下列文字複製後另存成 "顯示桌面.scf"
+
+[Shell]
+Command=2
+IconFile=%SystemRoot%\system32\shell32.dll,34
+[Taskbar]
+Command=ToggleDesktop

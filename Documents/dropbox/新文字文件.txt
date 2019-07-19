@@ -1,0 +1,39 @@
+icacls %HOMEPATH%\Dropbox /grant %USERNAME%:(F) /T
+icacls %APPDATA%\Dropbox /grant %USERNAME%:(F) /T
+icacls %LOCALAPPDATA%\Dropbox /grant %USERNAME%:F /T
+icacls %PROGRAMFILES%\Dropbox /grant %USERNAME%:F
+
+
+
+
+給進階使用者
+
+如果取消連結和重新連結帳戶並沒有解決您的問題，可能是因為使用權限的問題而設定為受保護或不可存取。如果遇到這類問題，
+您可以利用管理員帳戶手動移除您的設定。操作方式：
+
+顯示說明指示:
+Vista/Win7/Win8/Win10
+Windows使用 Windows Vista、Windows 7 或 Windows 8
+
+按一下系統匣上的 Dropbox 圖示，再按一下通知面板中的工具圖示，並從選單中選擇 [退出 Dropbox] 以退出 Dropbox。
+同時按下 Windows 鍵 + R，輸入「cmd」，然後按 Enter 鍵，開啟命令提示。
+複製下方列，貼上命令提示字元，每貼上一行即按一下 ENTER 鍵。輸入錯誤的指令可能會造成破壞，
+請務必用複製貼上的方法輸入指令 (勿手動輸入)。另外，您只能按右鍵選取 [貼上] 來貼指令。 
+icacls %HOMEPATH%\Dropbox /grant %USERNAME%:(F) /T
+icacls %APPDATA%\Dropbox /grant %USERNAME%:(F) /T
+icacls %LOCALAPPDATA%\Dropbox /grant %USERNAME%:F /T
+icacls %PROGRAMFILES%\Dropbox /grant %USERNAME%:F /T
+
+若您的 Dropbox 資料夾不是位於 C:\Users\YourUser\Dropbox ，請將第一行指令修正為正確路徑。
+
+例如：
+
+如果您的 Dropbox 位於 D:\Dropbox ，則指令應如：
+icacls D:\Dropbox /grant %USERNAME%:(F) /T
+			
+
+請勿修改其他指令。提醒您，若您的 Dropbox 很大，此操作可能會耗時較久，請耐心等候 C:\ 的提示再次出現。
+從開始 程式集 Dropbox，重新啟動 Dropbox。
+
+請注意：若您沒有在 Program Files 中看到 Dropbox 的選項，您必須在 Windows 檔案總管中輸入 
+%APPDATA%\Dropbox，並在 Dropbox.exe 上按兩下以重啟 Dropbox。

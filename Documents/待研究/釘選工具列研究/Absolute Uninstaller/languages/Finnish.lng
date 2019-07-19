@@ -1,0 +1,2462 @@
+[Language]
+Description= Finnish (KBoost/Oldr)
+
+[Globals]
+10001= Tiedosto
+10002= Muokkaa
+10003= Näytä
+10004= Apua
+10005= Poistu
+10023= Sisältö
+10018= Kotisivu
+10019= Tietoja
+10006= Pysäytä
+10007= Päivitä
+10008= Ominaisuudet
+10009= Nimi
+10010= Avaa
+10011= Koko
+10012= OK
+10013= Keskeytä
+10014= Sulje
+10015= Kyllä
+10016= Ei
+10017= Selaa...
+10020= Tallenna...
+10021= Avaa kansio
+10022= Tehtävät
+10024= Seuraava
+10025= Takaisin
+10026= Valinnat
+19026= Koko yhteensä
+19027= Vapaa tila
+14023= Tila
+10027= Kuvaus
+10028= Lopeta
+10029= Roskakori
+14009= Tiedot
+10030= Lisää
+10031= Poista
+10032= Oletus
+10033= Luotu
+10034= Poista
+10035= Suosittele ystävillesi
+10036= Osta nyt
+10037= Anna rekisteröintiavain
+15009= Valitse kaikki
+15010= Poista valinnat
+15011= Valitse käänteisesti
+15014= Valitse
+10038= Valikko
+10039= Tarkista päivitykset
+10040= Kielet
+10041= Oletko varma että haluat siirtää valitut kohteet roskakoriin?
+10043= Joitain tiedostoja ei voi tuhota. Varmista etteivä ne ole käytössä ja että levy ei ole täysi tai kirjoitussuojattu.
+10044= Varoitus
+10045= Tiedot
+10046= Virhe
+10047= Vahvistus
+10048= Alustus
+
+10050= Suositeltu
+10051= Käytä
+10052= Työkalu
+10053= Ohjelma ei suostu toimimaan, mikä johtuu kadonneesta tai viallisesta tiedostosta. Yritä asentaa ohjelma uudelleen. Valitse 'Kyllä' ladataksesi viimeisimmän verison.
+
+[Integrator]
+10801= Siivoa & Korjaa
+10802= Tehosta & Paranna
+10803= Yksityisyys & Suojaus
+10804= Tiedostot & Kansiot
+10805= Järjestelmätyökalut
+
+10806= Tila
+10807= Ohjelman tila
+10808= Nykyinen versio:
+10809= Viimeisin päivitys:
+10810= Tietokanta:
+10811= Lisenssin tila
+10812= Tyyppi:
+10813= Ilmaisversio
+10814= Pro-versio
+10815= Vanhenemispäivä:
+10816= Ei koskaan
+10817= Rekisteröi ostamasi tuote valitsemalla 'Rekisteröi".
+10818= Rekisteröi
+10819= Autom. Siivouksen asetukset
+
+10799= Yksittäiset osat
+
+10820= Asetukset
+10821= Yleiset
+10822= Kieli:
+10823= Käynnistä Glary Utilities automaattisesti Windowsin käynnistyessä.
+10824= Pienennä ilmaisinalueelle kun suljet ohjelman ikkunan
+10825= Valikot
+10826= Valitse valikot jotka haluat liittää Windowsin resurssienhallintaan.
+10827= Automaattinen päivitys
+10828= Suorita päivitys ajastettuna aikana
+10829= Ajastus:
+10830= Ei käytettävissä ilmaisversiossa
+10831= Vaihda ajastus
+10832= Autom. Siivous
+10833= Poista yksityiset jäljet Windowsista poistuttaessa tai sammutettaessa
+10834= Yksityiset jäljet
+10835= Valitse poistettavat jäljet
+10836= Autom. nopea korjaus
+10837= Suorita nopea korjaus ajastettuna
+10838= Palautuskeskus
+10839= Palautuskeskuksen suojaus
+10840= Valitse suojattavat kohteet palautuskeskukseen.
+10841= Kohteet:
+10842= Varmistusvalinnat
+10843= Poista varmistukset automaattisesti:
+10844= Rajoita varmistusten määrä:
+10845= Ohituslista
+10846= Viikon jälkeen
+10847= 2 viikon jälkeen
+10848= 3 viikon jälkeen
+10849= Kuukauden jälkeen
+10850= 2 kuukauden jälkeen
+10851= 3 kuukauden jälkeen
+10852= Autom. Nopean Korjauksen valinnat
+10853= Etsi vain ongelmat
+10854= Etsi ja korjaa ongelmat
+10855= Valitse kohteet
+10856= Näytä vihjeet työkalupalkissa
+10857= Tarkista päivitykset ohjelman käynnistyessä
+
+10900= Kumoa muutokset
+10901= Valitse palautuspiste jonka haluat palauttaa ja valitse 'Palauta'.
+10902= Järjestelmän palautuspisteet
+10903= Luo palautuspiste
+10914= Uusi palautuspiste on luotu onnistuneesti!
+10904= Palautuspisteen luonti epäonnistui! Järjestelmän palautus on ehkä estetty, tai sinulla ei ole riittäviä oikeuksia.
+10905= Salliaksesi järjestelmän palautuksen navigoi kohteeseen: Käynnistä-valikko -> Ohjauspaneeli -> Järjestelmä -> Järjestelmän suojaus. Tarkista valitsemalla levy ja määritä, että järjestelmän suojaus on käytössä. Valitse kaikkiin ruutuihin 'OK' poistuttaessa.
+10906= Valitse palautuspiste ensin!
+10907= Tallenna muutoksesi ja sulje kaikki avoimet ohjelmat. Windows käynnistyy automaattisesti palautustapahtuman aikana.
+10908= Valitse varmuuskopio ensin!
+10911= Varmuuskopiot
+10912= Oletko varma että haluat palauttaa kohteen %s?
+10913= Palautus onnistui!
+10915= Valitse palautuspiste jonka haluat palauttaa ja valitse 'Palauta'. 
+
+10909= Vihje
+10910= Glary Utilities on vielä käynnissä.
+
+10916= UKK
+10917= Ulkoasut
+10918= Siirrettävä (USB) Versio
+10919= Hätätuki
+
+[License Dialog]
+20001= Tämä on aikarajoitettu kokeiluversio.
+20002= Voit testata ohjelmaa täysin toiminnoin %s päivää ilman rajoitteita.
+20003= Jos pidät ohjelmasta ja haluat käyttää sitä testiajan jälkeen, valitse 'Tilaa nyt'.
+20004= Testijaksoa jäljellä: %s päivää %s2 päivästä
+20005= Tämä kokeiluversio on vanhentunut. Voit testata ohjelmaa täysin toiminnoin %s päivää.
+20006= Jos pidät ohjelmasta ja haluat jatkaa käyttöä, valitse 'Tilaa nyt'.
+20007= Testijakso on päättynyt
+20008= Ei rekisteröity
+20009= Tekijänoikeudet(c)
+20010= Tämä tuote on suojattu lisenssillä:
+20011= Varoitus: Tämä tietokoneohjelma on suojattu tekijänoikeuslailla ja kansainvälisillä sopimuksilla. Tämän ohjelman luvaton kopiointi tai jakelu aiheuttaa ankaria sivili- ja rikosoikeudellisia rangaistuksia ja lain sallimat enimmäissyytemahdollisuudet.
+20012= Verkkosivu
+20013= Tilaa nyt
+20014= Anna koodi
+20015= Jatka testausta
+20016= Nimesi
+20017= Rekisteröintikoodi
+20018= Jos sinulla ei ole rekisteröintikoodia avataksesi tämän kokeiluversion, voit 
+20019= tilata suoraan.
+20020= Rekisteröintikoodi jonka annoit on epäkelpo. Tarkista koodi ja varmista että se on syötetty oikein.
+20021= Kiitos seuraaville henkilöille heidän osallistumisestaan
+20022= Päivitä nyt!
+20023= Syötä lisenssitietosi
+20024= Lisenssin tyyppi
+20025= Hanki lisenssisi, 
+20026= Kotisivu:
+
+20027= Päivitä nyt
+20037= Anna nimesi!
+20038= Lisenssikoodi:
+20039= Aktivoi nyt
+20040= Eikö sinulla ole lisenssiä?
+20041= Hanki se tästä!
+20042= Olen kadottanut lisenssikoodini.
+20043= Anna Lisenssitietosi
+20044= Lisenssin nimi:
+20045= Vanhenemispäivä:
+20046= %s päivä(ä) jäljellä
+20047= Vanhentunut %s päivä(ä) sitten
+20048= Uudista
+20049= Tallenna lisenssi
+20050= Glary Utilities lisenssin muokkaus
+20051= Esim. AC6E-D9C6-FAB8-A8C8
+20052= Lisenssin muokkaus
+20053= Lisenssitiedot on onnistuneesti tallennettu kohteeseen:
+
+[Updater]
+30001= Tietoja ei saada kohteesta %s
+30002= Tietokoneesi käyttää viimeisintä versiota %s. Päivityksiä ei ole saatavilla tällä kertaa.
+30003= Sinä käytät %s : %s2.
+30004= Uusi versio ohjelmasta %s on saatavilla ja ladattavissa osoitteesta %s2. Valitse 'OK' avataksesi lataussivun ja latauksen yksityiskohdat. Tai valitse 'Keskeytä' ladataksesi päivityksen myöhemmin.
+30005= Päivitetty onnistuneesti
+30006= Noudetaan päivitettyä versiota (%s)...
+30007= Noudetaan päivitystiedostoa (%s)...
+30008= Tarkistetaan päivityksiä...
+30009= Valmis
+30010= Suoritetaan verkkopäivitystä...
+30011= Aikaa jäljellä noin:
+30012= Siirtonopeus:
+30013= Tuntematon
+30014= %s sekuntia
+30015= %s :a %s2 :sta kopioitu
+30016= %s/sekuntia
+30017= Sinun tulee päivittää Pro-versioon käyttääksesi toimintoa %s. Päivitetäänkö nyt?
+30018= %s on saatavilla nyt. Valitse klikkaamalla tätä viestiä asentaaksesi sen.
+30019= %s min %s2 sekuntia
+30020= Noudetaan kielipäivitettyä tiedostoa (%s)...
+30021= Versio %s on saatavilla. Päivitä nyt!
+30022= Glary Utilities -päivitys
+30023= Uusi Glary Utilities-versio on saatavilla!
+30024= Glary Utilities %s on nyt saatavilla - sinulla on %s2. Haluatko ladata uuden version nyt?
+30025= Versiokohtaiset huomautukset:
+30026= Ohita tämä versio
+30027= Muistuta minua myöhemmin
+30028= Lataa
+30029= Lataa päivitykset automaattisesti
+
+[Context Menu]
+40001= Tutki levytila (GU)
+40002= Liitä tiedostoja (GU)
+40003= Pilko tiedostoja (GU)
+40004= Pura salaus (GU)
+40005= Salaa tiedosto (GU)
+40006= Pyyhi / Hävitä (GU)
+40007= Etsi tyhjiä kansioita (GU)
+
+40008= Levyn eheytys (GU)
+40009= Eheytä levy (GU)
+40010= Eheytä kansio (GU)
+40011= Eheytä tiedosto (GU)
+
+[Registry Cleaner]
+11001= Rekisterin puhdistus
+11901= Puhdistaa rekisterin parantaen järjestelmäsi suorituskykyä.
+11002= Valitse kohteet
+
+11003= Toiminta
+11004= Etsi rekisteristä ongelmia
+11005= Korjaa rekisteri
+11006= Palauta varmuuskopio
+11007= Työkalut
+
+11008= Valitsemasi ongelma on korjattu onnistuneesti!
+11009= Oletko varma että haluat lisätä merkinnän ohituslistalle? Tätä kohdetta ei löydetä uudelleen.
+11010= Tiedosto on tallennettu:
+11011= Yhteenveto löydetyistä ongelmista: 
+11012= 1 ongelma löydetty
+11013= %s ongelmaa löydetty
+11014= 1 ongelma valittu korjattavaksi
+11015= %s ongelmaa valittu korjattavaksi
+11016= Ongelmia ei löytynyt
+11017= Ongelmia ei valittu korjattavaksi
+11018= (%s ongelmaa löydetty)
+11019= Tutkitaan
+11020= Kohta:
+11021= Korjaus:
+11022= Avaa Regedit
+11023= Avaa tämä merkintä Regedit-ohjelmassa
+11024= Poista tämä merkintä
+11025= Jätä tämä merkintä muuttamatta
+11026= Hylkää tämä merkintä (Koskaan ei löydy uudestaan)
+11027= Ominaisuudet
+11028= Avaa tämän pikakuvakkeen ominaisuudet
+11029= Poista tämä pikakuvake
+11030= Jätä tämä pikakuvake muuttamatta
+
+11031= Tutkinta päättynyt
+11032= Korjaa
+11033= Valitse 'Korjaa' korjataksesi ne automaattisesti tai 'Sulje' näyttäksesi yksityiskohdat.
+11034= Korjaaminen on päättynyt
+11035= Tutkitaan
+11036= Korjataan
+
+11037= Palauta
+11038= Valitse minkä varmuuskopion haluat palauttaa ja valitse 'Palauta'.
+11039= Varmuuskopio
+11040= Oletko varma että haluat palauttaa tiedoston %s järjestelmän rekisteriksi?
+11041= %s on palautettu onnistuneesti rekisteriksi!
+
+11042= Merkintä %s kuuluu puuttuvaan tiedostoon tai kansioon %s2
+11043= Merkintä %s kuuluu puuttuvaan rekisteriavaimeen
+11044= Tässä rekisteriavaimessa ei tietoja. Sen voi poistaa.
+11045= Rekisteriavain kuuluu puuttuvaan avaimeen CLSID %s
+11046= Rekisteriavain kuuluu puuttuvaan kuvatiedostoon %s
+11047= Pikavalikon kohta %s kuuluu puuttuvaan ohjelmaan %s2
+11048= Tämä rekisteri on vajavainen koska aliavainkomento puuttuu.
+11049= Tämä reksiteriavain on vajavainen, koska se ei sisällä yhtään Windowsin tarvitsemaa tietoa.
+11050= Rekisteriavain kuuluu puuttuvaan InprocServer %s. Liitetty CLSID tiedosto voidaan poistaa.
+11051= Rekisteriavain kuuluu puuttuvaan LocalServer32 %s. Liitetty CLSID tiedosto voidaan poistaa.
+11052= Rekisteriavain kuuluu puuttuvaan tyyppikirjastoon %s
+11053= Rekisteriavain kuuluu puuttuvaan kansioon %s
+11054= Rekisteriavain %s ei sisällä tietoja. Siihen liitetty tyyppikirjasto voidaan poistaa.
+11055= Rekisteriavain kuuluu puuttuvaan tiedostoon %s
+11056= Viitattua tiedostoa %s ei löydy.
+11057= %s joka liittyy kohteeseen %s2 puuttuu.
+11058= %s kuuluu puuttuvaan aputiedostoon %s2
+11059= Puuttuva jaettu tiedosto %s
+11060= Jaettu tiedosto %s ei ole enään käytössä.
+11061= Kuvaketiedostopolku %s puuttuu. Siihen liitetyt palvelut voi poistaa.
+11062= %s kuuluu puuttuvaan tiedostoon %s2
+11063= Pikakuvake kuuluu puuttuvaan kohteeseen %s
+11064= Rekisteriavain sisältää viittauksen käynnistävalikon kansioon %s , joka on poistettu.
+11065= %s kuuluu puuttuvaan ohjelmaan %s2
+11066= Tämä sovelluksenpoisto ei sisällä mitään tietoja joita Windows tarvitsee poistaakseen ohjelmia tai osia.
+11067= Tarvittavaa poisto-ohjelmaa %s ei löydy
+11068= %s kuuluu puuttuvaan kansioon %s2 
+
+11069= Poista avain :
+11070= Poista arvo :
+11071= Poista tiedosto :
+
+11072= Ohitetut kohteet
+11073= Listalla olevat kohteet ohitetaan kun tutkitaan rekisteriä. Jos haluat %s sisältyvän näihin kohteisiin, poista merkintä sen kohdalta.
+11074= Rekisteriavain
+
+11075= Valitse kansio varmuuskopioille
+11076= Rajoita varmuuskopiomäärä:
+11077= %s on jo olemassa. Haluatko korvata sen?
+11078= Korvaa
+11079= Yhteenveto löydetyistä ongelmista: (%s ongelmaa löydetty, %s2 ongelmaa valittu korjattavaksi)
+11080= Yhteenveto löydetyistä ongelmista: (1 ongelma löytyi, 1 ongelma valittu korjattavaksi)
+11081= (1 ongelma löytyi)
+11082= Yhteenveto löydetyistä ongelmista: (Ongelmia ei löytynyt, ongelmia ei valittuna korjattavaksi)
+11083= Etsitään...
+11084= Ongelmia ei löytynyt, ongelmia ei valittuna korjattavaksi
+11085= %s ongelma löytyi, %s2 ongelma valittu korjattavaksi.
+11086= %s ongelmaa löytyi, %s2 ongelmaa valittu korjattavaksi.
+11087= Korjataan...
+11088= Tallenna rekisteritiedosto
+11089= Nykyinen avain:
+11090= Viety avain:
+11091= %s ongelma(a) valittu korjattavaksi
+11092= Vienti onnistui!
+
+[Disk Analysis]
+19001= Levyn tutkinta
+19901= Näyttää tiedostojesi ja kansioidesi levytilan käytön
+19003= Resurssienhallinta
+19004= Komentokehote
+19005= Poista(roskakoriin)
+19006= Näytä työkalurivi
+19007= Näytä tilarivi
+19008= Näytä tiedostotyypit
+19009= Näytä suuret tiedostot
+19010= Tiedostot
+19011= Kansiot
+19012= Määritteet
+19013= Prosenttia
+19014= Tiedostotyyppi
+19015= Kuvaus
+19016= Tiedostonimi
+19017= Kansio
+19018= Muokattu
+19019= Ladatan Tiedostotyypit...
+
+19020= [Files]
+19021= Tietokone
+
+19022= Valitse asemat
+19023= Kaikki paikalliset asemat
+19024= Yksittäiset asemat
+19025= Kansio
+19028= Vapaana
+19029= Valitse kansio:
+
+1801001= Tutki
+1801002= Takaisin
+1801003= Tietokone
+1801004= 
+1801005= Näytä Tarkenteet
+1801006= Kaikki tyypit
+1801007= Videot
+1801008= Pakatut
+1801009= Musiikki
+1801010= Kuvat
+1801011= Tiedostot
+1801012= Muut
+1801013= Tarkennus
+1801014= Tiedostoja
+1801016= Tyyppi
+1801017= Sijainti
+1801018= Muokattu
+1801019= Vapaa tila
+
+1801020= Työkalupalkki
+1801021= Siirtyminen
+1801022= Yksityiskohdat
+1801023= Näytä kaikki tiedostot
+1801024= Kansiot ja tiedostot
+
+1801025= Tutki asema nyt
+1801026= Asemaa ei ole tutkittu vielä. \nKoska asemaa ei ole tutkittu vielä, tietoa levytilan käytöstä, tiedostotyypistä tai suurimmista tiedostoista ei ole saatavilla. Tutkinnan aikana kerätään ja näytetään tiedot valituista asemista, niissä olevista tiedostoista ja kansioista sekä levytilasta. 
+1801027= Valitse vain tämä
+
+1801028= Tiedostokoko:
+1801029= Koko:
+1801030= Käytetty:
+1801031= Muokattu:
+1801032= Luotu:
+1801033= %s kohdetta valittu
+1801034= Koko:
+1801035= Kokonais-sisällöt
+1801036= Tuntematon
+1801037= Käytetty:
+1801038= Tutkittu
+1801039= Ei tutkittu
+
+1801040= Laajenna kansio kun se valitaan
+
+1802001= Valmistunut
+1802002= Epäonnistui
+1802003= Keskeytetty
+1802004= Analysointi tallennussijainneille
+1802005= Odota kunnes levyn tutkinta päättyy
+
+1803001= Virheellinen polkulista:\n
+1803002= Tiedoston polkulista:\n
+1803003= %s kohdetta ei voitu tutkia
+
+1804001= Valitsemaasi asemaa ei ole vielä analysoitu. Haluatko tehdä sen nyt?
+
+1805001= Oletko varma että haluat siirtää %s kohdetta roskakoriin?
+1805002= Poista
+1805003= Poistetaan %s kohdetta
+
+[Startup Manager]
+14001= Käynnistyksen hallinta
+14901= Hallitse automaattisesti käynnistyviä ohjelmia
+14002= Estä tämä kohde
+14003= Salli tämä kohde
+14004= Lisää ohjelma
+14005= Poista tämä kohde
+14006= Muokkaa kohdetta
+14007= Näytä tietorivi
+14008= Päivitä käynnistyslista
+14010= Muut automaattisesti käynnistyvät
+14011= Ajastetut tehtävät
+14012= Paikalliset palvelut
+14013= Ohjelmat jotka käynnistyvät kun Windows käynnistyy tai käyttäjä kirjautuu sisään.
+14014= Ei valittuja kohteita.
+14015= Virheellinen merkintä. Se voidaan poistaa.
+14016= <Ei tietoja>
+14017= Tuote:
+14018= Julkaisija:
+14019= Lisää käynnistyskohde
+14020= Oletko varma että haluat poistaa tämän käynnistyskohteen
+14021= Muokkaa valittuja käynnistyskohteita
+
+14022= Polku
+14024= Sijainti
+14035= Luokitus
+14025= Sallittu
+14026= Estetty
+
+14027= Käynnistysraportti luotu %s %s2 toimesta
+14028= Yhteensä %s kohdetta
+14029= Raportti on tallennettu kohteeseen %s
+
+14030= Etsi Googlella...
+
+14031= Käynnistyskohteiden asetukset
+14032= Syötä nimi.
+14033= Syötä komentorivi.
+14034= Määriteltyä tiedostoa ei löydy. Haluatko todella jatkaa?
+
+14043= Tuntematon
+14036= Luotettava
+14037= Käyttäjän valinta
+14038= Neutraali
+14039= Ei pakollinen
+14040= Vaarallinen! 
+14041= Kommentoi
+14042= Lisää tietoa
+
+14044= Kommenttisi
+14045= Kommenttisi tästä kohteesta
+14046= Sinun mielipiteesi tästä kohteesta
+14047= Tämä muuttaa riskiarviointia
+14048= Lähetä kommenttisi
+
+14049= Viiveaika
+14050= Käynnistä nyt
+14051= Ohjelmat joilla on käynnistysviive.
+14052= Ylös
+14053= Alas
+14054= Viivästääksesi sovellusta valitse se alla olevalta listalta tai vedä ja pudota se alla olevalle listalle.
+14055= Poistaaksesi viiveen sovellukselta valitse se yllä olevalta listalta tai vedä ja pudota se yllä olevalle listalle.
+14056= Kaksoiskohteita havaittu
+14057= Ilmeni että %s on lisännyt itsensä Windowsin käynnistykseen sen jälkeen kun sinä olet asettanut sen viivästetyksi.
+14058= Korjataksesi tämän avaa %s ja tarkista asetus 'Käynnistä Windowsin käynnistyessä' tai jotain vastaavaa ja korjaa se.
+14059= Jos tätä valintaa ei löydy, sinun on oltava yhteydessä ohjelman %s tekijään ja pyydettävä häntä lisäämäämään mahdollisuus estää %s :n automaattinen käynnistyminen Windowsin käynnistyessä.
+14060= Jos ei ole mahdollista pysäyttää ohjelmaa %s Windowsin käynnistyessä on silloin parempi yksinkertaisesti antaa Windowsin hallita sitä ja poistaa %s viivästetyn käynnistyksen listalta.
+14061= Haluatko poistaa %s viivästetyn käynnistyksen listalta?
+14062= Viivästetty
+14063= Viive
+14064= Ei viivettä
+14065= Sekuntia
+
+2501001= Tietorivi
+2501002= Tilarivi
+2501003= Käynnissä
+2501004= Pysäytetty
+2501005= Käytetty muisti
+2501006= Käynnistyskohde on jo olemassa.\nHaluatko silti korvata sen?
+2501007= Asetus epäonnistui kohteeseen '%s'
+
+[Disk Cleaner]
+13001= Levyn puhdistus
+13901= Poistaa roskatiedostot levyltä ja vapauttaa levytilaa
+13002= Levyn siivous
+13003= Lisää vaihtoehtoja
+13004= Valitse asemat jotka haluat siivota
+13005= Valitse 'Seuraava' asemien valinnan jälkeen.
+13006= Odota kunnes %s on lopettanut tutkimisen valituilta asemilta.
+13010= Valitse 'Seuraava' asemien valinnan jälkeen.
+13007= Voit vapauttaa %s levytilaa asemassa %s2
+13008= Saavuttamasi levytila:
+13009= Varmuuskopioi %s ennen siivousta.
+13110= Näytä tiedostot
+13011= Paina 'Seuraava' aloittaaksesi siivouksen.
+13012= Windowsin osat
+13013= Voit vapauttaa levytilaa poistamalla ne valinnaiset Windowsin osat joita et käytä.
+13014= Poista...
+13015= Palauta
+13016= Voit palauttaa poistetut väliaikaistiedostot varmuuskopiosta.
+13017= Palauta...
+
+13018= Siivous suoritettu onnistuneesti!
+13019= Varmuuskopio luotu!
+13020= Valitse 'Lopeta' palataksesi päänäkymään.
+
+13021= Valitse ainakin yksi asemaa tutkittavaksi.
+
+13022= Tutkitaan...
+13023= Suoritettu
+13024= Valmistellaan...
+13025= Roskakori sisältää tiedostoja jotka olet poistanut tietokoneeltasi. Näitä tiedostoja ei ole pysyvästi poistettu ennenkuin tyhjennät Roskakorin.
+13026= Väliaikaiset tiedostot
+13027= Väliaikaiset tiedostot  ovat ohjelmien käytössä väliaikaisena tallennustilana ja normaalisti ohjelma poistaa ne käytön jälkeen.
+13028= Tyhjät tiedostot
+13029= Tyhjät tiedostot eivät sisällä tietoja ja voidaan normaalisti poistaa.
+13064= Internetin väliaikaistiedostot
+13065= Internetin väliaikaistiedostot ovat verkkosivuja tallennettuna kiintolevyllesi nopeaa näyttöä varten.
+
+13030= Tyhjennetään roskakori...
+13031= Poistetaan internetin väliaikaistiedostot...
+13032= Poistetaan väliaikaistiedostot...
+13033= Poistetaan tyhjät tiedostot...
+
+13034= Valitse tiedostot jotka haluat poistaa.
+13035= Ei valittuja tiedostoja.
+13036= Avaa tiedosto
+13058= Yhteensä %s tiedostoa
+13059= Luotu:
+13060= Muokattu:
+13061= Käytetty:
+
+13037= Yleiset
+13038= Pois suljetut
+13039= Sisällytetyt
+
+13040= Tarkastele roskatiedostojen tyyppejä alla ja valitse kohteet jotka sisällytetään etsintään.
+13041= Tiedostotyyppi
+13042= Jos olet epävarma näistä valinnoista, on suositeltavaa että jätät ne oletusasetuksille.
+13043= Kaikkia näitä tiedostoja näissä kansioissa ei koskaan tulkita roskiksi.
+13044= Kansio
+13045= Kaikki nämä tiedostot näissä kansioissa tulkitaan aina roskiksi, katsomatta tyyppiin.
+
+13046= Voit käyttää jokerimerkkejä kuten, *.tmp
+13047= Tiedostonimi päättyy:
+13048= Anna tunnistetyyppi.
+13049= Voit käyttää jokerimerkkejä.
+13050= Älä tyhjennä.
+
+13051= Valitse varmuuskopio jonka haluat palauttaa ja paina 'Palauta' painiketta.
+
+13052= Muokattu palautus
+13053= Valitse palautettavat kohteet ja paina 'Palauta'.
+13054= Palautettu onnistuneesti!
+
+13055= Kohteet
+13056= Tiedostot
+13057= Polku
+13062= Tyyppi
+
+13063= Lisää roskatiedoston tyyppi
+
+1301001= Käynnistä\r\n siivous
+1301002= Etsi
+1301003= Palauta
+1301004= Polku
+1301005= Varmuuskopio valittu
+1301006= Valitse kaikki
+1301007= Poista valinnat
+1301008= Valitse oletus
+1301009= Levy on siivottu viimeksi: 
+1301010= %s/%s2/%s3
+1301011= Nopea ja helppo tapa poistaa tietokoneesi käyttämättömät tiedostot.
+1301012= Levytilaa vapautettu: %s
+1301013= Levyasemat on siivottu!
+1301014= Käyttämättömien tiedostojen poisto säästää levytilaa.
+1301015= Tulokset
+1301016= Tiedostolista
+1301017= Etsi uudelleen
+1301018= Älä huomioi tätä tiedostoa
+
+1302001= Windows
+1302002= Järjestelmän väliaikaiset
+1302003= Käyttäjän väliaikaiset
+1302004= Kuvakevälimuisti
+1302005= Muistivedokset
+1302006= Virheraportit
+1302007= Lokitiedostot
+1302008= Etätyöpöydän välimuisti
+1302009= Roskakori
+1302010= Käynnistä valikon virheelliset pikakuvakkeet
+1302011= Työpöydän virheelliset pikakuvakkeet
+1302012= Internet tietopalvelun lokitiedostot
+1302013= Vanhat esihakutiedot
+1302014= Kirjasinvälimuisti
+1302015= Ladatut ohjelmat
+1302016= Windowsin päivitykset
+1302017= Selaimet
+1302018= Internet Explorer välimuisti
+1302019= Mozilla Firefox välimuisti
+1302020= Google Chrome välimuisti
+1302021= Opera välimuisti
+1302022= Sovellukset
+1302023= Google Earth välimuisti
+1302024= Picasa välimuisti
+1302025= ACDSee välimuisti
+1302026= Levyasemat
+1302027= Valitse ainakin yksi levyasema
+1302028= Haluatko varmuuskopioida tiedostot ennen siivousta?
+1302029= Varmuuskopiointi epäonnistui. Haluatko jatkaa siivousta?
+1302030= Tiedostojen lukumäärä: %s   Tiedostojen koko: %s2
+1302031= %s kohdetta valittu
+1302032= Etsintä suoritettu. %s tiedostoa, yhteensä %s2 löydetty.
+1302033= On suositeltavaa että siivoat asemasi nyt.
+1302034= Tietokone on siivottu!
+1302035= Tietokoneen pitäminen puhtaana on hyvä tapa. Pidä sitä yllä!
+1302036= Etsintä on keskeytetty!
+1302037= Valitsit %s tiedostoa %s2 tiedostosta.
+1302038= Siivous suoritettu. Yhteensä %s roskatiedostoa poistettu!
+1302039= Siivous suoritettu!
+1302040= Kohde %s on käytössä eikä sitä voi poistaa nyt.
+1302041= Roskatiedostoja : %s
+1302042= Muokatut tiedostot ja kansiot
+1302043= Muokattu nimi
+1302044= Omat valinnat
+1302045= Sijainti
+1302046= Esimerkiksi: *.tmp|*.log
+1302047= Esimerkiksi: *.sys|*.txt
+1302048= Sisällytä vain tiedostot
+1302049= Sisällytä tiedostot ja alikansiot
+1302050= Varmuuden vuoksi et voi siivota Windowsin järjestelmätiedostoja.
+1302051= Oletko varma että haluat tyhjentää tämän hakemiston?
+1302052= Varmuuden vuoksi älä valitse Windowsin järjestelmätiedostoja.
+1302053= Valitse muut tiedostot ja kansiot jotka haluat poistaa (vain edistyneille käyttäjille).
+1302054= Valitse tiedostot tai kansiot jotka haluat poistaa.
+1302055= Muokattu tiedosto tai kansio on jo olemassa, haluatko silti lisätä sen?
+1302056= Muokattu tiedosto tai kansio on jo olemassa, haluatko silti muuttaa sitä?
+1302057= Tietokoneellasi ei ole paljon roskatiedostoja. Tietokoneen pitäminen puhtaana on hyvä tapa. Pidä sitä yllä! 
+
+
+1303001= Varmuuskopioi...
+
+1304001= Tietoa ei voi näyttää!
+
+1305001= Aloitettu: 
+1305002= Etsinnän tulokset: 
+1305003= Roskatiedostoja ei löytynyt
+1305004= %s tiedostoa %s2 tiedostosta
+1305005= Lopeta etsintä: 
+1305006= Kokonaistulos: 
+1305007= %s tiedostoa, %s2 poistetaan
+1305008= Aloita siivous
+1305009= Lopeta siivous
+1305010= Siivottu %s tiedostoa %s2 tiedostosta
+1305011= %s tiedostoa ei voi siivota.
+1305012= Kirjoitusaika:
+1305013= Yhteensä %s tiedostoa, %s2.
+
+1305014= %s täytyy sulkea kun siivotaan selaimen välimuisti.\nHaluatko sulkea automaattisesti ohjelman %s?
+1305015= Firefox
+1305016= Google Chrome
+1305017= Opera
+
+[Uninstaller]
+12001= Ohjelmien poisto
+12901= Poistaa tarpeettomat asennetut ohjelmat täydellisesti
+12002= Varmuuskopioi poistotiedot
+12003= Palauta poistotiedot
+12004= Tallenna sovelluslista
+12005= Poista tämä ohjelma
+12006= Poista valitut ohjelmat
+12007= Muokkaa ominaisuuksia
+12008= Palauta poistetut kohteet
+12009= Näytä komentorivi
+12010= Asennetut ohjelmat:
+12011= Lajittele:
+12012= Asennuspäivä
+12013= Korjaa automaattisesti virheelliset kohteet
+12014= Valikoiva poisto
+12015= Etsi ohjelmia
+12016= Tästä saat lisätietoja
+12017= Komentorivi
+12038= Poista kohde
+
+12018= Muuta
+12019= Poista
+12020= Muuta/Poista
+
+12021= Yhteensä %s ohjelmaa
+12022= Kansiota %s ei voi poistaa. Se on toisen henkilön tai ohjelman käytössä. Haluatko poistaa sen seuraavassa käynnistyksessä?
+12023= Uusi!
+
+12024= Muuttaaksesi tai poistaaksesi tämän ohjelman tietokoneeltasi, %s paina 'Muuta/Poista'.
+12025= Muuttaaksesi tai poistaaksesi tämän ohjelman tietokoneeltasi, %s paina 'Muuta' tai 'Poista'.
+12026= Poistaaksesi tämän ohjelman tietokoneeltasi, %s paina 'Poista'.
+
+12027= Asennettu
+12028= Rekisteritiedostot(*.reg)
+12031= Tekstitiedostot(*.txt)
+12029= Poistotiedot kohteesta %s tallennettu onnistuneesti!
+12030= Oletko varma että haluat poistaa kohteen %s tietokoneeltasi?
+12032= Raportti luotu 
+12033= Asennetut ohjelmat (Yhteensä %s Ohjelmaa):
+12034= Tiedosto on tallennettu kohteeseen: 
+12035= Kaikki asennetut ohjelmat ovat kunnossa. Virheellisiä kohteita ei löytynyt!
+12036= Oletko varma että haluat poistaa kohteen %s asennettujen ohjelmien listalta?
+
+12037= Virhe poistettaessa ohjelmaa %s. Se voi olla jo poistettu. Haluatko poistaa ohjelman %s2 asennettujen ohjelmien listalta?
+12039= %s on 'Piilotettu' ohjelma ja mahdollisesti järjestelmän käytössä. Oletko varma että haluat todella poistaa sen?
+12040= Asennushakemistossa "%s" on yhä tiedostoja jäljellä. Ollaksesi varma ettet poista käyttökelpoisia tiedostoja, voit selata tietoja painamalla 'Selaa hakemistoa'. Jos olet varma että ne ovat käyttökelvottomia paina 'Poista kaikki'.
+12041= Selaa hakemistoa
+12042= Poista kaikki
+12043= Varmuuskopioi tämä kohde ennen poistoa.
+
+12044= Etsittävää merkkijonoa ei löydy.
+12045= Etsi
+12046= Etsi seuraava
+12047= Etsi mitä:
+
+12048= Seuraavat virheelliset kohteet löytyivät. Haluatko poistaa nämä rekisterikohteet? (Voit myös poistaa ne käsin myöhemmin)
+12049= Virheelliset kohteet
+12050= Varmuuskopioi nämä kohteet ennen poistamista.
+
+12051= Valitse palautettava ohjelmakohde ja paina 'Palauta'.
+12052= Palauta
+12053= Ohjelmakohde
+12054= Varmuuskopio
+12055= Oletko varma että haluat palauttaa ohjelmakohteen %s järjestelmän rekisteriin?
+
+12056= Käytä alla olevia tietoja tekniseen neuvontaan/apuun 
+12058= Julkaisija:
+12059= Versio:
+12060= Yhteystiedot:
+12061= Tukitiedot: 
+12062= Lue minut:
+12063= Päivitykset:
+12064= Kommentit:
+12065= Tuotteen tunnus:
+12066= Rekisteröity yritys:
+12067= Rekisteröity omistaja:
+12068= Asennussijainti:
+
+12069= Ohjelmat (*.exe;*.com;*.bat)
+12070= Kaikki tiedostot (*.*)
+12071= Komentorivi jonka syötit voi olla virheellinen. Oletko varma että haluat jatkaa?
+
+12072= Suorita asennusohjelma
+12073= Komentorivi poisto-ohjelmalle:
+12074= Virhe poistettaessa ohjelmaa %s. Sinulla ei ole pääsyä tai oikeuksia ohjelmaan %s2 .
+12075= Voit määrittää uuden poisto-ohjelman alta.
+
+12076= Varmuuskopioi tämä kohde
+12077= Tukitiedot
+12078= Näytä Windowsin päivitykset
+
+12080= Kuvake
+12081= Lista
+12082= Tiedot
+
+12083= Kaikki ohjelmat
+12084= Viimeksi asennetut ohjelmat
+12085= Suuret ohjelmat
+12086= Harvoin käytetyt ohjelmat
+12087= Windowsin päivitykset
+
+12088= Käytetty:
+12089= Poistotiedot on tallennettu kohteeseen:
+12090= Disable Last Access Updating
+
+[Duplicate Files Finder]
+15001= Kopiotiedostojen haku
+15901= Etsi tilaa vievät ja virheitä tuottavat kopiotiedostot
+15002= Kopiotiedostojen haku
+15003= Avaa tiedosto
+15004= Avaa ohjelmalla...
+15005= Avaa kansio
+15006= Tiedoston ominaisuudet
+15007= Luo raportti
+15008= Poista valitut tiedostot
+15012= Valitse yksi joka ryhmästä
+15013= Poista tämä kansio seuraavista etsinnöistä
+15015= Polku
+15016= %s kohdetta %s2 kohteesta poistetaan.
+15017= Kopiotiedostojen ryhmä
+15018= Oletko varma että haluat poistaa kaikki kohteet kansiosta %s tulevista etsinnöistä?
+15019= Ei kohteita valittuna poistettavaksi.
+
+15020= Etsintävelho
+15021= Valitse asemat tai kansiot joista haluat etsiä.
+15022= Asemat
+15023= Kansiot
+15024= Lisää kansio
+15025= Kopiotiedostojen etsintävalinnat
+15026= Sama nimi
+15027= Sama koko
+15028= Sama aika
+15029= Ohita tiedostot jotka alle 
+15030= Etsi vain alla olevia tavallisimpia tiedostoja
+15031= Etsi kaikki tiedostot
+15032= Tiedostotyyppi
+15033= Ohita nämä kansiot:
+15034= Kansio
+15035= Etsitään kopiotiedostoja...
+
+15036= Asemaa ei ole valittuna. Valitse ainakin yksi asema jatkaaksesi.
+15037= Kansiota ei ole valittuna. Valitse ainakin yksi kansio jatkaaksesi.
+15038= Tiedostotyyppiä ei ole valittuna. Valitse ainakin yksi tiedostotyyppi jatkaaksesi.
+15039= Järjestetään tiedostot. Tämä voi kestää hieman aikaa riippuen tiedostojen määrästä. Odota...
+15040= Yhteensä %s tiedostoa etsitty ja %s2 kopiotiedostoa löydetty.
+
+15041= Lisää uusi tiedostonimi etsintään
+15042= Voit käyttää jokerimerkkejä kuten *.avi
+15043= Tiedostonimi päättyy:
+15044= Anna tiedostotunniste.
+
+15045= Anna kansio
+15046= Valitse kansio
+15047= Voit käyttää jokerimerkkejä kuten *,?
+15048= Älä tyhjennä.
+
+1501001= Aseta määritteet
+1501002= Älykäs Valinta
+1501003= %d kohdetta kohteista %d on merkitty poistettavaksi
+1501004= %s on jo olemassa.\nHaluatko korvata sen?
+1501005= Vahvista tallennus
+1501006= Poista tiedosto
+
+1502002= Ohitetut
+
+1503001= Kopiotiedostojen määritteet
+
+1504001= Etsi
+1504002= Koko
+1504003= Käyttökoko
+1504004= Vapaa koko
+1504005= Tiedostopolku
+
+1505001= Tallennussijainti
+1505002= Tila
+1505003= Odottaa
+1505004= Ladataan
+1505005= Yhteensä %d tiedostoa etsittiin ja löytyi %d kopiotiedostoa.
+1505006= Järjestetään tiedostoja, odota rauhassa...
+
+1506001= Yleiset
+1506002= Ohitettu
+
+[Empty Folders Finder]
+16001= Tyhjien kansioiden haku
+16901= Löytää ja poistaa tyhjät kansiot
+16002= Etsi tyhjät kansiot
+16003= Ohitetut kansiot
+16004= Poista valitut kansiot
+16005= Ohitetut kansiot (Ei etsitä koskaan uudelleen)
+16006= Ohita
+16007= Kansio
+16008= Oletko varma että haluat lisätä valitut kohteet ohituslistalle? Näitä kohteita ei etsitä uudelleen.
+
+16009= Ohituslistan hallinta
+16010= Listalla olevat kohteet ohitetaan kun etsitään tyhjiä kansioita. Jos haluat lisätä nämä etsintään niin poista valinta merkki.
+
+16011= Etsi nyt
+16012= Valitse asema(t) josta haluat etsiä
+
+1601001= Valmistellaan tyhjien kansioiden näkymää...
+
+1602001= Valmistellaan kansiolistaa...
+1602002= Etsintä päättynyt.
+1602003= Etsitään kohteesta %s
+1602004= Ladataan levyjä...
+1602005= Järjestellään tiedostoja...
+1602006= Tallennetaan tietoa...
+1602007= Valmistellaan...
+1602008= Etsitään tyhjiä kansioita...
+1602009= Lajitellaan tyhjiä kansioita...
+
+[Shortcuts Fixer]
+17001= Pikakuvakkeiden korjaus
+17901= Korjaa virheet käynnistä valikon ja työpöydän pikakuvakkeissa
+17002= Etsi
+17003= Korjaa pikakuvake
+17004= Poista
+17005= Kohde
+17006= Sijainti
+17007= Etsi kadonneen pikakuvakkeen kohde
+17008= Etsi nyt
+17009= Etsintävalinnat
+17010= Etsi vain käynnistä-valikosta ja työpöydältä
+17011= Etsi tyhjät käynnistä valikon kansiot
+17012= Valitse asema(t) joista haluat etsiä 
+17013= Mitään ei löytynyt.
+
+1701001= Pikahaku
+1701002= Edistynyt haku
+1701003= Pysäytä haku
+1701004= Korjaa valitut
+1701007= Virhe
+1701008= Korjattu
+1702001= Sijanti:
+1702002= Kohde:
+1702003= Perusteet:
+1702004= Kuvaus:
+1702005= Paina 'Käytä' tallentaaksesi muutokset.
+1702006= Valitut kansiosi.
+1703001= Poista
+1703002= Paina '%s' poistaaksesi valitut pikakuvakkeet listalta;{\r\n}Paina "%s2' siirtääksesi valitut pikakuvakkeet roskakoriin;{\r\n}Paina '%s3' poistaaksesi ne pysyvästi.
+1703003= Varmuuskopioi valitut pikakuvakkeet ennen poistamista
+
+[Tracks Eraser]
+18001= Jälkien poisto
+18901= Poistaa kaikki jäljet, merkit, evästeet, internetin historian ym.
+18002= Poista valitut jäljet
+18003= Näytä kaikki saatavilla olevat poistettavat jäljet
+18004= Poista nämä jäljet
+18005= Ei valittuja jälkiä. Poistaaksesi jäljet valitse jokainen jälki jonka haluat poistaa käyttäen valintaa jäljen vasemmalla puolella.
+18006= Oletko varma että haluat poistaa %s jälkien asetusta?
+18007= Jäljet on poistettu onnistuneesti!
+18008= Oletko varma että haluat siivota %s jälkeä?
+
+18009= IE evästeiden hallinta
+18010= IE kirjoitetut internetosoitteet
+18011= Valitse evästeet jotka haluat säilyttää
+18012= Verkkosivu
+18013= Osumien lukumäärä
+18014= Viimeksi muokattu
+18015= Vanhentuu
+18016= Koko osoite
+18017= Poista valitsemattomat evästeet nyt
+18018= Valitse internetosoitteet jotka haluat säilyttää kun poistat osoitehistorian
+18019= Internetosoitteet
+18020= Poista valitsemattomat internetosoitteet
+
+18021= Poistetaan
+
+18022= Windows
+18023= Poistaa historian, useimmin käytetyjen listat (MRU-listat) ja muut merkinnät Windowsista
+18024= Viimeisimmät tiedostot
+18025= Poistaa viimeksi avatut dokumentit ja tiedostot. Tämä lista on tavallisesti sijoitettu Käynnistä-valikkoon -> Viimeksi avatut tiedostot.
+18026= Käynnistä-valikon suorita-komento
+18027= Poistaa viimeksi käytettyjen komentojen historian joita olet syöttänyt Windowsin Käynnistä -> Suorita-valintaan.
+18028= Yleinen dialogi
+18029= Yleinen dialogi on Windowsin peruskomponentti jota hyödyntää moni ohjelma tarjoten tiedosto-, kansio-, väri- ja tulostusvalintoja. Tämä siivous poistaa muokkausvalintojasi ja tietoja eri ohjelmissa avaamistasi tiedostoista. Poistaa myös tietokoneelta resurssienhallinnan hakuhistorian.
+18030= Käynnistä-valikon haku
+18031= Poistaa kaiken hakuhistorian mitä olet etsinyt käynnistä-valikossa.
+18032= Leikepöytä
+18033= Työskennellessä tiedostoilla normaalisti ne sisältävät 'kopioi'- ja 'liitä'-toimintoja. Leikepöytä muistaa viimeisen kopiointitapahtuman ja saattaa sisältää tiedon tekemisistäsi, kuten salasanan, luottokorttitiedon tai henkilökohtaisia tietoja. 
+18034= Väliaikaistiedostot
+18035= Tyhjentää Windowsin väliaikaistiedostot.
+18036= Roskakori
+18037= Tyhjentää roskakorin.
+18038= Liitetyt verkkoasemat
+18039= Kun valitset verkkoasemia saadaksesi niihin yhteyden, Windows muistaa tapahtumat rekisterissä. Hävittääksesi tämän tiedon käytä tätä asetusta.
+18040= Käynnistä valikon valintahistoria
+18041= Windows tallentaa tiedot useimmin käytetyistä kohteista käynnistä-valikossa. Valitse tämä vaihtoehto siivotaksesi valintahistorian pois.
+18042= Verkkosijainnit
+18043= Kun liityt etäpalvelimille, kuka tahansa voi nähdä verkkosijainnit joita käytät vain katsomalla MRU-listaa joka on sijoitettuna verkkosijainnit-kansioon. Siivotaksesi tämän tiedon käytä tätä asetusta.
+
+18044= Internet Explorer
+18045= Poistaa historian, useimmin käytetyt verkko-osoitteet, väliaikaistiedostot ja kansiot sekä muut merkinnät Internet Explorer -selaimesta.
+18046= Internet Explorer -osoitehistoria
+18047= Poistaa historian osoiteriville kirjoittamistasi osotteista. Kun historia on tallennettuna, Internet Explorer yrittää arvata osoitteen aikaisemman vierailusi perusteella.
+18048= Internet Explorer -historia
+18049= Poistaa vierailtujen verkkosivujen historian kun käytät Internet Exploreria tietokoneellasi.
+18050= Internet Explorer -evästeet
+18051= Verkkosivut varastoivat tietoa pienellä tekstitiedostolla jota kutsutaan 'evästeeksi'. Evästeet sisältävät tietoja sinusta ja lisäasetuksistasi tai voivat vain sisältää tiedon millä sivuilla olet vieraillut, auttaakseen muokkaamaan näkymää kun seuraavan kerran vierailet kyseisellä sivulla. Joka tapauksessa jotkin evästeet ovat käyttökelpoisia ja saatat haluta säilyttää ne. Paina 'Valinnat' valitaksesi evästeet jotka haluat pitää. Kaikki markitsemättömät evästeet poistetaan.
+18052= Lomaketiedot ja salasanat
+18053= Poistaa kaiken historian lomaketiedoista ja salasanoista. Haluttaessa Internet Explorer tallentaa tiedot lomakkeista, käyttäjänimistä ja salasanoista. Ne helpottavat verkkosivua muokkaamaan näkymää sinua varten kun palaat sivulle. Tämä jälkien poistaja siivoaa nämä tiedot ja suojaa sinua muilta käyttäjiltä tietokonellasi.
+18054= Internetin väliaikaistiedostot
+18055= Poistaa kaikki tallennetut tiedostot joita Internet Explorer luo kun vierailet verkkosivuilla tai lataat sisältöä.
+
+18056= Liitännäiset
+18057= Monet kolmannen osapuolen sovellukset säilyttävät tietoja niiden kautta avatuista tai käytetyistä tiedostoista. Käyttämällä näitä liitännäisiä pääset eroon monen suositun sovelluksen MRU-historiasta.
+
+18058= Mozilla Firefox
+18059= Poistaa historian, useimmin käytetyt verkko-osoitteet, väliaikaistiedostot ja muut merkinnät Firefox selaimesta.
+18060= Mozilla Firefox - historia
+18061= Poistaa osoiteriville kirjoitettujen osoitteiden historian.
+18062= Mozilla Firefox - evästeet
+18063= Poistaa tallennetut evästeet Firefoxin väliaikaiskansiosta.
+18064= Mozilla Firefox - väliaikaistiedostot
+18065= Poistaa väliaikaistiedostot Firefoxista
+18066= Mozilla Firefox - lomaketiedot
+18067= Poistaa tallennetut lomaketiedot.
+18068= Mozilla Firefoxin - tallennetut salasanat
+18069= Poistaa tallennetut salasanat.
+18070= Mozilla Firefox - lataushistoria
+18071= Poistaa tiedot ladatuista tiedostoista.
+18072= Mozilla Firefox - selaushistoria
+18073= Poistaa selaushistorian.
+
+18074= Poistetaan jälkiä kohtesta %s. Tämä voi kestää jonkin aikaa...
+18075= Poistetaan jälkiä kohtesta %s...
+
+18076= Index.dat tiedostot
+18077= Index.dat-tiedostot ovat piilotettuja tiedostoja jotka sisältävät kaikki jäljet sinun online-toiminnastasi. Missä olet ollut internetissä, millä sivuilla olet vieraillut, listan URL-osoitteista sekä tiedostot ja dokumentit joita olet käyttänyt.
+18078= Etsitää jälkiä kohteesta %s. Tämä voi kestää jonkin aikaa...
+18079= Etsitää jälkiä kohteesta %s...
+18080= Luodaan raporttia...
+18081= Raportti
+18082= %s kohdetta poistettu Windowsin rekisteristä.
+18083= %s (%s2 tiedostoa) poistettu.
+18084= Tuhottujen tiedostojen tiedot:
+18085= Tutki
+
+18086= Jäljet
+18087= Tulokset
+
+18088= Google Chrome
+18089= Poistaa historian, useimmiten käytetyt verkko-osoitteet, väliaikaistiedostot ja muut merkinnät Google Chrome selaimesta.
+18090= Google Chrome - historia
+18091= Poistaa osoiteriville kirjoitetut verkko-osoitteet.
+18092= Google Chrome - evästeet
+18093= Poistaa tallennetut evästeet Google Chromen väliaikaiskansiosta.
+18094= Google Chrome - väliaikaistiedostot
+18095= Poistaa väliaikaistiedostot Google Chromesta
+18096= Google Chrome - lomaketiedot
+18097= Poistaa tallennetut lomaketiedot Google Chromesta. 
+18098= Google Chrome - lataushistoria
+18099= Poistaa viimeksi ladattujen tiedostojen historian.
+
+18100= Sulje ohjelma %s ennen kuin jatkat, koska käytössä olevia tiedostoja ei voi poistaa.
+
+2101001= %s kohdetta valittu.
+2101002= Ei valittuja jälkiä. Tutkiaksesi jäljet, valitse jokainen jälki jonka haluat tutkia käyttäen vasemmalla olevaa valintaruutua jäljen nimessä.
+
+2102001= Windows Live työkalupalkki
+2102002= Poistaa selaushistorian Windows Live työkalupalkista.
+2102003= Google työkalupalkki
+2102004= Poistaa selaushistorian Google Työkalupalkista Internet Explorerissa.
+2102005= Google työpöytähaku
+2102006= Poistaa selaushistorian Googlen työpöydän hakupalkista.
+2102007= Kazaa-hakuhistoria
+2102008= Poistaa Kazaa hakuhistorian.
+2102009= eMule
+2102010= Poistaa eMule hakuhistorian.
+2102011= MSN Messenger
+2102012= Poistaa MSN Messengerin välimuistin.
+2102013= Sound Forge 6.0
+2102014= Poistaa Sound Forge 6.0 välimuistin.
+2102015= Fresh Download
+2102016= Poistaa FreshDownload lataushistorian.
+2102017= Windows Media Player
+2102018= Poistaa viimeksi käytetyt tiedostot, osoitehistorian ja historian Windows Media Playerin elokuvista ja musiikista.
+2102019= Real Player
+2102020= Poistaa Real Playerin historian viimeksi toistetuista musiikki- ja elokuva tiedostoista.
+2102021= Quicktime Player
+2102022= Poistaa Quicktime Playerin toistohistorian.
+2102023= SWiSH
+2102024= Poistaa SWiSH:llä avattujen tiedostojen historian.
+2102025= Windows Movie Maker
+2102026= Poistaa Windows Movie Maker -ohjelman toistohistorian.
+2102027= BSPlayer
+2102028= Poistaa BSPlayerin toistohistorian.
+2102029= Media Player Classic
+2102030= Poistaa Media Player Classic -ohjelman toistohistorian.
+2102031= Axialis IconWorkshop
+2102032= Poistaa välimuistin ja Axialis IconWorkshopilla äsken avattujen tiedostojen historian.
+2102033= Ulead Smart Saver Pro 3.0
+2102034= Poistaa Ulead Smart Saver Pro 3.0:lla äsken avattujen tiedostojen historian.
+2102035= Macromedia Flash Player
+2102036= Poistaa Macromedia Flash Playerilla äsken avattujen tiedostojen historian.
+2102037= Macromedia Flash MX
+2102038= Poistaa Macromedia Flash MX:llä äsken avattujen tiedostojen historian.
+2102039= Macromedia Flash 5.0
+2102040= Poistaa Macromedia Flash 5.0:llä äsken avattujen tiedostojen historian.
+2102041= Macromedia Flash 4.0
+2102042= Poistaa Macromedia Flash 4.0:llä äsken avattujen tiedostojen historian.
+2102043= Adobe Flash Player
+2102044= Poistaa Flash Playerin käyttöhistorian
+2102045= AVI Preview
+2102046= Poistaa AVI Previewillä äsken avattujen tiedostojen historian.
+2102047= Paint Shop Pro 7.0
+2102048= Poistaa Paint Shop Pro 7.0:lla luotujen/avattujen tai muokattujen tiedostojen historian.
+2102049= Paint Shop Pro 8.0
+2102050= Poistaa Paint Shop Pro 8.0:lla luotujen/avattujen tai muokattujen tiedostojen historian.
+2102051= Paint Shop Pro 9.0
+2102052= Poistaa Paint Shop Pro 9.0:llä luotujen/avattujen tai muokattujen tiedostojen historian.
+2102053= Office XP
+2102054= Poistaa Microsoft Office XP:llä äsken avattujen tiedostojen historian.
+2102055= Office 2000
+2102056= Poistaa Microsoft Office 2000:lla äsken avattujen tiedostojen historian.
+2102057= Office 2003
+2102058= Poistaa Microsoft Office 2003:lla äsken avattujen tiedostojen historian.
+2102059= Office 2007
+2102060= Poistaa Microsoft Office 2007:llä äsken avattujen tiedostojen historian.
+2102061= MS Management Console
+2102062= Poistaa MS Management Consolella äsken avattujen tiedostojen historian.
+2102063= MS Wordpad
+2102064= Poistaa WordPadillä luotujen/avattujen tai muokattujen tiedostojen historian.
+2102065= MS Paint
+2102066= Poistaa Microsoft Paintilla avattujen tiedostojen historian..
+2102067= Microsoft Visual Basic 6.0
+2102068= Poistaa Visual Basic 6.0 kehittäjien äskeisten tiedostojen historian.
+2102069= Etähallintatyöpöytä
+2102070= Poistaa Etähallintatyöpöydän tallentaman välimuistitiedon.
+2102071= PowerArchiver
+2102072= Poistaa PowerArchiver:lla pakattujen/purettujen tiedostojen historian.
+2102073= WinISO
+2102074= Poistaa WinISO:lla avattujen tiedostojen historian.
+2102075= WinRAR
+2102076= Poistaa WinRAR:lla pakattujen/purettujen tiedostojen historian.
+2102077= 7-Zip
+2102078= Poistaa 7-Zip:llä pakattujen/purettujen tiedostojen historian.
+2102079= WinZip
+2102080= Poistaa WinZip:llä pakattujen/purettujen tiedostojen historian.
+2102081= SpyBot Search and Destroy
+2102082= Poistaa SpyBot Search and Destroy:n tallentaman välimuistitiedon.
+2102083= WinAce 2.0
+2102084= Poistaa WinAce:n historian.
+2102085= Norton AntiVirus
+2102086= Poistaa Norton AntiViruksen tallentamat lokitiedostot.
+2102087= Adobe Acrobat Reader 5.0
+2102088= Poistaa Adobe Acrobat 5.0:llä näytettyjen PDF-tiedostojen historian.
+2102089= Adobe Acrobat Reader 6.0
+2102090= Poistaa Adobe Acrobat 6.0:lla näytettyjen PDF-tiedostojen historian.
+2102091= XML Spy
+2102092= Poistaa XML Spy:llä näytettyjen XML tiedostojen historian.
+2102093= Installshield Developer 7.0
+2102094= Poistaa Installshield Developer 7.0:lla avattujen tiedostojen hisorian.
+2102095= Macromedia Homesite 5.0
+2102096= Poistaa Macromedia Homesite 5.0:lla avattujen tiedostojen hisorian.
+2102097= Ahead Nero Burning ROM
+2102098= Poistaa Ahead Nero Burning ROM:lla avattujen tiedostojen/Kansioiden historian.
+2102099= ZipMagic
+2102100= Poistaa ZipMagic:lla pakattujen/purettujen tiedostojen historian.
+2102101= PicoZip
+2102102= Poistaa PicoZip:llä pakattujen/purettujen tiedostojen historian.
+2102103= Adobe Acrobat Reader 7.0
+2102104= Poistaa Adobe Acrobat 7.0.:lla avattujen PDF-tiedostojen historian
+2102105= Adobe Reader 8.0
+2102106= Poistaa Adobe Acrobat 8.0.:lla avattujen PDF-tiedostojen historian
+2102107= Adobe Reader 9.0
+2102108= Poistaa Adobe Acrobat 9.0.:lla avattujen PDF-tiedostojen historian
+2102109= Adobe Reader 10.0
+2102110= Poistaa Adobe Acrobat 10.0.:lla avattujen PDF-tiedostojen historian
+2102111= Adobe Reader 11.0
+2102112= Poistaa Adobe Acrobat 11.0.:lla avattujen PDF-tiedostojen historian
+
+[Memory Optimizer]
+21001= Muistin optimointi
+21901= Näyttää ja optimoi vapaata muistia taustalla
+21002= Optimointi
+21003= Manuaalinen optimointi
+21004= Fyysistä muistia käytössä grafiikkana:
+21018= %s%(%s2 MB) / %s3 MB vapaana
+21005= Prosessorin käyttö
+21006= Valitse paljonko muistia haluat vapauttaa ja paina 'Optimoi'.
+21007= Muistin määrä:
+21008= Optimoi
+21009= Tyhjennä leikepöytä
+21010= Leikepöydän nykyinen koko:
+21011= Salli autom. optimointi
+21012= Optimoi automaattisesti kun vapaata muistia on:
+21013= Kasvata vapaa muisti kokoon:
+21014= Optimoi vain kun prosessorin käyttö on alle:
+21015= Käynnistä automaattisesti kun Windows käynnistyy
+21016= Suositeltu
+21017= Optimoidaan...
+21019= Näytä päänäkymä
+
+[File Shredder]
+22001= Tiedoston tuhoaja
+22901= Tuhoaa tiedostot pysyvästi siten että palautus on mahdotonta.
+22002= Sovellus tuhoaa arkaluontoiset tietosi siten ettei niitä voida palauttaa ja näyttää toisille. Tämä työkalu käyttää viimeisintä turvametodia American Dod 5220.22-M, joka on kehitetty USA:n Puolustusministeriölle tiedot varmasti poistavana ohjelmana.
+22003= Tyyppi
+22012= Muokattu 
+22004= Lisää tiedosto
+22005= Lisää kansio
+22006= Tuhoa nyt
+22007= Toista tuhoaminen:
+22008= Tiedosto Kansio
+22009= Olet poistamassa kaiken listalla valitun tiedon. Et voi palauttaa näitä enää millään palautusohjelmalla. Oletko varma että haluat jatkaa?
+22010= Tuhotaan
+22011= Tuhottu
+22019= Pyyhi vapaa levytila
+22013= Kun tiedostot on tuhottu ja tyhjennetty roskakorista niitä ei ole todellisuudessa poistettu kiintolevyltä. Nämä tiedostot voidaan helposti palauttaa palautusohjelmilla. Ollaksesi varma että tiedostosi poistetaan todella tulee sinun pyyhkiä vapaa levytila kiintolevyltäsi säännöllisesti. Tämä valinta tuhoaa poistamasi tiedostot siten ettei niitä enää voida palauttaa.
+22014= Valitse asema josta haluat pyyhkiä vapaan levytilan :
+22015= Pyyhi
+22016= Pyyhitään vapaata tilaa asemassa %s
+22017= Toiminta keskeytetty käyttäjän toimesta!
+22018= Toiminto suoritettu onnistuneesti!
+22020= Valitse kohdekansio:
+22021= Valitse levyasema.
+
+[Internet Explorer Assistant]
+23001= Internet Explorer avustaja
+23901= Hallitse Internet Explorer selaimen liitännäisiä ja palauttaa kaapattuja asetuksia
+23002= IE apuosat
+23003= IE työkalupalkit
+23004= IE hakupalkit
+23005= IE pikavalikot
+23006= IE lisäpainikkeet
+23007= IE ladatut activeX-lisäosat
+23008= IE kaappauspalautus
+23009= [Estetty]
+23010= Julkaisija
+23011= Tiedostopolku
+23012= Komento
+23013= Estä tämä kohde
+23014= Salli tämä kohde
+23015= Poista tämä kohde pysyvästi
+23016= Oletko varma että haluat palauttaa kohteen %s ?
+23017= Oletko varma että haluat estää kohteen %s IE selaimessa?
+23018= Oletko varma että haluat poistaa pysyvästi kohteen %s IE selaimesta?
+23019= VAROITUS, tiedosto on kadonnut
+23020= Selaimen apuosat
+23021= Internet Explorer työkalupalkit
+23022= Internet Explorer hakupalkit
+23023= Internet Explorer lisävalikot
+23024= Internet Explorer lisäpainikkeet
+23025= Ladatut activeX-ohjelmat
+23026= Vahingoittunut
+23027= Asennettu
+
+23028= Asetus
+23029= Nykyinen asetus
+23030= Palauta asetus kohteeseen
+23031= Muuta palautusasetus uuteen osoitteeseen...
+23032= Palauta
+23033= IE oletus
+23034= Oletko varma että haluat palauttaa valitsemasi asetukset?
+23035= %s internet explorer selaimen asetukset on muutettu onnistuneesti.
+23036= Muuta Internet Explorerin palautusasetus
+23037= Muuta Internet Explorerin palautusasetus kohteelle %s. Internetosoite alla on oletusosoite. Voit muuttaa sen haluamaksesi.
+23038= Aloitussivu
+23039= Tämä on internetsivu joka näytetään kun avaat selaimen.
+23040= Hakukone
+23041= Tämä on oletushakukone.
+23042= Oletussivun osoite
+23043= Tämä on oletussivun internetosoite.
+23044= Paikallinen sivu
+23045= Tämä on sivu joka ladataan jos verkkosivua ei löydy.
+23046= Hakupalkki
+23047= Tämä on sivu joka näytetään kun painat hakupainiketta.
+23048= Oletushakuosoite
+23049= Tämä sivu näytetään kun selain valmistelee hakua.
+23050= Aloitussivu (kaikki käyttäjät)
+23051= Tämä on sivu joka näytetään kun selain avataan.
+23052= Hakukone (kaikki käyttäjät)
+23053= Tämä on oletushakukone.
+23054= Oletussivun osoite (kaikki käyttäjät)
+23055= Tämä on oletussivun internetosoite. Tämä on kaikille käyttäjille tässä tietokoneessa.
+23056= Paikallinen sivu (kaikki käyttäjät)
+23057= Tämä on sivu joka ladataan jos verkkosivua ei löydy.
+23058= Hakupalkki (kaikki käyttäjät)
+23059= Tämä on sivu joka näytetään kun painat hakupainiketta.
+23060= Oletushakuosoite (kaikki käyttäjät)
+23061= Tämä sivu näytetään kun selain valmistelee hakua.
+23062= Muokattu haku (kaikki käyttäjät)
+23063= Tämä sivu näkyy kun suoritat muokatun haun.
+23064= Hakuavustaja (kaikki käyttäjät)
+23065= Hakuavustajan oletusosoite.
+23066= Hakuosoite
+23067= Etsii suoraan esim. uutisryhmiä.
+23068= Hakuosoite (kaikki käyttäjät)
+23069= Etsii suoraan esim. uutisryhmiä.
+23070= Tyhjä sivu
+23071= Sivun saa valinnaisesti vaikka aloitussivuksi.
+23072= Työpöytähaku epäonnistui
+23073= Tämä sivu näkyy jos internetyhteys puuttuu.
+23074= Haku keskeytetty
+23075= Tämä on internetsivu joka näytetään kun keskeytät haun.
+23076= Haku epäonnistui
+23077= Tämä on sivu joka näytetään jos tietokoneesi ei saa yhteyttä Internettiin.
+23078= Offline tiedot
+23079= Tämä sivu näytetään jos internetsivu tai tietokone on offline tilassa.
+23080= Kohdetta ei ole välimuistissa
+23081= Varoitus: Sivu on vanhentunut! Tämä on varoitussivu kun Internet Explorer ei voi lukea sisältöä välimuistista.
+23100= Are you sure you want to permanently remove the items you selected?
+23101= Liitännäiset
+23102= Laajennukset
+23103= Hakukoneet
+23104= Historiat
+23105= Evästeet
+23106= Title
+23107= Kävijälaskuri
+23109= Perusosoite
+23110= host key
+23111= Avain
+23117= Oletko varma että haluat estää %s Firefoxissa?
+23118= Oletko varma että haluat pysyvästi poistaa %s Firefoxista?
+23121= Mozilla Firefox liitännäiset
+23122= Mozilla Firefox laajennukset
+23123= Mozilla Firefox hakukoneet
+23124= Mozilla Firefox historia
+23125= Mozilla Firefox evästeet
+23126= Mozilla Firefox etusivu
+23131= Google Chrome liitännäiset
+23132= Google Chrome laajennukset
+23133= Google Chrome hakukoneet
+23134= Google Chrome historia
+23135= Google Chrome evästeet
+23136= Google Chrome etusivu
+23141= Siirry ylös
+23142= Siirry alas
+23143= Lisää sivu
+23144= Poista sivu
+23146= Etusivun syöte
+23147= Syötä uusi etusivu %s -selaimelle.
+23149=  Näyttö
+23150= On erittäin suositeltavaa että suljet\n\n %s \n\ennen jatkamista; Browser Assistant ei toimi kunnolla.
+23151= %s kohdetta poistettu pysyvästi
+23152= Toiminto epäonnistui, yritä uudelleen suljettuasi %s -selaimen
+23153= Käyttäjä keskeytti toiminnon
+23154= Kohteiden poisto käynnissä
+23155= Poista kohteet
+23217= Oletko varma että haluat estää %s Google Chromessa?
+23218= Oletko varma että haluat pysyvästi poistaa %s Google Chromesta?
+
+[Process Manager]
+24001= Tehtävienhallinta
+24901= Näyttää käynnissä olevat prosessit ja pysäytysmahdollisuuden.
+24002= Uusi tehtävä(Suorita...)
+24003= Poistu Windowsista
+24004= Käynnistä tietokone uudelleen
+24005= Sulje tietokone
+24006= Lopeta prosessi
+24007= Estä prosessi
+24008= Estolista
+24009= Etsi Googlesta
+24010= Kommentoi sitä
+24011= Näytä yksityiskohdat
+24012= Nimi
+24013= Luokitus
+24014= Suoritettava tiedosto
+24015= Tärkeys
+24016= Säikeitä
+24017= Prosessori
+24018= Prosessoriaika
+24019= Muisti
+24020= Yritys
+24021= Käynnistetty
+24022= Tehtävät
+24023= Aseta tärkeys
+24024= Realiaikainen
+24025= Korkea
+24026= Yli normaalin
+24027= Normaali
+24028= Alle normaalin
+24029= Matala
+24030= VAROITUS: Muutokset tämän tehtävän tärkeysluokassa saattavat heikentää järjestelmän vakautta. Oletko varma että haluat muuttaa tärkeysluokkaa?
+24031= Yleiset tiedot
+24032= Moduleita käytössä
+24033= Tieto
+24034= Arvo
+24035= Tehtävän tiedot
+24036= Tunnus
+24037= Tiedosto
+24038= Perusteet
+24039= Kansio
+24040= Säikeet
+24041= Tärkeys
+24042= Muistin käyttö
+24043= Käynnistetty
+24044= Käynnistäjä
+24045= Versiotiedot
+24046= Tiedostotyyppi
+24047= Yritys
+24048= Kuvaus
+24049= Versio
+24050= Yleisnimi
+24051= Tekijänoikeudet
+24052= Tuotemerkki
+24053= Alkuperäinen tiedostonimi
+24054= Tuotenimi
+24055= Tuoteversio
+24056= Kommentit
+24137= Turvallinen
+24139= Riski
+24057= Haluatko todella pysäyttää tehtävän %s?
+24058= Haluatko todella estää tehtävän %s?
+24059= Haluatko käynnistää tietokoneesi uudelleen nyt?
+24060= Haluatko sulkea tietokoneesi nyt?
+24061= Suoritettavia tehtäviä: 
+24062= Prosessorin käyttö: 
+24063= Muistin käyttö: 
+24064= Järjestelmäpalvelu
+24065= Palauta tehtävienhallinta
+24066= Aina päälimmäisenä
+
+[Context Menu Manager]
+25001= Pikavalikkojen hallinta
+25901= Hallinnoi pikavalikkojen toimintoja tiedostoissa, kansioissa...
+25002= Tiedostot & Kansiot
+25003= Uusi
+25004= Lähetä kohteeseen
+25005= Valitse mitkä kohteet sallitaan tai estetään. Poistaaksesi kohdan pysyvästi, paina '%s' painiketta.
+25006= Ei löydy
+25007= Oletko varma että haluat poistaa kohteen '%s' pysyvästi?
+25008= Kaikki tiedostot (*)
+25009= Kansiot
+25010= Hakemistot
+25011= Asemat
+25012= Musiikkikansiot
+25013= Videokansiot
+25014= Kuvakansiot
+25015= Kaikki tiedostojärjestelmän kohteet
+25016= Oma tietokone
+25017= Roskakori
+25018= Tausta
+25019= Pikakuvakkeet
+
+[File Encrypter and Decrypter]
+27001= Tiedoston salaus
+27901= Suojaa tiedostosi salasanalla.
+27002= Salaa tiedosto
+27003= Poista salaus
+27004= Valitse tiedostot jotka haluat salata:
+27005= Salauksen salasana:
+27006= Toista salasana:
+27007= Salasanavihje:
+27008= Luo automaattisesti salauksen purkava EXE tiedosto (toiminto on englanninkielinen)
+27009= Poista alkuperäinen tiedosto onnistuneen salauksen jälkeen
+27010= Salaa
+27011= Valitse tiedosto josta haluat poistaa salauksen:
+27012= Salauksen poiston salasana:
+27013= Salasanavihje
+27014= Pura kansioon:
+27015= Avaa kohdekansio onnistuneen salauksen purun jälkeen
+27016= Pura salaus
+27017= Paina Selaa-painiketta valitaksesi tiedoston jonka haluat salata!
+27018= Valittua tiedostoa ei löydy. Valitse jokin toinen.
+27019= Anna vähintää 6 ja enintään 16 merkkiä pitkä salasana!
+27020= Anna sama salasana molempiin kenttiin!
+27021= Kyseinen tiedosto löytyy jo, korvataanko se?
+27022= Tiedosto %s on salattu onnistuneesti!
+27023= Salatut tiedostot
+27024= Valittua tiedostoa ei ole salattu tällä ohjelmalla. Valitse jokin toinen.
+27025= Paina 'Selaa' painiketta valitaksesi tiedoston jonka salauksen haluat poistaa!
+27026= Valittua tiedostoa ei löydy. Valitse jokin toinen.
+27027= Valitse kansio jonne haluat sijoittaa palautetun tiedoston.
+27028= Ei voi luoda kohdekansiota %s
+27029= Tiedosto %s löytyy jo, korvataanko se?
+27030= Tiedoston salaus %s on poistettu onnistuneesti!
+27031= Virheellinen salasana, yritä uudelleen.
+27032= Valitse kansio jonne haluat sijoittaa palautetun tiedoston.
+27033= Tapahtuma epäonnistui. Yritä uudelleen.
+27034= Salaus käynnissä. Tämä kestää hetken, odota...
+27035= Salauksen purku käynnissä. Tämä kestää hetken, odota...
+27036= Tämä tiedosto on salattu vanhemmalla salausohjelmalla. Haluatko ladata vanhemman version purkaaksesi salauksen?
+27037= Salattu tiedosto on tallennettu kohteeseen:
+27038= Valitse kansio jonne haluat palauttaa salatun tiedoston.
+27039= Kohdekansiota josta kohde on luotu ei löydy?
+27040= Avaa kohdekansio onnistunneen salauksen jälkeen
+27041= Lisää tiedosto(t)
+27042= 'Vedä ja pudota tiedostot' tuettu.
+27043= Paikallinen tiedosto(t)
+27044= Tila
+27045= Suoritetaan
+27046= Salattu tiedosto
+27047= Valmis
+27048= Odottaa...
+27049= Salataan...
+27050= Salaus suoritettu onnistuneesti!
+27051= Lähdetiedostoa ei löydy.
+27052= Kohdetiedosto on jo olemassa.
+27053= Lähdetiedostoa ei voitu poistaa.
+27054= Valitse 'Lisää tiedosto(t)' painikkeella tiedosto jonka haluat salata tai vedä ja pudota se listalle.
+27055= Etkö halua salata tiedostoa, valitse ja yritä uudelleen.
+27056= Poista tiedosto(t)
+27057= Valitse kaikki
+27058= Poista valinnat
+27059= Käänteinen valinta
+27060= Poista valitut kohteet
+27061= Haluatko poistaa valitut %s tiedostoa tiedostojen salauslistalta?
+
+[File Splitter and Joiner]
+28001= Tiedoston jako osiin
+28901= Jakaa isot tiedostot pienemmiksi käsiteltäviksi tiedostoiksi ja myös taas yhdistää ne.
+28002= Jaa tiedosto
+28003= Yhdistä tiedosto
+28004= Valitse tiedosto jonka haluat jakaa pienemmiksi tiedostoiksi
+28005= Valitse polku kohdekansiolle jonne haluat sijoittaa jaetun tiedoston
+28006= Valitse maksimikoko luotaville yksittäisille tiedostoille
+28007= 1.44 Mt
+28008= 100 Mt
+28009= 1 Gt
+28010= 4.7 Gt
+28011= Käytäjän valitsema koko
+28012= Luodaan noin %s osatiedostoa.
+28013= Lisää yhdistämistoiminto osatiedostoihin
+28014= Jaa tiedosto
+28015= Valitse yksi tiedostoista jotka haluat palauttaa alkuperäiseen tiedostoon. Voit valita minkä tahansa tiedoston, muut lisätään automaattisesti.
+28016= Osatiedostojen tiedot:
+28017= Valitse kohdekansio jonne haluat sijoittaa yhdistetyn tiedoston.
+28018= Yhdistä tiedosto
+28019= Ei voida luoda tiedostoa %s
+28020= Ei voida avata tiedostoa %s
+28021= Paina Selaa-painiketta valitaksesi tiedoston jonka haluat jakaa osiin!
+28022= Tiedostoa ei löydy! Paina Selaa-painiketta valitaksesi tiedoston jonka haluat jakaa osiin!
+28023= Valittu tiedosto on jo pienempi kuin määritelty enimmäiskoko.
+28024= Valitse Selaa-painikkeella kohdekansio!
+28025= Ei voitu luoda kohdekansiota %s
+28026= Kohdeasemalla %s ei ole riittävästi tilaa
+28027= Tiedosto on jaettu osiin kohteeseen %s onnistuneesti. Alkuperäistä tiedostoa ei ole tuhottu!
+28028= Valitse kansio jonne haluat sijoittaa osatiedostot
+28029= Osatiedostot
+28030= Tiedostonimi:
+28031= Koko:
+28032= Osia:
+28033= Valittu tiedosto ei ole osa jaettua tiedostosarjaa. Valitse joku toinen.
+28034= Seuraavaa osatiedostoa ei löydy:
+28035= Tiedosto on jo olemassa! Korvataanko se?
+28036= Alkuperäinen tiedosto on yhdistetty onnistuneesti!
+28037= Valitse kansio jonne haluat sijoittaa yhdistetyn tiedoston.
+28038= Toiminto epäonnistui. Yritä uudelleen.
+28039= Tiedoston jako osiin on käynnissä. Tämä kestää hetken, odota...
+28040= Tiedostojen yhdistäminen on käynnissä. Tämä kestää hetken, odota...
+28041= Tämä kansio on lisätty.
+
+[1-Click Maintenance]
+29001= Nopea korjaus
+29601= Rekisterin korjaus
+29602= Pikakuvakkeiden korjaus
+29603= Käynnistyksen hallinta
+29604= Väliaikaistiedostot
+29605= Jälkien poisto
+29606= Haittaohjelmien poisto
+
+10603= Korjaa virheelliset ja epätäydelliset rekisteritiedot
+10605= Poistaa vialliset pikakuvakkeet
+10607= Poistaa virheelliset käynnistysvalinnat
+10609= Poistaa väliaikaistiedostot ja vapauttaa levytilaa
+10611= Poistaa toimintahistorian ja internetjäljet
+10613= Poistaa vakoilu- ja haittaohjelmat
+10614= Tutkitaan...
+10615= Näytä yksityiskohdat
+10616= Etsitään ongelmia
+10617= Ongelmia ei löytynyt!
+10618= 1 ongelma löytyi!
+10619= %s ongelmaa löytyi!
+10620= %s tiedostoa löytyi!
+10621= Tiedostoja ei löytynyt!
+10622= %s kohdetta valittu.
+10623= 1 kohde valittu.
+10624= Ei valittuja kohteita.
+10625= Tutkitaan...
+10626= Paina 'Korjaa ongelmat' jatkaaksesi.
+10627= Korjaa ongelmat
+10628= Ongelmat on ratkaistu!
+10629= Tilaa on palautettu!
+10630= Kohteet on poistettu!
+10631= Korjataan...
+10632= Siivotaan...
+10633= Poistetaan...
+10634= %s ongelmaa on korjattu!
+10635= %s kohdetta on poistettu.
+10636= %s on palautettu!
+10637= Valitse tiedostot jotka haluat tuhota.
+10638= Näytä tiedostot
+10639= Yhteensä %s tiedostoa joista %s2 on palautettavissa.
+10640= Valitse kohteet jotka haluat poistaa.
+10641= Valitse rekisterimerkinnät jotka haluat korjata. Paina kohdetta hiiren oikealla painikkeella nähdäksesi lisävaihtoehdot.
+10645= Valitse pikakuvakkeet jotka haluat poistaa. Paina kohdetta hiiren oikealla painikkeella nähdäksesi lisävaihtoehdot.
+10642= Valitse käynnistyskohteet jotka haluat poistaa.
+10644= Valitse kohteet jotka haluat poistaa.
+10643= Keskeytä nopea korjaus
+10646= Etsi uudelleen
+10647= Paina 'Korjaa ongelmat' jatkaaksesi, paina 'Etsi uudelleen' etsiäksesi ongelmakohdat uudelleen.
+
+[Glary Undelete]
+31001= Tiedostojen palautus
+31901= Nopea ja tehokas tapa palauttaa vahingossa poistetut tiedostot
+31002= Etsi
+31003= Suodatin
+31004= Kansiot
+31005= Tiedostotyypit
+31006= Nimi
+31007= Tila
+31008= Alkuperäinen polku
+31009= Koko
+31010= Tyyppi
+31011= Muokattu
+31012= Palautetaan
+31013= Tutkitaan asemia, odota...
+31014= Valitse etsittävä kansio:
+31015= Oikein hyvä
+31016= Hyvä
+31017= Keskinkertainen
+31018= Huono
+31019= Ylikirjoitettu
+31020= Valitse kohde kansio:
+31021= Palautettaessa samalle asemalle palautus voi epäonnistua. Oletko varma että haluat jatkaa?
+31022= on jo kansiossa %s, oletko varma että haluat korvata sen?
+31023= löytyvät jo kansiosta %s, oletko varma että haluat korvata ne?
+31024= Suodatin: PÄÄLLÄ
+31025= Suodatin: POIS
+31026= Löytynyt: %s, Valitut: %s2
+31027= Etsitään
+31028= Nykyinen edistyminen: %s%, %s2 tiedostoa löytynyt.
+31029= Ei voitu käynnistää etsintää: %s
+31030= Palautetaan %s..., %s2 tiedostoa palautettu.
+31031= Ei voitu luoda tiedostoa %s
+31032= Tiedostonimellä
+31033= Tiedostonimi tai sen osa, voit käyttää korvausmerkkejä, esim. *.doc
+31034= ? Vastaa mitä tahansa yhtä merkkiä
+31035= * vastaa mitä tahansa merkkijonoa
+31036= Koon mukaan
+31037= Suurempi kuin
+31038= Pienempi kuin
+31039= Päiväyksen mukaan
+31040= Alkaen
+31041= ... saakka
+31042= Tilan mukaan
+31043= Kaikki tyypit
+
+31044= Näkymää ei saatavilla
+31045= Esikatselu
+31046= Paina laajentaaksesi
+31047= Paina sulkeaksesi
+31048= Paikallinen levy
+
+[Registry Defrag]
+32001= Rekisterin eheytys
+32901= Eheytä Windowsin rekisteri ja nopeuta tietokonettasi
+32002= Tervetuloa Rekisterin eheytykseen
+32003= Windowsin Rekisteri pirstoutuu ajan mittaan vieden enemmän tilaa kiintolevyltäsi kuin on tarpeen ja näin hidastaa sulkemis- ja käynnistymisaikoja. Rekisterin eheytys yhtenäistää ja tehostaa Windowsin rekisterin poistamalla tarpeettomia välejä ja turhaa tilaa. Tämä voi suuresti parantaa tietokoneesi suorituskykyä.
+32004= - Vähentämällä pirstoutumista
+32005= - Korjaamalla rakenteellisia virheitä
+32006= - Palauttamalla käyttämätöntä muistitilaa
+32007= Paina 'Seuraava' tutkiaksesi pirstoutumisen laajuus.
+32008= Koko eheyttämisen jälkeen:
+32009= Koon muutos:
+32010= Rekisterin eheytys voi pienentää kekisteriäsi %s
+32011= Paina 'Seuraava' aloittaksesi eheytyksen (Uudelleenkäynnistys tarvitaan). Paina Keskeytä jos et halua optimoida rekisteriä, tai jos haluat optimoida sen myöhemmin.
+32012= Rekisterin eheytys on havainnut ettei rekisterin eheytys ole tarpeellinen tällä hetkellä. On suositeltavaa että eheytät Windowsin rekisterin ainakin kerran kuukaudessa.
+32013= Paina 'Sulje' lopettaaksesi ohjelman
+32014= HUOMIO: Rekisterin eheytys edellyttää ettei mikään muu rekisteriä käsittelevä ohjelma ole käynnissä.
+32015= Tallenna kaikki työsi ja sulje muut suoritettavat ohjelmat ennen eheytystä.
+32016= Poista myös virustorjuntaohjelma käytöstä. Palomuurin toimintaa ei tarvitse estää.
+32017= Kun olet sulkenut kaikki muut ohjelmat niin paina 'OK' jatkaaksesi.
+32018= Eheytys ei ole mahdollista koska osa rekisteristä on suojattu muutoksilta. Korjataksesi tämän sinä voit sulkea kaikki muut suoritettavat ohjelmat, estää virus- ja vakoilusuojauksen ja yrittää uudelleen. Älä unohda käynnistää virus- ja vakoilusuojausta eheytyksen jälkeen.
+32019= VAROITUS: Tietokone täytyy käynnistää uudelleen eheytyksen saattamiseksi valmiiksi.
+32020= Haluatko eheyttää nyt?
+32021= Tutkitaan rekisteri
+32022= Odota...
+32023= Tietokone ei reagoi ennen kuin tutkinta on suoritettu. Voit keskeyttää tehtävän painamalla Esc näppäintä...
+32024= Windowsin rekisteri on eheytetty onnistuneesti!
+
+[System Information]
+33001= Järjestelmän tiedot
+33901= Koottua tietoa koneesi laitteistosta ja ohjelmista
+33002= Luo raportti
+33003= Luo raportti(kaikesta)
+33004= Näytä raportti
+33005= Käyttöjärjestelmä
+33006= Järjestelmälaitteet
+33007= Muisti
+33008= Asemat
+33009= Näytönohjain
+33010= Verkko
+33011= Muut laitteet
+33012= Yleiset
+33013= Prosessori
+33014= Emolevy
+33015= Windowsin versio
+33016= Asennuspäivä
+33017= Näytönohjain
+33018= Näyttö
+33019= Erillinen näytönohjain
+33020= Syöttö
+33021= Hiiri
+33022= Näppäimistö
+33023= Kiintolevy
+33024= DVD/CD-ROM Asema
+33025= Käyttöjärjestelmän ominaisuudet
+33026= Käyttöjärjestelmän nimi
+33027= Käyttöjärjestelmän kieli
+33028= Käyttöjärjestelmän versio
+33029= Rekisteröity omistaja
+33030= Rekisteröity yritys
+33031= Tuotetunnus
+33032= Tuoteavain
+33033= Käyttöjärjestelmän asennuspäivä
+33034= Käyttöjärjestelmän juurikansio
+33035= Nykyinen istunto
+33036= Tietokoneen nimi
+33037= Käyttäjän nimi
+33038= Kirjautuneena
+33039= Käyttöaika
+33040= Osien versiot
+33041= Internet Explorer
+33042= Windows Media Player
+33043= DirectX
+33044= Järjestelmän kansiot
+33045= Jaetut kansiot
+33046= Emolevy
+33047= Emolevyn malli
+33048= Emolevyn valmistaja
+33049= BIOS-ominaisuudet
+33050= BIOS-versio
+33051= Järjestelmän BIOS-päiväys
+33052= Näytönohjaimen BIOS-päiväys
+33053= Prosessorin ominaisuudet
+33054= Prosessorin tunniste
+33055= Prosessorin yleisnimi
+33056= Prosessorin valmistaja
+33057= Sarjanumero
+33058= Prosessorin kellotaajuus
+33059= L1 koodivälimuisti
+33060= L1 datavälimuisti
+33061= L2 välimuisti
+33062= Prosessorin kanta
+33063= Prosessorissa ytimiä
+33064= Logical per core
+33065= Kokoonpanon yksityiskohdat
+33066= Prosessori
+33067= Prosessorin käyttöhistoria
+33068= Käytössä muistia
+33069= Näennäismuistia
+33070= Asennettua muistia
+33071= Vapaata muistia yht.
+33072= Käytetty muisti
+33073= Valittu muisti
+33074= Sovellus
+33075= Muistin käyttö
+33076= Polku
+33077= Aseman yksityiskohdat
+33078= Levyn kirjain
+33079= Aseman tyyppi
+33080= Sarjanumero
+33081= Tiedostojärjestelmä
+33082= Kokonaisbitit
+33083= Tavua vapaana
+33084= Tavua käytössä
+33085= Tiedostojärjestelmä
+
+33086= Tiedoston pakkaaminen käytössä
+33087= Levy on pakattu
+33088= Pitkät tiedostonimet sallittu
+33089= Yleiset tiedostonimet sallittu
+33090= Salattu tiedostojärjestelmä
+
+33091= Loogiset tiedot
+33092= Klustereita
+33093= Vapaita klustereita
+33094= Käytetyt klusterit
+33095= Tavua per klusteri
+33096= Sektoreita per klusteri
+33097= Käytetyt sektorit
+33098= Vapaat sektorit
+
+33099= Muokkaustiedot
+33100= Tavua per sektori
+33101= Yhteensä sektoreita
+
+33102= Levyn koko
+33103= Vapaa tila
+33104= Käytetty tila
+
+33105= Näytönohjaimen ominaisuudet
+33106= Kuvaus
+33107= Merkkijono
+33108= BIOS merkkijono
+33109= Sirun tyyppi
+33110= DAC tyyppi
+33111= Ajurin päiväys
+33112= Ajurin versio
+33113= Ajurin julkaisija
+33114= Muistin koko
+
+33115= Näytön ominaisuudet
+33116= Näytön nimi
+33117= Malli
+33118= Valmistuspäivä
+33119= Sarjanumero
+33120= Näytön koko
+33121= Gamma
+
+33122= Tuetut näyttötilat
+
+33123= Verkkosovittimen kuvaus
+
+33124= Verkkosovittimen ominaisuudet
+33125= Verkkosovitin
+33126= Tyyppi
+33127= MAC osoite
+33128= Yhteysnimi
+33129= Yhteysnopeus
+33130= MTU
+33131= Tavua vastaanotettu
+33132= Tavua lähetetty
+
+33133= Verkkokortin osoitteet
+33134= IP/aliverkon peite
+33135= Yhdyskäytävä
+33136= DNS
+
+33137= Vastaanotettu tieto
+33138= Lähetetty tieto
+
+33139= Äänilaitteet
+33140= Portit
+33141= USB
+33142= USB-ohjain
+33143= Tulostimet
+
+33144= Nimi
+33145= Arvo
+
+33148= Järjestelmän kansiot
+33149= Jaetut kansiot
+33150= Klikkaamalla hiiren 2-näppäimellä kansiota se avautuu Windowsin Resurssienhallintaan
+33151= Avaa kansio
+33152= Ominaisuudet
+33153= sek.
+33154= (%s tuntia %s2 minuuttia %s3 sekuntia)
+
+33155= Käyttöjärjestelmän tyyppi
+33156= %s -bittinen
+
+[GLARYUTILITIES]
+1001001= Palauta
+1001002= Palaute
+1001003= Pienennä
+1001004= Versio:
+1001005= Kuten
+
+[OVERVIEW]
+1002001= Päänäkymä
+1002002= Valitse automaattinen ylläpito
+1002003= Poista yksityisjälkiä Windowsin sammuessa
+1002004= Tarkista päivitykset kun ohjelma käynnistyy
+1002005= Käynnistä puhdistus ja korjaus
+1002006= Windowsin käynnistymisaika
+1002007= Estä tarpeettomien ohjelmien käynnistyminen tehdäksesi Windowsin käynnistymisen nopeammaksi
+1002008= Käynnistyksen hallinta
+1002009= Käytät nyt %s
+1002010= Päivitä nyt
+1002011= Liity käyttäjäkokemuksen parannusohjelmaamme
+1002012= Tuntia
+1002013= Minuuttia
+1002014= Sekuntia
+1002015= Valitut kohteet
+1002016= Lisenssi:
+1002017= Muokkaa Lisenssiä
+1002018= Vanhenee
+1002019= Tarkista ohjelmapäivitykset automaattisesti
+
+[ONECLICK]
+1003001= Kiintolevyn korjaus
+1003002= Rekisterin eheytys
+1003003= Haittaohjelmien poisto
+1003004= Järjestelmän optimointi
+1003005= Kiintolevyn eheytys
+
+[ADVANCED TOOLS]
+1004001= Lisätyökalut
+1004002= Windowsin rekisteri
+1004003= Korjaa
+1004004= Eheytä
+1004005= Varmuuskopioi
+1004006= Palauta
+   
+1004007= Levytila
+1004008= Levytilan puhdistus
+1004009= Poista kopiotiedostot
+1004010= Poista tyhjät kansiot
+1004011= Pikakuvakkeiden korjaus
+1004012= Levyn tutkinta
+   
+1004013= Järjestelmän viritys
+1004014= Järjestelmän viritys
+1004015= Optimoi käynnistymisaika
+1004016= Optimoi muisti
+1004017= Nopeuta Internettiä
+1004018= Turbotila
+   
+1004019= Yksityisyys
+1004020= Jälkien poisto
+1004021= Tuhoa tiedosto
+1004022= Pyyhi vapaa levytila
+1004023= Salaa tiedostoja
+   
+1004024= Ajurit
+1004025= Varmuuskopiot
+1004026= Palauta
+1004027= Poista
+1004028= Tarkista päivitykset
+   
+1004029= Tiedostonhallinta
+1004030= Jaa tiedostoja osiin
+1004031= Palauta poistetut tiedostot
+1004032= Pikahaku
+   
+1004033= Kiintolevyt
+1004034= Eheytys
+1004035= Käynnistyksen eheytys
+1004036= Virheiden tarkistus
+   
+1004037= Järjestelmä
+1004038= Käynnistyksen hallinta
+1004039= Palvelut
+1004040= Ajastetut tehtävät
+1004041= Pikavalikot
+1004042= Tehtävienhallinta
+1004043= Selainavustaja
+   
+1004044= Järjestelmän tila
+1004045= Järjestelmän tiedot
+1004046= Varmuuskopioi tietokoneesi
+1004056= Korjaa järjestelmätiedostot
+1004047= Järjestelmän palautus
+1004048= Kumoa muutokset
+   
+1004049= Haittaohjelmat
+1004050= Poista haittaohjelmia
+1004051= Estä
+   
+1004052= Ohjelmat
+1004053= Ohjelmien poisto
+1004054= Tarkista ohjelmien päivitykset
+1004055= Etsi lisää ohjelmia
+1004057=
+
+[QUICKLAUNCHBAR]
+1005001= Paina +/- lisätäksesi tai poistaaksesi kohteita pikavalinnoista
+1005002= On jo olemassa täällä
+1005003= Ei ole riittävästi tilaa pikavalinnoissa. Voit poistaa yhden kohteen valitsemalla -
+1005004= Ei ole riittävästi tilaa pikavalinnoissa. Voit poistaa minkä tahansa kohteen vetämällä sen pois valinnoista
+
+[SKINSCENTER]
+1006001= Ulkoasut
+1006002= Kuvakirjasto
+1006003= Yksittäiset värit
+1006004= Kyseinen tiedosto on jo olemassa, korvataanko se?
+1006005= Kaikki tuetut tiedostot
+1006006= Mukautus
+
+1007001= Kokeiluaika on päättynyt. 
+1007002= Klikkaa tätä ilmoitusta aktivoidaksesi Glary Utilities Pro:n.
+1007003= Lisenssisi on vanhentunut. 
+1007004= Klikkaa tätä ilmoitusta aktivoidaksesi Glary Utilities Pro:n uudelleen.
+
+[CHECKDISK]
+2400001= Levyaseman tarkistus
+2401001= Valitse tarkistettava asema
+2401002= Korjaa automaattisesti virheet
+2401003= Etsi ja yritä korjata virheelliset sektorit
+2401004= Tarkista asema
+2401010= Aseman nimi
+2401011= Viimeisin analyysi
+2401012= Tila
+2401013= Analyysit
+2401014= Raportti
+2401015= Valmis
+2401016= Tarvitsee tarkistuksen
+2401017= Tarkastetaan %s
+2401018= Levyn tarkastus keskeytetty
+2401019= Virheitä löytyi
+2401020= Ei virheitä
+2401021= Levyn tarkistusvirhe
+2401022= Piilota tiedot
+2401023= Tiedot
+2401024= Levyn tarkistus tarkistaa levysi ja sen tiedostojärjestelmän virheiden varalta.
+2401025= Löydetyt virheet korjataan automaattisesti.
+2401026= Vaihtoehdot
+2401027= Korjaa automaattisesti tiedostojärjestelmän virheet
+2401028= Etsi ja yritä korjata virheelliset sektorit
+2401029= Käynnistä
+2401030= Pysäytä
+2401031= Levyn tarkistuksen ajastus epäonnistui!
+2401032= Levyn tarkistus on ajastettu suoritettavaksi seuraavan käynnistyksen yhteydessä.
+2401033= Levyn tarkistus ohitettu.
+2401034= Levyn tarkistus peruttu.
+2401035= Levyn tarkistus keskeytetty.
+2401036= Levyn tarkistus suoritettu. Virheitä ei löytynyt.
+2401037= Levyn tarkistus löysi %s virhettä:
+
+2403001= Tarkistetaan asema %s
+2403002= Tee tämä seuraavissa %s epäkohdassa
+2403003= Ohitetaan %s sekunnin päästä.
+
+2405001= Toimintoa ei löydy.
+2405002= Levyn tarkistus kohtasi virheen. Tarvitaan sovelluksen uudelleen käynnistys.
+2405003= Tarkistetaan tiedostojärjestelmää %s
+2405004= Tiedostojärjestelmän tyyppi on %s.
+
+2406001= Tallenna raportti
+
+2407001= Tulokset
+2407002= Ajoita levyn tarkistus
+2407003= Käynnistä uudelleen
+2407004= Näytä raportti
+2407005= Windows korjaa levyn seuraavassa käynnistyksessä.
+
+2408001= Windows ei voi tarkistaa levyä kun se on käytössä
+2408002= Pakota yhteyden katkaisu\nDo Haluatko irroittaa tämän loogisen levyn ensin? Huom: kaikki avatut yhteydet tähän kohteeseen katkeavat
+2408003= Ajasta levyn tarkistus\nHaluatko tarkistaa tiedostojärjestelmän virheet seuraavan käynnistyksen yhteydessä?
+2408004= Ohita
+
+[RESTORE CENTER]
+
+2602001= Luodaan järjestelmän palautuspiste...
+2603001= Antamalla kuvauksen helpotat palautuspisteen tunnistamista. Nykyinen päivä ja aika lisätään automaattisesti.
+2603002= Luo
+2603003= Anna kuvaus.
+2604001= Valmistellaan järjestelmäsi palauttamista ...
+2605001= Palautettu %s kohdetta.
+
+
+[SETTINGS]
+2801001= Yleiset asetukset
+2801002= Alla olevat kohteet ohitetaan kun suoritat etsintää.
+2801003= Muut
+2801004= Läpikäy rekisteriä tunnistamista varten, ehdota ja korjaa virheet
+2801005= Näytä tehtäväpalkin vihjeet
+2801006= Useita käynnistyksiä määritelty
+2801007= Tehtävää ei ole ajastettu
+2801008= Ohita käyttäjätilin hallinnan varoitus
+
+2802001= Ajastus:
+2802002= Aloitusaika:
+2802003= Älä käynnistä tehtävää koneen ollessa akkukäytöllä.
+2802004= Pysäytä tehtävä jos siirrytään akkukäyttöön.
+2802005= Herätä kone tämän tehtävän suorittamiseksi.
+2802006= Virranhallinta
+
+2803001= Loki
+2803002= Lokin Valinnat
+2803003= Talletetut lokitiedostot
+2803004= Avaa lokikansio
+2803005= Näytä loki
+2803006= Poista
+2803007= Tyhjennä kaikki
+2803008= Luo loki aina kun koneeseen tulee muutoksia
+2803009= Tiedostojen enimmäismäärä:
+
+[Quick Search]
+3700001= Pikahaku
+3700002= 
+
+//frmMain
+3701001= Tiedosto
+3701002= Muokkaa
+3701003= Näytä
+3701004= Apua
+3701005= Avaa
+3701006= Avaa kansio
+3701007= Tallenna
+3701008= Sulje
+3701009= Kopioi
+3701010= Sama polku
+3701011= Asetukset
+3701012= Tekstikoko
+3701013= Järjestä kuvakkeet
+3701014= Päivitä
+3701015= Suurenna
+3701016= Pienennä
+3701017= Normaali
+3701018= Nimi
+3701019= Polku
+3701020= Koko
+3701021= Muokkauspäivä
+3701022= Kotisivu
+3701023= Tietoja
+3701024= Muokkaa ryhmää
+3701025= Näytä kaikki
+3701026= Pikakuvakkeet
+3701027= Asiakirjat  
+3701028= Kuvat
+3701029= Videot
+3701030= Musiikki
+3701031= Ohjelmat
+3701032= Näytä %s tiedostot
+3701033= Sisällytä tiedosto
+3701034= Sisällytä hakemisto
+3701035= %s kohdetta löytyi
+3701036= Etsitään %s ...
+3701037= Tyyppi   
+3701038= Tiedoston kuvaus
+3701039= Tiedostoversio 
+3701040= Tuoteversio 
+3701041= Yrityksen nimi
+3701042= Tekstitiedosto(*.txt)|*.txt|Kaikki tiedostot(*.*)|*.*
+3703043= Tiedosto on olemassa
+3703044= Vihjeet
+3703045= %s kohdetta valittu
+3701046= Lataa %s ...
+
+//frmSetting
+3702001= Valinnat
+3702002= Ryhmä
+3702003= Yleiset
+3702004= Käynnistä automaattisesti Windowsiin kirjauduttaessa
+3702005= Paina Ctrl-näppäintä kahdesti piilottaaksesi tai näyttääksesi hakuruudun
+3702006= Kieli:
+3702007= Ryhmän nimi
+3702008= Tiedostopäätteet
+3702009= Lisää
+3702010= Muokkaa
+3702011= Poista
+3702012= OK
+3702013= Keskeytä
+3702014= Valitse ryhmä!
+3702015= Tätä ryhmää ei voi poistaa
+3702016= Levyasemat
+3702017= Valitse levyasema josta haetaan
+3702018= Levyaseman nimi
+3702019= Tiedostojärjestelmä
+3702020= Kapasiteetti
+3702021= Käytetty tila
+
+//frmGroupSetting
+3703001= Ryhmän nimi:
+3703002= Tiedostopäätteet:
+3703003= Tiedostopääte:
+3703004= Pääte
+3703005= Tiedostotyyppi
+3703006= Anna pääte(*.doc)
+3703007= Ryhmän nimi ei voi olla tyhjä!
+3703008= Tiedostopäätteet eivät voi olla tyhjiä!
+3703009= Ryhmän nimi %s on jo olemassa, anna uusi ryhmän nimi.
+3703010= Lisää ryhmä
+3703011= Muokkaa ryhmää
+
+//UnitFunction
+3704001= Leikepöydällä ei ole tekstiä!
+
+//frmAbout
+3705001= Tietoja
+3705002= Versio:
+3705003= Kotisivu:
+3705004= Tekijäoikeudet @ 2013, Glarysoft ltd. Kaikki oikeudet pidätetään
+
+//tray icon
+3706001= Avaa Pikahaku
+
+//Task
+3707001= Glary Utilities 3 Pikahaku
+
+[Disk Defrag]
+3400001= Levyn eheytys
+3400002= Levyt jotka parantavat tietokoneen suorituskykyä
+
+//frmMain
+3401001= Aseman nimi
+3401002= Tiedostojärjestelmä
+3401003= Kapasiteetti
+3401004= Vapaa levytila
+3401005= Pirstoutumat
+3401006= Tila
+3401007= Käynnistyksen aikainen eheytys
+3401008= Tiedosto
+3401009= Työkalut
+3401010= Apua
+3401011= Eheytä tiedosto
+3401012= Eheytä kansio
+3401013= Tutki
+3401014= Eheytä
+3401015= Eheytä ja Optimoi (hitaampi, käytä kerran viikossa)
+3401016= Poistu
+3401017= Tärkeys
+3401018= Ei tärkeä
+3401019= Normaali tärkeys
+3401020= Suuri tärkeys
+3401021= Valinnat
+3401022= Kotisivu
+3401023= Tarkista päivitykset
+3401024= Tietoja
+3401025= Eheytä
+3401026= Tutki
+3401027= Eheytä ja optimoi (hitaampi, käytä kerran vikossa)
+3401028= Tauko
+3401029= Jatka
+3401030= Pysäytä
+3401031= Sammuta tietokone eheytyksen jälkeen
+3401032= Valitse kaikki
+3401033= Poista valinnat
+3401034= Tila
+3401035= Raportti
+3401036= Käytetty
+3401037= Vapaa
+3401038= Käsitellään
+3401039= Vapaa
+3401040= Käytetty
+3401041= Ei pirstoutuneet
+3401042= Ei siirrettävät tiedostot
+3401043= Pirstoutuneet tiedostot
+3401044= Kiireinen
+3401045= MFT:n varatut alueet
+3401046= Valmis
+3401047= Tutkitaan
+3401048= Eheytetään
+3401049= Optimoidaan
+3401050= Tutkittu
+3401051= Eheytetty
+3401052= Optimoitu
+3401053= Tutkinta suoritettu
+3401054= Eheytys suoritettu
+3401055= Optimointi suoritettu
+3401056= Tutkinta keskeytetty
+3401057= Eheytys keskeytetty
+3401058= Optimointi keskeytetty
+3401059= Käynnistyksenaikainen eheytys on aktivoitu tälle levylle.
+3401060= Käynnistyksenikainen eheytys ei ole aktivoitu tälle levylle.
+3401061= Laita pois
+3401062= Laita päälle
+3401063= Määritä
+3401064= Eheytä horrostiedosto
+3401065= Eheytä MFT datatiedostot
+3401066= Eheytä järjestelmätiedostot
+3401067= Käynnistyksenaikainen eheytyshistoria (valitse nähdäksesi yksityiskohdat)
+3401068= Päivä
+3401069= Koko
+3401070= Eheytetty
+3401071= Yhteensä tiedostoja & hakemistoja:
+3401072= Pirstoutumat:
+3401073= Pirstoutumisprosentti:
+3401074= Tiedostonimi
+3401075= Pirstoutumat
+3401076= Koko
+3401077= Polku
+3401078= Kyllä
+3401079= Ei
+3401080= Tiedosto(a)
+3401081= Valitse kansio
+3401082= Vihje
+3401083= Levyn eheytys on vielä käynnissä.
+3401084= Tuntematon asema
+3401085= Juurihakemistoa ei voi lisätä ohituslistalle. Valitse toinen hakemisto.
+3401086= Käänteinen valinta
+3401087= Pysäytä yksi
+3401088= Pysäytä kaikki
+3401089= Tämä on SSD-levy. SSD-levyä ei pidä eheyttää.
+3401090= Tämä on SSD-levy. Defragmentointi lyhentää sen elinikää. Oletko varma että haluat jatkaa?
+
+//frmOption
+3402000= Valinnat
+3402001= Yleiset
+3402002= Eheytys
+3402003= Automaattinen eheytys
+3402004= Ajastus
+3402005= Eheytys käynnistyksen yhteydessä
+3402006= Optimointi
+3402007= Ohitettavat
+3402008= Kieli:
+3402009= Käynnistä automaattisesti Windowsiin kirjauduttaessa
+3402010= Pienennä ilmaisinalueelle kun suljet ohjelmaikkunan
+3402011= Näytä vihjeet tehtäväpalkissa
+3402012= Kiinnitä levyn eheytys pikavalikkoon
+3402013= Tarkista päivitykset automaattisesti
+3402014= Yhtäaikainen levyjen eheytys
+3402015= Oletus
+3402016= Älykäs eheytys
+3402017= Aamurusko
+3402018= Windows perus
+3402019= Saatavuus
+3402020= Sateenkaari
+3402021= Merituuli
+3402022= Eheytä vain tiedostot joiden:
+3402023= Pirstoutumat ovat pienempiä kuin
+3402024= Pirstoutumia on enemmän kuin
+3402025= Pirstoutumat ovat suurempia kuin
+3402026= Pirstoutumat ovat pienempiä kuin
+3402027= Pirstoutumaa
+3402028= Siirrä tiedostoja levyn loppuun
+3402029= Pienin tiedostokoko:
+3402030= Tiedostot joita ei ole käytetty viimeiseen kuukauteen
+3402031= Tiedostot roskakorissa
+3402032= Valitun tyyppiset tiedostot
+3402033= Ryhmä
+3402034= Tyyppi
+3402035= Lisää
+3402036= Muokkaa
+3402037= Poista
+3402038= Ohita tiedostot joita et halua eheyttää. Kuten esim. videotiedostot. {#13#10}Se nopeuttaa eheyttämistä. 
+3402039= Tiedostot
+3402040= Lisää kansio
+3402041= Automaattinen eheytys on pois
+3402042= Automaattinen eheytys on Päällä
+3402043= Kun automaattinen eheytys on päällä, se eheyttää kiintolevysi automaattisesti pitäen tietokoneesi huippunopeudessa.
+3402044= Autom. eheytys kun järjestelmä ei ole käytössä %s min.
+3402045= Pysäytä kun Prosessorin- tai levynkäyttö ylittää %s%
+3402046= Asemat
+3402047= Viimeisin eheytys:
+3402048= Pirstoutuneet tiedostot:
+3402049= Suorita ajastettuna
+3402050= Toiminta:
+3402051= Taajuus:
+3402052= Aika:
+3402053= Vain eheytys
+3402054= Eheytys ja optimointi
+3402055= Päivittäin
+3402056= Viikoittain
+3402057= Kuukausittain
+3402058= Maanataisin
+3402059= Tiistaisin
+3402060= Keskiviikkoisin
+3402061= Torstaisin
+3402062= Perjantaisin
+3402063= Lauantaisin
+3402064= Sunnuntaisin
+3402065= Salli käynnistyksenaikainen eheytys
+3402066= Eheytysmalli:
+3402067= Menetelmä
+3402068= Jokaisessa käynnistyksessä
+3402069= Päivän ensimmäisessä käynnistyksessä
+3402070= Joka %s päivän käynnistyksessä
+3402071= Lokitiedostot:
+3402072= Käynnistä levyvirheiden korjaus (Chkdsk) ennen käynnistyksenaikaista eheytystä
+        
+3402073= Edistynyt eheytys
+3402074= Nopea eheytys
+3402075= Valitse kansio
+3402076= Valitse asema jonka haluat eheyttää!
+3402077= Vihjeet
+3402078= Valitse ryhmä! 
+3402079= Haluatko todella poistaa tämän ryhmän?
+3402080= Lisää tiedostoryhmä
+3402081= Muokkaa tiedostoryhmää
+3402082= OK
+3402083= Keskeytä
+3402084= Käynnistyksenaikaisia tiedostoja ei voi muuttaa kun ne ovat järjestelmän käytössä.
+3402085= Pysäytä VSS-palvelu (Shadow Copy Service/Volume Snapshot Service) kun eheytät NTFS-levyä
+
+//frmConfig
+3403001= Pakatut
+3403002= Elokuvat
+3403003= Levyn näköistiedostot
+
+//frmCategory
+3404001= Ryhmän nimi ei voi olla tyhjä! 
+3404002= Tyypin muotovirhe! Esimerkiksi: (*.doc/*.doc,...,*.Txt).
+
+//frmFileType
+3405001= Ryhmä: 
+3405002= Tyyppi:
+
+[SpyRemover]
+2701001= Haittaohjelmien poisto
+2701002= Haittaohjelmien Poisto
+2701003= Nopea etsintä ja poisto vakoilu- ja mainosohjelmille
+2701004= Etsi
+2701005= Poista
+2701006= Palauta
+2701007= Etsi uudelleen
+2701008= Valitse varmuuskopio jonka haluat palauttaa ja paina 'Palauta'.
+2701010= Tyyppi
+2701011= Tila
+2701012= Varmuuskopiot
+2701013= Oletko varma että haluat palauttaa kohteen %s järjestelmän rekisteriin?
+2701014= %s on onnistuneessti palautettu rekisteriin!
+2701015= Etsitään %s
+2701016= Etsityt tiedostot: %s
+2701017= Haittaohjelmat on poistettu onnistuneesti!
+2701018= Palauta
+2701019= Etsi haittaohjelmia
+2701020= Etsintä suoritettu
+2701021= %s haittaohjelmaa löytyi
+2701022= Haittaohjelmia ei löytynyt
+2701023= 1 haittaohjelma löytyi
+2701024= Ei valittuja kohteita
+2701025= %s kohde valittuna
+2701026= %s kohdetta valittuna
+2701027= Haittaohjelman tiedot
+2701028= Haittaohjelmia ei löytynyt!
+2702001= Yksityiskohdat
+2702002= Valitse kohteet jotka haluat poistaa.
+	 
+[BOOT TIME]
+2901001= Vain vertailuun.
+2901002= Windowsin käynnistymisaika on tosi hidas, %s käyttäjistä on hitaampi.
+2901003= Windowsin käynnistymisaika on hidas, %s käyttäjistä on hitaampi.
+2901004= Windowsin käynnistymisaika on normaali, %s käyttäjistä on hitaampi.
+2901005= Windowsin käynnistymisaika on nopea, %s käyttäjistä on hitaampi.
+2901006= Windowsin käynnistymisaika on tosi nopea, %s käyttäjistä on hitaampi.
+2901007= Tiedon haku epäonnistui, vertailuarvoa ei voitu laskea.
+2901008= Haetaan käynnistymisaika, odota...
+
+[DRIVER BACKUP]
+2200001= Ajureiden hallinta
+2201001= Varmuuskopiot
+2201002= Poista
+2201003= Palauta
+
+2201004= Valitse ajurit jotka haluat asentaa ja sitten paina 'Palauta".
+2201005= Valitse ajurit jotka haluat poistaa ja paina 'Poista' painiketta.
+2201006= Valitse kansio jonne olet tallentanut varmuuskopion:
+2201007= Tallenna varmuuskopio kohteesen:
+2201008= Ajurien varmuuskopiointi
+2201009= %s luonti epäonnistui!
+2201010= Oletko varma että haluat poistaa tämän laitteen?
+2201011= Laitteen nimi
+2201012= Versio
+2201013= Varmuuskopioitu
+2201014= Tietokoneesi saattaa tarvita uudelleenkäynnistyksen!
+
+
+[Software Update]
+4000001= Ohjelmistopäivitykset
+4000002= Ohjelmistopäivityksen tulokset
+
+4001001= Lue lisää...  
+4001002= Keskeytä
+4001003= Jatka
+4001004= Suorita ohjelman päivitys kun Windows käynnistyy
+4001005= Etsi
+4001006= Etsi taas
+4001007= Täysi etsintä suoritettu!
+4001009= Mukauta tulokset
+4001010= Valmis käynnistettäväksi ...
+4001011= Etsitään tietokoneesta ...
+4001012= Lähetetään tiedot tutkittavaksi ...
+4001013= Avataan tulokset ...
+4001014= Paina 'Etsi' painiketta etsiäksesi tietokoneellesi asennetut ohjelmat!
+4001015= Vieraile www.glarysoft.com sivulla
+4001016= Palauta ilmaisinalueelle
+4001017= Poistu
+4001018= Yhteys palvelimeen epäonnistui!
+4001019= Paina tätä viestiä nähdäksesi lisää.
+4001020= Näytä yksityiskohdat
+4001021= Etsi päivityksiä
+
+4001022= Sinulle on 1 uusi päivitys.
+4001023= Sinulle on %s uutta päivitystä. 
+4001024= Sinulle on 1 uusi beta päivitys. 
+4001025= Sinulle on %s uutta beta päivitystä. 
+
+4001026= Sinulle on 1 uusi päivitys ja 1 beta päivitys.
+4001027= Sinulle on 1 uusi päivitys ja %s beta päivitystä. 
+4001028= Sinulle on %s uutta päivitystä ja 1 beta päivitys. 
+4001029= Sinulle on %s uutta päivitystä ja %s2 beta päivitystä.
+4001030= Nykyisiin ohjelmiin ei ole saatavilla päivityksiä.
+

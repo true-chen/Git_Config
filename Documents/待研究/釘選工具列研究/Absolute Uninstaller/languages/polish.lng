@@ -1,0 +1,2382 @@
+[Language]
+Description= Polish
+;Date= 23.10.2013
+;E-Mail/Sugestie i opinie= adam410@o2.pl
+Author = Jarek&Adam Jab³oñski
+
+[Globals]
+10001= Plik
+10002= Edytuj
+10003= Widok
+10004= Pomoc
+10005= Zakoñcz
+10023= Tematy pomocy
+10018= Strona domowa
+10019= O programie
+10006= Stop
+10007= Odœwie¿
+10008= W³aœciwoœci
+10009= Nazwa
+10010= Otwórz
+10011= Rozmiar
+10012= OK
+10013= Anuluj
+10014= Zamknij
+10015= Tak
+10016= Nie
+10017= Wybierz...
+10020= Eksportuj...
+10021= Otwórz folder
+10022= Zadania
+10024= Dalej
+10025= Cofnij
+10026= Opcje
+19026= Rozmiar
+19027= Wolna przestrzeñ
+14023= Status
+10027= Opis
+10028= Koniec
+10029= Kosz
+14009= Detale
+10030= Dodaj
+10031= Usuñ
+10032= Domyœlnie
+10033= Data utworzenia
+10034= Usuñ
+10035= Poleæ znajomemu
+10036= Kup teraz
+10037= Wpisz kod rejestracji
+15009= Wszystko
+15010= Nic
+15011= Odwróæ zaznaczenie
+15014= Zaznacz
+10038= Menu
+10039= Aktualizacja
+10040= Jêzyk
+10041= Czy na pewno chcesz wys³aæ wybrane elementy do Kosza?
+10043= Niektóre pliki nie mog¹ zostaæ usuniête. Upewnij siê, ¿e pliki te nie s¹ aktualnie u¿ywane i czy dysk nie jest pe³ny lub chroniony przed zapisem.
+10044= Ostrze¿enie
+10045= Informacje
+10046= B³¹d
+10047= Potwierdzenie
+10048= Inicjalizacja
+
+10050= Zalecane
+10051= Zastosuj
+10052= Narzêdzia
+10053= Program nie uruchomi siê z powodu brakuj¹cego lub uszkodzonego pliku, spróbuj ponownie zaintalowaæ program, aby rozwi¹zaæ problem. Kliknij "Tak", aby pobraæ najnowsz¹ wersjê programu Glary Utilities.
+
+[Integrator]
+10801= Oczyszczanie
+10802= Optymalizacja
+10803= Prywatnoœæ
+10804= Pliki i foldery
+10805= Narzêdzia systemowe
+
+10806= Status
+10807= Stan programu
+10808= Aktualna wersja:
+10809= Ostatnia aktualizacja:
+10810= Data bazy danych: 
+10811= Stan licencji
+10812= Typ:
+10813= Wersja Free
+10814= Wersja Professional
+10815= Data wygaœniêcia:
+10816= Nigdy
+10817= Kliknij w poni¿szy przycisk, aby zarejestrowaæ produkt. 
+10818= Rejestracja
+10819= Ustawienia automatycznej konserwacji
+
+10799= Modu³y
+
+10820= Ustawienia
+10821= Ogólne
+10822= Jêzyk:
+10823= Uruchom Glary Utilities automatycznie podczas startu systemu Windows
+10824= Minimalizuj do zasobnika systemowego po zamkniêciu okna programu
+10825= Menu kontekstowe
+10826= Wybierz menu kontekstowe, które chcesz zintegrowaæ z Eksploratorem Windows.
+10827= Automatyczne aktualizacje
+10828= Wykonanie aktualizacji w zaplanowanym terminie.
+10829= Planowane:
+10830= Niedostêpne w darmowej wersji
+10831= Zmieñ termin
+10832= Automatyczna konserwacja
+10833= Wymazanie prywatnych œladów
+10834= Prywatne œlady
+10835= Wybierz œlady, które chcesz skasowaæ
+10836= Automatyczna konserwacja
+10837= Wykonanie konserwacji w zaplanowanym terminie.
+10838= Centrum przywracania
+10839= Ochrona Centrum przywracania
+10840= Wybierz modu³y, które maj¹ byæ zabezpieczone przez Centrum przywracania.
+10841= Dostêpne modu³y:
+10842= Opcje kopii zapasowych
+10843= Usuñ automatycznie kopie zapasowe:
+10844= Ogranicz liczbê kopii zapasowych do:
+10845= Lista ignorowanych
+10846= Po tygodniu
+10847= Po 2 tygodniach
+10848= Po 3 tygodniach
+10849= Po miesi¹cu
+10850= Po 2 miesi¹cach
+10851= Po 3 miesi¹cach
+10852= Opcje automatycznej konserwacji
+10853= Tylko skanowanie w poszukiwaniu problemów
+10854= Skanowanie i naprawa problemów
+10855= Wybierz œlady, które chcesz skasowaæ
+10856= Poka¿ dymek wskazówki, gdy zminimalizujê do zasobnika systemowego
+10857= Sprawdzanie aktualizacji przy uruchomieniu programu
+
+10900= Anuluj zmiany
+10901= Proszê wybraæ kopiê zapasow¹, któr¹ chcesz przywróciæ, a nastêpnie klikn¹æ przycisk Przywróæ.
+10902= Przywracanie systemu
+10903= Utwórz punkt przywracania
+10914= Nowy punkt przywracania zosta³ utworzony.
+10904= Utworzenie punktu przywracania nie powiod³o siê! Przywracanie systemu mo¿e byæ wy³¹czone w tym systemie albo nie masz wystarczaj¹cych uprawnieñ.
+10905= Aby w³¹czyæ Przywracanie systemu, wykonaj nastêpuj¹ce kroki: Uruchom Panel sterowania -> System -> zak³adka Przywracanie systemu. Wyczyœæ pole wyboru "Wy³¹cz Przywracanie systemu na wszystkich dyskach", aby w³¹czyæ narzêdzie Przywracania systemu. Kliknij przycisk OK.
+10906= Wybierz najpierw punkt przywracania!
+10907= Zapisz zmiany i zamknij wszystkie otwarte programy. System Windows ponownie uruchomi siê automatycznie podczas procesu przywracania.
+10908= Wybierz najpierw kopiê zapasow¹!
+10911= Kopie zapasowe
+10912= Czy na pewno chcesz przywróciæ %s?
+10913= Przywracanie zakoñczone.
+10915= Wybierz punkt przywracania, który chcesz przywróciæ, a nastêpnie kliknij przycisk Przywróæ.
+
+10909= PodpowiedŸ
+10910= Glary Utilities nadal dzia³a.
+
+10916= FAQ
+10917= Skórka
+10918= Wersja Portable
+10919= Pomoc awaryjna
+
+[License Dialog]
+20001= To jest 30 dniowa wersja testowa.
+20002= Mo¿esz u¿ywaæ pe³nej wersji programu przez %s dni.
+20003= Jeœli program ci siê podoba i chcesz go u¿ywaæ dalej, kliknij Kup teraz.
+20004= Czas testowania: dni %s z %s2
+20005= Koniec wersji testowej. Przetestowa³eœ program przez %s dni.
+20006= Jeœli program ci siê podoba i chcesz go u¿ywaæ dalej, kliknij Kup teraz.
+20007= Koniec wersji testowej
+20008= Niezarejestrowany
+20009= Copyright(c)
+20010= Ten produkt jest zarejestrowany na:
+20011= Uwaga: Ten program jest chroniony przez prawa autorskie i prawo miedzynarodowe. Nieautoryzowana reprodukcja lub dystrybucja programu jest nielegalna oraz karalna.
+20012= Strona w sieci
+20013= Kup teraz
+20014= Wpisz kod
+20015= Testuj dalej
+20016= Nazwa licencji :
+20017= Kod rejestracyjny
+20018= Jeœli nie posiadasz kodu rejestracyjnego do odblokowania tej wersji próbnej, mo¿esz
+20019= Zamów on-line.
+20020= Podany kod rejestracyjny jest nieprawid³owy. Proszê upewniæ siê czy kod zosta³ wpisany poprawnie.
+20021= Podziêkowania dla nastêpuj¹cych osób za ich wk³ad:
+20022= Uaktualnij!
+20023= Proszê podaæ informacje na temat licencji
+20024= Typ licencji:
+20025= Aby uzyskaæ licencjê,
+20026= Strona Glary:
+
+20027= Uaktualnienie
+20028= Dlaczego warto uaktualniæ do wersji Professional:
+20029= + zapewni to relugarn¹ konserwacje i optymalizacje twojemu komputerowi
+20030= + naprawi wszystkie b³êdy, zwiêkszy szybkoœæ pracy komputera i zminimalizuje ryzyko wystêpowania awarii
+20031= + nieograniczona i darmowa pomoc techniczna za poœrednictwem poczty e-mail
+20032= + zgoda na komercyjne u¿ywanie
+20033= Uaktualnij do wersji PRO ju¿ dziœ, aby zaoszczêdziæ %s
+20034= Kup przez internet
+20035= Jeœli ju¿ posiadasz kod rejestracyjny, wprowadŸ go w poni¿szym formularzu i kliknij Aktywuj.
+20036= Aktywuj
+20037= Wpisz swoje imiê i nazwisko!
+20038= Kod licencji:
+20039= Aktywuj
+20040= Nie masz licencji?
+20041= Kliknij tutaj, aby otrzymaæ.
+20042= Zgubi³em kod licencji.
+20043= WprowadŸ informacje o licencji
+20044= Nazwa licencji:
+20045= Data wygaœniêcia:
+20046= Pozosta³o %s dni
+20047= Wygas³a %s dni temu
+20048= Odnów
+20049= Eksportuj licencjê
+20050= Mened¿er licencji Glary Utilities
+20051= E.g. AC6E-D9C6-FAB8-A8C8
+20052= Mened¿er licencji
+20053= Informacje o licencji zosta³y zapisane w: 
+
+[Updater]
+30001= Brak informacji z %s
+30002= U¿ywasz najnowszej wersji %s. Aktualizacja niepotrzebna.
+30003= U¿ywasz %s : %s2.
+30004= Nowa wersja %s do pobrania: %s2. Naciœnij OK, aby pobraæ plik lub Anuluj, jeœli nie chcesz go pobieraæ.
+30005= Aktualizacja zakoñczona
+30006= Wykonywanie aktualizacji wersji (%s)...
+30007= Wykonywanie aktualizacji pliku odniesienia (%s)...
+30008= Sprawdzanie aktualizacji...
+30009= Przygotowanie...
+30010= Wykonywanie aktualizacji...
+30011= Pozosta³y czas:
+30012= Transfer:
+30013= Nieznany
+30014= %s sek
+30015= %s z %s2 pobrano
+30016= %s/sek
+30017= Musisz uaktualniæ do wersji PRO z %s, aby skorzystaæ z tej funkcji. Uaktualniæ teraz?
+30018= %s jest dostêpnych obecnie. Kliknij tê wiadomoœæ, aby zainstalowaæ.
+30019= %s min %s2 sek
+30020= Próba aktualizacji pliku jêzykowego (%s)...
+30021= Wersja %s dostêpna. Zaktualizuj teraz!
+30022= Aktualizacja Glary Utilities
+30023= Nowa wersja Glary Utilities jest dostêpna!
+30024= Glary Utilities %s jest ju¿ dostêpna - twoja wersja %s2. Czy chcesz pobraæ now¹ wersjê teraz?
+30025= Nowoœci:
+30026= Pomiñ t¹ wersjê
+30027= Przypomnij mi póŸniej
+30028= Pobierz
+30029= Automatycznie pobieraj aktualizacje
+
+[Context Menu]
+40001= Analiza dysku z Glary Utilities
+40002= £¹czenie z Glary Utilities
+40003= Dzielenie z Glary Utilities
+40004= Odszyfrowanie z Glary Utilities
+40005= Szyfrowanie z Glary Utilities
+40006= Wymazywanie z Glary Utilities
+40007= Znajdowanie pustych folderów z Glary Utilities
+
+40008= Defragmentacja dysku z Glary Utilities
+40009= Defragmentuj dysk z Glary Utilities
+40010= Defragmentuj folder z Glary Utilities
+40011= Defragmentuj plik z Glary Utilities
+
+[Czyszczenie rejestru]
+11001= Naprawa rejestru
+11901= Czyœci i naprawia wpisy rejestru w celu poprawy skutecznoœci systemu.
+11002= Wybierz sekcje do skanowania
+
+11003= Wykonaj
+11004= Skanuj rejestr
+11005= Napraw rejestr
+11006= Przywracanie
+11007= Narzêdzia
+
+11008= Zaznaczone problemy zosta³y pomyœlnie naprawione.
+11009= Czy na pewno chcesz dodaæ pozycjê do listy ignorowanych? Nie bêdzie ju¿ ona wyszukiwana.
+11010= Plik zapisano w:
+11011= Wynik skanowania: 
+11012= Znaleziono 1 problem
+11013= Znaleziono %s problemów
+11014= Zaznaczono 1 problem do naprawy
+11015= Zaznaczono %s problemów do naprawy
+11016= Nic nie znaleziono
+11017= Nic nie zaznaczono do naprawy
+11018= (Znaleziono %s problem(ów))
+11019= Analizowanie
+11020= Sekcja:
+11021= Korekcja:
+11022= Otwórz w Regedit
+11023= Otwórz wpis w Edytorze rejestru
+11024= Usuñ
+11025= Pozostaw bez zmian
+11026= Pomijaj zawsze(Nie szukaj ponownie)
+11027= W³aœciwoœci
+11028= Poka¿ w³aœciwoœci skrótu
+11029= Usuñ ten skrót
+11030= Zostaw ten skrót bez zmian
+
+11031= Skanowanie zakoñczone
+11032= Napraw
+11033= Kliknij Napraw lub Zamknij, aby zobaczyæ rezultat.
+11034= Naprawa zakoñczona
+11035= Skanowanie
+11036= Naprawianie
+
+11037= Przywróæ
+11038= Wybierz kopie do przywrócenia i kliknij Przywróæ.
+11039= Kopia
+11040= Na pewno przywróciæ %s do rejestru systemu?
+11041= %s przywracanie zakoñczone.
+
+11042= Wpis rejestru %s pliku lub folderu %s2 nie istnieje.
+11043= Klucz rejestru %s nie istnieje.
+11044= Klucz rejestru nie zawiera danych, mo¿na go usun¹æ.
+11045= Klucz rejestru wartoœci CLSID %s nie istnieje.
+11046= Klucz rejestru pliku ikony %s nie istnieje.
+11047= Wpis menu kontekstowego %s wskazuje na brak programu %s2
+11048= Klucz rejestru jest niekompletny, poniewa¿ komenda klucza podrzêdnego nie istnieje.
+11049= Klucz rejestru jest niekompletny, poniewa¿ nie zawiera ¿adnych danych, które s¹ potrzebne przez system Windows.
+11050= Klucz rejestru nieistniej¹cego InprocServer %s. Skojarzone CLSID mo¿na usun¹æ.
+11051= Klucz rejestru nieistniej¹cego LocalServer32 %s. Skojarzone CLSID mo¿na usun¹æ.
+11052= Klucz rejestru nieistniej¹cej biblioteki %s
+11053= Klucz rejestru nieistniej¹cego folderu %s
+11054= Klucz rejestru %s nie zawiera danych. Skojarzone biblioteki mo¿na usun¹æ.
+11055= Klucz rejestru nieistniej¹cego pliku %s
+11056= Wskazany plik %s nieznaleziony.
+11057= Plik %s skojarzony z t¹ pozycj¹ %s2 nie istnieje.
+11058= Wpis rejestru %s nieistniej¹cego pliku pomocy %s2
+11059= Zaginiony plik wspólny %s
+11060= Plik wspólny %s jest ju¿ nieu¿ywany.
+11061= Œcie¿ka dostêpu do pliku z obrazkiem %s. Skojarzenie mo¿na usun¹æ.
+11062= Wpis rejestru %s zaginionego pliku %s2
+11063= Skrót zaginionego obiektu %s
+11064= Klucz rejestru odwo³uje siê do folderu menu Start %s ,który zosta³ usuniêty.
+11065= Wpis rejestru %s zaginionego programu %s2
+11066= Komenda "uninstall" nie zawiera ¿adnych informacji potrzebnych do usuniêcia programu lub komponentu.
+11067= Œcie¿ka Ÿród³owa instalacji programu %s nie znaleziona.
+11068= Wpis rejestru %s nieistniej¹cego folderu %s2 
+
+11069= Usuñ klucz :
+11070= Usuñ wartoœæ :
+11071= Usuñ plik :
+
+11072= Lista ignorowanych
+11073= Lista ignorowanych wartoœci podczas skanowania rejestru. Jeœli chcesz, aby narzêdzie Czyszczenie rejestru wykluczy³ jedn¹ z tych wartoœci, po prostu usuñ zaznaczenie.
+11074= Klucz rejestru
+
+11075= Wybierz folder dla kopii: 
+11076= Limit kopii:
+11077= %s ju¿ istnieje. Czy chcesz go zast¹piæ?
+11078= Zast¹p
+11079= Podsumowanie znalezionych problemów: (%s znalezionych problemów, %s2 problemów wybranych do naprawy.)
+11080= Podsumowanie znalezionych problemów: (znaleziono 1 problem, 1 problem wybrany do naprawy)
+11081= (znaleziono 1 problem)
+11082= Podsumowanie znalezionych problemów: (Nie znaleziono ¿adnych problemów, brak problemów do naprawy)
+11083= Skanowanie...
+11084= Nie znaleziono problemów, nie wybrano problemów do naprawy.
+11085= %s znalezionych problem(ów), %s2 problem(ów) wybranych do naprawy.
+11086= %s znalezionych problem(ów), %s2 problem(ów) wybranych do naprawy.
+11087= Naprawianie...
+11088= Eksportuj plik rejestru
+11089= Aktualny klucz:
+11090= Wyeksportowany klucz:
+11091= %s problem(ów) wybranych do naprawy
+11092= Wyeksportowano pomyœlnie!
+
+[Analiza dysku]
+19001= Analizator wykorzystania dysku
+19901= Pobierz informacje o wybranych plikach i folderach.
+19003= Eksploruj
+19004= Wiersz polecenia
+19005= Usuñ(do Kosza)
+19006= Poka¿ pasek narzêdzi
+19007= Poka¿ pasek stanu
+19008= Poka¿ rodzaj plików
+19009= Poka¿ du¿e pliki
+19010= Pliki
+19011= Foldery
+19012= Atrybuty
+19013= Procentowo
+19014= Typ pliku
+19015= Opis
+19016= Nazwa pliku
+19017= Folder
+19018= Modyfikacja
+19019= Wczytywanie plików...
+
+19020= [Pliki]
+19021= Mój komputer
+
+19022= Wybierz dysk
+19023= Wszystkie dyski
+19024= Indywidualnie
+19025= Folder
+19028= U¿yto/Rozmiar
+19029= Wybierz folder:
+
+1801001= Analiza
+1801002= Wstecz
+1801003= Komputer
+1801004= 
+1801005= Poka¿ rozszerzenia
+1801006= Wszystkie typy
+1801007= Filmy
+1801008= Skompresowany
+1801009= Muzyka
+1801010= Obrazy
+1801011= Dokumenty
+1801012= Inne
+1801013= Rozszerzenie
+1801014= Liczba plików
+1801016= Typ
+1801017= Lokalizacja
+1801018= Data modyfikacji
+1801019= Wolne miejsce
+
+1801020= Pasek narzêdzi
+1801021= Nawigacja
+1801022= Szczegó³y
+1801023= Poka¿ wszystkie pliki
+1801024= Foldery i pliki
+
+1801025= Analizuj dysk teraz
+1801026= Dysk nie zosta³ jeszcze zanalizowany. \nPoniewaz dysk nie zosta³ jeszcze przeanalizowany, brak informacji na temat wykorzystania przestrzeni dyskowej, typ pliku lub najwiêkszych plików, Podczas analizy, informacje na temat wybranych dysków, plików i folderów oraz wykorzystanie miejsca na dysku s¹ zgromadzone i wyœwietlone.
+1801027= SprawdŸ tylko to
+
+1801028= Rozmiar pliku:
+1801029= Ca³kowity rozmiar:
+1801030= Dostêp:
+1801031= Zmodyfikowany:
+1801032= Utworzony:
+1801033= %s wybranych elementów
+1801034= Rozmiar:
+1801035= Ca³kowita zawartoœæ
+1801036= Nieznany
+1801037= Zajête miejsce:
+1801038= Przeanalizowane
+1801039= Nie przeanalizowane
+
+1802001= Zakoñczono
+1802002= Nie powiod³o siê
+1802003= Przerwane
+1802004= Analiza twojego miejsca przechowywania
+1802005= Proszê czekaæ a¿ zakoñczy siê analiza wybranych miejsc przechowywania.
+
+1803001= Nieprawid³owa œcie¿ka:\n
+1803002= Œcie¿ka pliku:\n
+1803003= %s elementów nie mo¿e zostaæ przeskanowanych
+
+1804001= Wybrany dysk nie zosta³ jeszcze przeanalizowany. Analiza powinna byæ wykonana teraz?
+
+1805001= Czy na pewno chcesz przenieœæ %s elementów do Kosza?
+1805002= Usuñ
+1805003= Usuwnie %s elementów
+
+[Programy startowe]
+14001= Programy startowe
+14901= Wybierz programy, które maj¹ uruchamiaæ siê przy starcie systemu.
+14002= Odznacz wpis
+14003= Zaznacz wpis
+14004= Dodaj program...
+14005= Usuñ wpis
+14006= Edytuj wpis...
+14007= Poka¿ szczegó³y
+14008= Lista startowa
+14010= Inne
+14011= Zaplanowane zadania
+14012= Us³ugi (lokalne)
+14013= Programy, które s¹ uruchamiane podczas startu systemu Windows lub przy logowaniu.
+14014= Nic nie zaznaczono.
+14015= B³êdny wpis. Mo¿e byæ usuniêty.
+14016= <brak informacji>
+14017= Produkt:
+14018= Firma:
+14019= Dodaj do autostartu
+14020= Na pewno wykasowaæ pozycjê
+14021= Edytuj pozycje startow¹
+
+14022= Œcie¿ka
+14024= Lokalizacja
+14035= Ocena ryzyka
+14025= W³¹czone
+14026= Wy³¹czone
+
+14027= Raport listy startowej utworzono w %s przez %s2
+14028= W sumie %s pozycji
+14029= Raport zapisano w %s
+
+14030= Szukaj w Google...
+
+14031= Konfiguracja pozycji startowej
+14032= Wpisz nazwê.
+14033= Wpisz lokalizacjê.
+14034= Pliku nie znaleziono. Kontynuowaæ?
+
+14043= Nieznany
+14036= Solidny
+14037= Twój wybór
+14038= Neutralny
+14039= Nieodpowiedni
+14040= Niebezpieczny 
+14041= Skomentuj
+14042= Wiêcej informacji
+
+14044= Komentarz
+14045= Komentarz o tym wpisie
+14046= Opinia o tym wpisie
+14047= To spowoduje zmianê oceny ryzyka
+14048= Dodaj komentarz
+
+14049= Czas opó¿nienia
+14050= Uruchom
+14051= Programy opóŸnione przy starcie.
+14052= W górê
+14053= W dó³
+14054= Aby opóŸniæ aplikacjê, wybierz j¹ z powy¿szej listy lub przeci¹gnij i upuœæ j¹ na poni¿sz¹ listê.
+14055= Aby usun¹æ opóŸnienie aplikacji, nale¿y j¹ wybraæ z poni¿szej listy lub przeci¹gn¹æ i upuœciæ j¹ na powy¿sz¹ listê.
+14056= Wykryto duplikat wpisu
+14057= Wydaje siê, ¿e %s zosta³ dodany z powrotem do procesu uruchamiania systemu Windows po umieszczeniu go na listê opóŸnionych aplikacji.
+14058= Aby rozwi¹zaæ ten problem, nale¿y otworzyæ %s i poszukaj opcji mówi¹cej o "Starcie z systemem Windows" lub coœ podobnego i go wy³¹czyæ.
+14059= Jeœli ta opcja nie istnieje, mo¿esz skontaktowaæ siê z autorem %s, który doda to, nastêpnie zapytaj czy mog¹ dodaæ funkcjê wy³¹czaj¹c¹ %s od uruchamiania tego automatycznie z systemem Windows.
+14060= Je¿eli nie jest mo¿liwe, aby zatrzymaæ %s przy starcie Windows, wtedy lepiej by³oby po prostu pozwoliæ Windowsowi obs³u¿yæ i usun¹æ %s z listy opóŸnionych aplikacji.
+14061= Czy chcesz usun¹æ %s z listy opóŸnionych aplikacji?
+14062= OpóŸnione
+14063= OpóŸnij
+14064= Usuñ  
+14065= sek
+
+2501001= Pasek szczegó³ów
+2501002= Pasek stanu
+2501003= Uruchomione
+2501004= Zatrzymane
+2501005= Pamiêæ u¿ywana
+2501006= StartUp wpis ju¿ istnieje.\nCzy chcesz go zast¹piæ?
+2501007= Nie uda³o siê ustawiæ danych dla '%s'
+
+[Oczyszczanie dysku]
+13001= Oczyszczanie dysku
+13901= Usuñ niepotrzebne pliki i odzyskaj wolne miejsce na dysku.
+13002= Oczyszczanie dysku
+13003= Wiêcej opcji
+13004= Wybierz dysk do wyczyszczenia.
+13005= Kliknij Dalej, gdy wybierzesz dysk. 
+13006= Poczekaj, a¿ %s wykona skanowanie wybranego dysku.
+13010= Kliknij Dalej, gdy wybierzesz dysk. 
+13007= Oczyszczaj¹c dysk zwolnisz %s przestrzeni na dysku %s2
+13008= Uzyskiwane miejsce na dysku:
+13009= Kopia %s przed czyszczeniem.
+13110= Pliki...
+13011= Kliknij Dalej, aby uruchomiæ proces czyszczenia.
+13012= Komponenty Windows
+13013= Uzyskaj wolne miejsce na dysku usuwaj¹c nieu¿ywane komponenty systemu Windows.
+13014= Czyszczenie...
+13015= Przywróæ
+13016= Przywracanie plików tymczasowych z kopii.
+13017= Przywróæ...
+
+13018= Oczyszczanie wykonane.
+13019= Kopia wykonana.
+13020= Kliknij Zamknij, aby powróciæ na stronê g³ówn¹.
+
+13021= Wybierz co najmniej jeden dysk.
+
+13022= Skanowanie...
+13023= Zakoñcz
+13024= Rozpoczynanie...
+13025= Kosz zawiera pliki, które zosta³y usuniête z komputera. Nie zostan¹ one trwale usuniête dopóki nie opró¿nisz kosza.
+13026= Pliki tymczasowe
+13027= Niektóre programy zostawiaj¹ informacje w folderze Temp. Zwykle programy przed ich zamkniêciem usuwaj¹ te informacje.
+13028= Pliki zerowe
+13029= Pliki zerowe nie zawieraj¹ informacji, ostro¿nie z ich usuwaniem.
+13064= Tymczasowe pliki internetowe
+13065= Folder tymczasowych plików internetowych zawiera strony sieci Web przechowywane na dysku twardym w celu szybkiego ich wyœwietlania. Twoje osobiste ustawienia dla stron Web nie zostan¹ naruszone.
+
+13030= Opró¿nianie Kosza...
+13031= Czyszczenie Tymczasowych plików internetowych...
+13032= Usuwanie Plików tymczasowych...
+13033= Usuwanie Plików zerowych...
+
+13034= Wybierz pliki do wykasowania.
+13035= Nic nie wybrano.
+13036= Otwórz plik
+13058= W sumie %s plików
+13059= Utworzono:
+13060= Modyfikacja:
+13061= Ostatni dostêp:
+
+13037= G³ówne
+13038= Wyklucz
+13039= Do³¹cz
+
+13040= Zobacz listê plików poni¿ej i zaznacz je w celu wyszukania lub nie zaznaczaj ich, jeœli nie chcesz ich szukaæ.
+13041= Typ pliku
+13042= Jeœli nie jesteœ pewien, zalecamy nic nie zmieniaæ.
+13043= Wszystkie pliki w tych folderach nigdy nie bêd¹ brane pod uwagê jako œmieci.
+13044= Folder
+13045= Wszystkie pliki w tych folderach bêd¹ brane pod uwagê jako œmieci, bez wzglêdu na ich typ.
+
+13046= Mo¿esz u¿yæ wieloznacznik, np. *.tmp
+13047= Koniec nazwy pliku:
+13048= Wpisz nazwê rozszerzenia.
+13049= Mo¿esz u¿yæ wieloznacznik.
+13050= Nie powinien byæ pusty.
+
+13051= Wybierz kopiê do przywrócenia i kliknij Przywróæ.
+
+13052= Dowolna kopia
+13053= SprawdŸ zaznaczone wpisy, które chcesz przywróciæ i kliknij przycisk Przywróæ.
+13054= Przywracanie wykonane.
+
+13055= Obiekty
+13056= Pliki
+13057= Œcie¿ka
+13062= Typ
+
+13063= Dodaj plik typu Œmieæ
+
+1301001= Wyczyœæ dysk
+1301002= Skanuj
+1301003= Przywróæ
+1301004= Œcie¿ka
+1301005= Utwórz kopiê zapasow¹ zaznaczonych
+1301006= Zaznacz wszystko
+1301007= Odznacz
+1301008= Domyœlne
+1301009= Ostanio dysk by³ czyszczony:
+1301010= %s/%s2/%s3
+1301011= Szybki i ³atwy sposób na pozbycie siê niepotrzebnych plików z komputera.
+1301012= Zaoszczêdzone miejsce: %s
+1301013= Gratulacje! Twoje dyski ju¿ by³y czyste.
+1301014= Regularne czyszczenie pozwala zaoszczêdziæ miejsce na dysku.
+1301015= Wynik
+1301016= Lista plików
+1301017= Skanuj ponownie
+1301018= Wyklucz ten plik
+
+1302001= Windows
+1302002= Tymczasowe pliki systemu
+1302003= U¿ytkownik tymczasowy
+1302004= Pamiêæ podrêczna miniatur
+1302005= Pliki zrzutu pamiêci
+1302006= Pliki raportu o b³êdzie
+1302007= Pliki dziennika systemowego
+1302008= Pamiêæ podrêczna zdalnego pulpitu
+1302009= Kosz
+1302010= Nieprawid³owe skróty menu start
+1302011= Nieprawid³owe skróty pulpitu
+1302012= Pliki dziennika us³ug IIS
+1302013= Stare dane Prefetch
+1302014= Pamiêæ podrêczna czcionki
+1302015= Pobrane programy
+1302016= Aktualizacje systemu Windows
+1302017= Przegl¹darki
+1302018= Internet Explorer
+1302019= Pamiêæ podrêczna Mozilla Firefox
+1302020= Pamiêæ podrêczna Google Chrome 
+1302021= Pamiêæ podrêczna Opera
+1302022= Aplikacje
+1302023= Pamiêæ podrêczna Google Earth
+1302024= Pamiêæ podrêczna Picasa
+1302025= Pamiêæ podrêczna ACSee
+1302026= Disk Drives
+1302027= Proszê wybraæ co najmniej jeden dysk do skanowania
+1302028= Czy chcesz utworzyæ kopiê zapasow¹ plików przed czyszczeniem?
+1302029= Utworzenie kopii zapasowej nie powiod³o siê, czy chcesz kontynuowaæ czyszczenie?
+1302030= Liczb plików: %s   Rozmiar plików: %s2
+1302031= Zaznaczonych elementów: %s
+1302032= Skanowanie zakoñczone. Znaleziono %s plików, w sumie %s2.
+1302033= Zaleca siê wyczyszczenie twojego dysku.
+1302034= Gratulacje! Twój komputer jest czysty!
+1302035= Utrzymywanie komputera w czystoœci jest dobrym zwyczajem. Tak trzymaj!
+1302036= Skanowanie zosta³o anulowane!
+1302037= Wybrano %s plików, w sumie %s2.
+1302038= Czyszczenie zosta³o zakoñczone. W sumie %s zwolnionego miejsca na dysku.
+1302039= Czyszczenie zosta³o zakoñczone.
+1302040= %s jest u¿ywany, nie mo¿e zostaæ usuniêty teraz.
+1302041= Niepotrzebne pliki : %s
+1302042= Niestandardowe pliki i foldery
+1302043= Niestandardowa nazwa 
+1302044= Niestandardowe pliki i foldery
+1302045= Lokalizacja
+1302046= Przyk³ad: *.tmp|*.log
+1302047= Przyk³ad: *.sys|*.txt
+1302048= Uwzglêdnij tylko pliki
+1302049= Uwzglêdnij pliki i podfoldery
+1302050= Aby byæ bezpiecznym, nie mo¿esz czyœciæ plików w katalogu systemowym Windows.
+1302051= Czy na pewno chcesz opró¿niæ ten katalog?
+1302052= Aby byæ bezpiecznym, nie nale¿y wybieraæ plików systemowych Windows.
+1302053= Wybierz dodatkowe pliki i foldery, które chcesz usun¹æ(tylko zaawansowani u¿ytkownicy).
+1302054= Proszê wybraæ pliki lub foldery, które chcesz usun¹æ.
+1302055= Niestandardowy plik lub folder ju¿ istnieje, czy nadal chcesz go dodaæ?
+1302056= Niestandardowy plik lub folder ju¿ istnieje, czy nadal chcesz to zmieniæ?
+1302057= Twój komputer nie ma wiele niepotrzebnych plików. Utrzymywanie komputera w czystoœci jest dobrym zwyczajem. Tak trzymaj!
+
+
+1303001= Kopia zapasowa...
+
+1304001= Nie mo¿na wyœwietliæ danych!
+
+1305001= Rozpoczêcie: 
+1305002= Wynik skanowania: 
+1305003= Nie znaleziono niepotrzebnych plików
+1305004= Znaleziono %s plików, w sumie %s2
+1305005= Zakoñczenie: 
+1305006= W sumie:
+1305007= %s plików, zostanie zwolnione %s2 miejsca na dysku
+1305008= Czyszczenie...
+1305009= Czyszczenie zosta³o zakoñczone.
+1305010= W sumie %s plików zosta³o usuniêtych, zwolniono %s2 miejsca na dysku.
+1305011= %s plik nie mo¿e zostaæ oczyszczony.
+1305012= Czas zapisu:
+1305013= W sumie %s plików, %s2.
+
+1305014= %s musi zostaæ zamkniêty, aby wyczyœciæ pamiêæ podrêczn¹ Internetu.\nCzy chcesz zakoñczyæ dzia³anie programu %s?
+1305015= Firefox
+
+[Odinstaluj program]
+12001= Odinstaluj program
+12901= Odinstaluj programy, których ju¿ nie u¿ywasz.
+12002= Kopia wpisu deinstalacji
+12003= Przywróæ wpis deinstalacji
+12004= Eksportuj listê programów
+12005= Odinstaluj program
+12006= Odinstaluj zaznaczone programy
+12007= Modyfikuj w³aœciwoœci
+12008= Przywróæ usuniêty wpis
+12009= Poka¿ lokalizacjê
+12010= Aktualnie zainstalowane programy:
+12011= Sortuj:
+12012= Data zainstalowania
+12013= Autonaprawa b³êdnych wpisów
+12014= Zaznacz pozycje
+12015= Szukaj programów
+12016= Informacje o programie.
+12017= Lokalizacja
+12038= Usuñ wpis
+
+12018= Zmieñ
+12019= Usuñ
+12020= Zmieñ/Usuñ
+
+12021= W sumie %s programów
+12022= Nie mo¿na usun¹æ folderu %s , jest u¿ywany przez inn¹ osobê lub program. Usun¹æ przy nastêpnym starcie systemu?
+12023= Nowy!
+
+12024= Aby zmieniæ lub usun¹æ program z komputera,%s kliknij Zmieñ/Usuñ.
+12025= Aby zmieniæ lub usun¹æ program z komputera,%s kliknij Zmieñ lub Usuñ.
+12026= Aby usun¹æ program z komputera,%s kliknij Usuñ.
+
+12027= Zainstalowano
+12028= Pili rejestru(*.reg)
+12031= Plik txt(*.txt)
+12029= Przywrócono pomyœlnie informacje z %s
+12030= Na pewno usun¹æ %s z komputera?
+12032= Raport zapisano w 
+12033= Programy zainstalowane na komputerze (W sumie %s programów):
+12034= Plik zapisano w: 
+12035= Wszystkie zainstalowane programy s¹ OK, z³ych wpisów nie znaleziono.
+12036= Na pewno usun¹æ %s z listy zainstalowanych programów?
+
+12037= B³¹d przy usuwaniu %s. Mo¿e jest ju¿ odinstalowany. Chcesz usun¹æ %s2 z listy zainstalowanych programów?
+12039= %s jest jako "Ukryty" program i mo¿e byæ u¿ywany przez system. Na pewno chcesz go odinstalowaæ?
+12040= W katalogu instalacyjnym "%s" pozosta³y pliki. Aby nie usun¹æ przydatnych danych, kliknij Przegl¹daj katalog, jeœli s¹ bezu¿yteczne, kliknij Usuñ wszystko.
+12041= Przegl¹daj katalog
+12042= Usuñ wszystko
+12043= Kopia tego wpisu przed usuniêciem.
+
+12044= Szukanego zwrotu nie znaleziono.
+12045= ZnajdŸ
+12046= Dalej
+12047= Co znaleŸæ:
+
+12048= Znaleziono nastêpuj¹ce b³êdne wpisy. Chcesz usun¹æ ten wpis rejestru?(Mo¿esz usun¹æ rêcznie póŸniej)
+12049= B³êdny wpis
+12050= Kopia tych wpisów przed usuniêciem.
+
+12051= Wybierz wpis programu do przywrócenia i naciœnij Przywróæ.
+12052= Przywróæ
+12053= Wpis programu
+12054= Data kopii
+12055= Czy na pewno chcesz przywróciæ wpis programu %s do rejestru systemowego?
+
+12056= U¿yj poni¿szych informacji, aby uzyskaæ pomoc techniczn¹ do
+12058= Wydawca
+12059= Wersja:
+12060= Kontakt:
+12061= Informacja: 
+12062= Czytaj:
+12063= Aktualizacja:
+12064= Komentarz:
+12065= ID produktu:
+12066= Zarejestrowana firma:
+12067= Zarejestrowany w³aœciciel:
+12068= Po³o¿enie:
+
+12069= Programy (*.exe;*.com;*.bat)
+12070= Wszystkie pliki (*.*)
+12071= Wpisana lokalizacja mo¿e byæ b³êdna. Mimo to chcesz kontynuowaæ?
+
+12072= Uruchom program instalacyjny
+12073= Po³o¿enie programu odinstalowuj¹cego:
+12074= B³¹d przy próbie usuwania %s. Nie masz dostêpu do %s2 .
+12075= Okreœl poni¿ej nowy program do usuniêcia.
+
+12076= Kopia zapasowa tego wpisu
+12077= Informacje o pomocy technicznej
+12078= Poka¿ aktualizacje systemu Windows
+
+12080= Ikony
+12081= Lista
+12082= Szczegó³y
+
+12083= Wszystkie programy
+12084= Ostatnio zainstalowane programy
+12085= Programy zajmuj¹ce du¿o miejsca
+12086= Rzadko u¿ywane programy
+12087= Aktualizacje systemu Windows
+
+12088= Ostatnio u¿ywane:
+12089= Informacje deinstalacji zapisane do:
+
+[Wyszukaj duplikaty plików]
+15001= Wyszukiwanie duplikatów plików
+15901= Wyszukaj zmarnowane miejsce na dysku przez duplikaty plików.
+15002= Szukaj duplikatów plików
+15003= Otwórz plik
+15004= Otwórz z...
+15005= Eksploruj folder
+15006= W³aœciwoœci pliku
+15007= Wygeneruj raport
+15008= Usuñ zaznaczone pliki
+15012= Po jednym w ka¿dej grupie
+15013= Wyklucz ten folder w nastêpnym szukaniu
+15015= Œcie¿ka
+15016= %s z %s2 pozycji zaznaczonych do usuniêcia.
+15017= Grupa duplikatów plików
+15018= Na pewno wykluczyæ wszystkie pozycje w wybranym folderze %s w kolejnym wyszukiwaniu?
+15019= Nic nie zaznaczono do usuniêcia.
+
+15020= Kreator skanowania
+15021= Wybierz dyski lub foldery do przeskanowania.
+15022= Dyski
+15023= Foldery
+15024= Dodaj folder
+15025= Dopasuj kryteria znajdowanych duplikatów plików
+15026= Tak sama nazwa
+15027= Taki sam rozmiar
+15028= Ten sam czas
+15029= Ignoruj pliki mniejsze ni¿ 
+15030= Szukaj tylko poni¿szych plików
+15031= Skanuj wszystko
+15032= Typ pliku
+15033= Wyklucz te foldery z wyszukiwania:
+15034= Folder
+15035= Trwa skanowanie...
+
+15036= Nie wybrano dysku. Wybierz dysk, aby kontynuowaæ.
+15037= Nie wybrano folderu. Dodaj folder, aby kontynuowaæ.
+15038= Nie wybrano plików. Dodaj pliki, aby kontynuowaæ.
+15039= Rozmieszczanie plików. To chwilê potrwa. Proszê czekaæ...
+15040= W sumie %s plików zeskanowano i znaleziono %s2 duplikat(ów).
+
+15041= WprowadŸ now¹ nazwê pliku do wyszukiwania
+15042= Mo¿esz u¿yæ wieloznacznik, np. *.avi
+15043= Koniec nazwy na:
+15044= Wpisz rozszerzenia.
+
+15045= Wpisz folder
+15046= Wybierz folder
+15047= Mo¿esz u¿yæ wieloznacznik *,?
+15048= Nie powinien byæ pusty.
+
+1501001= Wyszukiwanie wed³ug kryterium
+1501002= Zaznacz inteligentnie
+1501003= 0 z %d pozycji oznaczonych do usuniêcia
+1501004= %s ju¿ istnieje.\nCzy chcesz go zast¹piæ?
+1501005= PotwierdŸ Zapisz jako
+1501006= Usuñ plik
+
+1502002= Wyklucz plik
+
+1503001= Zduplikowane pliki, które spe³niaj¹ kryteria
+
+1504001= Skanuj
+1504002= Zajête
+1504003= U¿ywane
+1504004= Wolne
+1504005= Œcie¿ka pliku
+
+1505001= Lokalizacja
+1505002= Stan
+1505003= Oczekiwanie
+1505004= £adowanie
+1505005= W sumie %d przeskanowanych plików, %d znalezionych duplikatów.
+1505006= Organizowanie plików, prosimy o cierpliwoœæ...
+
+1506001= Ogólne
+1506002= Wyklucz plik
+
+[Wyszukaj puste foldery]
+16001= Wyszukiwanie pustych folderów
+16901= Wyszukaj i usuñ puste foldery w swoim systemie.
+16002= Wyszukaj puste foldery
+16003= Lista wykluczonych folderów
+16004= Usuñ zaznaczone foldery
+16005= Wyklucz ten folder(Nie szukaj ponownie)
+16006= Wyklucz
+16007= Folder
+16008= Czy na pewno dodaæ %s do listy ignorowanych? Nie bêdzie wyszukiwany ponownie.
+
+16009= Lista ignorowanych
+16010= Lista ignorowanych wpisów przy wyszukiwaniu pustych folderów. Jeœli chcesz uwzglêdniæ jeden z tych wpisów, to usuñ zaznaczenie.
+
+16011= Skanuj
+16012= Zaznacz dyski do przeskanowania 
+
+1601001= Przygotowanie drzewa pustych folderów...
+
+1602001= Przygotowanie listy folderów...
+1602002= Skanowanie zakoñczone.
+1602003= Skanowanie %s
+1602004= £adowanie dysków...
+1602005= Sortowanie plików...
+1602006= Zapisywanie danych...
+1602007= Inicjalizacja...
+1602008= Skanowanie pustych folderów...
+1602009= Sortowanie pustych folderów...
+
+[Napraw skróty]
+17001= Naprawa skrótów
+17901= Koryguje b³êdne skróty w menu Start i na pulpicie.
+17002= Skanuj
+17003= Napraw skróty
+17004= Usuñ
+17005= Obiekt
+17006= Lokalizacja
+17007= Przegl¹daj w poszukiwaniu b³êdnych skrótów
+17008= Skanuj
+17009= Opcje skanowania
+17010= Skanuj tylko menu Start i Pulpit
+17011= Wyszukaj puste foldery w menu Start
+17012= Zaznacz dyski do przeskanowania 
+17013= Nic nie znaleziono.
+
+1701001= Szybkie skanowanie
+1701002= Zaawansowane skanowanie
+1701003= Zatrzymaj skanowanie
+1701004= Napraw wszystkie zaznaczone
+1701007= B³¹d
+1701008= Naprawiono
+1702001= Lokalizacja:
+1702002= Cel:
+1702003= Argumenty:
+1702004= Opis:
+1702005= Kliknij przycisk Zastosuj, aby zapisaæ zmiany.
+1702006= Wybrano folder.
+1703001= Usuñ
+1703002= Kliknij %s, aby usun¹æ wybrany skrót z listy;{\r\n}Kliknij %s2, aby przenieœæ wybrane skróty do Kosza;{\r\n}Kliknij s3%, aby trwale usun¹æ wybrane skróty.
+1703003= Kopia zapasowa wybranych skrótów przed usuniêciem
+
+[Tracks Eraser]
+18001= Zacieranie œladów
+18901= Usuñ wszystkie dane, ciasteczka, historiê IE i wiele innych.
+18002= Usuñ zaznaczone pozycje
+18003= Poka¿ tylko to, co mo¿na wykasowaæ
+18004= Usuñ te pozycje
+18005= Nic nie zaznaczono. Aby wyczyœciæ œlady u¿ytkowania, zaznacz odpowiednie pola z lewej strony.
+18006= Na pewno wykasowaæ %s?
+18007= Pozycja wyczyszczona pomyœlnie.
+18008= Na pewno wyczyœciæ %s?
+
+18009= Menad¿er ciasteczek IE 
+18010= IE Typ URL
+18011= SprawdŸ zaznaczone ciasteczka, które chcesz zatrzymaæ, gdy czyœcisz ciasteczka Internet Explorera
+18012= Strona
+18013= Odwiedzin
+18014= Zmodyfikowano
+18015= Wygas³a
+18016= Pe³ny adres
+18017= Usuñ niesprawdzone ciasteczka
+18018= SprawdŸ zaznaczone adresy URL, które chcesz zatrzymaæ, gdy czyœcisz historiê URL-ów Internet Explorera
+18019= Adres URL
+18020= Usuñ niesprawdzone adresy URL
+
+18021= Usuwanie
+
+18022= Windows
+18023= Usuwa historiê, niedawno u¿ywane Listy MRU i inne dane systemu Microsoft Windows
+18024= Ostatnio otwarte dokumenty
+18025= Czyœci listê ostatnio otwartych dokumentów i plików na komputerze. Ta lista zwykle znajduje siê w menu Start > Moje dokumenty.
+18026= Uruchom w menu Start
+18027= Czyœci historiê ostatnio u¿ytej komendy w oknie Start > Uruchom.
+18028= Microsoft Common Dialog - Plik/Folder Lista
+18029= Microsoft Common Dialog is a standard component utilized by many software applications to provide, file, folder, color, and printer selection. Narzêdzie Zacierania œladów czyœci historiê wyborów dokonanych na komputerze. Poniewa¿ Microsoft Common Dialog Control jest wykorzystywany najczêœciej do Otwórz/Zapisz plik w oknach dialogowych, narzêdzie do zacierania œladów wyczyœci folder historii otwierania w wiêkszoœci aplikacjach. Kasuje listê ostatnio otwartych/zapisanych plików i folderów, któr¹ mo¿na znaleŸæ na komputerze.
+18030= Szukaj w menu Start
+18031= Czyœci ca³¹ historiê wyszukiwañ w menu Start systemu Windows.
+18032= Schowek
+18033= Praca z plikami zwykle wymaga u¿ycia Kopiuj i Wklej. Schowek systemu Windows pamiêta ostatni¹ wykonan¹ operacjê kopiowania i mo¿e zawieraæ istotne informacje na temat twojej aktywnoœci, takich jak has³o, numer karty kredytowej b¹dŸ informacji osobistych.
+18034= Pliki tymczasowe
+18035= Opró¿nij katalog plików tymczasowych.
+18036= Kosz
+18037= Opró¿nij kosz.
+18038= Mapowanie dysków sieciowych
+18039= Kiedy mapujesz dyski sieciowe, aby uzyskaæ do nich dostêp za pomoc¹ liter dysków, system Windows zapamiêtuje wszystkie mapowania w rejestrze. Pozb¹dŸ siê tych informacji za pomoc¹ tego ustawienia.
+18040= Historia menu Start 
+18041= System Windows przechowuje listê ostatnio wybranych pozycji w menu Start. Zaznacz tê opcjê, aby wyczyœciæ historiê menu Start.
+18042= Moje miejsca sieciowe
+18043= Podczas korzystania z Moje miejsca sieciowe w celu uzyskania dostêpu do zdalnych serwerów, wszystkie twoje ostatnie akcje s¹ przechowywane, ka¿dy mo¿e zobaczyæ, jakie miejsca sieciowe ogl¹da³eœ po prostu patrz¹c na listê MRU znajduj¹c¹ siê w folderze Moje miejsca sieciowe. Zaznacz tê opcjê, aby wyczyœciæ.
+
+18044= Internet Explorer
+18045= Usuwa historiê, niedawno u¿ywane listy MRU, tymczasowe pliki internetowe i inne dane z przegl¹darki internetowej Internet Explorer.
+18046= IE - Historia URL
+18047= Usuwa historiê wpisanych adresów URL w pasku adresu programu Internet Explorer. Kiedy ta historia jest przechowywana, program Internet Explorer próbuje odgadn¹æ, jak¹ stronê próbujesz otworzyæ za pomoc¹ "Intellisense", podczas pisania www.gl - odgadnie www.glarysoft.com lub jakikolwiek inny adres zaczynaj¹cy siê na www.gl, który odwiedzi³eœ.
+18048= IE - Historia
+18049= Usuwa historiê odwiedzonych witryn internetowych w programie Internet Explorer.
+18050= IE - Ciasteczka
+18051= Strony internetowe przechowuj¹ informacje w niewielkich plikach tekstowych, nazywanych Ciasteczkami na dysku twardym. Ciasteczka zawieraj¹ informacje o tobie i twoich ustawieniach. Albo mo¿e tylko zawieraæ zapis stron, które odwiedzi³eœ, aby pomóc stronie dostosowaæ widok do Ciebie przy nastêpnej wizycie. Poniewa¿ niektóre ciasteczka s¹ przydatne, mo¿na je zachowaæ. Kliknij przycisk Opcje, aby wybraæ ciasteczka, które chcesz zachowaæ. Wszystkie niezaznaczone zostan¹ usuniête.
+18052= IE - Historia autouzupe³niania
+18053= Usuwa ca³¹ historiê autouzupe³niania formularzy i hase³ z programu Internet Explorer. Jeœli jest skonfigurowana, Internet Explorer bêdzie przechowywaæ dane dotycz¹ce formularzy, nazwy u¿ytkowników i hase³ w internecie. Zostan¹ one automatycznie wype³nione po powrocie na strony, gdzie te dane zosta³y wpisywane. Zacieracz œladów czyœci te dane i chroni Ciê przed innymi u¿ytkownikami na komputerze, którzy loguj¹ siê na twoje profile w trybie online.
+18054= IE - Tymczasowe pliki internetowe
+18055= Usuwa wszystkie pliki tymczasowe przechowywane przez program Internet Explorer podczas odwiedzania witryn internetowych b¹dŸ pobrañ plików.
+
+18056= Wtyczki
+18057= Wiele aplikacji prowadzi rejestr ostatnio otwartych lub wykonanych przez nich plików. Korzystaj¹c z tych wtyczek, mo¿esz pozbyæ siê historii MRU wielu popularnych aplikacji.
+
+18058= Mozilla Firefox
+18059= Usuwa historiê, niedawno u¿ywane listy MRU, tymczasowe pliki internetowe i inne dane z przegl¹darki internetowej Firefox.
+18060= Mozilla Firefox - Historia
+18061= Usuwa wszystkie adresy stron, które zosta³y wpisane w pasku adresu przegl¹darki Firefox.
+18062= Mozilla Firefox - Ciasteczka
+18063= Usuwa pliki ciasteczek zapisywanych w folderze pamiêci podrêcznej przegl¹darki Firefox.
+18064= Mozilla Firefox - Pamiêæ podrêczna
+18065= Usuwa internetowe pliki buforowane przez Firefoksa.
+18066= Mozilla Firefox - Zapisane informacje w formularzach
+18067= Usuwa dane zapisane przez przegl¹darkê Firefox podczas wype³nienia formularzy na stronie internetowej.
+18068= Mozilla Firefox - Zapisane has³a
+18069= Usuwa dane o has³ach zapisanych przez Firefoksa, wtedy kiedy wype³ni³eœ formularze na stronie internetowej.
+18070= Mozilla Firefox - Historia pobierania
+18071= Usuwa listê pobranych plików w menad¿erze pobierania.
+18072= Mozilla Firefox - Historia szukania
+18073= Usuwa wpisany ci¹g znaków w pasku wyszukiwania Firefoksa.
+
+18074= Kasowanie œladów z %s. To mo¿e chwilê potrwaæ...
+18075= Kasowanie œladów z %s...
+
+18076= Pliki Index.dat
+18077= Index.dat s¹ to ukryte pliki na komputerze, które zawieraj¹ wszystkie œlady twojej aktywnoœci, gdy by³eœ w Internecie, jakie witryny odwiedzi³eœ, lista URL-ów, pliki i dokumenty, które ostatnio otwiera³eœ.
+18078= Skanowanie œladów z %s. To mo¿e chwilê potrwaæ...
+18079= Skanowanie œladów z %s...
+18080= Tworzenie raportu...
+18081= RAPORT BADANIA
+18082= %s elementów, które zostan¹ usuniête z rejestru systemu Windows.
+18083= %s (%s2 plików) zostanie usuniêtych.
+18084= Szczegó³y plików, które maj¹ zostaæ usuniête:
+18085= Analizuj
+
+18086= Œlady
+18087= Wynik
+
+18088= Google Chrome
+18089= Usuwa historiê, niedawno u¿ywane listy MRU, tymczasowe pliki internetowe i inne dane z przegl¹darki internetowej Google Chrome.
+18090= Google Chrome - Historia
+18091= Usuwa wszystkie adresy stron, które zosta³y wpisane w pasku adresu przegl¹darki Google Chrome.
+18092= Google Chrome - Ciasteczka
+18093= Usuwa pliki ciasteczek zapisywanych w folderze pamiêci podrêcznej przegl¹darki Google Chrome.
+18094= Google Chrome - Pamiêæ podrêczna
+18095= Usuwa internetowe pliki buforowane przez Google Chrome.
+18096= Google Chrome - Zapisane informacje w formularzach
+18097= Usuwa dane zapisane przez przegl¹darkê Google Chrome podczas wype³nienia formularzy na stronie internetowej.
+18098= Google Chrome - Historia pobierania
+18099= Usuwa listê pobranych plików w menad¿erze pobierania.
+
+18100= Zdecydowanie zaleca siê zamkniêcie aplikacji %sprzed kontynuowaniem. Modu³ Zacierania œladów nie mo¿e wymazaæ œladów, kiedy s¹ one wykorzystywane przez inne programy.
+
+2101001= %s elementów zaznaczonych.
+2101002= Nie zaznaczono œladów. Aby przeanalizowaæ œlady, sprawdŸ, które œlady chcesz przeanalizowaæ i zaznacz je za pomoc¹ pola wyboru po lewej stronie.
+
+2102001= Pasek narzêdzi Windows Live
+2102002= Usuwa niedawn¹ historiê wyszukiwania z paska narzêdzi Windows Live.
+2102003= Pasek narzêdzi Google
+2102004= Usuwa ostatni¹ historiê wyszukiwania z paska narzêdzi  Google z programu Internet Explorer.
+2102005= Google Deskbar
+2102006= Usuwa ostatni¹ historiê wyszukiwania z Deskbar Google.
+2102007= Historia wyszukiwania Kazaa
+2102008= Usuwa plik historii wyszukiwania Kazaa.
+2102009= eMule
+2102010= Czyœci historiê wyszukiwania eMule.
+2102011= MSN Messenger
+2102012= Usuwa historiê pamiêci podrêcznej MSN Messenger.
+2102013= Sound Forge 6.0
+2102014= Usuwa historiê pamiêci podrêcznej Sound Forge 6.0.
+2102015= Fresh Download
+2102016= Usuwa historiê pobierania FreshDownload.
+2102017= Windows Media Player
+2102018= Czyœci historiê ostatnio u¿ywanych plików, adresów URL i historiê programu Windows Media Player Filmy i muzyka.
+2102019= RealPlayer
+2102020= Czyœci historiê ostatnio odtwarzanej muzyki i filmów z RealPlayer.
+2102021= Quicktime Player
+2102022= Czyœci historiê ostatnio odtwarzanych plików wideo z  Quicktime Player.
+2102023= SWiSH
+2102024= Usuwa historiê ostatnio otwieranych plików z SWiSH.
+2102025= Windows Movie Maker
+2102026= Usuwa historiê ostatnio otwieranych plików z programu Windows Movie Maker.
+2102027= BSPlayer
+2102028= Usuwa historiê ostatnio otwieranych plików z BSPlayer.
+2102029= Media Player Classic
+2102030= Czyœci historiê ostatnio odtwarzanej muzyki i filmów z  Media Player Classic.
+2102031= Axialis IconWorkshop
+2102032= Usuwa pamiêæ podrêczn¹ i historiê ostatnio otwieranych plików z Axialis.
+2102033= Ulead Smart Saver Pro 3.0
+2102034= Usuwa historiê ostatnio otwieranych plików z Ulead inteligentnego Saver Pro 3.0.
+2102035= Macromedia Flash Player
+2102036= Usuwa historiê ostatnio otwieranych plików z Macromedia Flash Player.
+2102037= Macromedia Flash MX
+2102038= Usuwa historiê ostatnio otwieranych plików z Macromedia Flash MX.
+2102039= Macromedia Flash 5.0
+2102040= Usuwa historiê ostatnio otwieranych plików z Macromedia Flash 5.0.
+2102041= Macromedia Flash 4.0
+2102042= Usuwa historiê ostatnio otwieranych plików z Macromedia Flash 4.0.
+2102043= Adobe Flash Player
+;2102044=
+2102045= Podgl¹d AVI
+2102046= Usuwa historiê ostatnio otwieranych plików z podgl¹du AVI.
+2102047= Paint Shop Pro 7.0
+2102048= Czyœci historiê plików stworzonych, otwartych lub edytowanych przez Paint Shop Pro 7.0.
+2102049= Paint Shop Pro 8.0
+2102050= Czyœci historiê plików stworzonych, otwartych lub edytowanych przez Paint Shop Pro 8.0.
+2102051= Paint Shop Pro 9.0
+2102052= Czyœci historiê plików stworzonych, otwartych lub edytowanych przez Paint Shop Pro 9.0.
+2102053= Office XP
+2102054= Usuwa historiê ostatnio otwieranych plików z pakietu Microsoft Office XP.
+2102055= Office 2000
+2102056= Usuwa historiê ostatnio otwieranych plików z pakietu Microsoft Office 2000.
+2102057= Office 2003
+2102058= Usuwa historiê ostatnio otwieranych plików z pakietu Microsoft Office 2003.
+2102059= Office 2007
+2102060= Usuwa historiê ostatnio otwieranych plików z pakietu Microsoft Office 2007.
+2102061= MS Management Console
+2102062= Usuwa historiê ostatnio otwieranych plików z MS Management Console.
+2102063= MS Wordpad
+2102064= Czyœci historiê plików stworzonych, otwartych lub edytowanych przez WordPad.
+2102065= MS Paint
+2102066= Czyœci historiê ostatnio otwieranych plików przez Microsoft Paint.
+2102067= Microsoft Visual Basic 6.0
+2102068= Usuwa plik ostatniej historii dla deweloperów Visual Basic 6.0.
+2102069= Zdalny Pulpit
+2102070= Usuwa dane pamiêci podrêcznej zapisanych przez Zdalny Pulpit.
+2102071= PowerArchiver
+2102072= Czyœci historiê plików skompresowanych lub nieskompresowany przez PowerArchiver.
+2102073= WinISO
+2102074= Czyœci historiê otwieranych plików przez WinISO.
+2102075= WinRAR
+2102076= Czyœci historiê plików skompresowanych, nieskompresowany przez WinRAR.
+2102077= 7-Zip
+2102078= Czyœci historiê plików skompresowanych, nieskompresowany przez 7-Zip.
+2102079= WinZip
+2102080= Czyœci historiê plików skompresowanych, nieskompresowany przez WinZip.
+2102081= SpyBot Search and Destroy
+2102082= Usuwa dane z pamiêci podrêcznej zapisywane przez Spybot Search and Destroy.
+2102083= WinAce 2.0
+2102084= Usuwa historiê WinAce.
+2102085= Norton AntiVirus
+2102086= Usuwa pliki dziennika zapisane przez program Norton AntiVirus.
+2102087= Adobe Acrobat Reader 5.0
+2102088= Usuwa historiê plików PDF, które przegl¹dano za pomoc¹ programu Adobe Acrobat 5.0.
+2102089= Adobe Acrobat Reader 6.0
+2102090= Usuwa historiê plików PDF, które przegl¹dano za pomoc¹ programu Adobe Acrobat 6.0.
+2102091= XML Spy
+2102092= Usuwa historiê plików XML, które przegl¹dano za pomoc¹ programu XML Spy.
+2102093= Installshield Developer 7.0
+2102094= Czyœci historiê otwieranych plików przez Installshield Developer 7.0.
+2102095= Macromedia Homesite 5.0
+2102096= Czyœci historiê otwieranych plików przez Macromedia Homesite 5.0.
+2102097= Ahead Nero Burning ROM
+2102098= Czyœci historiê otwieranych plików i folderów przez Ahead Nero Burning ROM.
+2102099= ZipMagic
+2102100= Czyœci historiê plików skompresowanych, nieskompresowany przez ZipMagic.
+2102101= PicoZip
+2102102= Czyœci historiê plików skompresowanych, nieskompresowany przez PicoZip.
+
+
+[Optymalizator pamiêci]
+21001= Optymalizator pamiêci
+21901= Monitoruj i optymalizuj pamiêæ w tle.
+21002= Optymalizacja
+21003= Rêczna optymalizacja
+21004= Wykres fizycznego u¿ycia pamiêci:
+21018= %s z %s2 wolnych
+21005= U¿ycie CPU  
+21006= Okreœl ile pamiêci chcesz zwolnic i kliknij Optymalizuj.
+21007= Wielkoœæ pamiêci:
+21008= Optymalizuj
+21009= Wyczyœæ schowek
+21010= Aktualny rozmiar schowka:
+21011= W³¹cz automatyczn¹ optymalizacjê
+21012= Optymalizuj automatycznie, gdy jest mniej ni¿:
+21013= Zwiêksz woln¹ pamiêæ do:
+21014= Optymalizuj jeœli u¿ycie CPU jest poni¿ej:
+21015= Uruchom przy starcie systemu
+21016= Zalecane
+21017= Optymalizacja...
+21019= Poka¿ okno g³ówne
+
+[File Shredder]
+22001= Likwidacja plików
+22901= Usuñ pliki ca³kowicie bez mo¿liwoœci ich przywrócenia.
+22002= Program do niszczenia danych, których nikt nie zobaczy i nie przywróci. Ten program u¿ywa metody American Dod 5220.22-M developed by US Department of Defence do bezpiecznego usuwania danych.
+22003= Typ
+22012= Data modyfikacji 
+22004= Dodaj pliki
+22005= Dodaj folder
+22006= Usuñ
+22007= Powtórz operacje kasowania:
+22008= Plik Folder
+22009= Chcesz wykasowaæ wszystkie pliki z listy. Nie bêdziesz ich móg³ odzyskaæ ¿adnym narzêdziem. Czy na pewno kontynuowaæ?
+22010= Usuwanie
+22011= Usuniêty
+22019= Wymazywanie wolnego miejsca
+22013= Je¿eli pliki zostan¹ usuniête i opró¿nione z kosza nie s¹ tak naprawdê usuwane z twardego dysku. Pliki mog¹ byæ z ³atwoœci¹ odzyskane przez oprogramowanie do odzyskiwania danych. Aby mieæ pewnoœæ, ¿e pliki zostan¹ ca³kowicie usuniête, nale¿y wymazywaæ regularnie wolne miejsce na dysku twardym. Ta opcja niszczy takie pliki, które zosta³y ju¿ usuniête przez u¿ytkownika, tak ¿e nie mo¿na ich ju¿ odzyskaæ.
+22014= Wybierz dysk, na którym chcesz wymazaæ wolne miejsce :
+22015= Wyma¿
+22016= Wymazywanie wolnego miejsca na %s
+22017= Operacja zosta³a anulowana przez u¿ytkownika.
+22018= Operacja zakoñczy³a siê pomyœlnie.
+22020= Wybierz folder docelowy:
+22021= Wybierz dysk.
+
+[Asystent Internet Explorer]
+23001= Asystent przegl¹darki
+23901= Zarz¹dza dodatkami Internet Explorer i przywraca domyœlne ustawienia.
+23002= IE BHO
+23003= Pasek narzêdzi IE
+23004= Przyciski IE
+23005= Specjalne menu kontekstowe IE
+23006= Specjalne przyciski IE
+23007= Pobrane kontrolki ActiveX
+23008= Przywróæ domyœlne
+23009= [Zablokowany]
+23010= Wydawca
+23011= Œcie¿ka pliku
+23012= Komenda
+23013= Blokuj pozycjê
+23014= Odblokuj pozycjê
+23015= Usuñ ca³kowicie pozycjê
+23016= Na pewno przywróciæ %s ?
+23017= Na pewno zablokowaæ %s w Internet Explorer?
+23018= Na pewno ca³kowicie usun¹æ %s w Internet Explorer?
+23019= Uwaga, brakuje pliku
+23020= Pomocne obiekty przegl¹darki
+23021= Paski narzêdzi Internet Explorera
+23022= Paski przegl¹dania Internet Explorera
+23023= Specjalne menu kontekstowe Internet Explorera
+23024= Specjalne przycisk Internet Explorera
+23025= Pobrane programy ActiveX
+23026= Uszkodzony
+23027= Zainstalowany
+
+23028= Ustawienie
+23029= Aktualne ustawienie
+23030= Przywróæ ustawienie do
+23031= Zmieñ ustawienie przywrócenia dla nowego URL...
+23032= Przywróæ
+23033= Domyœlnie IE
+23034= Na pewno przywróciæ wybrane ustawienia?
+23035= %s ustawienia przegl¹darki Internet Explorer zosta³y zmienione.
+23036= Zmieñ ustawienia przywracania Internet Explorera
+23037= Zmieñ ustawienie przywrócenia Internet Explorer dla %s. URL w polu poni¿ej jest domyœlnym dla tych ustawieñ Internet Explorera. Mo¿esz wpisaæ w tym polu dowoln¹ stronê lub URL, inn¹ ni¿ domyœlna.
+23038= Strona startowa
+23039= Adres URL strony internetowej wyœwietlanej w nowym oknie Internet Explorera.
+23040= Szukaj strony
+23041= Domyœlna wyszukiwarka, gdy klikniesz w przycisk Szukaj w Internet Explorerze.
+23042= URL strony domyœlnej
+23043= Domyœlna strona u¿ywana przez Internet Explorer.
+23044= Strona lokalna
+23045= Strona ta bêdzie ³adowana, gdy Internet Explorer nie znalaz³ strony wpisanej na pasku adresu.
+23046= Pasek wyszukiwania
+23047= Strona ta bêdzie wyœwietlana, gdy klikniesz ikonê Szukaj w Internet Explorerze. Pasek wyszukiwania zapewnia mo¿liwoœæ przechowywania szczegó³owych informacji.
+23048= Domyœlnie szukany URL
+23049= Strona ta bêdzie wyœwietlana, gdy Internet Explorer próbuje przeprowadziæ wyszukiwanie.
+23050= Strona startowa (wszyscy)
+23051= Strona ta bêdzie wyœwietlana, gdy otworzysz nowe okno Internet Explorera.
+23052= Strona wyszukiwania (wszyscy)
+23053= Domyœlna wyszukiwarka, gdy klikniesz w przycisk Szukaj w Internet Explorer. Dla wszystkich u¿ytkowników komputera.
+23054= Domyœlna strona URL (wszyscy)
+23055= Domyœlna strona u¿ywana przez Internet Explorer. Dla wszystkich u¿ytkowników komputera.
+23056= Strona lokalna (wszyscy)
+23057= Strona ta bêdzie ³adowana, gdy nie znaleziono strony wpisanej na pasku adresu Internet Explorera. Dla wszystkich u¿ytkowników komputera.
+23058= Pasek wyszukiwania (wszyscy)
+23059= Strona ta bêdzie wyœwietlana, gdy klikniesz ikonê Szukaj w Internet Explorerze. Pasek wyszukiwania zapewnia mo¿liwoœæ przechowywania szczegó³owych informacji. Dla wszystkich u¿ytkowników komputera.
+23060= Domyœlnie szukany URL (wszyscy)
+23061= Strona ta jest wyœwietlana, gdy Internet Explorer próbuje przeprowadziæ wyszukiwanie. Dla wszystkich u¿ytkowników komputera.
+23062= Dostosuj wyszukiwanie (wszyscy)
+23063= Strona ta jest wyœwietlana w Internet Explorerze, gdy wykonujesz zwyk³e szukanie. Asystent wyszukiwania zapewnia u¿ytkownikowi pojedyncze i ujednolicone szukanie na ró¿ne sposoby. Dla wszystkich u¿ytkowników komputera.
+23064= Asystent wyszukiwania (wszyscy)
+23065= Asystent wyszukiwania w Internet Explorer. Asystent wyszukiwania zapewnia u¿ytkownikowi pojedyncze i ujednolicone szukanie na ró¿ne sposoby. Dla wszystkich u¿ytkowników komputera.
+23066= Szukaj URL
+23067= Search URLs are a convenient way to use different Internet search engines. For example, you might have a search URL called news that searches online newsgroups. If you type in a keyord(s) in the address bar to automatically search online newsgroups for all articles related to these keywords.
+23068= Szukaj URL (wszyscy)
+23069= Search URLs are a convenient way to use different Internet search engines. For example, you might have a search URL called news that searches online newsgroups. If you type in a keyord(s) in the address bar to automatically search online newsgroups for all articles related to these keywords. Dla wszystkich u¿ytkowników komputera.
+23070= Pusta strona
+23071= Nie mo¿na wyœwietliæ strony-Ta informacja jest wyœwietlana przez Internet Explorer, gdy nie mo¿na znaleŸæ strony.
+23072= B³¹d pulpitu przegl¹dania
+23073= Strona wyœwietlana przez Internet Explorer, gdy nie masz dostêpu do internetu.
+23074= Anulowane przegl¹danie
+23075= Strona Internet Explorera, która wyœwietli siê, gdy anulujesz nawigacjê.
+23076= B³¹d przegl¹dania
+23077= Strona wyœwietlana przez Internet Explorer, gdy nie masz dostêpu do internetu.
+23078= Informacje Offline
+23079= To jest strona Internet Explorer która wyœwietli siê, gdy komputer nie ma dostêpu do internetu lub strona jest w trybie offline.
+23080= Brak buforowania
+23081= Uwaga: Strona wygas³a - Jest to strona ostrzegaj¹ca, kiedy Internet Explorer nie mo¿e odczytaæ zawartoœæ z pamiêci podrêcznej.
+
+[Process Manager]
+24001= Menad¿er procesów
+24901= Monitoruj uruchomione procesy.
+24002= Nowe zadanie(Uruchom...)
+24003= Komputer
+24004= Uruchom ponownie
+24005= Zamknij
+24006= Zakoñcz proces
+24007= Blokuj proces
+24008= Lista zablokowanych
+24009= Wyszukaj w Google
+24010= Skomentuj
+24011= Poka¿ szczegó³y
+24012= Nazwa
+24013= Ocena
+24014= Wykonywalny
+24015= Priorytet
+24016= W¹tki
+24017= CPU
+24018= Czas CPU
+24019= Pamiêæ
+24020= Firma
+24021= Uruchomiony
+24022= Procesy
+24023= Ustaw priorytet
+24024= Czasu rzeczywistego
+24025= Wysoki
+24026= Powy¿ej normalnego
+24027= Normalny
+24028= Poni¿ej normalnego
+24029= Niski
+24030= UWAGA: Zmiana priorytetu dla tego procesu mo¿e doprowadziæ do niestabilnoœci systemu. Na pewno zmieniæ priorytet procesu?
+24031= Informacje g³ówne
+24032= U¿yte modu³y
+24033= Data
+24034= Wartoœæ
+24035= Informacja o procesie
+24036= ID
+24037= Plik
+24038= Argumenty
+24039= Folder
+24040= W¹tki
+24041= Priorytet
+24042= U¿ycie pamiêci
+24043= Uruchomiony
+24044= Uruchomiony przez
+24045= Informacja o wersji
+24046= Typ pliku
+24047= Firma
+24048= Opis
+24049= Wersja
+24050= Wewnêtrzna nazwa
+24051= Prawa autorskie
+24052= Znak towarowy
+24053= Oryginalna nazwa pliku
+24054= Nazwa produktu
+24055= Wersja produktu
+24056= Komentarze
+24137= Bezpieczny
+24139= Ryzykowny
+24057= Na pewno zakoñczyæ proces %s?
+24058= Na pewno zablokowaæ proces %s?
+24059= Czy chcesz uruchomiæ ponownie komputer teraz?
+24060= Czy chcesz wy³¹czyæ komputer teraz?
+24061= Uruchomione procesy: 
+24062= U¿ycie CPU: 
+24063= U¿ycie pamiêci: 
+24064= Serwis Systemu
+24065= Podmieñ Menad¿er zadañ
+24066= Zawsze na wierzchu
+
+[Context Menu Manager]
+25001= Mened¿er menu kontekstowego
+25901= Ustaw menu kontekstowe dla plików, folderów...
+25002= Pliki i foldery
+25003= Nowy
+25004= Wyœlij do
+25005= Kliknij na pole wyboru, aby w³¹czyæ lub wy³¹czyæ funkcje. Aby usun¹æ ca³kowicie, naciœnij poni¿ej %s.
+25006= Nie znaleziony
+25007= Na pewno usun¹æ "%s" ca³kowicie?
+25008= Wszystkie pliki(*)
+25009= Foldery
+25010= Katalogi
+25011= Napêdy
+25012= Foldery Muzyki
+25013= Foldery Wideo
+25014= Foldery Obrazów
+25015= Wszystkie obiekty
+25016= Mój komputer
+25017= Kosz
+25018= T³o
+25019= Skróty
+
+[File Encrypter and Decrypter]
+27001= Szyfrator plików
+27901= Ochrona plików przed nieautoryzowanym dostêpem i wykorzystaniem.
+27002= Szyfrowanie plików
+27003= Odszyfrowywanie plików
+27004= Proszê wybraæ plik, który chcesz zaszyfrowaæ:
+27005= Has³o do szyfrowania:
+27006= Powtórz has³o:
+27007= PodpowiedŸ do has³a(Zagadka):
+27008= Utwórz auto-odszyfrowywuj¹cy plik EXE(interfejs u¿ytkownika bêdzie angielski)
+27009= Usuñ oryginalny plik po zakoñczeniu szyfrowania
+27010= Szyfruj!
+27011= Proszê wybraæ plik, który chcesz odszyfrowaæ:
+27012= Has³o do odszyfrowania:
+27013= PodpowiedŸ
+27014= Wypakuj do:
+27015= Otwórz folder docelowy po zakoñczeniu deszyfrowania
+27016= Odszyfruj!
+27017= Proszê klikn¹æ przycisk Przegl¹daj, aby wybraæ plik, który chcesz zaszyfrowaæ!
+27018= Wybrany plik nie istnieje. Proszê wybraæ inny.
+27019= WprowadŸ has³o zawieraj¹ce od 6 do 16 znaków!
+27020= Proszê wpisaæ to samo has³o w obu polach!
+27021= Poni¿szy plik ju¿ istnieje, zast¹piæ go?
+27022= Plik zosta³ zaszyfrowany do %s.
+27023= Zaszyfrowane pliki
+27024= Wybrany plik nie by³ szyfrowany tym programem. Proszê wybraæ inny.
+27025= Proszê klikn¹æ przycisk Przegl¹daj, aby wybraæ plik, który chcesz odszyfrowaæ!
+27026= Wybrany plik nie istnieje. Proszê wybraæ inny.
+27027= Wybierz folder, w którym chcesz umieœciæ przywrócony plik.
+27028= Nie mo¿na utworzyæ folderu docelowego %s
+27029= Plik %s ju¿ istnieje, zast¹piæ go?
+27030= Plik zosta³ odszyfrowany do %s.
+27031= Nieprawid³owe has³o, spróbuj ponownie.
+27032= Wybierz folder, w którym chcesz umieœciæ przywrócony plik.
+27033= Operacja nie powiod³a siê. Spróbuj ponownie.
+27034= Trwa szyfrowanie... To mo¿e chwilê potrwaæ, proszê uzbroiæ siê w cierpliwoœæ.
+27035= Trwa odszyfrowywanie... To mo¿e chwilê potrwaæ, proszê uzbroiæ siê w cierpliwoœæ.
+27036= Ten plik jest szyfrowany przez starsz¹ wersjê programu do deszyfrowania, czy chcesz pobraæ star¹ wersjê programu deszyfrowania?
+27037=Zaszyfrowany plik zosta³ zapisywany w:
+27038=Please select the folder where you would like to place the encrypted file.
+27039=Folder docelowy nie istnieje, czy zosta³ on utworzony?
+27040=Otwórz folder docelowy po pomyœlnym szyfrowaniu
+27041=Dodaj plik(i)
+27042=Wsparcie przeci¹gnij i upuœæ pliki.
+27043=Pliki lokalne
+27044=Stan
+27045=Postêp
+27046=Zaszyfrowany plik
+27047=Gotowy
+27048=Czekanie...
+27049=Szyfrowanie...
+27050=Zaszyfrowany pomyœlnie.
+27051=Plik Ÿród³owy nie istnieje lub zosta³ usuniêty.
+27052=Plik docelowy ju¿ istnieje.
+27053=Nie mo¿na usun¹æ pliku Ÿród³owego.
+27054=Proszê klikn¹æ na "Dodaj plik(i)", aby wybraæ plik, który chcesz zaszyfrowaæ lub przeci¹gnij plik do zaszyfrowania na listê.
+27055=Nie chcesz zaszyfrowaæ pliku, wybierz i spróbuj ponownie.
+27056=Usuñ pliki
+27057= Zaznacz wszystko
+27058= Odznacz wszystko
+27059= Odwróæ zaznaczenie
+27060= Usuñ wybrany element
+27061= Czy chcesz usun¹æ wybrany plik %s z listy szyfrowania?
+
+[File Splitter and Joiner]
+28001= Dzielenie plików
+28901= Podzia³ du¿ych plików na mniejsze wykonywalne pliki i ich po³¹czenie. 
+28002= Podzia³ pliku
+28003= £¹czenie pliku
+28004= Proszê wybraæ plik, który chcesz podzieliæ na mniejsze pliki
+28005= WprowadŸ œcie¿kê do folderu docelowego, gdzie chcesz umieœciæ podzielony plik
+28006= Proszê wybraæ maksymalny rozmiar dla poszczególnych plików, które maj¹ byæ utworzone
+28007= Dyskietka (1.44MB)
+28008= 100MB Zip(TM)  disk
+28009= 1GB Jaz(TM) disk
+28010= 4.7GB jednowarstwowa p³yta DVD 
+28011= Rozmiar u¿ytkownika
+28012= Plik(i) zostanie podzielony na %s czêœci.
+28013= Dodaj funkcjê bezpieczne-³¹czenie do podzielonych plików
+28014= Podziel!
+28015= Proszê wybraæ jeden z plików, które chcesz przywróciæ do oryginalnego pliku. Mo¿na wybraæ jeden z tych plików, pozosta³e zostan¹ w³¹czone automatycznie.
+28016= Informacje o czêœciach:
+28017= WprowadŸ œcie¿kê do folderu docelowego, gdzie chcesz umieœciæ przywrócony plik.
+28018= Po³¹cz!
+28019= Nie mo¿na utworzyæ pliku %s
+28020= Nie mo¿na otworzyæ pliku %s
+28021= Proszê klikn¹æ przycisk Przegl¹daj, aby wybraæ plik, który chcesz podzieliæ na mniejsze pliki!
+28022= Plik nie istnieje! Proszê klikn¹æ przycisk Przegl¹daj, aby wybraæ plik, który chcesz podzieliæ na mniejsze pliki!
+28023= Wybrany plik jest ju¿ mniejszy ni¿ maksymalny rozmiar.
+28024= Proszê klikn¹æ przycisk Przegl¹daj, aby wybraæ folder docelowy!
+28025= Nie mo¿na utworzyæ folderu docelowego %s
+28026= Nie ma wystarczaj¹cej iloœci wolnego miejsca na dysku %s
+28027= Plik zosta³ podzielony w %s. Oryginalny plik nie zosta³ usuniêty.
+28028= Wybierz folder, w którym chcesz umieœciæ podzielony plik
+28029= Podzielone pliki
+28030= Nazwa pliku:
+28031= Rozmiar:
+28032= Naliczone czêœci:
+28033= Wybrany plik nie jest czêœci¹ pliku z dzielenia. Proszê wybraæ inny.
+28034= Nie mo¿na znaleŸæ nastêpuj¹cych fragmentów plików:
+28035= Plik ju¿ istnieje! Zast¹piæ go?
+28036= Oryginalny plik zosta³ przywrócony.
+28037= Wybierz folder, w którym chcesz umieœciæ przywrócony plik.
+28038= Operacja nie powiod³a siê. Spróbuj ponownie.
+28039= Trwa dzielenie pliku... To mo¿e chwilê potrwaæ, proszê uzbroiæ siê w cierpliwoœæ.
+28040= Trwa ³¹czenie pliku... To mo¿e chwilê potrwaæ, proszê uzbroiæ siê w cierpliwoœæ.
+28041= Ten folder zosta³ dodany.
+
+[1-Click Maintenance]
+29001= Konserwacja
+29601= Czyszczenie rejestru
+29602= Naprawa skrótów
+29603= Mened¿er startowy
+29604= Usuwanie plików tymczasowych
+29605= Zacieranie œladów
+29606= Usuwanie spyware
+
+10603= Naprawia niewa¿ne lub nieprawid³owe wpisy rejestru
+10605= Czyœci nieprawid³owe skróty
+10607= Czyœci niebezpieczne pozycje startowe
+10609= Odzyskuje miejsce usuwaj¹c zbêdne pliki
+10611= Wymazuje twoj¹ historiê i internetowe œlady
+10613= Usuwa spyware i adware
+10614= Analizowanie...
+10615= Poka¿ szczegó³y
+10616= ZnajdŸ problemy
+10617= Nie znaleziono ¿adnych problemów.
+10618= Znaleziono 1 problem.
+10619= Znaleziono %s problemów.
+10620= Znaleziono %s plików.
+10621= Nie znaleziono plików.
+10622= Zaznaczono %s œladów.
+10623= Zaznaczono 1 œlad.
+10624= Nie zaznaczono ¿adnych œladów.
+10625= Analizowanie...
+10626= Kliknij przycisk Napraw problemy, aby kontynuowaæ.
+10627= Napraw problemy
+10628= Problemy zosta³y naprawione.
+10629= Miejsce odzyskane
+10630= Œlady wymazane.
+10631= Naprawianie...
+10632= Czyszczenie ...
+10633= Kasowanie...
+10634= %s problemów zosta³o naprawionych.
+10635= %s œladów usuniêto.
+10636= %s odzyskane.
+10637= Proszê wybraæ pliki, które chcesz usun¹æ.
+10638= Zobacz pliki
+10639= Suma plików %s, %s2 chcesz usun¹æ.
+10640= Proszê wybraæ œlady, które chcesz skasowaæ.
+10641= Wybierz wpisy rejestru, które chcesz naprawiæ. Kliknij prawym przyciskiem myszki, aby zobaczyæ dodatkowe opcje.
+10645= Wybierz wpisy skrótów, które chcesz usun¹æ. Kliknij prawym przyciskiem myszki, aby zobaczyæ dodatkowe opcje.
+10642= Proszê wybraæ pozycje startowe, które chcesz usun¹æ.
+10644= Proszê wybraæ pozycje, które chcesz usun¹æ.
+10643= Anuluj konserwacjê
+10646= Skanuj ponownie
+10647= Kliknij Napraw problemy, aby kontynuowaæ. Kliknij Skanuj ponownie, aby wyszukaæ problemy ponownie.
+
+[Glary Undelete]
+31001= Przywracanie plików
+31901= Szybki sposób na odzyskanie przypadkowo skasowanych plików.
+31002= Szukaj
+31003= Filtr
+31004= Foldery
+31005= Typy pliku
+31006= Nazwa
+31007= Stan
+31008= Œcie¿ka
+31009= Rozmiar
+31010= Typ
+31011= Ostatnia modyfikacja
+31012= Przywróæ
+31013= Skanowanie dysków, proszê czekaæ...
+31014= Wybierz folder do przeszukania:
+31015= Bardzo dobry
+31016= Dobry
+31017= Œredni
+31018= Kiepski
+31019= Nadpisany
+31020= Wybierz folder docelowy:
+31021= Przywracanie do tego samego dysku mo¿e zmniejszyæ szansê pomyœlnego zakoñczenia odzyskiwania, czy na pewno chcesz kontynuowaæ?
+31022= ju¿ istnieje w folderze %s, czy na pewno chcesz go zast¹piæ?
+31023= ju¿ istniej¹ w folderze %s, czy na pewno chcesz je zast¹piæ?
+31024= Filtr: W³
+31025= Filtr: Wy³
+31026= Znaleziono: %s, wybrano: %s2
+31027= Wyszukiwanie
+31028= Bie¿¹cy postêp: %s%, znalezionych plików: %s2.
+31029= Nie mo¿na rozpocz¹æ skanowania: %s
+31030= Przywracanie %s..., %s2 plików zosta³o przywróconych.
+31031= Nie mo¿na utworzyæ pliku %s
+31032= Wed³ug nazwy
+31033= Ca³a lub czêœæ nazwy pliku. Mo¿esz u¿yæ wieloznacznik, np. *.doc
+31034= ? - zastêpuje pojedyncze wyst¹pienie dowolnego znaku
+31035= * - zastêpuje dowoln¹ liczbê dowolnych znaków
+31036= Wed³ug rozmiaru
+31037= Wiêcej ni¿
+31038= Mniej ni¿
+31039= Wed³ug daty
+31040= Od
+31041= do
+31042= Wed³ug stanu
+31043= Wszystkie typy
+
+31044= Brak mo¿liwoœci podgl¹du
+31045= Podgl¹d
+31046= Kliknij, aby powiêkszyæ
+31047= Kliknij, aby zamkn¹æ
+31048= Dysk lokalny
+
+[Registry Defrag]
+32001= Defragmentator rejestru
+32901= Zdefragmentuj rejestr systemu Windows, aby przyspieszyæ komputer.
+32002= Witamy w Defragmentatorze rejestru
+32003= Rejestr systemu mo¿e zostaæ po czasie rozdrobniony, zajmuje wiêcej miejsca na dysku, ni¿ jest to konieczne i spowalnia czas rozruchu. Defragmentator zagêszcza i optymalizuje rejestr systemu przez usuniêcie niepotrzebnych luk i zmarnowanej przestrzeni. Mo¿e to znacznie poprawiæ wydajnoœæ komputera.
+32004= - Zmniejszenie rozdrobnienia
+32005= - Poprawa b³êdów strukturalnych
+32006= - Odzyskanie niewykorzystanej przestrzeni
+32007= Kliknij przycisk Dalej, aby zanalizowaæ stopieñ fragmentacji.
+32008= Rozmiar po optymalizacji:
+32009= Ró¿nica rozmiaru:
+32010= Defragmentator rejestru mo¿e zmniejszyæ rozmiar rejestru o %s
+32011= Kliknij przycisk Dalej, aby rozpocz¹æ defragmentacjê (Wymagany restart). Kliknij przycisk Anuluj, jeœli nie chcesz zoptymalizowaæ rejestru lub jeœli chcesz zoptymalizowaæ w póŸniejszym czasie.
+32012= Defragmentator rejestru wykry³, ¿e defragmentacja rejestru nie jest wymagana w tym momencie. Zaleca siê, aby zdefragmentowaæ rejestr systemu Windows co najmniej raz w miesi¹cu.
+32013= Kliknij przycisk Zamknij, aby zakoñczyæ pracê z programem
+32014= UWAGA: Defragmentator rejestru wymaga, aby nie by³o uruchomionych ¿adnych programów podczas analizy rejestru.
+32015= Proszê zapisaæ wszystkie swoje prace i zamkn¹æ uruchomione programy przed kontynuowaniem.
+32016= Nale¿y równie¿ wy³¹czyæ program antywirusowy na czas trwania analizy. Firewalle zazwyczaj nie musz¹ zostaæ wy³¹czone.
+32017= Po zamkniêciu wszystkich innych programów, kliknij przycisk OK, aby kontynuowaæ.
+32018= Defragmentacja nie jest mo¿liwa, poniewa¿ czêœæ rejestru jest chroniona przed zmianami. Aby rozwi¹zaæ ten problem mo¿na zamkn¹æ wszystkie uruchomione programy, wy³¹czyæ swoje oprogramowanie antywirusowe, ochronê antyszpiegowsk¹ i spróbowaæ ponownie. Nie zapomnij ponownie w³¹czyæ antywirusa i ochronê antyszpiegowsk¹ po defragmentacji rejestru.
+32019= UWAGA: Komputer musi zostaæ uruchomiony ponownie, aby zakoñczyæ optymalizacjê.
+32020= Czy chcesz zoptymalizowaæ?
+32021= Analizowanie rejestru
+32022= Proszê czekaæ...
+32023= Kiedy analiza zostanie zakoñczona twój komputer mo¿e nie reagowaæ przez kilka minut. Mo¿esz zatrzymaæ proces skanowania, naciskaj¹c przycisk ESC...
+32024= Rejestr systemu Windows zosta³ zoptymalizowany.
+
+[System Information]
+33001= Informacje o systemie
+33901= Wyœwietla informacje na temat sprzêtu i oprogramowania 
+33002= Utwórz raport
+33003= Utwórz raport(Wszystkiego)
+33004= Przegl¹d
+33005= System operacyjny
+33006= Urz¹dzenia systemowe
+33007= Pamiêæ
+33008= Dyski
+33009= Monitor
+33010= Sieæ
+33011= Inne urz¹dzenia
+33012= Ogólne
+33013= Procesor
+33014= P³yta g³ówna
+33015= Wersja Windows
+33016= Data instalacji
+33017= Ekran
+33018= Monitor
+33019= Karta graficzna
+33020= Urz¹dzenia wejœcia
+33021= Mysz
+33022= Klawiatura
+33023= Dysk
+33024= Napêd DVD/CD-ROM
+33025= W³aœciwoœci systemu operacyjnego
+33026= Nazwa systemu operacyjnego
+33027= Jêzyk systemu
+33028= Wersja systemu
+33029= Zarejestrowany w³aœciciel
+33030= Zarejestrowana organizacja
+33031= Identyfikator produktu
+33032= Klucz produktu
+33033= Data instalacji systemu operacyjnego
+33034= Katalog g³ówny systemu operacyjnego
+33035= Bie¿¹ca sesja
+33036= Nazwa komputera
+33037= Nazwa u¿ytkownika
+33038= Domena logowania
+33039= Czas pracy
+33040= Wersje sk³adników
+33041= Internet Explorer
+33042= Windows Media Player
+33043= DirectX
+33044= Foldery systemu
+33045= Udostêpnione foldery
+33046= P³yta g³ówna
+33047= Nazwa p³yty g³ównej
+33048= Producent p³yty g³ównej
+33049= W³aœciwoœci BIOS-u
+33050= Wersja BIOS-u
+33051= Data BIOS-u systemowego
+33052= Data BIOS-u grafiki
+33053= W³aœciwoœci CPU
+33054= Identyfikator procesora
+33055= Nazwa rodzajowa procesora
+33056= Dostawca procesora
+33057= Numer seryjny
+33058= Czêstotliwoœæ procesora CPU
+33059= Pamiêæ podrêczna L1 kodu
+33060= Pamiêæ podrêczna L1 danych
+33061= Pamiêæ podrêczna L2
+33062= Gniazdo procesora
+33063= Liczba rdzeni procesora
+33064= Liczba procesorów
+33065= Szczegó³owe informacje o konfiguracji
+33066= U¿ycie CPU
+33067= Historia u¿ycia procesora CPU
+33068= Pamiêæ fizyczna
+33069= Pamiêæ wirtualna
+33070= Razem
+33071= Wolna pamiêæ
+33072= U¿ywana pamiêæ
+33073= Wybrane
+33074= Aplikacja
+33075= U¿ycie pamiêci
+33076= Œcie¿ka
+33077= Szczegó³owe informacje o woluminie
+33078= Litera dysku
+33079= Typ urz¹dzenia
+33080= Numer seryjny
+33081= System plików
+33082= Ca³kowita liczba bajtów
+33083= Wolne bajty
+33084= U¿ywane bajty
+33085= System plików
+
+33086= W³¹czona kompresja plików
+33087= Wolumin jest skompresowany
+33088= Obs³uga d³ugich nazw plików
+33089= Obs³uga nazw plików w Unicode
+33090= Zaszyfrowany system plików
+
+33091= Informacje logiczne
+33092= Liczba klastrów
+33093= Wolnych klastrów
+33094= U¿ywane klastry
+33095= Bajtów na klaster
+33096= Sektorów na klaster
+33097= U¿ywane sektory
+33098= Wolne sektory
+
+33099= Szczegó³y konfiguracji
+33100= Bajtów na sektor
+33101= £¹czna liczba sektorów
+
+33102= Ca³kowita przestrzeñ
+33103= Wolna przestrzeñ
+33104= U¿ywana przestrzeñ
+
+33105= W³aœciwoœci karty graficznej
+33106= Opis urz¹dzenia
+33107= Napis na karcie
+33108= Wersja BIOS-u
+33109= Typ mikrouk³adu
+33110= Typ konwertera DAC
+33111= Data sterownika
+33112= Wersja sterownika
+33113= Producent
+33114= Rozmiar pamiêci
+
+33115= W³aœciwoœci monitora
+33116= Nazwa monitora
+33117= Model
+33118= Data produkcji
+33119= Numer seryjny
+33120= Najwiêkszy widzialny rozmiar ekranu
+33121= Gamma
+
+33122= Obs³ugiwane tryby wideo
+
+33123= Opis karty sieciowej
+
+33124= Karta sieciowa - W³aœciwoœci
+33125= Karta sieciowa
+33126= Typ interfejsu
+33127= Adres fizyczny
+33128= Nazwa po³¹czenia
+33129= Szybkoœæ ³¹cza
+33130= MTU
+33131= Bajty odebrane
+33132= Bajty wys³ane
+
+33133= Karta sieciowa - Adresy
+33134= Adres IP/Maska podsieci
+33135= Brama
+33136= DNS
+
+33137= Odebrane
+33138= Wys³ane
+
+33139= Urz¹dzenia audio
+33140= Porty
+33141= USB
+33142= Kontroler USB
+33143= Drukarki
+
+33144= Nazwa
+33145= Wartoœæ
+
+33148= Foldery systemowe
+33149= Foldery udostêpnione
+33150= Kliknij PPM na folder, aby go otworzyæ w Eksploratorze Windows
+33151= Otwórz folder
+33152= W³aœciwoœci
+33153= SEK
+33154= (%s godzin %s2 miniut %s3 sekund)
+
+[GLARYUTILITIES]
+1001001= Ratowanie.
+1001002= Opinia
+1001003= Minimalizuj
+1001004= Wersja:
+
+[OVERVIEW]
+1002001= Podgl¹d
+1002002= W³¹cz automatyczn¹ konserwacjê
+1002003= Wymazywanie œladów prywatnoœci podczas zamykania systemu Windows
+1002004= Sprawdzaj aktualizacje podczas uruchamiania programu
+1002005= G³êbokie czyszczenie i naprawa
+1002006= Czas rozruchu systemu Windows
+1002007= Wy³¹cz zbêdne programy startowe, aby szybciej uruchomiæ system Windows
+1002008= Mened¿er Autostartu
+1002009= U¿ywasz %s
+1002010= Uaktualnij teraz
+1002011= Udostêpnij mój czas rozruchu systemu Windows
+1002012= Godzin
+1002013= Minut
+1002014= Sekund
+1002015= Wybierz œlady
+1002016= Licencja na:
+1002017= Zarz¹dzaj licencj¹
+1002018= Wygas³a
+
+[ONECLICK]
+1003001= Naprawa dysku
+1003002= Defragmentacja rejestru
+1003003= Malware Immunization
+1003004= Optymalizacja systemu
+1003005= Defragmentacja dysków twardych
+
+[ADVANCED TOOLS]
+1004001= Zaawansowane
+1004002= Rejestr systemu Windows
+1004003= Naprawa rejestru
+1004004= Defragmentacja
+1004005= Utwórz kopiê
+1004006= Przywróæ kopiê
+   
+1004007= Przestrzeñ dyskowa
+1004008= Oczyszczanie dysku
+1004009= Usuñ duplikaty
+1004010= Usuñ puste foldery
+1004011= Usuñ uszkodzone skróty
+1004012= Eksplorator dysków
+   
+1004013= Ulepszenia systemowe
+1004014= Ulepszenia systemowe
+1004015= Optymalizacja uruchamiania systemu
+1004016= Zwalnianie pamiêci RAM
+1004017= Przyspieszenie Internetu
+1004018= Turbo mode
+   
+1004019= Prywatnoœæ
+1004020= Usuwanie historii
+1004021= Niszczenie plików
+1004022= Wymazywanie wolnego miejsca
+1004023= Szyfrowanie plików
+   
+1004024= Sterowniki
+1004025= Kopia zapasowa
+1004026= Przywróæ
+1004027= Odinstaluj
+1004028= SprawdŸ aktualizacje
+   
+1004029= Zarz¹dzanie plikami
+1004030= Podzia³ plików
+1004031= Przywracanie usuniêtych plików
+1004032= Szybkie wyszukiwanie
+   
+1004033= Dyski twarde
+1004034= Defragmentacja dysków
+1004035= Defragmentacja plików systemowych
+1004036= SprawdŸ b³êdy
+   
+1004037= Panel sterowania
+1004038= Programy startowe
+1004039= Us³ugi
+1004040= Harmonogram zadañ
+1004041= Menu kontekstowe
+1004042= Menad¿er procesów
+1004043= Asystent przegl¹darki
+   
+1004044= Stan systemu
+1004045= Informacje o systemie
+1004046= Odzyskiwanie plików systemu Windows
+1004056= Naprawa plików systemowych
+1004047= Przywracanie systemu
+1004048= Centrum przywracania
+   
+1004049= Anti-malware
+1004050= Usuñ malware
+1004051= Uodpornij
+   
+1004052= Programy
+1004053= Odinstaluj
+1004054= SprawdŸ aktualizacje
+1004055= ZnajdŸ wiêcej programów
+1004057=
+
+[QUICKLAUNCHBAR]
+1005001= Kliknij przycisk +/-, aby dodaæ lub usun¹æ element z paska dock   
+1005002= Ju¿ istnieje tutaj
+1005003= Ma³o miejsca w doku, mo¿esz usun¹æ jeden klikaj¹c -
+
+[SKINSCENTER]
+1006001= Centrum skórek
+1006002= Biblioteka zdjêæ 
+1006003= Wyraziste kolory
+1006004= Poni¿szy plik ju¿ istnieje, zast¹piæ go?
+1006005= Wszystkie obs³ugiwane
+
+
+[CHECKDISK]
+2400001= Sprawdzanie dysku
+2401001= Proszê wybraæ dysk do sprawdzenia
+2401002= Automatycznie napraw b³êdy systemu plików
+2401003= Skanuj dysk i spróbuj odzyskaæ uszkodzone sektory
+2401004= SprawdŸ dysk
+2401010= Wolumin
+2401011= Ostatnia analiza
+2401012= Stan
+2401013= Analiza
+2401014= Raport
+2401015= Gotowy
+2401016= Wymaga sprawdzenia
+2401017= Sprawdzanie %s
+2401018= Sprawdzanie dysku przerwane
+2401019= Znaleziono b³êdy
+2401020= Nie znaleziono b³êdów
+2401021= SprawdŸ b³êdy dysku
+2401022= Ukryj szczegó³y
+2401023= Poka¿ szczegó³y
+2401024= CheckDisk sprawdza dysk i jego system plików w poszukiwaniu b³êdów.
+2401025= Wykryte b³êdy zostan¹ automatycznie naprawione w celu zapobiegniêcia utraty danych.
+2401026= Opcje
+;2401027= Automatycznie napraw b³êdy systemu plików
+;2401028= Skanuj dysk i próbuj odzyskaæ uszkodzone sektory
+2401029= Skanuj
+2401030= Zatrzymaj
+2401031= Zaplanowane sprawdzanie dysku nie powiod³o siê!
+2401032= Sprawdzanie dysku zaplanowano na nastêpne uruchomienie komputera.
+2401033= Sprawdzanie dysku pominiête.
+2401034= Sprawdzanie dysku anulowane.
+2401035= Sprawdzanie dysku przerwane.
+2401036= Sprawdzanie dysku zakoñczone. Nie znaleziono b³êdów.
+2401037= Sprawdzanie dysku znalaz³o %s nastêpuj¹cych b³êdów na dysku:
+
+2403001= Sprawdzanie dysku %s
+2403002= Czy zrobiæ to dla nastêpuj¹cych %s konfliktów
+2403003= Zostanie pominiête w ci¹gu %s sekund.
+
+2405001= Funkcja nie znaleziona.
+2405002= Wyst¹pi³ b³¹d podczas Sprawdzania dysku. Wymagane ponowne uruchomienie aplikacji.
+2405003= Sprawdzanie systemu plików na %s
+2405004= Typ systemu plików %s.
+
+2406001= Zapisz raport
+
+2407001= Wynik
+2407002= Zaplanuj sprawdzanie dysku
+2407003= Uruchom ponownie teraz
+2407004= Poka¿ raport
+2407005= Windows naprawi dysk przy nastêpnym ponownym uruchomieniu komputera.
+
+2408001= System Windows nie mo¿e sprawdziæ dysku, gdy jest w u¿yciu
+2408002= Wymusiæ odmontowanie\Czy chcesz najpierw odmontowaæ ten wolumin? Uwaga: Wszystkie otwarte dojœcia do tego woluminu bêd¹ uniewa¿nione.
+2408003= Harmonogram sprawdzania dysku\nCzy chcesz, aby sprawdziæ b³êdy dysku twardego przy nastêpnym uruchomieniu komputera?
+2408004= Pomiñ
+
+[RESTORE CENTER]
+
+2602001= Tworzenie punktu przywracania...
+2603001= WprowadŸ opis, który pomo¿e Ci zidentyfikowaæ punkt przywracania. Obecna data i czas zostan¹ automatycznie dodane.
+2603002= Utwórz
+2603003= Proszê podaæ opis.
+2604001= Przygotowanie do przywracania systemu...
+2605001= %s przywróconych elementów.
+
+
+[SETTINGS]
+2801001= Ustawienia ogólne
+2801002= Poni¿sze elementy zostan¹ pominiête podczas wykonywania skanowania.
+2801003= Dodatkowe
+2801004= Myszkowanie to sposób przejœcia przez rejestr, aby zidentyfikowaæ, zaproponowaæ i naprawiæ b³êdy.
+2801005= Poka¿ pasek podpowiedzi
+2801006= Mutltiple triggers defined
+2801007= Zadanie nie zaplanowano
+
+
+[Quick Search]
+3700001= Szybkie wyszukiwanie
+3700002= 
+
+//frmMain
+3701001= Plik
+3701002= Edycja
+3701003= Widok
+3701004= Pomoc
+3701005= Otwórz
+3701006= Otwórz folder
+3701007= Eksport
+3701008= Zamknij
+3701009= Kopiuj
+3701010= Œcie¿ka wzglêdna
+3701011= Opcje
+3701012= Rozmiar tekstu
+3701013= Sortuj wed³ug
+3701014= Odœwie¿
+3701015= Powiêkszony
+3701016= Pomniejszony
+3701017= Normalny
+3701018= Nazwa
+3701019= Œcie¿ka
+3701020= Rozmiar
+3701021= Data modyfikacji
+3701022= Strona g³ówna
+3701023= O programie
+3701024= Edytuj kategoriê
+3701025= Poka¿ wszystko
+3701026= Skróty
+3701027= Dokumenty
+3701028= Obrazy
+3701029= Filmy
+3701030= Muzyka
+3701031= Programowanie
+3701032= Poka¿ %s pliki
+3701033= Uwzglêdnij pliki
+3701034= Uwzglêdnij foldery
+3701035= %s znalezionych elementów.
+3701036= Skanowanie %s ...
+3701037= Typ   
+3701038= Opis pliku
+3701039= Wersja pliku
+3701040= Wersja produktu
+3701041= Nazwa firmy
+3701042= Plik tekstowy(*.txt)|*.txt|Wszystkie pliki(*.*)|*.*
+3703043= Plik nie istnieje
+3703044= Wskazówki
+
+//frmSetting
+3702001= Opcje
+3702002= Kategoria
+3702003= Ogólne
+3702004= Uruchom automatycznie podczas startu systemu Windows
+3702005= Dwukrotnie kliknij "Ctrl", aby ukryæ lub wyœwietliæ pole wyszukiwania
+3702006= Jêzyk:
+3702007= Nazwa kategorii
+3702008= Rozszerzenia
+3702009= Dodaj
+3702010= Edytuj
+3702011= Usuñ
+3702012= OK
+3702013= Anuluj
+3702014= Proszê wybraæ kategoriê!
+3702015= Ta kategoria nie mo¿e zostaæ usuniêta
+
+//frmGroupSetting
+3703001= Nazwa kategorii:
+3703002= Rozszerzenia plików:
+3703003= Rozszerzenie pliku:
+3703004= Rozszerzenie
+3703005= Typ pliku
+3703006= WprowadŸ rozszerzenie(*.doc)
+3703007= Nazwa kategorii nie mo¿e byæ pusta!
+3703008= Pole rozszerzenia plików nie mo¿e byæ puste!
+3703009= Nazwa kategorii %s ju¿ istnieje, nale¿y ponownie wprowadziæ nazwê kategorii.
+3703010= Dodaj kategoriê
+3703011= Edytuj kategoriê
+
+//UnitFunction
+3704001= Brak tekstu w schowku!
+
+//frmAbout
+3705001= O programie
+3705002= Wersja:
+3705003= Witryna internetowa:
+3705004= Copyright @ 2013, Glarysoft ltd. Wszystkie prawa zastrze¿one
+
+//tray icon
+3706001= Otwórz Szybkie wyszukiwanie
+
+//Task
+3707001= Glary Utilities 3 Szybkie wyszukiwanie
+
+[Disk Defrag]
+3400001= Defragmentacja dysku
+3400002= Wykonaj do przyspieszenia wydajnoœci komputera
+
+//frmMain
+3401001= Wolumin
+3401002= System plików
+3401003= Pojemnoœæ
+3401004= Wolne miejsce
+3401005= Pofragmentowane
+3401006= Status
+3401007= Boot Time Defrag 
+3401008= Plik
+3401009= Narzêdzia
+3401010= Pomoc
+3401011= Defragmentuj plik...
+3401012= Defragmentuj folder...
+3401013= Analizuj
+3401014= Defragmentacja
+3401015= Defragmentacja i optymalizacja (wolniej, u¿ywaæ raz w tygodniu)
+3401016= Zakoñcz
+3401017= Priorytet
+3401018= Niski
+3401019= Normalny
+3401020= Wysoki
+3401021= Opcje
+3401022= Strona g³ówna
+3401023= SprawdŸ aktualizacje
+3401024= O programie
+3401025= Defragmentacja
+3401026= Analiza
+3401027= Defragmentacja i optymalizacja (wolniej, u¿ywaæ raz w tygodniu)
+3401028= Wstrzymaj
+3401029= Wznów
+3401030= Zatrzymaj 
+3401031= Wy³¹cz po ukoñczeniu defragmentacji
+3401032= Zaznacz wszystko
+3401033= Odznacz
+3401034= Status
+3401035= Raport
+3401036= Zajête miejsce
+3401037= Wolne miejsce
+3401038= Przetwarzanie
+3401039= Wolne miejsce
+3401040= Zajête miejsce
+3401041= Nie pofragmentowane
+3401042= Nieprzenoœne pliki
+3401043= Pofragmentowane pliki
+3401044= Zajêty
+3401045= Strefa zarezerwowana dla MFT
+3401046= Gotowe
+3401047= Analizowanie
+3401048= Defragmentowanie
+3401049= Optymalizacja
+3401050= Przeanalizowany
+3401051= Zdefragmentowany
+3401052= Zoptymalizowany
+3401053= Analiza zakoñczonna
+3401054= Defragmentacja zakoñczonna
+3401055= Optymalizacja zakoñczonna
+3401056= Analiza przerwana
+3401057= Defragmentacja przerwana
+3401058= Optymalizacja przerwana
+3401059= Boot Time Defrag jest aktywna na tym woluminie.
+3401060= Boot Time Defrag nie jest aktywna na tym woluminie.
+3401061= Wy³¹cz
+3401062= W³¹cz
+3401063= Konfiguracja
+3401064= Defragmentacja pliku stronicowania, pliku hibernacji
+3401065= Defragmentacja MFT
+3401066= Defragmentacja plików systemowych
+3401067= Historia Boot Time Defrag (Dwukrotne klikniêcie, aby zobaczyæ szczegó³y)
+3401068= Data
+3401069= Ca³kowity rozmiar 
+3401070= Fragmentów
+3401071= Liczba plików i katalogów:
+3401072= Fragmenty:
+3401073= Stopieñ fragmentacji:
+3401074= Nazwa pliku
+3401075= Fragmenty
+3401076= Rozmiar
+3401077= Œcie¿ka
+3401078= Tak
+3401079= Nie
+3401080= plik(ów)
+3401081= Wybierz folder
+3401082= Wskazówka
+3401083= Defragmentator dysków nadal dzia³a.
+3401084= Nieznany sterownik
+3401085= Katalog g³ówny nie mo¿e zostaæ dodany do listy wykluczeñ. Proszê wybraæ inny katalog.
+3401086= Odznacz
+3401087= Zatrzymaj
+3401088= Zatrzymaj wszystkie
+3401089= Ten wolumin jest pamiêci¹ Solid State Drives (SSD) i nie ma potrzeby, aby zdefragmentowaæ go.
+
+//frmOption
+3402000= Opcje
+3402001= Ogólne
+3402002= Defragmentacja
+3402003= Automatyczna defragmentacja
+3402004= Harmonogram
+3402005= Boot Time Defrag
+3402006= Optymalizacja
+3402007= Wykluczone
+3402008= Jêzyk:
+3402009= Uruchom automatycznie podczas startu systemu Windows
+3402010= Minimalizuj do zasobnika systemowego po zamkniêciu okna programu
+3402011= Poka¿ dymek wskazówki, gdy zminimalizujê do zasobnika systemowego
+3402012= Zintegruj Defragmentator dysków z menu kontekstowym Eksploratora Windows
+3402013= Automatyczna aktualizacja
+3402014= Jednoczesna defragmentacja dysków
+3402015= Domyœlne
+3402016= Inteligentna defragmentacja
+3402017= Aurora
+3402018= Windows Standard
+3402019= Accessibility
+3402020= Rainbow
+3402021= Sea Breeze
+3402022= Tylko defragmentacja plików, które:
+3402023= Maj¹ fragmenty mniejsze ni¿
+3402024= Maj¹ wiêcej ni¿
+3402025= S¹ wiêksze ni¿
+3402026= S¹ mniejsze ni¿
+3402027= fragmentów
+3402028= Przenieœ pliki o du¿ym rozmiarze na koniec dysku
+3402029= Min. rozmiar pliku:
+3402030= Pliki nie u¿ywane przez ostatni miesi¹c
+3402031= Plików w koszu
+3402032= Zaznaczony typ plików
+3402033= Kategoria
+3402034= Typ
+3402035= Dodaj
+3402036= Edytuj
+3402037= Usuñ
+3402038= Wyklucz pliki, które nie chcesz defragmentowaæ, np. plików wideo. {#13#10}To przyspieszy defragmentacjê. 
+3402039= Dodaj pliki
+3402040= Dodaj folder
+3402041= Auto defrag jest wy³¹czona
+3402042= Auto defrag jest w³¹czona
+3402043= Kiedy auto defragmentacja jest w³¹czona, twój dysk twardy bêdzie automatycznie defragmentowany, aby twój komputer dzia³a³ z maksymaln¹ prêdkoœci¹.
+3402044= Auto defrag, kiedy system jest bezczynny przez %s min
+3402045= Wstrzymaj, gdy u¿ycie CPU/dysku przekracza %s%
+3402046= Wolumin
+3402047= Ostatnia defragmentacja:
+3402048= Zdefragmentowane pliki:
+3402049= Uruchom zgodnie z harmonogramem
+3402050= Operacja:
+3402051= Czêstotliwoœæ:
+3402052= Czas:
+3402053= Tylko defragmentacja
+3402054= Defragmentacja i optymalizacja
+3402055= Codziennie
+3402056= Cotygodniowo
+3402057= Miesiêcznie
+3402058= Poniedzia³ek
+3402059= Wtorek
+3402060= Œroda
+3402061= Czwartek
+3402062= Pi¹tek
+3402063= Sobota
+3402064= Niedziela
+3402065= W³¹cz defragmentacjê plików systemowych
+3402066= Typ defrag:
+3402067= Metoda
+3402068= Co ka¿de uruchomienie komputera
+3402069= Codziennie, co pierwszy rozruch komputera
+3402070= Co %s dni pierwszy rozruch
+3402071= Max plików log:
+3402072= Uruchom automatyczne sprawdzanie
+        
+3402073= Zaawansowana defragmentacja
+3402074= Szybka Defragmentacja
+3402075= Wybierz folder
+3402076= Proszê sprawdziæ dysk, który chcia³eœ zdefragmentowaæ!
+3402077= Wskazówki
+3402078= Proszê wybraæ kategoriê!
+3402079= Czy na pewno chcesz usun¹æ tê kategoriê?
+3402080= Dodaj kategoriê pliku
+3402081= Edytuj kategoriê pliku
+3402082= OK
+3402083= Anuluj
+3402084= Boot Time Defrag defragmentuje pliki, które nie mog¹ byæ bezpiecznie przenoszone przy uruchomionym systemie Windows.
+3402085= Zatrzymaj VSS podczas defragmentacji woluminu NTFS
+
+//frmConfig
+3403001= Archiwum
+3403002= Filmy
+3403003= Obrazy dysku
+
+//frmCategory
+3404001= Nazwa kategorii nie mo¿e byæ pusta!
+3404002= Nieprawid³owy format! Przyk³ad: (*.doc/*.doc,...,*.Txt).
+
+//frmFileType
+3405001= Kategoria: 
+3405002= Typ:
+3405010= Nazwa kategorii %s ju¿ istnieje, wprowadŸ ponownie nazwê kategorii.
+
+[SpyRemover]
+2701001= Ochrona przed Malware
+2701002= Ochrona przed Malware
+2701003= Szybkie skanowanie i usuwanie spyware i adware
+2701004= Skanuj
+2701005= Usuñ
+2701006= Przywracanie
+2701007= Przeskanuj
+2701008= Proszê wybraæ kopiê zapasow¹, które chcesz przywróciæ, a nastêpnie kliknij przycisk Przywróæ.
+2701010= Typ
+2701011= Stan
+2701012= Kopie zapasowe
+2701013= Czy na pewno chcesz przywróciæ %s do rejestru systemowego?
+2701014= %s zosta³ pomyœlnie przywrócony do rejestru.
+2701015= Skanowanie %s
+2701016= Zeskanowane pliki: %s
+2701017= Malware zosta³y usuniête z powodzeniem!
+2701018= Przywróæ
+2701019= Skanowanie
+2701020= Skanowanie zosta³o zakoñczone
+2701021= %s znalezionych malware
+2701022= Nie znaleziono malware
+2701023= Znaleziono 1 malware
+2701024= Brak zaznaczonych elementów.
+2701025= Zaznaczony %s element 
+2701026= %s zaznaczonych elementów
+2701027= Informacje o Malware
+2701028= Nie znaleziono malware!
+2702001= Szczegó³y
+2702002= Wybierz pozycje, które chcesz usun¹æ.
+	 
+[BOOT TIME]
+2901001= Wy³¹cznie w celach informacyjnych.
+2901002= Twój czas rozruchu systemu Windows jest Bardzo powolny, %s u¿ytkowników s¹ wolniejsi.
+2901003= Twój czas rozruchu systemu Windows jest Wolniejszy, %s u¿ytkowników s¹ wolniejsi.
+2901004= Twój czas uruchamiania systemu Windows jest Normalny, %s u¿ytkowników s¹ wolniejsi.
+2901005= Twój czas rozruchu systemu Windows jest Szybki, %s u¿ytkowników s¹ wolniejsi.
+2901006= Twój czas rozruchu systemu Windows jest Bardzo szybki, %s u¿ytkowników s¹ wolniejsi.
+2901007= Nie uda³o siê uzyskaæ danych, wartoœæ odniesienia nie mo¿e zostaæ obliczona.
+2901008= Pobieranie czasu rozruchu systemu, proszê czekaæ...
+
+[DRIVER BACKUP]
+2200001= Mened¿er sterowników
+2201001= Kopia zapasowa
+2201002= Odinstaluj
+2201003= Przywróæ
+
+2201004= Wybierz sterowniki, które chcesz zainstalowaæ, a nastêpnie kliknij przycisk Przywróæ.
+2201005= Wybierz sterowniki, które chcesz odinstalowaæ, a nastêpnie kliknij przycisk Odinstaluj.
+2201006= Wybierz folder docelowy, w którym zosta³ zapisany plik kopii zapasowej:
+2201007= Zapisz plik kopii zapasowej do:
+2201008= Kopia zapasowa sterowników.
+2201009= %s b³¹d utworzenia!
+2201010= Czy na pewno chcesz odinstalowaæ to urz¹dzenie?
+2201011= Nazwa urz¹dzenia
+2201012= Wersja
+2201013= Data utworzenia kopii zapasowej.
+2201014= Mo¿e byæ konieczne ponowne uruchomienie komputera!
+
+
+[Software Update]
+4000001= Aktualizacja oprogramowania
+4000002= 
+
+4001001= Czytaj wiêcej...  
+4001002= Anuluj
+4001003= Kontynuuj
+4001004= Uruchom sprawdzanie podczas uruchamiania systemu Windows
+4001005= Skanuj
+4001006= Skanuj ponownie
+4001007= Skanowanie zakoñczone.
+4001009= 
+4001010= Gotowy rozpocz¹æ ...
+4001011= Skanowanie komputera ...
+4001012= Wysy³anie danych do analizy ...
+4001013= Otwieranie wyników ...
+4001014= Kliknij przycisk Skanuj, aby zeskanowaæ komputer pod k¹tem zainstalowanych programów!
+4001015= OdwiedŸ www.glarysoft.com
+4001016= Przywróæ z zasobnika
+4001017= Zakoñcz
+4001019= Kliknij tê wiadomoœæ, aby zobaczyæ wiêcej.
+4001020= Zobacz szczegó³y
+4001021= Skanuj w poszukiwaniu aktualizacji
+
+4001022= Dostêpna jest 1 nowa aktualizacja.
+4001023= Jest dostêpnych %s nowych aktualizacji. 
+4001024= Dostêpna jest 1 nowa aktualizacja beta. 
+4001025= Jest dostêpnych %s nowych aktualizacji beta. 
+
+4001026= Dostêpna jest 1 nowa aktualizacja i 1 aktualizacja beta.
+4001027= Dostêpna jest 1 nowa aktualizacja i %s aktualizacji beta.  
+4001028= Jest dostêpnych %s nowych aktualizacji i 1 aktualizacja beta. 
+4001029= Jest dostêpnych %s nowych aktualizacji i %s2 aktualizacji beta. 
+4001030= Brak dostêpnych aktualizacji.

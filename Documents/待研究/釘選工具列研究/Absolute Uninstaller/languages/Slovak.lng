@@ -1,0 +1,2649 @@
+[Language]
+Description= Slovak (by majsus)
+
+[Globals]
+10001= Súbor
+10002= Úpravy
+10003= Zobrazi
+10004= Nápoveda
+10005= Koniec
+10023= Obsah Nápovedy
+10018= Domovská stránka
+10019= O programe
+10006= Zastavi
+10007= Obnovi
+10008= Vlastnosti
+10009= Názov
+10010= Otvori
+10011= Ve¾kos
+10012= OK
+10013= Koniec
+10014= Zatvori
+10015= Áno
+10016= Nie
+10017= Prechádza
+10020= Exportova
+10021= Otvori zloku
+10022= Úlohy
+10024= Ïalej
+10025= Spä
+10026= Nastavenie
+19026= Celková ve¾kos
+19027= Vo¾né miesto
+14023= Stav
+10027= Popis
+10028= Koniec
+10029= Kôš
+14009= Detaily
+10030= Prida
+10031= Odobra
+10032= Vıchodzie
+10033= Dátum vytvorenia
+10034= Zmaza
+10035= Doporuèi priate¾om
+10036= Zakúpi teraz
+10037= Vloenie registraèného kódu
+15009= Vybra všetko
+15010= Odobra všetko
+15011= Obráti vıber
+15014= Vybra
+10038= Ponuka
+10039= Kontrola aktualizácií
+10040= Jazyk
+10041= Ste si istı, e chcete tieto poloky presunú do koša?
+10043= Niektoré súbory nemôuu by zmazané. Skontrolujte, èi disk nie je plnı, alebo èi súbor nie je chránenı proti prepísaniu, alebo je pouívanı.
+10044= Varovanie
+10045= Informácia
+10046= Chyba
+10047= Potvrdenie
+10048= Inicializácia
+
+10050= Odporuèené
+10051= Aplikova
+10052= Pomôcka
+10053= Tento program nemono spusti z dôvodu chıbajúceho alebo poškodeného súboru, skúste spusti inštaláciu znova pre vyriešenie problému. Kliknite na tlaèidlo "Áno" a stiahnite si najnovšiu verziu Glary Utilities.
+10054= Zobrazi históriu
+
+10060= Budete musie reštartova tento softvér pre uplatnenie zmeny jazyka.\r\nSte si istí, e chcete ukonèi a reštartova?
+10061= Informujte ma, keï bude k dispozícii nová verzia
+10062= Automaticky aktualizova na najnovšiu verziu
+10063= Upgrade na Pro
+
+[Integrator]
+10801= Údrba & Opravy  
+10802= Ladenie & Zlepšenie
+10803= Súkromie & Ochrana
+10804= Súbory & Zloky
+10805= Systémové nástroje
+
+10806= Stav
+10807= Stav programu
+10808= Vaša verzia:
+10809= Posledná aktualizácia:
+10810= Dátum databázi:
+10811= Stav licencie
+10812= Typ licencie:
+10813= Free Edition
+10814= Professional Edition
+10815= Uplynutie licencie:
+10816= Nikdy
+10817= Zaregistrujte Vami zakúpenı produkt pomocou tlaèítka nišie.
+10818= Registrácia
+10819= Nastavenie autoúdrby
+
+10799= Moduly
+
+10820= Monosti
+10821= Hlavné
+10822= Jazyk:
+10823= Spusti Glary Utilities automaticky so spustením Windows.
+10824= Minimalizova do systémovej lišty pri zatvorení okna programu.
+10825= Kontext menu
+10826= Vyberte Kontextové menu, ktoré chcete necha integrova do Windows Prieskumníka.
+10827= Autoaktualizácia
+10828= Zaháji aktualizáciu pod¾a nastaveného plánu.
+10829= Plán:   
+10830= Nie je k dispozícii pre Free Edition
+10831= Zmeni plán
+10832= Autoúdrba
+10833= Zmaza stopy súkromnıch aktivít pri zap/vyp Windows.
+10834= Súkromné stopy
+10835= Vyberte stopy ktoré budú zmazané pri zapnutí/vypnutí Windows.
+10836= Automatická 1-kliková údrba
+10837= Spusti 1-klikovú údrbu v plánovanom èase.
+10838= Centrum obnovy
+10839= Ochrany Centra obnovy
+10840= Tu vyberte moduly, ktoré vytvoria zálohu pre Centrum obnovy.
+10841= Dostupné moduly:
+10842= Nastavenie záloh
+10843= Automaticky maza zálohy po:
+10844= Limit súborov záloh k obnove:
+10845= Zoznam vınimiek
+10846= Po jednom tıdni
+10847= Po 2 tıdòoch 
+10848= Po 3 tıdòoch 
+10849= Po jednom mesiaci
+10850= po 2 mesiacoch 
+10851= Po 3 mesiacoch 
+10852= Nastavenie 1-klikovej automatickej údrby
+10853= Len skenovanie
+10854= Skenovanie a oprava chıb
+10855= Vyberte stopy ktoré chcete zmaza 
+10856= Zobrazova nápovedu v minimalizácii do systray
+10857= Skontrolova aktualizácie pri štarte programu
+
+10900= Súbory záloh
+10901= Prosím vyberte súbor záloh, ktorı chcete obnovi a kliknutím na 'Obnovi' obnovte zmeny.
+10902= Obnova systému
+10903= Vytvori Bod obnovenia
+10914= Novı Bod obnovenia bol úspešne vytvorenı.
+10904= Bod obnovenia nebol vytvorenı! Systém obnovenia v tomto systéme vypnú lebo nemáte k nemu prístupové práva.
+10905= Ak je vypnutı Systém obnovenia, postupujte pod¾a nasledujúcich krokov: Štart -> Ovládací panel -> Systém -> Obnovenie systému. Políèko "Vypnú nástroj Obnovenia systému na všetkıch jednotkách" nesmie by zaškrtnuté.
+10906= Prosím najskôr vyberte Bod obnovenia!
+10907= Prosím ulote zmeny a ukonèite všetky spustené programy.Po ukonèení Obnovenia bude Windows automaticky reštartovanı.
+10908= Prosím najskôr vyberte Zálohu!
+10911= Zálohy 
+10912= Urèite chcete obnovi zálohu %s?
+10913= Obnova bola úspešná.
+10915= Prosím vyberte akıko¾vek Bod obnovenia a kliknutím na 'Obnovi' vrate nechcené zmeny v PC. 
+
+10909= Nápoveda
+10910= Glary Utilities je stále spustenı.
+
+10916= Najèastejšie otázky
+10917= Vzh¾ady
+10918= Mobilná verzia
+10919= Núdzová podpora
+
+[License Dialog]
+20001= Vlastníte èasovo obmedzenú Trial verziu.
+20002= Teraz môete testova plne funkènı software %s dní bez akıchko¾vek povinností.
+20003= Ak sa Vám tento software páèi a chcete ho pouíva po uplynutí testovania, kliknite na "Objedna".
+20004= Testovacia doba: deò %s z %s2
+20005= Testovacia doba uplynula. Po dobu %s dní, ste testovali plnú verziu tohoto software.                     
+20006= Ak sa Vám tento software páèi a chcete ho ïalej uíva, kliknite na "Objedna".
+20007= Testovacia doba uplynula
+20008= Neregistrované
+20009= Copyright(c)
+20010= Licenciu k programu vlastní:
+20011= Varovanie: Tento poèítaèovı program je chránenı pred kopírovaním Zákonmi a mezinárodnımi dohodami. Neautorizované kopírovanie alebo šírenie tohoto programu je postihnute¾né obèianskym Zákoníkom a kriminálnym trestom, ktorı bude poadovanı v maximálnej miere pod¾a Zákona.
+20012= Náš web
+20013= Objedna 
+20014= Vloi kód
+20015= Ïalej testova
+20016= Vaše meno
+20017= Registraènı kód
+20018= Pokia¾ nevlastníte Registraènı kód pre splnohodnotenie tejto testovacej verzie skúste 
+20019= Objedna on-line.
+20020= Registraènı kód nie je správny. Prosím skontrolujte Váš kód a skúste ho opä vloi správne.
+20021= Ve¾ká vïaka patrí nasledujúcim ¾uïom za ich prácu:
+20022= Aktualizuj!
+20023= Prosím zadajte Vaše liceèné informácie
+20024= Typ licencie:
+20025= Pre získanie licencie, 
+20026= Náš web:
+
+20027= Aktivova teraz
+20037= Prosím, zadajte svoje meno!
+20038= Licenènı kód:
+20039= Aktivova teraz
+20040= Nemáte licenciu?
+20041= Kliknite sem a jednu dostanete.
+20042= Stratil som svoj licenènı kód.
+20043= Aktivácia Glary Utilities Pro Edition
+20044= Licenciu vlastní:
+20045= Dátum ukonèenia platnosti:
+20046= %s dní do konca
+20047= Vypršala pred %s dòom(i) 
+20048= Obnovi
+20049= Exportova licenciu
+20050= Glary Utilities Správca licencie
+20051= Napr. AC6E-D9C6-FAB8-A8C8
+20052= Správca licencie
+20053= Informácia o licencii sa úspešne uloila do:
+
+[Updater]
+30001= Nemono stiahnu informácie z %s
+30002= Vo Vašom poèítaèi beí posledná vydaná verzia %s. Teraz nie je dostupná aktualizácia.
+30003= Ste uívate¾ %s : %s2.
+30004= Nová verzia %s bola uvolnená k stiahnutiu: %s2. Prosím kliknite na "OK" a otvorte si stránku s informáciami o stiahnutí, alebo kliknite na Zatvori pokia¾ nechcete aktualizova teraz.
+30005= Aktualizácia dokonèená
+30006= Získavam aktualizaènú verziu (%s)...
+30007= Získavam odkaz na aktualizaènı súbor (%s)...
+30008= Kontrolujem aktualizácie...
+30009= Pripravenı
+30010= Kontaktujem server......
+30011= Odhadovanı èas:
+30012= Sahovanie:
+30013= Neznáme
+30014= %s sec
+30015= %s z %s2 skopírované
+30016= %s/sec
+30017= Pre pouitie %s musíte aktualizova na verziu Pro. Aktualizova teraz?
+30018= %s je teraz k dispozícii. Kliknutím na túto správu inštalujte.
+30019= %s min %s2 sekúnd
+30020= Kontrolujem jazykové aktualizácie (%s)..
+30021= Verzia %s je k dispozícii. Aktualizova teraz!
+30022= Aktualizácia Glary Utilities
+30023= K stiahnutiu je dostupná nová verzia Glary Utilities!
+30024= Glary Utilities %s bola vydaná - máte %s2. Chcete teraz stiahnu novú verziu?
+30025= Poznámky k vydaniu:
+30026= Túto verziu vynecha
+30027= Pripomenú neskôr
+30028= Stiahnu
+30029= Automaticky sahova aktualizácie
+
+[Context Menu]
+40001= Analıza miesta na disku s Glary Utilities
+40002= Spoji s Glary Utilities
+40003= Rozdeli s Glary Utilities
+40004= Dekódova s Glary Utilities
+40005= Zakódova s Glary Utilities
+40006= Znièi s Glary Utilities
+40007= H¾ada prázdne zloky s Glary Utilities
+
+40008= Disková defragmentácia s Glary Utilities
+40009= Defragmentova disk s Glary Utilities
+40010= Defragmentova zloky s Glary Utilities
+40011= Defragmentova súbory s Glary Utilities
+
+[Registry Cleaner]
+11001= Èistiè registra
+11901= Údrba Vášho registra pre zvıšenie Vášho systémového vıkonu.
+11002= Vyberte sekcie ku skenovaniu
+
+11003= Akcia
+11004= Skenovanie registra
+11005= Oprava chıb registra
+11006= Obnova predchádzajúcich opráv
+11007= Nástroje
+
+11008= Vami vybrané problémy boli úspešne opravené.
+11009= Urèite chcete túto poloku zapísa do Zoznamu vınimiek? Táto poloka u nebude nájdená.
+11010= Súbor bol uloenı do:
+11011= Celkom nájdenıch problémov: 
+11012= 1 problém nájdenı
+11013= %s problémy nájdené
+11014= 1 problém vybranı pre odstránenie
+11015= %s problémy vybrané pre odstránenie
+11016= Problém nenájdenı
+11017= Nie je vybranı problém pre odstránenie
+11018= (%s problémy nájdené)
+11019= Analyzujem
+11020= Sekcia:
+11021= Typ opravy:
+11022= Zobrazi
+11023= Otvorí tento záznam v RegEdite
+11024= Zmaza tento záznam
+11025= Ponecha záznam bez zmien
+11026= Prida k vınimkám (nikdy nebude nájdenı)
+11027= Vlastnosti
+11028= Otvorí vlastnosti zástupcu
+11029= Zmaza tohoto zástupcu
+11030= Ponecha Zástupcu bez zmien
+
+11031= Sken dokonèenı
+11032= Opravi
+11033= Kliknutím na 'Opravi' opravte automaticky alebo kliknutím na 'Zatvori' zobrazí detaily.
+11034= Oprava dokonèená
+11035= Skenujem 
+11036= Opravujem 
+
+11037= Obnovi
+11038= Prosím vyberte zálohu pre obnovenie a obnovte kliknutím na tlaèítko 'Obnovi'.
+11039= Záloha
+11040= Urèite chcete obnovi %s do systémového registra?
+11041= %s bola úspešne obnovená do systémového registra.
+
+11042= Záznam %s odkazuje na chıbajúci súbor alebo zloku %s2
+11043= Tento k¾úè registra odkazuje na chıbajúci k¾úè %s
+11044= Tento k¾úè registra neobsahuje dáta. Môe by zmazanı.
+11045= Tento k¾úè registra odkazuje na chıbajúci CLSID %s
+11046= Tento k¾úè registra odkazuje na chıbajúcu ikonu %s
+11047= Táto poloka kontextovej ponuky %s odkazuje na chıbajúci program %s2
+11048= Záznam registra nie je úplnı, pretoe chıba Príkazovı podk¾úè.
+11049= Záznam registra nie je úplnı, pretoe neobsahuje dáta pre uívate¾a Windows.
+11050= Tento k¾úè registra odkazuje na chıbajúci InprocServer %s. Pridruenı CLSID môe by zmazanı.
+11051= Tento k¾úè registra odkazuje na chıbajúci LocalServer32 %s. Pridruenı CLSID môe by zmazanı.
+11052= Tento k¾úè registra odkazuje na neexistujúci typ knihovne %s
+11053= Tento k¾úè registra odkazuje na chıbajúcu zloku %s
+11054= Tento k¾úè %s neobsahuje dáta.Pridruenı typ knihovne môe by zmazanı.
+11055= Tento k¾úè registra odkazuje na chıbajúci súbor %s
+11056= Uvedenı súbor %s nebol nájdenı.
+11057= Súbor %s pridruenı k záznamu %s2 neexistuje.
+11058= Záznam %s odkazuje na chıbajúci súbor Nápovedy %s2
+11059= Zdie¾anı súbor %s neexistuje.
+11060= Zdie¾anı súbor %s nie je zatia¾ pouívanı.
+11061= Záznam ImagePath odkazuje na chıbajúci súbor %s. Pridruená Sluba môe by zmazaná.
+11062= Záznam %s odkazuje na chıbajúci súbor %s2
+11063= Cie¾ pre tohto Zástupcu nebol nájdenı %s
+11064= Tento záznam obsahuje odkaz na zloku %s v Ponuke Štart, ktorá bola zmazaná alebo upravená.
+11065= Záznam %s odkazuje na chıbajúci program %s2
+11066= Tento odkaz na odinštalátor neobsahuje dáta potrebné k tomu aby Windows odinštaloval program alebo príslušenstvo.
+11067= Poadovanı odinštalátor %s nebol nájdenı.
+11068= Tento záznam %s odkazuje na chıbajúcu zloku %s2 
+
+11069= Zmazané k¾úèe :
+11070= Zmazané hodnoty :
+11071= Zmazané súbory :
+
+11072= Zoznam vınimiek
+11073= Zoznam vınimiek, ktoré sú ignorované pri skenovaní Registra. Ak ich chcete zahrnú do skenovania %s zrušte ich zatrhnutie.
+11074= K¾úè registra
+
+11075= Vyberte cie¾ovú zloku pre ukladanie súborov záloh 
+11076= Zvo¾te si limit súborov záloh:
+11077= %s u existuje. Chcete ho nahradi?
+11078= Nahradi
+11079= Zhrnutie zistenıch problémov: (%s problémov nájdenıch, %s2 problémov vybranıch na opravu)
+11080= Zhrnutie zistenıch problémov: (1 problém nájdenı, 1 problém vybranı pre opravy)
+11081= (1 problém nájdenı)
+11082= Zhrnutie zistenıch problémov: (Neboli zistené iadne problémy, iadne problémy vybrané na oprave)
+11083= Skenovanie ...
+11084= Neboli zistené iadne problémy, iadne problémy vybrané pre opravu.
+11085= %s problém nájs, %s2 problém vybranı pre opravu.
+11086= %s problémov nájdenıch, %s2 problémov vybranıch na opravu.
+11087= Oprava ...
+11088= Exportova súbor databázy Registry
+11089= Aktuálne k¾úè:
+11090= Exportovanı k¾úè:
+11091= %s problém (y), vybrané pre opravy
+11092= Exportovanı úspešne!
+11093= %s zistené problémy, %s2 problémy opravené.
+11094= %s zistenı problém, %s2 problém opravenı.
+11095= Dnes opravenıch: %s problémov, celkom: %s2 problémov. 
+11096= Dnes opravenı: %s problém, celkom: %s2 problémov.
+11097= Dnes opravenı: %s problém, celkom: %s2 problém.
+11098= %s Problémy
+11099= 1 Problém
+11100= iadne problémy
+11101= Vyberte aspoò jednu poloku pre skenovanie!
+11102= Vyberte aspoò jednu poloku pre vyèistenie!
+11103= Kliknite na 'Skenovanie registra' pre skenovanie problémov v registroch.
+11104= %s problém(y) nájdenıch, %s2 problém(y) vybranıch pre opravu.
+11105= %s problémy opravené
+11106= %s problém opravenı
+
+[Disk Analysis]
+19001= Analyzátor disku
+19901= Zobrazie vyuitia miesta na disku, v súboroch a zlokách
+19003= Prieskumník
+19004= Otvori v cmd.exe
+19005= Zmaza (do Koša)
+19006= Lišta nástrojov
+19007= Stavovı riadok
+19008= Typy súborov
+19009= Ve¾ké súbory
+19010= Súbory
+19011= Zloky
+19012= Atribúty
+19013= Percentuálne
+19014= Typ súboru
+19015= Popis
+19016= Názov súboru
+19017= Zloka
+19018= Zmenené
+19019= Nahrávam typy súborov...
+
+19020= [Súbory]
+19021= Môj poèítaè
+
+19022= Vybranie disku
+19023= Všetky disky
+19024= Vlastné disky
+19025= Zloky
+19028= Vyuité/Celkom
+19029= Vyberte zloku:
+
+1801001= Analyzova
+1801002= Spä
+1801003= Poèítaè
+1801004=
+1801005= Zobrazi rozšírenia
+1801006= Všetky typy
+1801007= Videá
+1801008= Komprimované
+1801009= Hudba
+1801010= Obrázky
+1801011= Dokumenty
+1801012= Ostatné
+1801013= Rozšírenie
+1801014= Poèet súborov
+1801016= Typ
+1801017= Miesto
+1801018= Dátum zmeny
+1801019= Vo¾ná ve¾kos
+
+1801020= Panel nástrojov
+1801021= Navigácia
+1801022= Podrobnosti
+1801023= Všetky súbory
+1801024= Zloky a súbory
+
+1801025= Analyzova disk teraz
+1801026= Jednotka nebola doteraz analyzovaná. \nPretoe jednotka ešte nebola analyzovaná, iadne informácie tıkajúce sa vyuitia miesta na disku, typ súboru alebo najväèšie súbory poèas analızi, informácie o vybratıch jednotkách, súboroch a prieèinkoch, ktoré obsahujú vyuitie miesta na disku sú zozbierané a zobrazené.
+1801027= Iba skontrolova
+
+1801028= Ve¾kos súboru:
+1801029= Celková ve¾kos:
+1801030= Dostupné na:
+1801031= Zmenené dòa:
+1801032= Vytvorené dòa:
+1801033= %s vybranıch poloiek
+1801034= Ve¾kos:
+1801035= Celkovı obsah
+1801036= Neznáme
+1801037= Vyuité miesto:
+1801038= Analyzované
+1801039= Nie je analyzované
+
+1801040= Pri vıbere rozba¾te zloku
+
+1802001= Ukonèené
+1802002= Zlyhalo
+1802003= Prerušené
+1802004= Analıza pamäovıch miest
+1802005= Prosím poèkajte analıza disku dokonèí analızu vybranıch úloísk.
+
+1803001= Neplatná cesta zoznam:\n
+1803002= Cesta k súboru zoznamu:\n
+1803003= %s poloky nemono skenova
+
+1804001= Jednotka, ktorú ste vybrali nebola doteraz analyzovaná. Analıza by mala by vykonaná teraz?
+
+1805001= Ste si istí, e chcete presunú tieto %s poloky do koša?
+1805002= Vymaza
+1805003= Vymazanie %s poloiek
+
+[Startup Manager]
+14001= Správca Spúšania
+14901= Správa automaticky spustenıch programov
+14002= Vypnú túto slubu
+14003= Zapnú túto slubu
+14004= Prida program
+14005= Zmaza tento záznam
+14006= Upravi zápis
+14007= Zobrazi Panel detailov
+14008= Znovu nahra Zoznam
+14010= Ostatné spustené
+14011= Plánované úlohy
+14012= Miestne sluby
+14013= Programy spúšajúce sa pri spustení Windows alebo spúšané uívate¾om.
+14014= Nie je vybraná poloka.
+14015= Neplatnı záznam, môe by zmazanı.
+14016= <Bez informácií>
+14017= Vırobca:
+14018= Spoloènos:
+14019= Pridanie poloky
+14020= Ste si istı, e chcete vymaza túto poloku Spustenia
+14021= Úprava vybranej poloky Štartu
+
+14022= Cesta
+14024= Umiestnenie
+14035= Hodnotenie
+14025= Zapnuté
+14026= Vypnuté
+
+14027= Zoznam poloiek bol vytvorenı na %s od %s2
+14028= Celkom %s poloiek
+14029= Správa bola uloená do %s
+
+14030= Vyh¾ada Googlom...
+
+14031= Úprava poloiek spúšania
+14032= Prosím zadajte názov.
+14033= Prosím zadajte príkazovı riadok
+14034= Špecifikovanı súbor nebol nájdenı. Chcete urèite teraz pokraèova?
+
+14043= Neznámy
+14036= Spo¾ahlivı
+14037= Uívate¾ov
+14038= Neutrálny
+14039= Nepoadovanı
+14040= Nebezpeènı
+14041= Komentár
+14042= Ïa¾šie informácie
+
+14044= Komentár
+14045= Váš popis sluby
+14046= Váš názor na slubu
+14047= Tu môete zmeni stupeò hodnotenia
+14048= Odosla komentár
+
+14049= Oneskorenie
+14050= Spusti teraz
+14051= Programy spúšané s oneskorením.
+14052= Hore
+14053= Dole
+14054= Ak chcete oneskori niektorú aplikáciu, oznaète ju v zozname hore alebo môete potiahnú a pusti poloku do zoznamu dole.
+14055= Pre 'oneskorenie' niektorej aplikácie, ju prosím oznaète v zozname dole alebo ju môete potiahnú a pusti do zoznamu hore.
+14056= Nájdenı duplicitnı záznam
+14057= Zdá sa, e %s sa sám znova pridal do Spustenıch procesov Windows-u aj keï ste ho umiestnili do Zoznamu oneskorenıch programov.
+14058= Ak to chcete opravi otvorte %s a nájdite nastavenie 'Spúša s Windows-om' alebo nieèo podobné a vypnite ho.
+14059= Ak toto nastavenie neexistuje, potom kontaktujte autora %s, ktorı sa automaticky pridáva, a spıtajte sa èi môe prida monos vypnú %s automatické spustenie s Windows-om.
+14060= Ak sa nedá zastavi %s so spustením s Windows-om, tak bude istejšie necha ho ovláda Windows-om a odstráni %s zo Zoznamu oneskoreného spúšania.
+14061= Chcete odstráni poloku %s zo Zoznamu oneskoreného spúšania?
+14062= Oneskorenı
+14063= Oneskori
+14064= Neoneskorova
+14065= Sek
+
+2501001= Podrobnı panel
+2501002= Stavovı riadok
+2501003= Spustené
+2501004= Zastavené
+2501005= Pouitá pamä
+2501006= Pri spustení poloka u existuje.\nNapriek tomu ju chcete nahradi?
+2501007= Nepodarilo sa nastavi údaje pre '%s'
+2501008= Detaily
+2501009= Èas naèítania
+2501010= Programy po spustení
+2501011= Naplánované úlohy
+2501012= Plug-iny
+2501013= Aplikaèné sluby
+2501014= Sluby systému Windows
+
+2501015= Buïte prvı, kto okomentuje toto spustenie programu
+2501016= %s pouívate¾ov odporúèa vypnú alebo odloi toto spustenie programu
+
+2501017= Pri spustení zapnutı
+2501018= Vybraté spustenie programu je zapnuté
+2501019= Pri spustení zakázané
+2501020= Vybraté spustenie programu je zakázané
+
+2501021= sek
+2501022= min
+2501023= %s programy spusti pri štarte systému Windows alebo po prihlásení pouívate¾a
+
+2501024= Vráti spä zmeny
+2501025= Rozšírené zvıšenie
+2501026= Èas sputenia k dispozícii po ïalšom reštarte
+2501027= Uitoènos
+
+2501028= Po spustení oneskorené
+2501029= Vybratı program po spustení je oneskorenı
+
+2502002= Zmaza všetko
+2502003= Zmaza
+2502004= Èas
+2502005= Obnovi
+2502006= Operácie
+2502007= Zmaza všetko po tomto
+2502008= Zmaza všetko pred tımto
+2502009= Obnovi všetko po tomto
+
+2502101= Dnes
+2502102= Viac
+
+
+2503002= Uitoènı
+2503003= Neuitoènı
+
+2503004= Zadajte svoje pripomienky. Ïakujeme.
+2503005= Prosím, zadajte svoje meno. Ïakujeme.
+2503006= Odkaz pre viac informácií (volite¾né)
+2503007= Vaše meno
+2503008= Váš príspevok sme úspešne prijali.
+
+[Disk Cleaner]
+13001= Èistiè disku
+13901= Odstráni zbytoèné dáta z Vášho PC a obnoví vo¾né miesto na disku
+13002= Vyèistenie disku
+13003= Ïa¾šie vo¾by
+13004= Vyberte disky k potrebnému vyèisteniu.
+13005= Kliknite na 'Ïalej' pokia¾ ste ukonèili vıber Vašich diskov.
+13006= Prosím vyèkajte pokia¾ %s dokonèí skenovanie Vami vybranıch diskov.
+13010= Kliknite na 'Ïalej' pokia¾ ste si vybrali disk. 
+13007= Pouitím Èistièa disku uvo¾níte a %s miesta na disku %s2
+13008= Na disku získate celkom :
+13009= Zálohova %s pred èistením.
+13110= Zobrazi
+13011= Kliknutím na 'Ïalej' zahájite èistenie.
+13012= Súèasti Windows
+13013= Viac miesta na disku získate i odobraním nepouívanıch súèastí Windows.
+13014= Odobra...
+13015= Obnovi
+13016= Tu môete obnovi súbory zo súborov záloh, ktoré ste doèasne odstránili.
+13017= Zálohy...
+
+13018= Èistenie bolo úspešne dokonèené.
+13019= Záloha bola vytvorená.
+13020= Kliknutím na 'Koniec' sa vrátite na úvod.
+
+13021= Prosím, ku skenovaniu vyberte najskôr disk.
+
+13022= Skenujem....
+13023= Dokonèené
+13024= Inicializujem...
+13025= Kôš obsahuje Vami odstránené súbory z poèítaèa. Tieto súbory nie sú úplne zmazané do doby pokia¾ vysypete Kôš.
+13026= Doèasné súbory
+13027= Doèasné súbory pouívajú programy ako odkladací priestor a obvykle sú po pouití odstránené.
+13028= Nulové súbory
+13029= Súbory s nulovou ve¾kosou neobsahujú dáta. Môete ich vymaza.
+13064= Doèasné zloky internetu
+13065= Doèasné zloky internetu obsahujú webové stránky uloené na Vašom HDD pre ich rıchlejšie zobrazenie. Vaše osobné nastavenie pre webové stránky zostane nezmenené.
+
+13030= Vysypávam kôš...
+13031= Maem doèasné súbory internetu...
+13032= Maem doèasné súbory...
+13033= Maem súbory s nulovou ve¾kosou...
+
+13034= Prosím, vyberte súbory k zmazaniu.
+13035= Nie je vybranı súbor.
+13036= Otvori
+13058= Celkom %s súborov
+13059= Vytvorené:
+13060= Zmenené:
+13061= Poslednı prístup:
+
+13037= Hlavnı
+13038= Vyòa
+13039= Zahrnú
+
+13040= Pozrite si nišie zoznam nepotrebnıch súborov a zaškrtnite alebo odškrtnite typ súboru, ktorı bude alebo nebude zahrnutı vo vyh¾adávacom skene.
+13041= Typ súboru
+13042= Ak ste si neistı vybranım nastavením, doporuèujeme  ponecha 'Vıchodzie'.
+13043= Všetky súbory v tıchto zlokách nebudú povaované za zbytoèné.
+13044= Zloka
+13045= Všetky súbory v tıchto zlokách budú vdy povaované za zbytoèné, bez oh¾adu na typ.
+
+13046= Pouite príponu a '*', napr., *.tmp
+13047= Názov súboru konèí
+13048= Prosím vlote názov rozšírení.
+13049= Pouite názov prípony.
+13050= Musíte vyplni.
+
+13051= Prosím vyberte zálohu k obnoveniu a obnovte stisknutím tlaèítka 'Obnovi'.
+
+13052= Vlastná obnova
+13053= Prosím vyberte poloku k obnoveniu a obnovte stisknutím tlaèítka 'Obnovi'.
+13054= Obnova úspešne dokonèená.
+
+13055= Objekty
+13056= Súbory
+13057= Cesta
+13062= Typ
+
+13063= Prida typ súboru
+
+1301001= Štart èistenia
+1301002= Skenova
+1301003= Zachráni
+1301004= Cesta
+1301005= Kontrolazálohy
+1301006= Oznaèi všetko
+1301007= Neoznaèi niè
+1301008= Predvolená kontrola
+1301009= Naposledy vyèistenı disk v:
+1301010= %s/%s2/%s3
+1301011= Rıchly a jednoduchı spôsob, ako vyèisti zbytoèné súbory na vašom PC.
+1301012= Celková uloené plocha: %s
+1301013= Blahoeláme! Vaše jednotky boli vyèistené.
+1301014= Vyèistením zbytoènıch súborov môete ušetri miesto na disku.
+1301015= Vısledok
+1301016= Zoznam súborov
+1301017= Otestova
+1301018= Vylúèi tento súbor
+
+1302001= Windows
+1302002= Systémová doèasná pamä
+1302003= Uívate¾ská doèasná pamä
+1302004= Náh¾ad medzipamäte
+1302005= Vıpis súboru
+1302006= Správa o chybe súboru
+1302007= Súbory denníka systému
+1302008= Vzdialená pamä pracovnej plochy
+1302009= Kôš
+1302010= Neplatní zástupcovia v ŠTARTMENU 
+1302011= Neplatnı zástupcovia na pracovnej ploche
+1302012= IIS Log súbory
+1302013= Staré predbené dáta
+1302014= Písma
+1302015= Stiahnuté programy
+1302016= Aktualizácie systému Windows
+1302017= Prehliadaèe
+1302018= Internet Explorer medzipamä
+1302019= Mozilla Firefox medzipamä
+1302020= Google Chrome medzipamä
+1302021= Opera medzipamä
+1302022= Aplikácia
+1302023= Google Earth medzipamä
+1302024= Picasa medzipamä
+1302025= ACSE medzipamä
+1302026= Diskové jednotky
+1302027= Vyberte prosím aspoò jednu jednotku pre skenovanie
+1302028= Naozaj chcete zálohova súbory pred èistením?
+1302029= Zálohovanie nebolo dosiahnuté, chcete pokraèova v èistení?
+1302030= Súbory poèet: %s   Ve¾kos súborov: %s2
+1302031= %s kontrolovanıch poloiek
+1302032= Skenovanie dokonèené. %s súborov, celkom %s2 nájdenıch.
+1302033= Odporúèa sa èisti disky teraz.
+1302034= Blahoeláme! Máte èistı poèítaè!
+1302035= Udriava poèítaè èistı, je dobrım zvykom. Prosím, pamätajte si to!
+1302036= Sken bol zrušenı!
+1302037= Vybrali ste %s súborov, celkom %s2.
+1302038= Èistenie dokonèené. Všetky %s nevyiadané súbory boli vyèistené.
+1302039= Èistenie dokonèené.
+1302040= %s je v prevádzke, nemono odstráni ihneï.
+1302041= Nevyiadané súbory: %s
+1302042= Vlastné súbory a prieèinky
+1302043= Vlastnı názov
+1302044= Vlastné súbory a prieèinky
+1302045= Miesto
+1302046= Príklad: *.tmp | *.log
+1302047= Príklad: *.sys | *.txt
+1302048= Zahrnú len súbory
+1302049= Zahrnú súbory a podprieèinky
+1302050= Ak chcete by bezpeènos, nemono èisti súbory v adresári systému Windows.
+1302051= Ste si istí, e chcete vymaza tento adresár?
+1302052= Pre vašu bezpeènos, prosím nevyberajte súbory systému Windows.
+1302053= Vyberte ïalšie súbory a prieèinky, ktoré chcete odstráni (iba pokroèilí pouívatelia).
+1302054= Prosím, vyberte súbory alebo prieèinky, ktoré chcete odstráni.
+1302055= Vlastnı súbor alebo adresár u existuje, napriek tomu chcete prida?
+1302056= Vlastnı súbor alebo adresár u existuje, napriek tomu to chcete zmeni?
+1302057= Váš poèítaè nemá ve¾a nepotrebnıch súborov. Udriava poèítaè èistı, je dobrım zvykom. Prosím, pamätajte si to! 
+
+
+1303001= Záloha...
+
+1304001= Nemono zobrazi údaje!
+
+1305001= Zaèa skenovanie:
+1305002= Vısledok skenovania:
+1305003= iadne nájdené nevyiadané súbory
+1305004= %s súborov, z celkom %s2
+1305005= Koniec skenovania:
+1305006= Celkovı vısledok:
+1305007= %s súborov, %s2 musia by odstránené
+1305008= Zaèa èistenie
+1305009= Koniec èistenia
+1305010= Èistenıch %s súborov, celkom %s2
+1305011= %s súbor sa nedá odstráni.
+1305012= Èas zápisu:
+1305013= Úplne %s súborov, %s2.
+
+1305014= %s musí by uzavretı poèas èistenia vyrovnávacej pamäte.\nChcete Glary Utilities zavrie %s?
+1305015= Firefox
+1305016= Google Chrome
+1305017= Opera
+
+1306001= Dnes vyèisti: %s, celkom: %s2.
+1306002= %s nájdenıch, %s2 opravenıch.
+1306003= Ste si istí, e chcete obnovi %s?
+1306004= %s bol úspešne obnovenı.
+1306005= %s nevyiadané súbory boli odstránené.
+1306006= Kliknite na 'Skenova' k prezretiu vášho systému pre nevyiadané súbory
+1306007= %s súbor(y), celkom %s2 nájdenıch.
+1306008= %s opravené
+1306009= Celkom %s nevyiadané súbor(y) boli odstránené.
+
+[Uninstaller]
+12001= Správca odinštalátorov
+12901= Úplná odinštalácia programov, ktoré u viac nepotrebujete
+12002= Záloha odinštalaènıch informácií
+12003= Obnova odinštalaènıch informácií
+12004= Uloi Zoznam aplikácií
+12005= Odinštalova program
+12006= Odinštalova vybranı program
+12007= Zmena vlastností
+12008= Obnova odobraného vstupu
+12009= Príkazovı riadok
+12010= Aktuálne inštalované programy:
+12011= Zoradi:
+12012= Dátum inštalácie
+12013= Opravi chybné vstupy
+12014= Skupinová odinštalácia
+12015= Vyh¾ada program
+12016= Kliknutie zobrazí informácie o podpore
+12017= Príkazovı riadok
+12038= Odobra vstup
+
+12018= Zmeni
+12019= Odobra
+12020= Zmeni/Odobra
+
+12021= Celkom %s programov
+12022= Nemono odstráni zloku %s , je uívaná inım uívate¾om alebo programom. Chcete ju odstráni pri ïa¾šom spustení?
+12023= Novı!
+
+12024= Pre zmenu/odobranie programu z tohoto poèítaèa, %s kliknite na Zmeni/Odobra.
+12025= Pre zmenu alebo odobranie tohoto programu z poèítaèa,  %s kliknite na Zmeni alebo Odobra.
+12026= Pre odobranie tohoto programu z poèítaèa, %s kliknite na Odobra.
+
+12027= Inštalované:
+12028= Registraènı súbor(*.reg)
+12031= Textovı súbor(*.txt)
+12029= Odinštalaèné informácie z %s boli obnovené
+12030= Urèite chcete odobra %s z tohoto poèítaèa?
+12032= Bola vytvorená správa
+12033= Programy inštalované vo Vašom poèítaèi (Celkom %s programov):
+12034= Súbor bol uloenı do: 
+12035= Všetky inštalované programy v poèítaèí sú OK, bez chybnıch vstupov.
+12036= Urèite chcete odstráni %s zo zoznamu inštalovanıch programov?
+
+12037= Pri pokuse o odobranie %s nastala chyba. Program bol u asi odinštalovanı. Chcete odstráni poloku %s2 zo zoznamu inštalovanıch programov?
+12039= Program %s je "Skrytı" a najskôr pouívanı systémom. Urèite chcete tento program odinštalova?
+12040= V inštalaènom adresári programu "%s" sa stále nachádzajú súbory. Ak si nie ste istı, èi tieto dáta budete ïalej pouíva, kliknutím na "Prechádza adresár" súbory skontrolujte. Ak sú súbory nepotrebné kliknite na "Vymaza všetko".
+12041= Prechádza adresár
+12042= Vymaza všetko
+12043= Pred zmazaním vytvori zálohu.
+
+12044= Zadanı reazec nebol nájdenı.
+12045= Vyh¾adávaè
+12046= Vyh¾ada
+12047= Nájs :
+
+12048= Nasledujúce nájdené záznamy sú neplatné. Chcete vymaza tieto zápisy v registry? (Mono ich vymaza neskôr manuálne)
+12049= Neplatné zápisy
+12050= Vytvori zálohu pred zmazaním.
+
+12051= Prosím, vyberte záznamy registra pre obnovu a obnovte stisknutím tlaèítka 'Obnovi'.
+12052= Obnovi
+12053= Záznam programu
+12054= Dátum zálohy
+12055= Ste si istı, e chcete obnovi programové zápisy %s do systémového registra?
+
+12056= Uivate¾ské informácie o technickej podpore pre: 
+12058= Vydavate¾:
+12059= Verzia:
+12060= Kontakt:
+12061= Informácie o podpore: 
+12062= Èítaj:
+12063= Aktualizácie:
+12064= Komentár:
+12065= ID produktu:
+12066= Registrovaná spoloènos:
+12067= Majite¾ licencie:
+12068= Zloka umiestnenia:
+
+12069= Programy (*.exe;*.com;*.bat)
+12070= Všetky súbory (*.*)
+12071= Zadanı príkazovı riadok môe by neplatnı. Urèite chcete naïalej pokraèova?
+
+12072= Spusti inštalátor
+12073= Príkazovı riadok pre odinštalátor:
+12074= Pri pokuse o odstránenie %s nastala chyba. Nemáte prístup k súboru %s2 .
+12075= Nišie špecifikujte novı odinštalátor.
+
+12076= Zálohova záznam
+12077= Informácie o podpore
+12078= Aktualizácie Windows
+
+12080= Ikona
+12081= Zoznam
+12082= Podrobnosti
+
+12083= Všetky programy
+12084= Nedávno nainštalované programy
+12085= Ve¾ké programy
+12086= Zriedka pouívané programy
+12087= Aktualizácie systému Windows
+
+12088= Naposledy pouité:
+12089= Informácie o odinštalovaní uloi do:
+12090= Zakáza prístup poslednej aktualizácie
+
+[Duplicate Files Finder]
+15001= Vyh¾adávaè duplicít   
+15901= Vyh¾adá vyplytvanı priestor a chybne vytvorené duplicitné súbory
+15002= Vyh¾ada duplicitné súbory
+15003= Otvori súbor
+15004= Otvori v...
+15005= Otvori zloku
+15006= Vlastnosti
+15007= Generova správu
+15008= Zmaza vybrané súbory
+15012= Vybra prvé v skupine
+15013= Vyòa túto zloku z budúcich skenov
+15015= Cesta
+15016= %s z %s2 oznaèené k zmazaniu.
+15017= Skupiny duplicitnıch súborov
+15018= Ste si istı, e chcete vyòa všetky poloky vo vnútri vybranej zloky %s z nasledujúcich h¾adaní?
+15019= Nie je vybraná poloka k zmazaniu.
+
+15020= Sprievodca skenovaním
+15021= Prosím vyberte disky alebo zloky ku skenovaniu.
+15022= Disky
+15023= Zloky
+15024= Prida
+15025= Kritéria duplicitnıch súborov
+15026= Rovnakı názov
+15027= Rovnaká ve¾kos
+15028= Rovnakı èas
+15029= Ignorova súbory menšie ako 
+15030= H¾ada len medzi nišie vybranımi súbormi
+15031= Skenova všetky
+15032= Typ súboru
+15033= Vyòa tieto zloky z vyh¾adávania:
+15034= Zloka
+15035= Vyh¾adávam duplicitné súbory...
+
+15036= Nie je vybranı disk. Prosím vyberte aspoò jeden disk a pokraèujte.
+15037= Nie je vybraná zloka. Prosím vyberte aspoò jednu zloku a pokraèujte.
+15038= Nie je vybranı typ súboru. Prosím vyberte aspoò jeden typ súboru a pokraèujte.
+15039= Usporiadavám súbory. Môe to chví¾u trva v závislosti na poète súborov. Prosím èakajte...
+15040= Celkom %s súborov bolo skenovanıch a %s2 duplikátov bolo nájdenıch.
+
+15041= Prida nové meno súboru pre
+15042= Pouívajte prípony, napr., *.avi
+15043= Názov konèí s:
+15044= Prosím vlote príponu a meno.
+
+15045= Vloenie zloky
+15046= Vyberte zloku
+15047= Pouite príponu s "*",?
+15048= Musíte vyplni!
+15049= Dátum úpravy
+15050= Bol pridanı tento typ súboru.
+
+1501001= Nastavenie parametra pre skenovanie
+1501002= Inteligentná kontrola
+1501003= 0 poloiek z %d oznaèenıch pre odstránenie
+1501004= %s u existuje.\nChcete ho prepísa?
+1501005= Potvrdi a Uloi ako
+1501006= Vymaza súbor
+1501007= Dokumenty
+1501008= Hudba
+1501009= Obrázky
+1501010= Programy
+1501011= Video
+1501012= Iné
+1501013= Správa nájdenıch duplicitnıch súborov vytvorená na %s s %s2
+1501014= Celkom %s súborov
+1501015= Súbor bol uloenı do:
+1501016= Vylúèi
+1501017= Vylúèi Zoznam zloiek
+1501018= Ste si istí, e chcete odstráni všetky duplicitné súbory?
+
+1502002= Vylúèi súbor
+
+1503001= Duplicitné súbory matematické kritériá
+
+1504001= Skenova
+1504002= Celkové miesto
+1504003= Pouité miesto
+1504004= Vo¾né miesto
+1504005= Cesta k súboru
+
+1505001= Miesto uloenia
+1505002= Stav
+1505003= Èakanie
+1505004= Nahrávam
+1505005= Celkom %d súborov, ktoré boli skontrolované a %d duplikáty neboli nájdené.
+1505006= Usporiadanie súborov, prosím o chví¾ku strpenia ...
+
+1506001= Všeobecné
+1506002= Vyòa súboru
+
+[Empty Folders Finder]
+16001= Vyh¾adávaè prázdnych zloiek
+16901= Vyh¾adá a odstráni prázdne zloky vo Vašom Windows
+16002= Nájs prázdne zloky
+16003= Zoznam vyòatıch zloiek
+16004= Zmaza vybrané zloky
+16005= Vyòa vybrané zloky(Nebudú opä nájdené)
+16006= Vınimky
+16007= Zloka
+16008= Urèite chcete vybranú poloku prida do Zoznamu vınimiek? Táto poloka u nebude h¾adaná.
+
+16009= Správa Zoznamu vınimiek
+16010= Zoznam vınimiek, ktoré sú ignorované pri skenovaní prázdnych zloiek. Ak ich chcete opä zahrnú do skenovania, zrušte ich zatrhnutie.
+
+16011= Skenova
+16012= Zaškrtnite políèko pri disku(och) ktoré chcete skenova
+
+1601001= Príprava prázdnej zloky stromu...
+
+1602001= Príprava zoznamu zloiek ...
+1602002= Skenovanie ukonèené.
+1602003= Skenovanie %s
+1602004= Naèítanie diskov ...
+1602005= Triedenie obrázkov ...
+1602006= Ukladanie dát ...
+1602007= Inicializácia ...
+1602008= Skenovanie prázdnych zloiek ...
+1602009= Triedenie prázdnych zloiek ...
+
+[Shortcuts Fixer]
+17001= Opravár Zástupcov
+17901= Oprava chıb v Zástupcoch v Ponuke Štart & Zástupcoch na Ploche
+17002= Skenova
+17003= Priradi cie¾
+17004= Zmaza
+17005= Cie¾
+17006= Umiestnenie
+17007= Prechádzaním nájdite cie¾ Zástupcu
+17008= Skenova
+17009= Monosti
+17010= Len skenova Plochu a Ponuku Štart
+17011= Sken prázdnych zloiek Ponuky Štart
+17012= Zaškrtnite políèko disku(ov) ktoré chcete skenova 
+17013= Chyby nenájdené.
+
+1701001= Rıchla kontrola
+1701002= Rozšírené skenovanie
+1701003= Zastavi skenovanie
+1701004= Fix všetkıch kontrolovanıch
+1701007= Chyba
+1701008= Fixované
+1702001= Umiestnenie:
+1702002= Cie¾:
+1702003= Argumenty:
+1702004= Popis:
+1702005= Kliknite na "Aplikova" pre uloenie zmien.
+1702006= Vybrali ste prieèinok.
+1703001= Odstráni
+1703002= Kliknite na "%s" pre odstránenie vybranıch skratiek zo zoznamu, {\r\n}Kliknite na "%s2" pre presunutie vybranıch klávesovıch skratiek do koša, {\r\n}Kliknite na "%s3" pre trvalé odstránenie vybratıch zástupcov.
+1703003= Zálohova vybrané klávesové skratky pred odstránením
+
+[Tracks Eraser]
+18001= Èistiè súkromia
+18901= Zmae všetky Vaše stopy, záznamy, cookie, históriu internetu a ïa¾šie
+18002= Zmaza vybrané stopy
+18003= Zobrazi len dostupné zmazate¾né stopy
+18004= Zmaza tieto stopy
+18005= Nie sú vybrané stopy. Pre zmazanie stôp po Vašich aktivitách je nutné zaškrtnú políèko v¾avo od názvu stopy.
+18006= Urèite chcete vymaza Vami vybranıch %s stôp?
+18007= Stopy boli úspešne vymazané.
+18008= Urèite chcete zmaza Vami vybrané stopy %s ?
+
+18009= Správa cookie IE
+18010= Zapísané URL IE
+18011= Vyberte cookie, ktoré nechcete zmaza pri mazaní cookie internet explorera
+18012= Webová stránka
+18013= Stupeò hodnotenia
+18014= Posledné zmeny
+18015= Platnos
+18016= Úplná adresa
+18017= Zmaza nezatrhnuté cookie teraz
+18018= Vyberte URL ktoré nechcete zmaza pri mazaní histórie URL Internet Explorera
+18019= Url
+18020= Zmaza nezatrhnuté URL
+
+18021= Zmazanie
+
+18022= Windows
+18023= Odstránenie histórie, najviac otvárané dokumenty (Zoznam MRU) a ostatné záznamy Microsoft Windows
+18024= Windows nedávne dokumenty
+18025= Zmae zoznam nedávno otvorenıch dokumentov a súborov v poèítaèi. Tento zoznam sa nachádza v Ponuka Štart -> Posledné dokumenty.
+18026= Windows Ponuka Štart -> Spusti
+18027= Vymae históriu poslednıch príkazov Príkazového riadka v Štart -> Spusti.
+18028= Microsoft Common Dialog - Zoznam Súbory/Zloky
+18029= Microsoft Common Dialog je štandardná súèas uívaná mnostvom poskytovate¾ov softwarovıch aplikácií, súbormi, zlokami, a vybranou tlaèiaròou. Tento Èistiè súkromia zmae históriu vybranú vo Vašom poèítaèi. Nako¾ko je ovládanie Microsoft Common Dialog nejviac pouívanı pre súborovı dialóg Otvori/Uloi, tento Èistiè súkromia vymae poslednú históriu otvorenıch súborov poslednıch aplikácií. Vymae zoznam poslednıch zloiek a súborov vyh¾adávanıch vo Vašom PC.
+18030= Vyh¾adávaè Ponuky Štart
+18031= Vymae históriu h¾adaní uskutoènené v h¾adaní Windows v Ponuke Štart.
+18032= Schránka Windows
+18033= Práca so súbormi obvykle zahròuje aj "kopírova" a "vloi". Schránka Windows si pamätá posledné kopírovacie operácie, ale môe obsahova aj vıznamnú informáciu o Vašich aktivitách, ako sú heslá, osobné informácie alebo èísla kreditnıch kariet.
+18034= Doèasné súbory Windows
+18035= Vymae Doèasné adresáre Windows.
+18036= Kôš Windows
+18037= Vysype Kôš Windows.
+18038= Mapovanie sieovıch diskov Windows
+18039= Keï pristupujete k diskom v sieti, pristupujete k nim cez písmená disku. Windows si pamätá mapovanie v registry. Zmate informácie pouívajúce toto nastavenie.
+18040= História kliknutí v Ponuke Štart
+18041= Windows ukladá zoznam poloiek na ktoré ste nedávno a najviac klikly v Ponuke Štart. Vyberte a zmate "Históriu klikaní v Ponuke Štart".
+18042= Miesta v sieti
+18043= Pokia¾ vyuívate Miesta v sieti k prístupu na vzdialenı server, všetky Vaše posledné akcie sú uloené a ktoko¾vek môe vidie aké sieové miesta pouívate len poh¾adom na MRU Listy umiestnené v zloke Miesta v sieti. Vyberte toto nastavenie pre vymazanie.
+
+18044= Internet Explorer
+18045= Zmae históriu, naposledy pouívané zoznamy (MRU Listy), doèasné súbory internetu a ïa¾šie záznamy prohliadaèa Internet explorer.
+18046= Internet Explorer - História URL
+18047= Zmae históriu zapísanıch URL v adresovom riadku v Internet Exploreri. Táto história je uloená a Internet Explorer skúša "inteligentne" háda akú webovú stránku chcete navštívi. Napíšete napr. www.gl - a bude háda, e to je www.glarysoft.com, alebo iná adresa zaèínajúca www.gl, ktorú ste navštívili.
+18048= História Internet Explorera
+18049= Zmae históriu navštívenıch stránok uívate¾mi Internet Explorera v tomto poèítaèi.
+18050= Cookie Internet Explorera
+18051= Na Váš harddisk webové stránky ukladajú malé textové súbory nazvané "cookie". Cookie obsahujú informácie o Vás a Vašich predvo¾bách, alebo môu len obsahova záznam o Vami navštívenıch stránkach a pomáhajú zobrazeniu stránok pri ïa¾šej návšteve tıchto stránok. Niektoré cookie môu by uitoèné a môete si ich ponecha. Kliknutím na "Nastavenie" vyberte cookie, ktoré chcete ponecha v poèítaèi. Všetky neoznaèené cookie budú vymazané.
+18052= Inteligentné formy - Automatické dokonèovanie
+18053= Zmae všetku históriu automatického dokonèovania & hesiel z Internet Explorera. Nakonfigurovanı Internet Explorer ukladá dáta, uívate¾ské mená a heslá on-line do benıch foriem. Tieto budú automaticky vyplnené, keï sa vrátite na stránku, ktorá uloila tieto dáta. Èistiè registra zmae tieto dáta zapísané do profilov a chrání Vás a ostatnıch uivate¾ov tohoto poèítaèa.
+18054= Doèasné súbory Internetu
+18055= Zmae doèasné súbory Internetu, ktoré si Internet Explorer vytvorí, keï navštívite nejakú stránku alebo sahujete dáta.
+
+18056= Pluginy
+18057= Mnoho z ïa¾ších aplikácií zapisuje zoznam nedávno otvorenıch alebo cesty nedávno spustenıch súborov. Pouitím tıchto pluginov sa môete zbavi MRU histórie mnohıch ob¾úbenıch aplikácií.
+
+18058= Mozilla Firefox
+18059= Odstráni históriu, posledné otvorené dokumenty (MRU Listy), doèasné súbory Internetu a ostatné záznamy prehliadaèa Firefox.
+18060= Mozilla Firefox - História
+18061= Odstráni všetky zapísané adresy v adresovom riadku Firefoxu.
+18062= Mozilla Firefox - Cookie
+18063= Odstráni cookie uloené v doèasnıch súboroch Firefoxu.
+18064= Mozilla Firefox - Vyrovnávacia pamä
+18065= Odstráni súbory z vyrovnávacej pamäte Firefoxu.
+18066= Mozilla Firefox - Ukladacie formy informácií
+18067= Odstráni formy uloenıch dát, uloenıch v súboroch zo stránok navštívenıch Firefoxom.
+18068= Mozilla Firefox - Ukladanie hesiel
+18069= Odstráni heslá a dáta uloené v súboroch zo stránok navštívenıch Firefoxom. 
+18070= Mozilla Firefox - História Správca sahovania
+18071= Odstráni stopy po naposledy stiahnutıch súboroch Správcom sahovania.
+18072= Mozilla Firefox - História h¾adania
+18073= Odstráni stopy h¾adanıch reazcov v Lište h¾adania Firefoxu.
+
+18074= Maem stopy v %s. Môe to trva i nieko¾ko minút...
+18075= Maem stopy v %s...
+
+18076= Súbory Index.dat
+18077= Súbory Index.dat sú skryté súbory vo Vašom poèítaèi, ktoré obsahujú všetky stopy Vašich on-line aktivít. Kde ste boli na internete, aké stránky ste navštívily, zoznam URL adries, súbory i dokumenty ktoré ste nedávno otvorili.
+18078= Vyh¾adávam stopy v %s.Môe to trva aj nieko¾ko minút...
+18079= Vyh¾adávam stopy v %s...
+18080= Vytváram správu...
+18081= SPRÁVA PO ANALİZE
+18082= %s poloky budú odstránené z registra Windows.
+18083= %s súbory a %s2 databázové poloky, ktoré majú by odstránené.
+18084= Detaily súborov ku zmazaniu:
+18085= Analyzova
+
+18086= Stopy
+18087= Vısledok
+
+18088= Google Chrome
+18089= Odstráni históriu, posledné otvorené dokumenty (MRU Listy), doèasné súbory Internetu a ostatné záznamy prehliadaèa Google Chrome.
+18090= Google Chrome - História
+18091= Odstráni všetky zapísané adresy v adresovom riadku Google Chrome.
+18092= Google Chrome - Cookie
+18093= Odstráni cookie uloené v doèasnıch súboroch Google Chrome.
+18094= Google Chrome - Vyrovnávacia pamä
+18095= Odstráni súbory z vyrovnávacej pamäte Google Chrome
+18096= Google Chrome - Ukladanie dát
+18097= Odstráni dáta uloené v súboroch zo stránok navštívenıch Google Chrome. 
+18098= Google Chrome - História sahovania
+18099= Odstráni stopy po naposledy stiahnutıch súboroch Správcom sahovania.
+
+18100= Dôrazne sa odporúèa, aby ste zatvorili %s pred pokraèovaním. Èistiè súkromia nemôe vymaza stopy pouívané inımi programami.
+
+2101001= %s poloky skontrolova.
+2101002= iadne vybraté stopy. Aby bolo moné analyzova stopy, skontrolujte kadú skladbu, ktorú chcete analyzova pomocou zaškrtávacieho políèka v¾avo od názvu skladby.
+
+2102001= Panel Windows Live
+2102002= Odstráni nedávnu históriu vyh¾adávania z panela nástrojov Windows Live.
+2102003= Google Toolbar
+2102004= Odstráni nedávnu históriu vyh¾adávania z lišty Google Toolbar pre Internet Explorer.
+2102005= Google Deskbar
+2102006= Odstráni nedávnu históriu vyh¾adávania od Google Deskbar.
+2102007= Kazaa História vyh¾adávania
+2102008= Vymae históriu h¾adaní súborov Kazaa.
+2102009= eMule
+2102010= Vymae históriu h¾adania eMule.
+2102011= MSN Messenger
+2102012= Odstráni MSN Messenger históriu vyrovnávacej pamäte.
+2102013= Sound Forge 6.0
+2102014= Odstráni Sound Forge 6,0 históriu vyrovnávacej pamäte.
+2102015= Fresh Download
+2102016= Odstráni FreshDownload históriu sahovania.
+2102017= Windows Media Player
+2102018= Vymae posledné súbory, URL a históriu pre filmy Windows Media Player a hudby.
+2102019= Real Player
+2102020= Èistí Real Player históriu hudby a filmov poslednıch prehrávanıch súborov.
+2102021= Quicktime Player
+2102022= Vyèistí Quicktime Player históriu filmovıch súborov nedávno prehrávanıch.
+2102023= SWiSH
+2102024= Odstráni históriu naposledy otvorenıch súborov zo SWiSH.
+2102025= Windows Movie Maker
+2102026= Odstráni históriu naposledy otvorenıch súborov z programu Windows Movie Maker.
+2102027= BSPlayer
+2102028= Odstráni históriu naposledy otvorenıch súborov z BSPlayer.
+2102029= Media Player Classic
+2102030= Vyèistí Media Player Classic históriu hudby a filmov poslednıch prehrávanıch súborov.
+2102031= Axialis IconWorkshop
+2102032= Odstráni cache a históriu naposledy otvorenıch súborov z IconWorkshop Axialis.
+2102033= Ulead Inteligentné Saver Pro 3.0
+2102034= Odstráni históriu naposledy otvorenıch súborov z programu Ulead inteligentnı Saver Pro 3.0.
+2102035= Macromedia Flash Player
+2102036= Odstráni históriu naposledy otvorenıch súborov z Macromedia Flash Player.
+2102037= Macromedia Flash MX
+2102038= Odstráni históriu naposledy otvorenıch súborov z Macromedia Flash MX.
+2102039= Macromedia Flash 5.0
+2102040= Odstráni históriu naposledy otvorenıch súborov z Macromedia Flash 5.0.
+2102041= Macromedia Flash 4.0
+2102042= Odstráni históriu naposledy otvorenıch súborov z Macromedia Flash 4.0.
+2102043= Adobe Flash Player
+;2102044=
+2102045= AVI náh¾ad
+2102046= Odstráni históriu naposledy otvorenıch súborov z AVI Preview.
+2102047= Paint Shop Pro 7.0
+2102048= Vymae históriu súborov vytvorenıch/otvorenıch/alebo upravenıch v Paint Shop Pro 7.0.
+2102049= Paint Shop Pro 8.0
+2102050= Vymae históriu súborov vytvorenıch/otvorenıch/alebo upravenıch v Paint Shop Pro 8.0.
+2102051= Paint Shop Pro 9.0
+2102052= Vymae históriu súborov vytvorenıch/otvorenıch/alebo upravenıch v Paint Shop Pro 9.0.
+2102053= Office XP
+2102054= Odstráni históriu naposledy otvorenıch súborov z Microsoft Office XP.
+2102055= Office 2000
+2102056= Odstráni históriu naposledy otvorenıch súborov z Microsoft Office 2000.
+2102057= Office 2003
+2102058= Odstráni históriu naposledy otvorenıch súborov z Microsoft Office 2003.
+2102059  Office 2007
+2102060= Odstráni históriu naposledy otvorenıch súborov z Microsoft Office 2007.
+2102061= MS Management Console
+2102062= Odstráni históriu naposledy otvorenıch súborov z MS Management Console.
+2102063= MS Wordpad
+2102064= Vymae históriu súborov vytvorenıch/otvorenıch/alebo upravenıch v programe WordPad.
+2102065= MS Paint
+2102066= Vymae históriu otvorenıch súborov Ma¾ovanie.
+2102067= Microsoft Visual Basic 6.0
+2102068= Vymae nedávnu históriu súborov pre Visual Basic 6.0 developers.
+2102069= Vzdialená pracovná plocha
+2102070= Odstráni z medzipamäte dáta uloené do vzdialenej plochy.
+2102071= PowerArchiver
+2102072= Vymae históriu komprimovanıch/nekomprimovanıch súborov v PowerArchiver.
+2102073= WinISO
+2102074= Vymae históriu otvorenıch súborov vo WinISO.
+2102075= WinRAR
+2102076= Vymae históriu komprimovanıch/nekomprimovanıch súborov vo WinRARe.
+2102077= 7-Zip
+2102078= Vymae históriu komprimovanıch/nekomprimovanıch súborov v 7-Zip.
+2102079= WinZip
+2102080= Vymae históriu komprimovanıch/nekomprimovanıch súborov vo WinZip.
+2102081= SpyBot Search and Destroy
+2102082= Odstráni dáta z medzipamäte uloené v Spybot Search and Destroy.
+2102083= 2,0 WinAce
+2102084= Odstráni históriu WinAce.
+2102085= Norton AntiVirus
+2102086= Odstráni súbory protokolu uloené v programe Norton AntiVirus.
+2102087= Adobe Acrobat Reader 5.0
+2102088= Odstráni históriu súborov PDF, ktoré ste si prezerali pomocou Adobe Acrobat 5.0.
+2102089= Adobe Acrobat Reader 6.0
+2102090= Odstráni históriu súborov PDF, ktoré ste si u pozreli pomocou Adobe Acrobat 6.0.
+2102091= XML Spy
+2102092= Odstráni históriu XML súborov, ktoré ste si u pozreli pomocou XML Spy.
+2102093= InstallShield Developer 7.0
+2102094= Vymae históriu otvorenıch súborov InstallShield Developer 7.0.
+2102095= Macromedia HomeSite 5.0
+2102096= Vymae históriu otvorenıch súborov v Macromedia HomeSite 5.0
+2102097= Ahead Nero Burning ROM
+2102098= Vymae históriu súborov/adresárov otvorenıch v Ahead Nero Burning ROM.
+2102099= ZipMagic
+2102100= Vymae históriu komprimovanıch/nekomprimovanıch súborov v ZipMagic.
+2102101= PicoZip
+2102102= Vymae históriu komprimovanıch/nekomprimovanıch súborov v PicoZip
+2102103= Adobe Acrobat Reader 7.0
+2102104= Odstráni históriu súborov PDF, ktoré ste si prezerali pomocou Adobe Reader 7.0.
+2102105= Adobe Reader 8.0
+2102106= Odstráni históriu súborov PDF, ktoré ste si prezerali pomocou Adobe Reader 8.0.
+2102107= Adobe Reader 9.0
+2102108= Odstráni históriu súborov PDF, ktoré ste si prezerali pomocou Adobe Reader 9.0.
+2102109= Adobe Reader 10.0
+2102110= Odstráni históriu súborov PDF, ktoré ste si prezerali pomocou Adobe Reader 10.0.
+2102111= Adobe Reader 11.0
+2102112= Odstráni históriu súborov PDF, ktoré ste si prezerali pomocou Adobe Reader 11.0.
+
+2102113= Opera - História
+2102114= Odstráni históriu navštívenıch webovıch stránok pomocou Opery.
+2102115= Opera - Súbory cookie
+2102116= Odstráni súbory cookie uloené vo vyrovnávacej pamäti v Opere.
+2102117= Opera - Internetová pamä
+2102118= Odstraòuje internetové súbory vo vyrovnávacej pamäti v Opere.
+2102119= Opera - Uloenı formulár informácií
+2102120= Odstráni údaje uloené Operou po vyplnení vo formulári webovej stránky.
+2102121= Opera - História sahovania
+2102122= Odstraòuje stopy z nedávno sahovanıch súborov v Správcovi sahovania.
+
+2102123= Opera
+2102124= Odstráni históriu, posledné otvorené dokumenty (MRU Listy), doèasné súbory Internetu a ostatné záznamy prehliadaèa Opera.
+2103001= Skontrolova všetko
+2103002= Nekontrolova niè
+2103003= Predvolené kontrolovanie
+2103004= Otvori v Regedite
+2103005= Prida do zoznamu vınimiek
+2103006= Ignorova Zoznam správcu
+2103007= Dnes vymazaná: %s poloka, celkom: %s2.
+2103008= Dnes vymazané: %s poloky, celkom: %s2.
+2103009= %s súbory nájdené, celkom %s2.
+2103010= %s Problémy súkromia
+2103011= %s Problém súkromia
+2103012= %s dátové poloky, ktoré majú by odstránené.
+2103013= Dnes vymazané: %s poloky, celkom: %s2 poloiek.
+2103014= Dnes vymazaná: %s poloka, celkom: %s2 poloky.
+2103015= %s poloiek nájdenıch, %s2 poloiek vymazanıch. 
+2103016= %s poloka nájdená, %s2 poloka vymazaná. 
+2103017= iadne problémy ochrany osobnıch údajov
+2103018= %s problém ochrany osobnıch údajov opravenı
+2103019= %s problémy ochrany osobnıch údajov opravené
+2103020= %s poloka(y) boli odstránené v databáze Registra systému Windows. %s2 súbor(y) a %s3 poloka(y) databázy sa odstránia 
+2103021= Kliknutím na 'Analyzova' preskenuje Váš systém na problémy ochrany osobnıch údajov.ò
+2103022= Zoznam poloiek je v súèasnej dobe ignorovanı pri skenovaní. Ak chcete %s zahrnú jeden z tıchto záznamov, potom odstráòte jeho zaèiarknutie.
+
+[Memory Optimizer]
+21001= Optimalizátor pamäte
+21901= Monitorovanie a optimalizácia pamäte na pozadí
+21002= Optimalizácia
+21003= Ruèná optimalizácia
+21004= Graf vyuitia fyzickej pamäte:
+21018= %s z %s2 uvo¾nenıch
+21005= Vyuitie CPU
+21006= Prosím nastavte ve¾kos pamäte ktorú chcete uvo¾ni a kliknutím optimalizujte.
+21007= Ve¾kos pamäte:
+21008= Optimalizova
+21009= Vyèisti schránku
+21010= Aktuálna ve¾kos schránky:
+21011= Zapnú Autooptimalizáciu
+21012= Optimalizova automaticky, keï je pamä na:
+21013= Zväèši vo¾nú pamä na:
+21014= Len optimalizova pri nišom vyuití CPU:
+21015= Spusti automaticky so spustením Windows
+21016= Doporuèenie
+21017= Optimalizujem...
+21019= Zobrazi okno programu
+
+[File Shredder]
+22001= Drtiè súborov
+22901= Úplné a trvalé vymazanie súborov bez monosti obnovenia
+22002= Táto utilita zmae citlivé dáta tak, e u nemôu by obnovené a prehliadané inımi uívate¾mi. Tento nástroj pouíva najlepšiu metódu, americkı DOD 5220.22-M vyvinutı americkım Ministerstvom obrany pre úplné zmazanie dát.
+22003= Typ
+22012= Dátum úpravy 
+22004= Prida súbor
+22005= Pøida zloku
+22006= Vymaza
+22007= Opakova proces mazania:
+22008= Zloka súboru
+22009= Chystáte sa nenávratne zmaza zoznam vybranıch dát. U nebudete schopnı obnovi tieto súbory ani obnovovacím nástrojom. Urèite chcete pokraèova?
+22010= Zmazávam
+22011= Zmazané
+22019= Údrba vo¾ného miesta
+22013= Keï vymaete súbory a vysypete ich z Koša, tieto súbory nie sú úplne vymazané z pevného disku. Tieto súbory môu by ¾ahko obnovené softwarom pre obnovu dát. Pre úplné vymazanie Vašich súborov by ste mali ošetrova vo¾nı priestor Vášho hardisku pravidelne. Tento nástroj úplne znièí súbory ktoré ste u vymazali tak, e u nemôu by nikdy obnovené.
+22014= Vyberte disk pre údrbu vo¾ného miesta :
+22015= Ošetri!
+22016= Ošetrujem vo¾né miesto na %s
+22017= Operáciu prerušil uívate¾.
+22018= Operácia bola úspešne dokonèená.
+22020= Vyberte cie¾ovı prieèinok.
+22021= Vyberte diskovú jednotku.
+22022= Zmaza MFT Vo¾né miesto - Disk %s
+
+[Internet Explorer Assistant]
+23001= Pomocník Internet Explorera
+23901= Správa zásuvnıch modulov Internet Explorera a nastavení "Hijack"
+23002= IE BHOs
+23003= IE Toolbars
+23004= IE Explorer Bars
+23005= IE Extra Kontext menu
+23006= IE Extra tlaèítka
+23007= IE stiahnuté prvky ActiveX
+23008= Hijack obnova
+23009= [Blokovanı]
+23010= Vydavate¾
+23011= Cesta súboru
+23012= Príkaz
+23013= Blokova poloku
+23014= Odblokova poloku
+23015= Trvale odobra túto poloku
+23016= Urèite chcete obnovi %s ?
+23017= Urèite chcete blokova %s v Internet Exploreri?
+23018= Urèite chcete trvale odstráni poloku %s V Internet Exploreri?
+23019= Upozornenie, súbor chıba
+23020= Pomocné objekty prehliadaèa
+23021= Internet Explorer Toolbars
+23022= Internet Explorer Explorerbars
+23023= Internet Explorer Extra kontext menu
+23024= Internet Explorer Extra tlaèítka
+23025= Stiahnuté prvky ActiveX
+23026= Poškodenı
+23027= Inštalovanı
+
+23028= Nastavenie
+23029= Aktuálne nastavenie
+23030= Obnovi nastavenie do
+23031= Úprava nastavení a zmena URL
+23032= Obnovi
+23033= IE Vıchodzí
+23034= Urèite chcete obnovi toto, Vami vybrané nastavenie?
+23035= %s nastavenie prehliadaèa Internet Explorer bolo úspešne zmenené.
+23036= Zmena nastavení Internet Explorera
+23037= Zmena nastavení %s v Internet Exploreri. URL v políèku nišie je štandardne nastavená ako vıchodzia pre Internet Explorer. Tu môete zada i inú stránku alebo URL ne je štandardne nastavená ako vıchodzia.
+23038= Štartovacia stránka
+23039= Toto je URL webovej stránky, tej, ktorá sa zobrazí, keï nanovo otvoríte okno Internet Explorera.
+23040= Vyh¾adávacia stránka
+23041= Toto je vıchodzí vyh¾adávací engine pri kliknutí na vyh¾adávacie tlaèítko Internet Explorera.
+23042= Vıchodzia stránka s URL
+23043= Toto je vıchodzia stránka s URL uívate¾a Internet Explorera.
+23044= Miestna stránka
+23045= Táto webová stránka sa zobrazí, ak nebude nájdená stránka v Internet Exploreri, ktorú ste vpísali do adresného riadka.
+23046= Vyh¾adávacia lišta
+23047= Táto stránka sa zobrazí ak kliknete na ikonu Vyh¾adávacej lišty v Internet Exploreri. Táto Vyh¾adávacia lišta má schopnos uklada si detailné informácie.
+23048= Vıchodzia Vyh¾adávacia URL
+23049= Toto je stránka, ktorá sa zobrazí, keï sa Internet Explorer pokúsi vyh¾adáva.
+23050= Štartovacia stránka (Všetci uívatelia)
+23051= Toto je webová stránka, ktorá sa zobrazí, keï otvoríte nové okno Internet Explorera.
+23052= Vyh¾adávacia stránka (Všetci uivatelé)
+23053= Toto je vıchozí vyhledávací engine pøi kliknutí na vyhledávací tlaèítko Internet Exploreru. Platí pro Všechny uivatele poèítaèe.
+23054= Vıchozí stránka s URL (Všichni uívatelia)
+23055= Toto je vıchodzia stránka s URL pre uívate¾a Internet Exploreru. Platí pre Všetkych uívate¾ov poèítaèa.
+23056= Miestna stránka (Všetci uívatelia) 
+23057= Táto webová stránka sa zobrazí, ak nebude nájdená stránka v Internet Exploreri, ktorú ste vpísali do adresného riadka. Platí pre Všetkıch uívate¾ov poèítaèa.
+23058= Vyh¾adávacia lišta (Všetci uívatelia)
+23059= Táto stránka sa zobrazí ak kliknete na ikonu Vyh¾adávacej lišty v Internet Exploreri. Táto Vyh¾adávacia lišta má schopnos uklada si detailné informácie. Platí pre Všetkıch uívate¾ov poèítaèa.
+23060= Vıchodzia vyh¾adávacia URL (Všetci uívatelia)
+23061= Toto je stránka, ktorá sa zobrazí, keï sa Internet Explorer pokúsi vyh¾adáva. Platí pre všetkıch uívate¾ov poèítaèa.
+23062= Prispôsobené h¾adanie (Všetci uívatelia)
+23063= Táto stránka sa zobrazí v Internet Exploreri, ak vo vyh¾adávajúcom boxe spustíte prispôsobené h¾addanie. Tento Pomocník vyh¾adávaèa poskytuje uívate¾ovi jedineèné, jednotné h¾adanie cez rôzne typy vyh¾adávania. Platí pre všetkıch uívate¾ov poèítaèa.
+23064= Pomocník vyh¾adávaèa (Všetci uívatelia)
+23065= Tento Pomocník vyh¾adávaèa sa zobrazí v Internet Exploreri. Tento Pomocník vyh¾adávaèa poskutuje uívate¾ovi jedineèné, jednotné h¾adanie cez rôzne typy vyh¾adávania. Platí pre Všetkıch uívate¾ov poèítaèa.
+23066= Vyh¾adávacia URL
+23067= Vyh¾adávacia URL nájde vhodnı spôsob ako vyui rôzne vyh¾adávacie enginy. Napríklad, keby ste chceli pomocou Vyh¾adávacej URL nájs správy vo vyh¾adanıch diskusnıch skupinách on-line. Staèí vpísa príslušné heslo do adresného riadka a automaticky spustíte h¾adanie príslušného hesla v urèitej diskusnej skupine.
+23068= Vyh¾adávacia URL (Všetci uívatelia)
+23069= Vyh¾adávacia URL nájde vhodnı spôsob ako vyui rôzne vyh¾adávacie enginy. Napríklad, keby ste chceli pomocou Vyh¾adávacej URL nájs správy vo vyh¾adanıch diskusnıch skupinách on-line. Staèí vpísa príslušné heslo do adresného riadka a automaticky spustíte h¾adanie príslušného hesla v urèitej diskusnej skupine. Toto platí pre Všetkıch uívate¾ov poèítaèa.
+23070= Prázdna stránka
+23071= Táto stránka sa nezobrazuje - zobrazí sa v prípade, keï Internet Explorer nemôe nájs webovı server alebo stránku.
+23072= Plocha pri zlyhaní navigácie
+23073= Toto je stránka, ktorú zobrazí Internet Explorer na Vašom Poèítaèi, ak nie je prístup k Internetu.
+23074= Navigácia bola zrušená
+23075= Toto je stránka, ktorú zobrazí Internet Explorer, ak zrušíte navigáciu.
+23076= Navigácia zlyhala
+23077= Toto je stránka, ktorú zobrazí Internet Explorer, ak nefunguje pripojenie k Internetu.
+23078= Informácie off-line
+23079= Toto je stránka, ktorú zobrazí Internet Explorer, ak nefunguje pripojenie k Internetu alebo je Webová stránka nedostupná alebo vypnutá.
+23080= Prázdná vyrovnávacia pamä
+23081= Upozornenie: Platnos stránky vypršala - táto stránka sa zobrazí ak Internet Explorer nemôe èíta obsah stránky z vyrovnávacej pamäte.
+23100= Naozaj chcete natrvalo odstráni vybraté poloky?
+23101= Pluginy
+23102= Rozšírenia
+23103= Vyh¾adávacie nástroje
+23104= História
+23105= Súbory cookie
+23106= Názov
+23107= Poèet návštev
+23109= Zaloi doménu
+23110= K¾úè hostite¾a
+23111= K¾úèové slovo
+23117= Naozaj chcete zablokova %s v prehliadaèi Mozilla Firefox?
+23118= Naozaj chcete natrvalo odstráni %s v prehliadaèi Mozilla Firefox?
+23121= Mozilla Firefox Pluginy
+23122= Mozilla Firefox Rozšírenia
+23123= Mozilla Firefox Vyh¾adávacie nástroje
+23124= Mozilla Firefox História
+23125= Mozilla Firefox Súbory cookie
+23126= Mozilla Firefox Hlavná stránka
+23131= Google Chrome Pluginy
+23132= Google Chrome Rozšírenia
+23133= Google Chrome Vyh¾adávacie nástroje
+23134= Google Chrome História
+23135= Google Chrome Súbory cookie
+23136= Google Chrome Hlavná stránka
+23141= Posunú nahor
+23142= Posunú nadol
+23143= Prida stránku
+23144= Odstráni stránku
+23146= Hlavná vstupná stránka
+23147= Nové hlavné vstupné stránky pre %s prehliadaè prosím.
+23149= Prehliadaè
+23150= Toto je vysoko odporúèané, zavrite\n\n %s \n\npred pokraèovaním, Asistent prehliadaèa mono nepracuje správne.
+23151= %s poloky boli natrvalo odstránené
+23152= Zlyhanie operácie, skúste to znova po zatvorení %s prehliadaèa
+23153= Zruši operáciu pouívate¾om
+23154= Odstráni poloky dialógu pokroku
+23155= Odstránenie poloiek
+23217= Naozaj chcete zablokova %s v prehliadaèi Google Chrome?
+23218= Naozaj chcete natrvalo odstráni %s v prehliadaèi Google Chrome?
+
+[Process Manager]
+24001= Správca procesov
+24901= Monitorovanie beiacich procesov a ich volitelné zastavovanie.
+24002= Nová úloha (Spusti)
+24003= Ukonèi Windows
+24004= Reštartova poèítaè
+24005= Vypnú poèítaè
+24006= Zastavi proces
+24007= Blokova proces
+24008= Zoznam blokovanıch
+24009= Vyh¾ada Googlom
+24010= Komentár
+24011= Detaily
+24012= Názov
+24013= Hodnotenie
+24014= Spustite¾nı súbor
+24015= Priorita
+24016= Vlákna
+24017= CPU
+24018= Èasovanie CPU
+24019= Vyuitie pamäte
+24020= Spoloènos
+24021= Spustenı
+24022= Procesy
+24023= Urèi prioritu
+24024= Okamitá
+24025= Vysoká
+24026= Stredne vysoká
+24027= Normálna
+24028= Stredne nízka
+24029= Nízka
+24030= Varovanie: Zmena priority triedy môe ma za dôsledok neiadúci stav alebo spôsobi nestabilitu systému. Urèite chcete zmeni prioritu triedy?
+24031= Hlavné informácie
+24032= Vyuívané moduly
+24033= Dáta
+24034= Hodnoty
+24035= Informácie o procese
+24036= ID
+24037= Súbor
+24038= Argumenty
+24039= Zloka
+24040= Vlákna
+24041= Priorita
+24042= Vyuitie pamäte
+24043= Spustenı (kedy)
+24044= Spustenı (kım)
+24045= Informácie o verzii
+24046= Typ súboru
+24047= Spoloènos
+24048= Popis
+24049= Verzia
+24050= Vnútorná meno
+24051= Autorské práva 
+24052= Ochranná známka
+24053= Pôvodnı názov súboru
+24054= Názov produktu
+24055= Verzia produktu
+24056= Komentár
+24137= Bezpeènı
+24139= Riskantnı
+24057= Urèite chcete zmaza proces %s?
+24058= Urèite chcete zablokova proces %s?
+24059= Chcete teraz reštartova Váš poèítaè?
+24060= Chcete teraz reštartova Váš poèítaè?
+24061= Spustené procesy: 
+24062= Vyuitie CPU:
+24063= Vyuitie pamäte:
+24064= Systémová sluba
+24065= Nahradi Správcu úloh
+24066= Vdy na vrchu
+
+[Context Menu Manager]
+25001= Správca kontextovej ponuky
+25901= Správa kontextovej ponuky vstupov pre súbory, zloky...
+25002= Súbory & Zloky
+25003= Novı
+25004= Odosla
+25005= Kliknutím na zatrhávaè pred polokou, ju zapnete alebo vypnete. Pre trvalé odstránenie kliknite na tlaèítko '%s' nišie.
+25006= Nenájdenı
+25007= Urèite chcete na trvalo odobra '%s' ?
+25008= Všetky súbory (*)
+25009= Zloky
+25010= Adresáre
+25011= Disky
+25012= Hudobné súbory
+25013= Video súbory
+25014= Zloky obrázkov
+25015= Všetky systémové súbory
+25016= Môj poèítaè
+25017= Kôš
+25018= Pozadie
+25019= Zástupcovia
+
+[File Encrypter and Decrypter]
+27001= Súborovı kodér a dekodér
+27901= Ochrana Vašich súborov pred neautorizovanım pouívaním.
+27002= Zakódova súbor
+27003= Dekódova súbor
+27004= Prosím, vyberte si súbor ku kódovaniu:
+27005= Heslo pre kódovanie:
+27006= Overenie hesla:
+27007= Nápoveda pre heslo (hádanka):
+27008= Vytvori autodekódovací .exe súbor (uívate¾ské rozhranie bude anglické)
+27009= Zmaza originálny súbor po úspešnom zakódovaní
+27010= Zakódova!
+27011= Prosím vyberte súbor k dekódovaniu:
+27012= Heslo pre dekódovanie:
+27013= Nápoveda hesla
+27014= Rozbali do
+27015= Otvori cie¾ovú zloku po úspešnom dekódovaní
+27016= Dekódova!
+27017= Tlaèítkom 'Prechádza' prosím vyberte súbor k zakódovaniu!
+27018= Vami vybranı súbor neexistuje! Prosím vyberte inı.
+27019= Prosím vlote heslo ktoré bude 6 a 16 znakov dlhé!
+27020= Prosím vlote overovacie heslo!
+27021= Nasledujúci súbor u existuje, mám ho prepísa?
+27022= Súbor bol úspešne zakódovanı do %s.
+27023= Zakódované súbory
+27024= Vybranı súbor bol zakódovanı inım programom. Prosím vyberte ïa¾ší.
+27025= Tlaèítkom 'Prechádza' prosím vyberte súbor k dekódovaniu!
+27026= Vybranı súbor neexistuje. Prosím vyberte inı.
+27027= Prosím, vyberte zloku do ktorej bude umiestnenı dekódovanı súbor.
+27028= Nemôem vytvori cie¾ovú zloku %s
+27029= Súbor %s u existuje, mám ho prepísa?
+27030= Súbor bol úspešne dekódovanı do %s.
+27031= Nesprávne heslo, prosím opakujte.
+27032= Prosím, vyberte zloku do ktorej bude umiestnenı dekódovanı súbor.
+27033= Operácia sa nevydarila. Prosím skúste znova.
+27034= Kódovanie práve prebieha. Môe to chví¾u trva, prosím èakajte.
+27035= Dekódovanie práve prebieha. Môe to chví¾u trva, prosím èakajte.
+27036= Tento súbor je šifrovanı pomocou starej verzie programu, pre dešifrovanie chcete stiahnu starú verziu programu?
+<<<<<<< .mine
+=======
+27037= Šifrovanı súbor sa uloí do:
+27038= Prosím, vyberte prieèinok, kam chcete umiestni zašifrovanı súbor.
+27039= Cie¾ovı prieèinok neexistuje, chcete ho vytvori?
+27040= Otvori cie¾ovú zloku po úspešnom zašifrovaní
+27041= Prida súbor(y)
+27042= Podpora ahaj a pus súborov.
+27043= Lokálny súbor(y)
+27044= Stav
+27045= Vıvoj
+27046= Šifrovanı súbor
+27047= Pripravenı
+27048= Èakanie...
+27049= Šifrovanie...
+27050= Šifrované úspešne.
+27051= Zdrojovı súbor neexistuje alebo je vymazanı.
+27052= Cie¾ovı súbor u existuje.
+27053= Nemono zmaza zdrojovı súbor.
+27054= Prosím, kliknite na 'Prida súbor(y)' a vyberte súbor, ktorı chcete zašifrova alebo pretiahnite súbor na zašifrovanie do zoznamu.
+27055= Nechceli ste zašifrova súbor, vyberte poloku a skúste to znova.
+27056= Odstráni súbor(y)
+>>>>>>> .r2315
+27057= Oznaèi všetko
+27058= Odznaèi všetko
+27059= Invertova vıber
+27060= Odstráni vybranú poloku
+27061= Chcete odstráni vybrané %s súbory zo zoznamu súborov na šifrovanie?
+
+[File Splitter and Joiner]
+28001= Rozde¾ovaè a spojovaè súborov
+28901= Rozdelí ve¾ké súbory na menšie, ovládate¾né súbory a znova ich spojí.
+28002= Rozdeli súbor
+28003= Spoji súbor
+28004= Prosím vyberte súbor, ktorı chcete rozdeli na menšie súbory
+28005= Prosím vyberte cestu umiestnenia, v ktorom si prajete ma diely rozdeleného súboru
+28006= Prosím, vyberte maximálnu ve¾kos pre samostatne vytvorené súbory
+28007= Floppy disk (1.44MB)
+28008= 100MB Zip(TM)  disk
+28009= 1GB Jaz(TM) disk
+28010= 4.7GB jednovrstvé DVD
+28011= Zvolím si ve¾kos
+28012= Bude vytvorenıch %s spojite¾nıch súborov.
+28013= Prida samorozba¾ovaciu funkciu do rozdelenıch súborov (uívate¾ské rozhranie bude anglické)
+28014= Rozdeli!
+28015= Prosím vyberte jeden súbor, ktorı chcete opätovne zloi do originálneho súboru. Staèí vybra len jeden súbor, ostatné budú pripojené automaticky.
+28016= Informácie o dieloch súboru:
+28017= Prosím zadajte cestu do cie¾ovej zloky, kam chcete umiestni spojením obnovenı súbor.
+28018= Spoji!
+28019= Nemôem vytvori súbor %s
+28020= Nemôem otvori súbor %s
+28021= Tlaèítkom 'Prechádza' vyberte súbor, ktorı chcete rozdeli na menšie!
+28022= Vybranı súbor neexistuje! Tlaèítkom 'Prechádza' vyberte znova súbor, ktorı chcete rozdeli na menšie súbory.
+28023= Vybranı súbor je príliš malı pre maximálnu ve¾kos.
+28024= Tlaèítkom 'Prechádza' vyberte cie¾ovú zloku!
+28025= Nemôem vytvori cie¾ovú zloku %s
+28026= Na cie¾ovom disku %s nie je dostatok miesta.
+28027= Súbor %s bol úspešne rozdelenı. Originálny súbor nebol zmazanı.
+28028= Prosím vyberte cie¾ovú zloku, kam chcete umiestni rozdelenı súbor.
+28029= Rozdelené súbory
+28030= Názov súboru:
+28031= Ve¾kos:
+28032= Poèet dielov:
+28033= Vybraní súbor nie je diel rozdeleného súboru. Prosím zopakujte ešte raz.
+28034= Nemôem nájs nasledujúce diely rozdeleného súboru:
+28035= Súbor u existuje! Mám ho prepísa?
+28036= Originálny súbor bol úspešne opätovne spojenı!
+28037= Prosím vyberte zloku kam chcete umiestni opätovne spojenı súbor.
+28038= Operácia sa nezdarila. Prosím opakujte.
+28039= Rozdelenie súboru práve prebieha. Môe to trva nejakı èas, prosím vydrte.
+28040= Spojovanie súborov práve prebieha. Môe to trva nejakı èas, prosím vydrte.
+28041= Táto zloka bola pridaná.
+
+[1-Click Maintenance]
+29001= 1-kliková údrba
+29601= Èistenie registra
+29602= Oprava zástupcov
+29603= Správa spúšania
+29604= Èistenie doèasnıch súborov
+29605= Èistenie súkromia
+29606= Odstránenie spyware
+
+10603= Opraví chybné zápisy v registri
+10605= Zmae chybnıch Zástupcov
+10607= Zmae nebezpeèné poloky Štartu
+10609= Zmae doèasné súbory a uvolní miesto na disku
+10611= Zmae históriu Vašich aktivít a internetové stopy
+10613= Odstráni spyware a adware
+10614= Analyzujem...
+10615= Zobrazi detaily
+10616= Spusti skenovanie
+10617= Problém nenájdenı.
+10618= 1 problém nájdenı
+10619= %s problémy (ov) nájdenıch
+10620= %s nájdené
+10621= Súbory nenájdené
+10622= %s stôp vybranıch.
+10623= 1 stopa vybraná.
+10624= Nie sú vybrané stopy
+10625= Analyzujem...
+10626= Pokraèujte kliknutím na 'Opravi chyby'.
+10627= Opravi chyby
+10628= Problém vyriašenı.
+10629= Miesto obnovené.
+10630= Stopy zmazané.
+10631= Opravujem.
+10632= Èistím...
+10633= Maem...
+10634= %s opravujem problém.
+10635= %s maem stopy.
+10636= %s obnovené.
+10637= Prosím, vyberte súbory k zmazaniu.
+10638= Zobrazi
+10639= Celkom %s súborov, %s2 k zmazaniu.
+10640= Prosím vyberte stopy k vyèisteniu.
+10641= Prosím vyberte záznamy v registri k oprave. Pravım tlaèítkom myši si môete zvoli ïa¾ší postup.
+10645= Prosím vyberte Zástupcov k zmazaniu. Pravım tlaèítkom myši si môete zvoli ïa¾ší postup.
+10642= Prosím vyberte poloku spúšanu pri štarte k zmazaniu.
+10644= Prosím vyberte záznamy k zmazaniu.
+10643= Ukonèi 1-klikovú údrbu
+10646= Preskenova
+10647= Prosím, kliknite na tlaèidlo "Opravi chyby" a pokraèujte kliknutím na tlaèidlo "Preskenova" pre vyh¾adávanie problémov znovu.
+
+[Glary Undelete]
+31001= Obnovovaè súborov
+31901= Rıchla a efektívna cesta k obnove náhodne zmazanıch súborov.
+31002= Nájs
+31003= Filter
+31004= Zloky
+31005= Typy súborov
+31006= Názov
+31007= Stav
+31008= Pôvodná cesta
+31009= Ve¾kos
+31010= Typ
+31011= Posledné zmeny
+31012= Obnovi
+31013= Skenujem disky, prosím èakajte...
+31014= Vyberte zloky k preh¾adaniu:
+31015= Ve¾mi dobrı
+31016= Dobrı
+31017= Strednı
+31018= Špatnı
+31019= Prepísanı
+31020= Vyberte zloku, do ktorej chcete umiestni Vami obnovené súbory:
+31021= Obnova na rovnakı disk môe zmenši šancu na úspešné úplné obnovenie. Ste si istı, e chcete pokraèova?
+31022= U existuje v zloke %s. Ste si istı, e ho chcete prepísa?
+31023= U existujú v zloke %s. Ste si istı, e ich chcete prepísa?
+31024= Filter: ZAP
+31025= Filter: VYP
+31026= Nájdené: %s, vybrané : %s2
+31027= Vyh¾adávam
+31028= Aktuálne pracujem: %s%, %s2 súborov nájdenıch.
+31029= Nemôem spusti sken: %s
+31030= Obnovujem %s..., %s2 poloiek obnovenıch.
+31031= Nemôem vytvori súbor %s
+31032= Pod¾a názvu
+31033= Všetko alebo len èas názvu súboru. Pouite názov koncovky, napr., *.doc
+31034= ? Rovná sa jeden zo všetkého
+31035= * Rovná sa kadı poèet z nieèoho
+31036= Pod¾a ve¾kosti
+31037= Viac ne
+31038= Menej ne
+31039= Pod¾a dátumu
+31040= Od
+31041= Do
+31042= Pod¾a stavu
+31043= Všetky typy
+
+31044= Náh¾ad nie je k dispozícii
+31045= Náh¾ad
+31046= Kliknite pre zväèšenie
+31047= Kliknite na Zavrie
+31048= Lokálny disk
+
+[Registry Defrag]
+32001= Defragmentátor registra
+32901= Defragmentácia registra Windows pre zrıchlenie Vášho poèítaèa
+32002= Vitajte v Defragmentátorovi registra
+32003= Register Windows sa môe postupom èasu sfragmentova a tım zaberá viac miesta na Vašom disku ako je nevyhnutné a spoma¾uje tım štart poèítaèa. Defragmentátor registra zhustí a zoptimalizuje register Windows odstránením zbytoènıch medzier a úloného miesta. Pomôe Vám zlepši vıkon Vášho poèítaèa. 
+32004= - Zniuje fragmentácie 
+32005= - Opravuje štrukturálne chyby
+32006= - Obnovuje nepouitı pamäovı priestor
+32007= Kliknite na Ïalej a analyzujte fragmentáciu disku.
+32008= Ve¾kos po optimalizácii
+32009= Rozdie¾ ve¾kosti:
+32010= Defragmentátor registra redukoval ve¾kost registra o %s
+32011= Kliknutím na Ïalej spustite defragmentáciu (vyaduje reštart). Kliknite na Zatvori, pokia¾ nechcete defragmentova Váš register, alebo pokia¾ chcete optimalizova neskôr.
+32012= Defragmentátor registra našiel defragmentáciu registra, èo znamená, e teraz defragmentácia nie je potrebná. Doporuèujeme však defragmentáciu registra vykona minimálne raz za mesiac.
+32013= Pre ukonèenie programu kliknite na Zatvori.
+32014= VAROVANIE: Defragmentácia registra vyaduje vypnutie všetkıch programov, tak aby pri analıze iadny nebeal.
+32015= Prosím ulote všetky svoje práce a ukonèite beiace programy pred akciou.
+32016= Prosím, poèas trvania analızy vypnite i Váš antivírusovı program. Firewall zväèša nie je treba vypnú.
+32017= Pokia¾ ste ukonèili všetky programy, pokraèujte kliknutím na "OK".
+32018= Defragmentáciu nie je mono vykona, pretoe èas registra je chránená pred úpravami. Pre vyriešenie Vášho problému skúste zatvori všetky programy, vypnite antvírus a antispyware a skúste pokraèova. Nezabudnite prosím, po skonèení defragmentácie opä zapnú antivírus a antispyware.
+32019= VAROVANIE: Poèítaè sa musí reštartova pre dokonèenie optimalizácie.
+32020= Chcete optimalizova teraz?
+32021= Analyzujem register
+32022= Prosím, èakejte...
+32023= Váš poèítaè nemusí v priebehu nieko¾kıch minút reagova pokia¾ nebude dokonèená analıza. Analızu môete zastavi stlaèením tlaèítka Esc...
+32024= Register Windows bol úspešne optimalizovanı.
+
+[System Information]
+33001= Systémové informácie
+33901= Zhromaïuje informácie o hardware a software
+33002= Vytvori preh¾ad
+33003= Vytvori preh¾ad (VŠETKO)
+33004= Preh¾ad
+33005= Operaènı systém
+33006= Systémové zariadenia
+33007= Pamä
+33008= Jednotky
+33009= Zobrazenie
+33010= Sie
+33011= Ïalšie zariadenia
+33012= Všeobecné
+33013= Procesor
+33014= Základná doska
+33015= Verzia Windows
+33016= Dátum inštalácie
+33017= Zobrazenie
+33018= Monitor
+33019= Video Adapter
+33020= Vstup
+33021= Myš
+33022= Klávesnica
+33023= Disková jednotka
+33024= DVD/CD-ROM jednotka
+33025= Vlastnosti operaèného systému
+33026= OS Názov
+33027= OS Jazyk
+33028= OS Verzia
+33029= Registrovaní Vlastník
+33030= Registrovaná organizácia
+33031= Produkt ID
+33032= Produkt Key
+33033= OS Dátum inštalácie
+33034= OS Cesta
+33035= Aktuálna cesta
+33036= Názov poèítaèa
+33037= Meno uívate¾a
+33038= Prihlasovacia doména
+33039= Doba
+33040= Verzia komponentov
+33041= Internet Explorer
+33042= Windows Media Player
+33043= DirectX
+33044= Systémové zloky
+33045= Zdie¾ané zloky
+33046= Základná doska
+33047= Názov základnej dosky
+33048= Vırobca základnej dosky
+33049= BIOS Vlastnosti
+33050= BIOS Verzia
+33051= Systém BIOSu dátum
+33052= Video BIOSu dátum
+33053= CPU Vlastnosti
+33054= CPU Identifikácia
+33055= CPU Generickı názov
+33056= CPU Predajca
+33057= Sériové èíslo
+33058= CPU Frekvencia
+33059= L1 Kód Cache
+33060= L1 Dátum Cache
+33061= L2 Cache
+33062= CPU Soket
+33063= Poèet jadier
+33064= Logické jadro
+33065= Podrobnosti konfigurácie
+33066= CPU vyaenie
+33067= CPU vyaenie história
+33068= Fyzická pamä
+33069= Virtuálna pamä
+33070= Celková pamä
+33071= Vo¾ná pamä
+33072= Pouitá pamä
+33073= Vybrané pamäte
+33074= Aplikácie
+33075= Vyuitie pamäte
+33076= Cesta
+33077= Podrobnosti o zväzku
+33078= Písmeno disku
+33079= Typ zariadenia
+33080= Sériové èíslo
+33081= Sıstémové súbory
+33082= Celkovı poèet bajtov
+33083= Bajtov vo¾nıch
+33084= Bajtov vyuitıch
+33085= Systémové súbory
+
+33086= Kompresia súborov povolená
+33087= Zväzok je skomprimovanı
+33088= Dlhı názov súboru povolenı
+33089= Unicode názov súboru povolenı
+33090= Šifrovanı systémovı súbor
+
+33091= Logické informácie
+33092= Èísla zväzkov
+33093= Vo¾né zväzky
+33094= Vyuité zväzky
+33095= Bajtov na zväzok
+33096= Sektorov na zväzok
+33097= Vyaené sektory
+33098= Vo¾né sektory
+
+33099= Podrobnosti konfigurácie
+33100= Bajtov na sektor
+33101= Celkom sektorov
+
+33102= Celkom miesta na disku
+33103= Vo¾né miesto na disku
+33104= Vyuité miesto na disku
+
+33105= Vlastnosti Video adaptéra
+33106= Opis zariadenia
+33107= Reazec adaptéra
+33108= Reazec BIOSu
+33109= Typ èipu
+33110= Typ DAC
+33111= Dátum ovládaèa
+33112= Verzia ovládaèa
+33113= Poskytovate¾ ovládaèa
+33114= Ve¾kos pamäte
+
+33115= Vlastnosti monitora
+33116= Názov monitora
+33117= Model
+33118= Dátum vıroby
+33119= Sériové èíslo
+33120= Max. ve¾kos vidite¾nosti displeja
+33121= Gamma
+
+33122= Podporované rozlíšenie
+
+33123= Popis sieového adaptéra
+
+33124= Vlastnosti sieového adaptéra
+33125= Sieovı adaptér
+33126= Typ rozhrania
+33127= Hardvérová adresa
+33128= Názov pripojenia
+33129= Rıchlos pripojenia
+33130= MTU
+33131= Prijatıch bajtov
+33132= Odoslanıch bajtov
+
+33133= Adresy sieového adaptéra
+33134= IP/Maska podsiete
+33135= Brána
+33136= DNS
+
+33137= Prijaté dáta
+33138= Odoslané dáta
+
+33139= Zvukové zariadenia
+33140= Porty
+33141= USB
+33142= USB radiè
+33143= Tlaèiarne
+
+33144= Názov
+33145= Hodnota
+
+33148= Systémové zloky
+33149= Zdie¾ané zloky
+33150= Pravım tlaèidlom kliknite pre otvorenie Windows Explorerom
+33151= Otvorené zloky
+33152= Vlastnosti
+33153= SEK
+33154= (%s Hodín %s2 Minút %s3 Sekúnd)
+
+33155= OS typu
+33156= %s bitov	
+
+[GLARYUTILITIES]
+1001001= Zachráni
+1001002= Spätná väzba
+1001003= Minimalizova
+1001004= Verzia:
+1001005= Páèi sa mi to!
+
+[OVERVIEW]
+1002001= Preh¾ad
+1002002= Zapnú automatickú údrbu
+1002003= Zmaza stopy súkromia pri vypínaní systému Windows
+1002004= Skontrolova aktualizácie pri spustení programu
+1002005= Zapnú håbkové èistenie a opravi
+1002006= Èas spúšania Windows-u
+1002007= Vypnú nepotrebné programy po spustení pre rıchlejší štart Windows-u
+1002008= Správca Spúšania
+1002009= Pouívate¾
+1002010= Aktivova teraz
+1002011= Zdie¾a èas spúšania systému Windows
+1002012= hodiny
+1002013= minúty
+1002014= sekundy
+1002015= Vybra stopy
+1002016= Licenciu vlastní:
+1002017= Správca licencie
+1002018= Licencia skonèila
+1002019= Automatická kontrola aktualizácií softvéru
+1002020= Vlastné vısledky
+
+[ONECLICK]
+1003001= Opravi disky
+1003002= Defragmentova register
+1003003= Imunizova Malware
+1003004= Optimalizova systém
+1003005= Defragmentova Pevné disky
+
+[ADVANCED TOOLS]
+1004001= Pokroèilé nástroje
+1004002= Registre Windows-u
+1004003= Opravi
+1004004= Defragmentova
+1004005= Zálohova
+1004006= Obnovi
+   
+1004007= Miesto na disku
+1004008= Vyèisti
+1004009= Odstráni duplikáty
+1004010= Odstráni prázdne zloky
+1004011= Odstráni poškodenıch zástupcov
+1004012= Preh¾ada disky
+   
+1004013= Zlepši systém
+1004014= Zlepši systém
+1004015= Optimalizova spúšanie systému
+1004016= Uvo¾ni pamä
+1004017= Zrıchli internet
+1004018= Turbo reim
+   
+1004019= Súkromie
+1004020= Zmaza históriu
+1004021= Skartova súbory
+1004022= Uvo¾ni vo¾né miesto
+1004023= Šifrova súbory
+   
+1004024= Ovládaèe
+1004025= Zálohova
+1004026= Obnovi
+1004027= Odinštalova
+1004028= H¾ada aktualizácie
+   
+1004029= Manaér súborov
+1004030= Rozdeli súbory
+1004031= Obnovi zmazané súbory
+1004032= Rıchle vyh¾adávanie
+   
+1004033= Pevné disky
+1004034= Defragmentova
+1004035= Defragmentova pri zavádzaní
+1004036= Kontrolova chyby
+   
+1004037= Ovládanie systému
+1004038= Spúšané poloky
+1004039= Sluby
+1004040= Naplánované úlohy
+1004041= Kontextové menu
+1004042= Procesy
+1004043= Asistent prehliadaèa
+   
+1004044= Stav systému
+1004045= Systémové informácie
+1004046= Zálohova poèítaè
+1004056= Súbory opravy systému
+1004047= Obnovi systém
+1004048= Vráti zmeny
+   
+1004049= Anti-Malware
+1004050= Odstráni malware
+1004051= Imunizova
+   
+1004052= Programy
+1004053= Odinštalova
+1004054= Kontrolova aktualizácie
+1004055= Nájs ïalší softvér
+1004057=
+
+[QUICKLAUNCHBAR]
+1005001= Kliknutím na + / - prida alebo odobra poloku do lišty doku
+1005002= U tu existuje
+1005003= Nie je dos miesta na lište doku, môete nieèo odstráni kliknutím na znamienko -
+1005004= Na lište u nie je miesto. Odstráòte ¾ubovo¾nú ikonu pretiahnutím z lišty.
+
+[SKINSCENTER]
+1006001= Centrum vzh¾adov
+1006002= Kninica obrázkov
+1006003= Pevné farby
+1006004= Nasledujúci súbor u existuje, chcete ho prepísa?
+1006005= Všetky podporované súbory
+1006006= Vlastné
+
+1007001= Vaša skúšobná licencia skonèila. 
+1007002= Kliknite na túto správu pre aktiváciu Glary Utilities Pro.
+1007003= Vaša licencie skonèila.
+1007004= Kliknite na túto správu pre re-aktiváciu Glary Utilities Pro.
+
+[CHECKDISK]
+2400001= Kontrola disku
+2401001= Prosím, vyberte disk, pre kontrolu
+2401002= Automaticky opravova chyby systémovıch súborov
+2401003= Vyh¾ada a pokúsi sa obnovi chybné sektory
+2401004= Kontrola disku
+2401010= Názov jednotky
+2401011= Posledná analıza
+2401012= Stav
+2401013= Analıza
+2401014= Správa
+2401015= Pripravenı
+2401016= Je potrebné skontrolova
+2401017= Kontrola %s
+2401018= Kontrola disku Prerušená
+2401019= Boli nájdené chyby
+2401020= iadne nájdenej chyby
+2401021= H¾ada chybu disku
+2401022= Skry detaily
+2401023= Zobrazi detaily
+2401024= Kontrola disku skontroluje disk a jeho systémové súbory.
+2401025= Zistené chyby budú automaticky zafixované, aby nedošlo k strate dát.
+2401026= Nastavenia
+;2401027= Automaticky opravova chyby systému súborov
+;2401028= Vyh¾ada a pokúsi sa obnovi chybné sektory
+2401029= Štart kopntroly
+2401030= Stop
+2401031= Naplánovanie kontroly disku zlyhalo!
+2401032= Kontrola disku je naplánována pri ïa¾šom spustení poèítaèa.
+2401033= Kontrola disku vynechaná.
+2401034= Kontrola disku zrušená.
+2401035= Kontrola disku prerušená.
+2401036= Kontrola disku dokonèená. iadne chyby nenájdené.
+2401037= Kontrola disku našla %s chıb na disku takto:
+
+2403001= Kontrola disku %s
+2403002= Urob to po dobu najbliších %s konfliktov
+2403003= Bude preskoèenıch %s sekúnd.
+
+2405001= Funkcia nenájdena.
+2405002= Kontrola disku narazila na chybu. Potreba reštartu aplikácie.
+2405003= Kontrola systému súborov na %s
+2405004= Typ systému súborov %s
+
+2406001= Uloi správu
+
+2407001= Vısledok
+2407002= Naplánova kontrolu disku
+2407003= Reštartova teraz
+2407004= Zobrazi správu
+2407005= Windows opraví disk pri ïa¾šom spustení.
+
+2408001= Systém Windows nemôe skontrolova disk, lebo sa pouíva
+2408002= Vynúti odpojenie nChcete odpojenie tohto zväzku ako prvé? Poznámka: Všetky otvorené popisovaèe na tomto zväzku budú neplatné.
+2408003= Naplánova kontrolu disku\nChcete skontrolova chyby pevného disku pri ïalšom spustení poèítaèa?
+2408004= Preskoèi
+
+[RESTORE CENTER]
+
+2602001= Vytvorenie bodu obnovenia ...
+2603001= Zadajte popis, ktorı vám pomôe identifikova bod obnovenia. Aktuálny dátum a èas sú pridané automaticky.
+2603002= Vytvori
+2603003= Zadajte prosím popis.
+2604001= Príprava pre obnovenie systému ...
+2605001= Obnova %s poloiek.
+
+
+[SETTINGS]
+2801001= Všeobecné nastavenia
+2801002= Nišie uvedené poloky budú preskoèené pri vykonávaní kontroly.
+2801003= Ïalšia
+2801004= Skrytú cestu prostredníctvom registra identifikova, navrhnú a opravi chyby.
+2801005= Zobrazi Dock bar rady
+2801006= Definované viaceré spúšaèe
+2801007= Nenaplánovaná úloha
+2801008= Preskoèi upozornenie Kontroly uívate¾skıch úètov
+2801009= V podponuke zobrazte kontextovú ponuku
+
+2802001= Plánovanie:
+2802002= Èas spustenia:
+2802003= Nespusti úlohu, ak poèítaè je napájanı z batérie.
+2802004= Zastavi úlohu, ak zaène reim batérie.
+2802005= Prebudi poèítaè na spustenie tejto úlohy.
+2802006= Správa napájania
+
+2803001= Denník
+2803002= Monosti denníka
+2803003= Uloené denníky
+2803004= Otvori prieèinok denníka
+2803005= Zobrazi denník
+2803006= Vymaza
+2803007= Vymaza všetko
+2803008= Vytvori záznamy, keï došlo k akejko¾vek zmene v poèítaèi
+2803009= Maximálne súborov:
+
+[Quick Search]
+3700001= Rıchle h¾adanie
+3700002= 
+
+//frmMain
+3701001= Súbor
+3701002= Editova
+3701003= Zobrazi
+3701004= Pomocník
+3701005= Otvori
+3701006= Otvori zloku
+3701007= Exportova
+3701008= Zatvori
+3701009= Kopírova
+3701010= Prispôsobi cestu
+3701011= Nastavenie
+3701012= Ve¾kos textu
+3701013= Usporiada ikony pod¾a
+3701014= Obnovi
+3701015= Zvıši
+3701016= Zníi
+3701017= Normálny
+3701018= Názov
+3701019= Cesta
+3701020= Ve¾kos
+3701021= Dátum zmeny
+3701022= Domovská stránka
+3701023= O
+3701024= Upravi kategórie
+3701025= Zobrazi všetko
+3701026= Klávesové skratky
+3701027= Dokumenty
+3701028= Obrázky
+3701029= Videá
+3701030= Hudba
+3701031= Programátor
+3701032= Zobrazi %s súborov
+3701033= Zahrnú súbor
+3701034= Zahrnú Dir
+3701035= %s nájdenıch poloiek
+3701036= Skenovanie %s ...
+3701037= Typ
+3701038= Popis súboru
+3701039= Verzia súboru
+3701040= Verzia produktu
+3701041= Názov spoloènosti 
+3701042= Textovı súbor(*.txt)|*.txt|Všetky súbory(*.*)|*.*
+3703043= Súbor existuje
+3703044= Tipy
+3703045= %s vybraté poloky
+3701046= Naèítanie %s ...
+3701047= Kopírova cestu do schránky
+3701048= Kopírova celé meno do schránky
+3701049= Vybraním prive¾a súborov môe spôsobi e softvér nereaguje, urèite chcete pokraèova?
+
+//frmSetting
+3702001= Nastavenie
+3702002= Kategórie
+3702003= Všeobecné
+3702004= Spusti automaticky pri prihlásení do Windows-u
+3702005= Dvakrát kliknite na "Ctrl" klávesu pre skrytie alebo zobrazenie po¾a h¾adania
+3702006= Jazyk:
+3702007= Názov kategórie
+3702008= Prípony súborov
+3702009= Prida
+3702010= Upravi
+3702011= Odstráni
+3702012= OK
+3702013= Zruši
+3702014= Prosím, vyberte kategóriu!
+3702015= Táto kategória nemôe by zmazaná
+3702016= Disky
+3702017= Prosím vyberte disk pre vyh¾adávanie
+3702018= Názov jednotky
+3702019= Systémovı súbor
+3702020= Kapacita
+3702021= Vyuité miesto
+
+//frmGroupSetting
+3703001= Názov kategórie:
+3703002= Prípony súborov:
+3703003= Prípona súboru:
+3703004= Prípona
+3703005= Typ súboru
+3703006= Zadajte príponu(*.doc)
+3703007= Názov kategórie nemôe by prázdny!
+3703008= Prípona súborov nemôe by prázdna!
+3703009= Názov kategórie %s u existuje, prosím znova zadajte názov kategórie.
+3703010= Prida kategóriu
+3703011= Upravi kategóriu
+
+//UnitFunction
+3704001= Neexistuje iadny text do schránky!
+
+//frmAbout
+3705001= O
+3705002= Verzia:
+3705003= Webová stránka:
+3705004= Copyright @ 2013, Glarysoft ltd. Všetky práva vyhradené
+
+//tray icon
+3706001= Otvori Rıchle vyh¾adávanie
+
+//Task
+3707001= Glary Utilities Rıchle vyh¾adávanie
+
+[Disk Defrag]
+3400001= Defragmentácia disku
+3400002= Defragmentácia pevného disku pre zrıchlenie vıkonu poèítaèa
+
+3400003= Váš poèítaè beí na batériu, odporúèame vám nedefragmentova. Ak chcete defragmentova, prosím, zrušte v nastavení zaèiarknutie Zastavenie defragmentácie pri pouití batérie.
+
+//frmMain
+3401001= Názov jednotky
+3401002= Systémové súbory
+3401003= Kapacita
+3401004= Vo¾né miesto
+3401005= Fragmentovanıch
+3401006= Stav
+3401007= Èas štartovania defragmentácie
+3401008= Súbor
+3401009= Nástroje
+3401010= Pomocník
+3401011= Defragmentácia súborov ...
+3401012= Defragmentácia zloky ...
+3401013= Analyzova
+3401014= Defragmentácia
+3401015= Defragmentácia a optimalizácia (pomalšie, pouite raz tıdenne)
+3401016= Koniec
+3401017= Priorita
+3401018= Nízka priorita
+3401019= Normálna priorita
+3401020= Vysoká priorita
+3401021= Nastavenie
+3401022= Domovská stránka
+3401023= Skontrolova aktualizácie
+3401024= O
+3401025= Defragmentova
+3401026= Analyzova
+3401027= Defragmentácia a optimalizácia (pomalšie, pouite raz tıdenne)
+3401028= Pauza
+3401029= Obnovi
+3401030= Stop
+3401031= Vypnú poèítaè po defragmentácii
+3401032= Vybra všetko
+3401033= Niè nevybra
+3401034= Štádium
+3401035= Správa
+3401036= Vyuité miesto
+3401037= Vo¾né miesto
+3401038= Spracovávam
+3401039= Vo¾né miesto
+3401040= Vyuité miesto
+3401041= Nefragmentované
+3401042= Pevné súbory
+3401043= Fragmentované súbory
+3401044= Zaneprázdnené
+3401045= MFT Vyhradené zóny
+3401046= Pripravenı
+3401047= Analyzujem
+3401048= Defragmentácia
+3401049= Optimalizácia
+3401050= Analyzované
+3401051= Defragmentované
+3401052= Optimalizované
+3401053= Analıza dokonèená
+3401054= Defragmentácia dokonèená
+3401055= Optimalizácia dokonèená
+3401056= Analıza prerušená
+3401057= Defragmentácia prerušená
+3401058= Optimalizácia prerušená
+3401059= Èas spustenia defragmentácie je aktivovanı na tomto zväzku.
+3401060= Èas spustenia defragmentácie nie je aktivovanı na tomto zväzku.
+3401061= Vypnú
+3401062= Zapnú
+3401063= Konfigurova
+3401064= Defragmentácia stránkovacieho súboru, súbor reimu spánku
+3401065= Defragmentácia MFT
+3401066= Defragmentácia systémovıch súborov
+3401067= História èasu spustenia defragmentácie (dvojitım kliknutím zobrazíte podrobnosti)
+3401068= Dátum
+3401069= Celková ve¾kos
+3401070= Defragmentované
+3401071= Súborov celkom && dirs:
+3401072= Fragmenty:
+3401073= Hodnotenie fragmentácie:
+3401074= Názov súboru
+3401075= Fragmenty
+3401076= Ve¾kos
+3401077= Cesta
+3401078= Áno
+3401079= Nie
+3401080= Súbor(y)
+3401081= Vyberte zloku
+3401082= Pomocník
+3401083= Defragmentácia disku je stále spustená.
+3401084= Neznámy ovládaè
+3401085= Koreòovı adresár nemôe by pridanı do zoznamu vınimiek. Prosím vyberte inı adresár.
+3401086= Vyberte poloku Invertova
+3401087= Zastavi jedno
+3401088= Zastavi všetko
+3401089= Tento zväzok je Solid State Drives (SSD) a ten nie je potrebné defragmentova.
+3401090= Disk sa zobrazuje ako SSD. Defragmentácia môe zníi jeho ivotnos. Chcete aj tak pokraèova?
+
+//frmOption
+3402000= Nastavenie
+3402001= Všeobecné
+3402002= Defragmentácia
+3402003= Automatická defragmentácia
+3402004= Plán
+3402005= Èas spúšania defragmentácie
+3402006= Optimalizova
+3402007= Nezahàòa
+3402008= Jazyk:
+3402009= Spusti automaticky pri prihlásení do Windows-u
+3402010= Minimalizova do lišty pri zatvorení okna programu
+3402011= Zobrazova bublinové tipy pri minimalizácii do lišty
+3402012= Integrova defragmentáciu disku do kontextového menu Windows Exploreru
+3402013= Automaticky kontrolova aktualizácie
+3402014= Súèasné defragmentácie diskov
+3402015= Predvolené
+3402016= Inteligentná defragmentácia
+3402017= Polárna iara
+3402018= Štandardné nastavenie
+3402019= Prístupnosti
+3402020= Dúha
+3402021= Morskı vánok
+3402022= Defragmentova iba súbory:
+3402023= Majú menšie fragmenty ako
+3402024= Ma viac ne
+3402025= Sú väèšie ne
+3402026= Sú menšie ne
+3402027= Fragmenty
+3402028= Presunú ve¾ké súbory na koniec
+3402029= Minimálna ve¾kos súboru:
+3402030= Súbory, ktoré neboli prístupné za poslednı mesiac
+3402031= Súbory v koši
+3402032= Vybraté typy súborov
+3402033= Kategórie
+3402034= Typ
+3402035= Prida
+3402036= Editova
+3402037= Vymaza
+3402038= Vylúèi súbory, ktoré nechcete defragmentova napr. video súbory. {#13#10} pre urıchlenie defragmentácie.
+3402039= Prida súbory
+3402040= Prida prieèinky
+3402041= Automatická defragmentácia je vypnutá
+3402042= Automatická defragmentácia je zapnutá
+3402043= Keï je zapnutá automatická defragmentácia, dôjde k defragmentácii pevného disku automaticky, aby váš poèítaè beal na najvyššiu rıchlos.
+3402044= Automatická defragmentácia, keï je systém neèinnı %s min (y)
+3402045= Pauza, keï vaše CPU alebo vyuitie disku presiahne %s%
+3402046= Jednotky
+3402047= Posledná defragmentácia:
+3402048= Defragmentované súbory:
+3402049= Spusti pod¾a plánu
+3402050= Akcia:
+3402051= Frekvencia:
+3402052= Èas:
+3402053= Defragmentácia iba
+3402054= Defragmentácia a optimalizácia
+3402055= Denne
+3402056= Tıdenne
+3402057= Mesaène
+3402058= Pondelok
+3402059= Utorok
+3402060= Streda
+3402061= Štvrtok
+3402062= Piatok
+3402063= Sobota
+3402064= Nede¾a
+3402065= Èas spustenia defragmentácie je aktivovanı
+3402066= Typ defragmentácie:
+3402067= Metóda
+3402068= Kadodenné spúšanie
+3402069= Kadı deò pri prvom štartovaní
+3402070= Kadı %s deò pri prvom štartovaní
+3402071= Maximálny záznam súborov:
+3402072= Štart automatickej kontroly
+        
+3402073= Rozšírená defragmentácia
+3402074= Rıchla defragmentácia
+3402075= Vyberte zloku
+3402076= Prosím skontrolujte disk ktorı ste chceli defragmentova!
+3402077= Tipy
+3402078= Prosím, vyberte kategóriu!
+3402079= Naozaj chcete zmaza túto kategóriu?
+3402080= Prida súbor kategórie
+3402081= Úprava súboru kategórii
+3402082= OK
+3402083= Zruši
+3402084= Defragmentácia pri spustení bezpeène presunie súbory, ktoré nemono presunú pri spustenom Windows-e.
+3402085= Zastavi VSS pri defragmentácii zväzku NTFS
+3402086= Zastavi automatickú defragmentáciu pri pouití batérie
+
+//frmConfig
+3403001= Archív
+3403002= Obrazy
+3403003= Obrazy diskov
+
+//frmCategory
+3404001= Názov kategórie nemôe by prázdny!
+3404002= Chyba typu formátu! Napríklad: (*.doc/*.doc,...,*.Txt).
+
+//frmFileType
+3405001= Kategória:
+3405002= Typ:
+3405010= Názov kategórie %s u existuje, prosím zvo¾te inı názov.
+
+[SpyRemover]
+2701001= Odstraòovaè Malware
+2701002= Odstraòovaè Malware
+2701003= Rıchle prehliadnutie a odstránenie spyware a adware
+2701004= Skenova
+2701005= Odstráni
+2701006= Obnovi
+2701007= Otestova
+2701008= Vyberte zálohu, ktorú chcete obnovi a kliknite na tlaèidlo "Obnovi".
+2701010= Typ
+2701011= Stav
+2701012= Zálohy
+2701013= Naozaj chcete obnovi %s do systémového registra?
+2701014= %s bol úspešne obnovenı do registra.
+2701015= Skenovanie %s
+2701016= Naskenovanıch súborov: %s
+2701017= Malware boli vyèistené úspešne!
+2701018= Obnovi
+2701019= Skenova Malware
+2701020= Skenovanie dokonèené
+2701021= %s malware nájdenıch
+2701022= Malware nenájdené
+2701023= 1 malware nájdenı
+2701024= iadna poloka kontrolovaná
+2701025= %s poloky kontrolované
+2701026= %s poloky kontrolova
+2701027= Info o Malware
+2701028= Nenájdené iadne malware!
+2702001= Podrobnosti
+2702002= Prosím vyberte poloky, ktoré chcete odstráni.
+	 
+[BOOT TIME]
+2901001= Len pre orientáciu.
+2901002= Èas potrebnı na spustenie poèítaèa so systémom Windows je ve¾mi pomalı, %s z uívate¾ov je pomalších.
+2901003= Èas potrebnı na spustenie poèítaèa so systémom Windows je pomalší, %s z uívate¾ov je pomalších.
+2901004= Èas potrebnı na spustenie poèítaèa so systémom Windows je benı, %s z uívate¾ov je pomalších.
+2901005= Èas potrebnı na spustenie poèítaèa so systémom Windows je rıchly, %s z uívate¾ov je pomalších.
+2901006= Èas potrebnı na spustenie poèítaèa so systémom Windows je ve¾mi rıchly, %s z uívate¾ov je pomalších.
+2901007= Nepodarilo sa získa dáta, referenènú hodnotu nemono vypoèíta.
+2901008= Zisovanie èasu štartovania, èakajte prosím ...
+
+[DRIVER BACKUP]
+2200001= Manaér ovládaèov
+2201001= Zálohova
+2201002= Odinštalova
+2201003= Obnovi
+
+2201004= Vyberte ovládaèe, ktoré chcete nainštalova, a kliknite na tlaèidlo "Obnovi".
+2201005= Vyberte ovládaèe, ktoré chcete odinštalova, a potom kliknite na tlaèidlo "Odinštalova".
+2201006= Vyberte cie¾ovú zloku, do ktorej uloíte zálonı súbor:
+2201007= Uloi zálonı súbor:
+2201008= Záloha ovládaèov
+2201009= %s vytvorenia zlyhalo!
+2201010= Ste si istí, e chcete odinštalova toto zariadenie?
+2201011= Názov zariadenia
+2201012= Verzia
+2201013= Dátum zálohy
+2201014= Váš poèítaè môe by potrebné reštartova!
+
+
+[Software Update]
+4000001= Aktualizácie softvéru
+4000002= Vlastné vısledky
+4000003= Skry Beta verzie
+4000005= OK
+4001001= Preèíta si viac...  
+4001002= Zruši
+4001003= Pokraèova
+4001004= Spusti aktualizáciu softvéru pri spustení systému Windows
+4001005= Skenova
+4001006= Preh¾ada
+4001007= 100% skenovania dokonèeného.
+4001009= Vlastné vısledky
+4001010= Pripravenı zaèa ...
+4001011= Skenovanie poèítaèa ...
+4001012= Odoslanie údajov na analızu ...
+4001013= Otvorenie vısledkov ...
+4001014= Kliknutím na tlaèidlo 'Skenova' preh¾adá nainštalovanı software vo vašom poèítaèi!
+4001015= Navštívi www.glarysoft.com
+4001016= Obnovi z lišty
+4001017= Koniec
+4001019= Pre blišie zobrazenie kliknite na túto správu.
+4001020= Zobrazi detaily
+4001021= Vyh¾ada aktualizácie
+
+4001022= Máte 1 novú aktualizáciu k dispozícii.
+4001023= Máte %s novıch aktualizácií k dispozícii. 
+4001024= Máte 1 beta aktualizáciu k dispozícii. 
+4001025= Máte %s beta aktualizácií k dispozícii. 
+
+4001026= Máte 1 novú aktualizáciu a 1 beta aktualizáciu k dispozícii.
+4001027= Máte 1 novú aktualizáciu a %s beta aktualizácií k dispozícii. 
+4001028= Máte %s novıch aktualizácií a 1 beta aktualizáciu k dispozícii. 
+4001029= Máte %s novıch aktualizácií a %s2 beta aktualizácií k dispozícii.
+4001030= iadne aktualizácie v súèasnej dobe nie sú k dispozícii.
+
+4001040= Zobrazi všetky správy
+4001041= Skry všetky správy
+4001042= Skry túto verziu
+4001043= Inštalovaná verzia:
+
+4001050= Všeobecné
+4001051= Vısledky
+4001052= Rozšírené
+
+4001053= Rozhranie
+4001054= Automatické aktualizácie
+4001055= Jazyk
+4001056= Upozorni, ak je dostupná nová verzia aktualizácie softvéru
+4001057= Automaticky aktualizova na poslednú verziu
+
+4001058= Vısledky
+4001059= Skry beta verzie
+
+4001060= Pri spustení Windows-u
+4001061= Systémová lišta
+4001062= Spusti aktualizáciu softvéru pri spustení Windows-u
+4001063= Ukonèite program pri zatvorení okna
+4001064= Minimalizova do systémovej lišty
+4001065= Nastavenia
+4001066= Upgrade na Pro
+
+[Portable Maker]
+5001001= Glary Utilities Tvorca prenosnej verzie
+5001002= Kliknutím na tlaèidlo "Vytvori" prenosná verzia pre Glary Utilities bude vytvorená. Uloí sa prednastavene na vašej pracovnej ploche. Alebo
+5001003= kliknite tu pre zmenenie predvolenej cesty
+5001004= Vytvori
+5001005= Otvori umiestnenie súboru
+5001006= Vytvorenie prenosnej verzie úspešné. Kliknite na "Otvori umiestnenie súboru". Rozba¾te zip súbor a spustite "Integrator_Portable.exe". Upozoròujeme, e prenosná verzia obsahuje len funkcie Free Edition.
+
+[error report]
+6001001= %s došlo k problému a je potrebné ho ukonèi. Ospravedlòujeme sa za vzniknuté problémy.
+6001002= Prosím, upovedomte Glarysoft o tomto probléme.
+6001003= Vytvorili sme správu o chybách, ktoré nám môete odosla. Budeme povaova túto správu za dôvernú a anonymnú.
+6001004= Ak chcete zisti, aké údaje táto správa o chybe obsahuje,
+6001005= kliknite tu
+6001006= Odosla správu o chybe
+6001007= Neposiela
+6001008= Tipy
+6001009= Vyberte súbory, ktoré nám chcete odosla!
+6001010= Nepodarilo sa odosla správu o chybe, pošlite prosím zoznam súborov ako prílohy: {\r\n}%s{\r\n}Ïakujeme Vám za Vašu úèas!

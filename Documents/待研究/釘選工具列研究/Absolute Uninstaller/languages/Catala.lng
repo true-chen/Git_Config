@@ -1,0 +1,2465 @@
+[Language]
+Description= Catala
+Author= Joan Mercader
+
+
+[Globals]
+10001= Fitxer
+10002= Edita
+10003= Mostra
+10004= Ajuda
+10005= Surt
+10023= Continguts
+10018= Lloc Web
+10019= Quant a
+10006= Atura
+10007= Actualitza
+10008= Propietats
+10009= Nom
+10010= Obre
+10011= Mida
+10012= D'acord
+10013= Cancel.la
+10014= Tanca
+10015= Si
+10016= No
+10017= Navega...
+10020= Exporta...
+10021= Obre la Carpeta
+10022= Tasques
+10024= Seguent
+10025= Enrere
+10026= Opcions
+19026= Espai Total
+19027= Espai Lliure
+14023= Estat
+10027= Descripcio
+10028= Finalitza
+10029= Paperera
+14009= Detalls
+10030= Afegeix
+10031= Suprimeix
+10032= Predeterminat
+10033= Data creacio
+10034= Esborra
+10035= Recomanar a un amic
+10036= Comprar Ara
+10037= Introdueix codi Enregistrament
+15009= Selecciona Tot
+15010= DesSelecciona Tot 
+15011= Inverteix seleccio 
+15014= Seleccio
+10038= Menu
+10039= Cerca Actualitzacions
+10040= Idioma
+10041= N'estas segur que vols enviar aquests articles seleccionats a la Paperera de Reciclatge?
+10043= Alguns fitxers no s'han pogut Esborrar. Assegura't que els fitxers no s'estan utilitza’n o que la unitat no estigui plena o protegida contra escriptura.
+10044= Advertiment
+10045= Informacio
+10046= Error
+10047= Confirmacio
+10048= Inicialitzacio
+
+10050= Recomanable
+10051= Aplica
+10052= Eines
+10053= El programa no s'executara a causa de la falta d'un fitxer o esta malmes, intenta amb una nova instal.lacio per solucionar el problema. Clica <Si> per descarregar l'ultima versio de Glary Utilities.
+
+[Integrator]
+10801= Netejar i Reparar
+10802= Optimitzar i Millorar
+10803= Privacitat i Seguretat
+10804= Fitxers i Carpetes
+10805= Eines de Sistema
+
+10806= Estat
+10807= Estat del programa
+10808= Versio actual:
+10809= Darrera actualitzacio:
+10810= Data Base dades:
+10811= Estat de la Llicencia
+10812= Tipus:
+10813= Versio gratuita
+10814= Versio Professional
+10815= Data Caducitat:
+10816= Mai
+10817= Enregistrar el producte comprat fent clic en el boto de sota.
+10818= Enregistrar
+10819= Configurar Auto-Execucio
+
+10799= Moduls
+
+10820= Configuracio
+10821= General
+10822= Idioma:
+10823= Carregar Glary Utilities automaticament a l'inici de Windows.
+10824= Al tancar el programa minimitzar-ho a la Safata 
+10825= Menu contextual
+10826= Selecciona els menus contextuals que vols integrar en l'Explorador de Windows
+10827= Actualizacio automatica
+10828= Executar l'actualizacio via web a l'hora programada
+10829= Programacio: 
+10830= No disponible en la Versio Gratuita
+10831= Canvia Programacio
+10832= Auto-Manteniment
+10833= Elimina els Rastres privats de Windows al tancar sessio o apagar PC
+10834= Rastres Privats
+10835= Selecciona Rastres privats de Windows a Eliminar al tancar sessio o apagar
+10836= Auto-Manteniment en 1-Clic
+10837= Executar Auto-Manteniment en 1-Clic a l'hora programada.
+10838= Centre de Recuperacio
+10839= Proteccio Centre de Recuperacio
+10840= Selecciona els moduls que vols protegir per el Centre de Recuperacio
+10841= Moduls disponibles:
+10842= Opcions de la Copia de seguretat
+10843= Esborra automaticament les copies de seguretat:
+10844= Limitar el numero de copies de seguretat a:
+10845= Llista d'exclusions
+10846= Despres d'una setmana
+10847= Despres de 2 setmanes
+10848= Despres de 3 setmanes
+10849= Despres d'un mes
+10850= Despres de 2 messos
+10851= Despres de 3 messos
+10852= Opcions Auto-Manteniment en 1-Clic
+10853= Nomes analitzar per mostra els problemes
+10854= Analitzar i reparar els problemes
+10855= Seleccio dels Rastres a Eliminar
+10856= Mostrar el globus de consells a la Safata al minimitzar-ho 
+10857= Cerca actualitzacions quan s'inicia el programa
+
+10900= Desfer els canvis
+10901= Cal seleccionar la copia de seguretat que vols recuperar i Clica l'opcio <Recupera>.
+10902= Recupera els Fitxers del Sistema
+10903= Crear punt de Recuperacio
+109014= S'ha creat satisfactoriament un nou punt de Recuperacio.
+10904= ¡Fallida la creacio un punt de Recuperacio! Pot ser que la Recuperacio del Sistema estigui deshabilitada en aquest sistema, o que no tinguis permisos d'acces.
+10905= Per habilitar la Recuperacio dels Fitxers del Sistema, Cal seguir els següents passos: Inicio -> Panel de Control -> Sistema -> pestanya Restaurar sistema. Desmarcar l'opcio "Desactivar Recuperar sistema en todas las unidades" marcar habilitar Recuperar Sistema. Clic en Aplicar.
+10906= ¡Primer cal seleccionar un punt de recuperacio!
+10907= Cal desar els canvis i tancar tots els programa oberts. Windows es reiniciara automaticament durant el process de recuperacio.
+10908= ¡Primer cal seleccionar una copia de seguretat!
+10911= Copia de seguretat
+10912= N'estas segur que vols recuperar-lo %s?
+10913= Recuperacio satisfactoria.
+10915= Cal seleccionar el punt de recuperacio que vols recuperar, i fer clic al boto "Recuperar". 
+
+10909= Consell
+10910= Glary Utilities encara esta en execucio.
+
+10916= Preguntes mes freqüents
+10917= Skins(pells)
+10918= Versio Portable
+10919= Suport d'Emergencia
+
+[License Dialog]
+20001= Aquesta es una versio per temps limitat.
+20002= Pots provar per complet el programa durant %s dies sense cap obligacio.
+20003= Si el programa t'agrada i vols seguir usant-lo mes enlla del periode de prova, cal fer clic en "Comprar Ja".
+20004= Periode de prova: dia %s de %s2
+20005= Aquesta versio de prova ha finalitzat. Ha pogut provar per complet el programa durant %s dies.
+20006= Si t'agrada el programa i vols continuar usant-lo, cal fer clic en "Comprar Ara".
+20007= S'ha acabat el periode de proves
+20008= No Enregistrat
+20009= Copyright(c)
+20010= Aquest producte esta Llicenciat a :
+20011= Avis: Aquest programa esta protegit per les Lleis de copyright i tractats internacionals. La reproduccio o distribucio no autorizades d'aquest programa seran perseguides amb penes de tot tipus i sancions al maxim possible sota la llei vigent.
+20012= Lloc Web
+20013= Comprar Ara
+20014= Introdueix Codi
+20015= Seguir provant
+20016= Introdueix nom
+20017= Codi d'Enregistrament
+20018= Si no disposes de un codi de enregistrament per desbloquejar aquesta versio de prova, pots 
+20019= Demanar-lo online.
+20020= El Codi d'enregistrament introduit no es valid. Verificar el codi per assegurar-se de que s'ha introduit correctament.
+20021= Agraiments a les següents persones per les seves contribucions
+20022= ¡Actualitza Ara !
+20023= Cal introduir l'informacio de la Llicencia
+20024= Tipus de Llicencia
+20025= Per obtenir la Llicencia, 
+20026= Pagina principal:
+
+20027= Actualitzar Ara
+20037= Introdueix nom!
+20038= Introdueix Codi:
+20039= Activar Ara
+20040= Encara no tens una Llicencia?
+20041= Clics aqui per obtenir-ne una.
+20042= He perdut el meu codi de Llicencia.
+20043= Introdueix l'informacio de Llicencia
+20044= Nom Llicencia:
+20045= Data de caducitat:
+20046= %s dia(es) restants
+20047= Fa %s dia(es)que ha caducat
+20048= Renovar
+20049= Exporta Llicencia
+20050= Glary Utilities License Manager
+20051= exemple: AC6E-D9C6-FAB8-A8C8
+20052= Administra Llicencia
+20053= L'informacio sobre la Llicencia ha estat desada amb exit a : 
+
+[Updater]
+30001= No s'ha pogut recupera l'informacio de %s
+30002= Ja te instal.lada la versio mes recent de %s. No hi ha cap nova versio disponible per ara.
+30003= S'ha esta usant %s : %s2.
+30004= Una nova versio de %s esta disponible per descarregar: %s2. Clica <D'acord> per obrir una pagina amb detalls de la descarrega, o clica <Cancel.la> si no es vol actualitzar per ara.
+30005= Actualitzacio Finalitzada
+30006= Recuperant versio actualitzada (%s)...
+30007= Recuperant fitxer actualitzat de referencia (%s)...
+30008= Cercant actualitzacions...
+30009= Preparat
+30010= Responent a l'Actualitzacio Web...
+30011= Temps restant estimat:
+30012= Taxa de transferencia:
+30013= Desconegut
+30014= %s seg
+30015= %s de %s2 copiats
+30016= %s/seg
+30017= Cal actualitzar a la versio PRO de %s per usar aquesta caracteristica. ¿Actualitzar Ara?
+30018= %s esta disponible ara. Clica en aquest missatge per instal.lar-la.
+30019= %s min %s2 seg
+30020= Recuperant fitxer idioma actualitzat (%s)...
+30021= Versio %s disponible. Actualitzar Ara !
+30022= Actualitzar Glary Utilities
+30023= Una nova versio de Glary Utilities es disponible!
+30024= Glary Utilities %s ja esta disponible - que te %s2. Vols descarregar la nova versio Ara?
+30025= Notes de la versio:
+30026= Saltar aquesta Versio
+30027= Recorda-m'ho mes tard
+30028= Descarrrega
+30029= En el futur, descarregar automaticament les actualitzacions
+
+[Context Menu]
+40001= Analitzar l'espai al disc amb Glary Utilities
+40002= Ajuntar amb Glary Utilities
+40003= Partir amb Glary Utilities
+40004= DesXifrar amb Glary Utilities
+40005= Xifrar amb Glary Utilities
+40006= Destruir amb Glary Utilities
+40007= Cercar Carpetes buides amb Glary Utilities
+
+40008= Desfragmenta amb Glary Utilities
+40009= Desfragmenta Disc amb Glary Utilities
+40010= Desfragmenta Carpeta amb Glary Utilities
+40011= Desfragmenta Fitxer amb Glary Utilities
+
+[Registry Cleaner]
+11001= Reparador del Registre
+11901= Neteja el registre per millorar l'optimitzacio del sistema.
+11002= Selecciona les seccions a analitzar
+
+11003= Accio
+11004= Analitza problemes del Registre
+11005= Repara el registre
+11006= Recupera anteriors Reparacions
+11007= Eines
+
+11008= Els problemes seleccionats han estat reparats satisfactoriament.
+11009= N'estas segur que vols afegir l'objecte a la Llista d'ignorats? Aquest objecte no sera cercat la propera vegada.
+11010= El fitxer s'ha desat a:
+11011= Sumari de problemes trobats: 
+11012= 1 Problema trobat
+11013= %s problemes trobats
+11014= 1 Problema seleccionat per reparar
+11015= %s problemes seleccionats per reparar
+11016= No s'han trobat problemes
+11017= No s'ha seleccionat cap problema per reparar
+11018= (%s problemes trobats)
+11019= Analitzant
+11020= Seccio:
+11021= Correccio:
+11022= Obre amb Regedit
+11023= Obre l'entrada amb Regedit
+11024= Esborra aquesta entrada
+11025= Deixar aquesta entrada sense canvis
+11026= No incloure mes aquesta entrada en futurs analisi
+11027= Propietats
+11028= Obre les propietats de la drecera
+11029= Esborra aquesta drecera
+11030= Deixar aquesta drecera sense canvis
+
+11031= Analisi Finalitzat
+11032= Repara
+11033= Clica <Repara> per Auto-Reparar o <Tanca> per mostra detalls.
+11034= Reparacio Finalitzada
+11035= Analitzant
+11036= Reparant
+
+11037= Recupera
+11038= Seleccionar la copia de seguretat que vols recuperar i clica <Recupera>.
+11039= Copia de seguretat
+11040= N'estas segur que vols Recuperar %s del Registre del sistema?
+11041= %s La Recuperacio del Registre ha estat satisfactoria.
+
+11042= L'entrada %s es refereix a un fitxer o carpeta perduda %s2
+11043= Aquesta cadena del registre es refereix a una clau perduda %s
+11044= Aquesta clau del registre no conte dades, Es pot Esborrar.
+11045= Aquesta cadena del registre es refereix a un CLSID perdut %s
+11046= Aquesta cadena del registre es refereix a un fitxer icona perdut %s
+11047= L'entrada del Menu Contextual  %s es refereix a un programa perdut %s2
+11048= Aquest registre es incomplet perque s'ha perdut l'Ordre de la SubClau.
+11049= Aquesta clau del registre es incompleta perque no conte cap dada sigui necessaria per Windows.
+11050= Aquesta cadena del registre es refereix a un InprocServer perdut %s. EL CLSID associat pot ser Esborrat.
+11051= Aquesta cadena del registre es refereix a un LocalServer32 perdut %s. EL CLSID associat pot ser Esborrat.
+11052= Aquesta cadena del registre es refereix a un tipus de Llibreria perduda %s
+11053= Aquesta cadena del registre es refereix a una carpeta perduda %s
+11054= Aquesta clau del registre %s no conte dades. Aquesta associacio amb tipus de Llibreria pot ser Esborrat.
+11055= Aquesta cadena del registre es refereix a un fitxer perdut %s
+11056= El Fitxer indicat %s no ha pogut ser trobat.
+11057= El Fitxer %s esta associat amb l'entrada %s2 inexistent.
+11058= L'entrada %s es refereix a un fitxer d'ajuda perdut %s2
+11059= Fitxer compartit perdut %s
+11060= El fitxer compartit %s ja no esta en us.
+11061= L'entrada ImagePath es refereix a un fitxer perdut %s. Els Serveis associats poden ser Esborrats.
+11062= L'entrada %s es refereix a un fitxer perdut %s2
+11063= La drecera es refereix a un Origen perdut %s
+11064= Aquesta clau del registre conte una referencia a la carpeta del Menu d'Inici %s , que ha estat suprimida o Esborrada.
+11065= L'entrada %s assenyala un programa perdut %s2
+11066= Aquesta entrada del desInstal.lador no conte les dades necessaries per Windows per suprimir el programa o component.
+11067= Es requereix el programa de desInstal.lacio  %s no s'ha pogut trobar
+11068= L'entrada %s es refereix a una carpeta perduda %s2 
+
+11069= Esborra Clau :
+11070= Esborra Valor :
+11071= Esborra Fitxer :
+
+11072= Llista Control d'exclusions
+11073= Relacio d'entrades actualment excloses a l'analitzar el Registre. Si vols %s exclore una d'aquestes entrades, cal desmarcar-la amb el ratoli.
+11074= Clau de Registre
+
+11075= Selecciona la carpeta on destinar la copia seguretat dels canvis de reparacio fets 
+11076= Limitar el nombre de copies seguretat a:
+11077= %s ja existeix. Segur que el vols Reemplaçar?
+11078= Reemplaça
+11079= Resum dels problemes trobats: (%s problemes trobats, %s2 problemes seleccionats per reparar)
+11080= Resum dels problemes trobats: (1 problema trobat, 1  problema seleccionat per reparar)
+11081= (1 problema trobat)
+11082= Resum dels problemes trobats: (Cap problema trobat, Cap problema per reparar)
+11083= Cercant...
+11084= Cap problema trobat, Cap problema seleccionat per reparar.
+11085= %s problema trobat, %s2 problemes seleccionats per reparar.
+11086= %s problemes trobats, %s2 problemes seleccionats per reparar.
+11087= Reparant...
+11088= Exportar a Fitxer del Registre
+11089= Clau actual :
+11090= Clau exportada:
+11091= %s problema(s) seleccionat(s) per reparar
+11092= Exportacio Finalitzada!
+
+[Disk Analysis]
+19001= Analitza l'espai en Disc
+19901= Obtenir informacio detallada dels Fitxers i Carpetes desitjades
+19003= Explorar
+19004= Finestra MS-DOS
+19005= Esborra (envia a Paperera)
+19006= Mostrar barra d'eines
+19007= Mostrar barra d'estat
+19008= Mostrar tipus de fitxer
+19009= Mostrar fitxers grans
+19010= Fitxers
+19011= Carpetes
+19012= Atributs
+19013= Percentatge
+19014= Tipus de Fitxer
+19015= Descripcio
+19016= Nom Fitxer
+19017= Carpeta
+19018= Modificat
+19019= Carregant tipus de Fitxers...
+
+19020= [Fitxers]
+19021= Meu PC
+
+19022= Seleccionar Unitats
+19023= Totes les Unitats Locals
+19024= Unitats Individuals
+19025= Selecciona Carpeta
+19028= Usat/Total
+19029= Seleccionar Carpeta:
+
+1801001= Analitza
+1801002= Enrere
+1801003= PC
+1801004= 
+1801005= Mostra Extensions
+1801006= Tots els Tipus
+1801007= Videos
+1801008= Comprimits
+1801009= Musica
+1801010= Imatges
+1801011= Documents
+1801012= Altres
+1801013= Extensio
+1801014= Nombre de Fitxers
+1801016= Tipus
+1801017= Ubicacio
+1801018= Data Modificat
+1801019= Espai Lliure
+
+1801020= Barra d'Eines
+1801021= Arbre Navegacio
+1801022= Detalls
+1801023= Mostra tots els Fitxers
+1801024= Carpetes i Fitxers
+
+1801025= Analitza Unitat Ara
+1801026= La Unitat encara no ha estat analitzada. \nPer aixo no esta disponible., Cap informacio sobre l'us d'espai en disc, tipus de fitxers o dels fitxers de major mida., Durant l'analisi, la informacio sobre les unitats seleccionades, els arxius i les carpetes que contenen i l'us de l'espai del Disc es recopilen i es mostren.
+1801027= Nomes analitzar aixo
+
+1801028= Mida Fitxer:
+1801029= Espai Total:
+1801030= Ultim Acces:
+1801031= Modificat:
+1801032= Creat:
+1801033= %s Elements seleccionats
+1801034= Mida:
+1801035= Total del Contingut
+1801036= Desconegut
+1801037= Espai usat:
+1801038= Analitzat
+1801039= No Analitzat
+
+1801040= Expandeix al seleccionar la carpeta
+
+1802001= Finalitzat
+1802002= Fallida
+1802003= Interrompuda
+1802004= Analisi de l'emmagatzematge de les ubicacions
+1802005= Cal esperar la finalitzacio de l'Analisi de l'emmagatzematge de les ubicacions en el Disc seleccionat.
+
+1803001= Llista de Ruta no valida:\n
+1803002= Llista de Ruta del Fitxer:\n
+1803003= %s Elements No es poden analitzar
+
+1804001= La unitat seleccionada encara no ha estat analitzada. Vols dur a terme l'analisi Ara?
+
+1805001= N'estas segur que vols moure aquests %s items a la paparera?
+1805002= Esborra
+1805003= Esborra %s objectes
+
+[Startup Manager]
+14001= Administracio del Menu d'Inici
+14901= Gestiona els programes d’execucio automatica en iniciar
+14002= Deshabilita aquesta entrada
+14003= Habilita aquesta entrada
+14004= Afegeix programa...
+14005= Esborra aquesta entrada
+14006= Edita l'Entrada...
+14007= Mostrar Barra de Detalls
+14008= Actualitza la Llista del Menu d'Inici
+14010= Altres AutoExecucions
+14011= Tasques programades
+14012= Serveis Locals
+14013= Aquests son els programes que s'inicien a l'engegar el PC o a l'obrir una nova sessio
+14014= Cap entrada seleccionada.
+14015= Entrada no valida. No es pot Esborrar.
+14016= <Sense informacio>
+14017= Producte:
+14018= Companyia:
+14019= Afegeix una entrada al Menu d'Inici
+14020= N’estas segur que vols Esborrar aquesta entrada del Menu d'Inici?
+14021= Edita l'entrada seleccionada del Menu d'Inici
+
+14022= Ruta
+14024= Ubicacio
+14035= Valoracio
+14025= Habilitat
+14026= DesHabilitat
+
+14027= Informe del Llistat del Menu d'Inici creat el %s per %s2
+14028= Total %s objectes
+14029= Desar informe com a %s
+
+14030= Cerca a Google...
+
+14031= Edita l'entrada del Menu d'Inici
+14032= Cal introduir un nom.
+14033= Cal introduir una linia amb l'Ordre.
+14034= No s'ha trobat el fitxer especificat. Realment vols Continuar ?
+
+14043= Desconegut
+14036= Fiable
+14037= Escollit per l'usuari
+14038= Neutral
+14039= Sense requeriment
+14040= Perillos
+14041= Comentar
+14042= Informacio Web
+
+14044= Comentari
+14045= Comentari propi sobre aquesta entrada
+14046= La seva opinio sobre aquesta entrada
+14047= Aixo canviara la qualificacio del risc
+14048= Enviar el Comentari
+
+14049= Retard
+14050= Iniciar ara
+14051= Programes amb l'inici retardat.
+14052= Amunt
+14053= Avall
+14054= Per retardar una aplicacio, cal seleccionar-la de la Llista de dalt, o arrossegar i deixar a la finestra d'abaix.
+14055= Per treure el retardat de una aplicacio, cal seleccionar-la de la Llista d'abaix, o arrossegar i deixar a la finestra de dalt..
+14056= Detectada entrada duplicada
+14057= Sembla que %s ha estat afegit despres de l'inici de Windows a la Llista de l'inici retardat.
+14058= Per solucionar aixo, cal obrir %s i cercar la opcio anomenada 'Iniciar amb Windows' o qualcuna de similar i desactivar-lo.
+14059= Si aquesta opcio no existeix, aleshores caldra contactar amb l'autor de %s que l'esta afegint de forma automatica, i se li preguntara si es possible afegir una caracteristica per desactivar-lo %s en l'inici automatic amb Windows14060
+14060= Si no es possible aturar %s en iniciar Windows, Llavors seria millor deixar simplement de Windows manejar i eliminar %s de la Llista d'inici retardat.
+14061= N´estas segur que vols Suprimir-lo %s de la Llista de retardats?
+14062= Retardat
+14063= Retardar
+14064= Treure Retard
+14065= Seg
+
+2501001= Barra de Detalls
+2501002= Barra d'Estat
+2501003= En execucio
+2501004= Aturat
+2501005= Memoria Usada
+2501006= Ja existeix l'entrada d'inici.\nSegur que la vols Reemplaçar?
+2501007= Fallida la configuracio de les dades per '%s'
+
+[Disk Cleaner]
+13001= Netejador del Disc
+13901= Suprimir dades antigues del Disc i recuperar espai del Disc
+13002= Allibera l'espai del Disc
+13003= Mes Opcions
+13004= Selecciona les Unitats que vols Netejar.
+13005= Clica <Següent> quan hagi acabat de seleccionar les Unitats . 
+13006= Caldra esperar fins %s  per finalitzar l’analisi de les Unitats seleccionades.
+13010= Clica <Següent> quan hagi acabat de seleccionar les Unitats. 
+13007= Es pot usa el Netejador del Disc per alliberar fins a %s del espai del Disc o Unitat %s2
+13008= Quantitat total de espai del Disc guanyat:
+13009= Fes copia de seguretat %s abans de Netejar.
+13110= Mostra els Fitxers
+13011= Clica <seguent> per iniciar el proces de neteja.
+13012= Components de Windows
+13013= Es pot alliberar mes espai del disc suprimint components opcionals de Windows fora d'us.
+13014= Neteja...
+13015= Recupera
+13016= Es poden restaurar els fitxers temporals suprimits des de un fitxer de copia seguretat.
+13017= Recupera...
+
+13018= La neteja s'ha completat satisfactoriament.
+13019= S'ha creat una copia de seguretat.
+13020= Clica <Finalitza> per tornar a la pagina principal.
+
+13021= Cal seleccionar almenys una unitat on cercar.
+
+13022= Analitzant...
+13023= Finalitzat
+13024= Iniciant...
+13025= La paperera Reciclatge conte fitxers que s'han esborrat des d'aquest Ordinador. Aquests fitxers no son suprimits de forma permanent fins que sigui buidada la Paperera de Reciclatge.
+13026= Fitxers Temporals
+13027= Els Fitxers Temporals son emprats pels programes com a magatzem d'espai intermedi i habitualment son suprimits o poden ser-ho despres del seu us.
+13028= Fitxers Cero-Bits
+13029= Els Fitxers Cero-Bits no contenen cap dada, i habitualment es poden Esborrar.
+13064= Fitxers Temporals d'Internet
+13065= Les carpetes de Fitxers Temporals d'Internet contenen les pagines Web emmagatzemades en el disc dur per vistes rapides.Es pot personalitzar la configuracio per deixar-les intactes.
+
+13030= Buidar Paperera de Reciclatge...
+13031= Netejar Fitxers Temporals d'Internet...
+13032= Esborrar fitxers Temporals...
+13033= Esborrant Fitxers Cero-Bits...
+
+13034= Cal seleccionar els fitxers que vols Esborrar.
+13035= Cap fitxers seleccionat.
+13036= Obre fitxers
+13058= Total %s fitxers
+13059= Creat:
+13060= Modificat:
+13061= Darrer Acces:
+
+13037= General
+13038= Excloure
+13039= Incloure
+
+13040= Revisa la Llista de fitxers rebutjables i selecciona o desSelecciona els objectes a incloure en la cerca, marcant o desmarcant la casella de Verificacio a la finestra de dialeg.
+13041= Tipus Fitxer
+13042= Si no estas segur d'aquestes opcions, es recomana deixar-ho amb les predeterminades.
+13043= Tots els fitxers d'aquesta carpeta mai s'haurien de considerar com a Rebutjables .
+13044= Carpeta
+13045= Tots els fitxers d'aquesta carpeta sempre es podran considerar com a Rebutjables..
+
+13046= Es poden usar comodins, per exemple, *.tmp
+13047= Acabat Nom Fitxers:
+13048= Cal introduir nom de l'extensio.
+13049= Es poden usar comodins.
+13050= No s'hauria de buidar.
+
+13051= Cal seleccionar la copia de seguretat des del qual es vol recuperar i clica <Recupera>.
+
+13052= Recuperacio personalitzada
+13053= Cal seleccionar l'entrada des del qual es vol recuperar i clica <Recupera>.
+13054= Recuperacio Finalitzada
+
+13055= Objectes
+13056= Fitxers
+13057= Ruta
+13062= Tipus
+
+13063= Afegeix un tipus de fitxer de Brossa
+
+1301001= Inicia\r\n Neteja
+1301002= Analitza
+1301003= Recupera
+1301004= Ruta
+1301005= Selecciona Backup
+1301006= Seleccionar-ho Tot
+1301007= DesSeleccionar-ho Tot
+1301008= Predeterminats
+1301009= La darrera vegada que vas netejar el disc va ser el: 
+1301010= %s/%s2/%s3
+1301011= Una manera rapida i facil de netejar arxius inutils del teu PC.
+1301012= Total espai desat: %s
+1301013= Enhorabona! Les unitats estaven netes.
+1301014= La neteja d'arxius inutils pot estalviar espai en disc.
+1301015= Resultat
+1301016= ·Llista Fitxers
+1301017= Nou Analisi
+1301018= Excloure aquest fitxer
+
+1302001= Windows
+1302002= Temporals del Sistema
+1302003= Temporals de l'Usuari
+1302004= Miniatura memoria cau
+1302005= Fitxers de bolcat de memoria
+1302006= Fitxers de informes d'Error
+1302007= Fitxers log del Sistema
+1302008= Memoria cau escriptori Remot
+1302009= Paperera de reciclatge
+1302010= Accessos directes del Menu d'inici no valids
+1302011= Accessos directes a l'escriptori no valids
+1302012= Fitxers log IIS (informes)
+1302013= Dades del Prefetch antiges
+1302014= Memoria cau de les Fonts
+1302015= Programes descarregats
+1302016= Actualitzacions Windows
+1302017= Navegadors
+1302018= Internet Explorer
+1302019= Mozilla Firefox memoria cau
+1302020= Google Chrome memoria cau
+1302021= Opera memoria cau
+1302022= Aplicacions
+1302023= Google Earth memoria cau
+1302024= Picasa memoria cau
+1302025= ACDSee memoria cau
+1302026= Controladors Disc
+1302027= Almenys cal escollir una unitat que s'ha d'analitzar
+1302028= Vols fer copies de seguretat dels fitxers abans de netejar?
+1302029= Fallida la copia de seguretat, Vols seguir netejant?
+1302030= Compte de Fitxers: %s   Mida Fitxers: %s2
+1302031= %s Elements a Analitzar
+1302032= Analisi completat. %s fitxers, total %s2 Trobats.
+1302033= Es recomana netejar les unitats ara.
+1302034= Enhorabona! Tens un equip net!
+1302035= Mantenir l'equip net es un bon habit. Segueix aixi!
+1302036= L'Analisi s'ha cancel.lat!
+1302037= Has triat %s fitxers, total %s2.
+1302038= Neteja completada. Totalitat %s de brossa netejada.
+1302039= Neteja completada.
+1302040= %s esta en us, Ara no es poden Esborrar.
+1302041= Fitxers Brossa: %s
+1302042= Personalitzar Fitxers i Carpetes
+1302043= Nom personalitzat
+1302044= Personalitzar Fitxers i Carpetes
+1302045= Ubicacio
+1302046= Exemple: *.tmp|*.log
+1302047= Exemple: *.sys|*.txt
+1302048= Nomes incloure Fitxers
+1302049= Incloure fitxers i carpetes
+1302050= Per a la seguretat, no es pot netejar els fitxers en el directori de sistema de Windows.
+1302051= N'estas segur que vols buidar aquest directori?
+1302052= Per a la seguretat, si us plau no triis els fitxers de sistema de Windows.
+1302053= Selecciona els fitxers i carpetes que vols suprimir (nomes per a usuaris avançats).
+1302054= Cal escollir els fitxers o carpetes que vols suprimir.
+1302055= El fitxer o carpeta personalitzada ja existeix, Encara vols afegir-los?
+1302056= El fitxer o carpeta personalitzada ja existeix, Encara vols canviar-los?
+1302057= El teu PC no te molta brossa. Mantenir l'equip net es un bon habit. Segueix aixi! 
+
+
+1303001= Copia de Seguretat...
+
+1304001= No es poden mostrar les dades!
+
+1305001= Començat l'analisi de: 
+1305002= Resultat de l'analisi: 
+1305003= No s'ha trobat Brossa
+1305004= %s fitxers, de un total de %s2
+1305005= Fi de l'Analisi: 
+1305006= Resultat Total: 
+1305007= %s fitxers, %s2 per ser Suprimits
+1305008= Començar la Neteja
+1305009= Fi de la Neteja
+1305010= Netejants %s fitxers, total %s2
+1305011= %s fitxers no s'ha pogut netejar.
+1305012= Hora escriptura:
+1305013= Totalitat %s fitxers, %s2.
+
+1305014= %s necessita ser tancat per netejar la memoria cau d'Internet.\nVols que Glary Utilities tanqui %s?
+1305015= Firefox
+1305016= Google Chrome
+1305017= Opera
+
+[Uninstaller]
+12001= Administrador de desInstal.lacions
+12901= DesInstal.lacio completa de programes
+12002= Copia de seguretat d'Informacio de DesInstal.lacions
+12003= Recupera l'Informacio de les DesInstal.lacions
+12004= Exporta la Llista d'Aplicacions
+12005= Desinstal.la aquest programa
+12006= DesInstal.la els seleccionats
+12007= Modifica propietats
+12008= Recupera Entrades suprimides
+12009= Mostra linia d'Ordres MS-DOS
+12010= Programes actualment instal.lats:
+12011= Ordenar per:
+12012= Data Instal.lacio
+12013= Repara entrades no valides
+12014= Casella de Seleccio 
+12015= Cerca per programes
+12016= Clicar aqui per informacio de suport.
+12017= Linia d'Ordres
+12038= Suprimeix l'Entrada
+
+12018= Canvia
+12019= Suprimeix
+12020= Canvia/Suprimeix
+
+12021= Total %s programes
+12022= No es pot suprimir la carpeta %s , Esta sent usat per altre persona o programa.La vols suprimir despres de la propera engegada del PC?
+12023= Nou!
+
+12024= Per canvia o Suprimir aquest programa des de l'Ordinador, %s clica <Canvia/Suprimeix>.
+12025= Per canvia o Suprimir aquest programa des de l'Ordinador, %s clica Canvia/Suprimeix>.
+12026= Per Suprimir aquest programa des de l'Ordinador, %s clica <Suprimeix>.
+
+12027= Instal.lat el:
+12028= Fitxer Registre(*.reg)
+12031= Fitxer Text(*.txt)
+12029= Recuperacio de l'informacio de DesInstal.lacio des de %s completada satisfactoriament
+12030= N’estas segur que vols Suprimir %s del PC?
+12032= Informe creat el 
+12033= Programes instal.lats en l'Ordinador (Total %s Programes):
+12034= El fitxer s'ha desat a: 
+12035= Tots els programes instal.lats en el sistema son correctes, no s'ha trobat cap entrada no valida.
+12036= N'estas segur que vols Suprimir %s des de la Llista de programes instal.lats?
+
+12037= S'ha produit un error mentre es tractava de Suprimir %s. Pot ser que ja estigui desInstal.lat. Vol Suprimir %s2 des de la Llista de programes instal.lats?
+12039= %s es un programa "Ocult" i probablement sigui usat pel sistema. Realment estas segur que vols desInstal.lar-ho?
+12040= Encara hi ha fitxers a la carpeta d'instal.lacio "%s". Es mes segur no suprimir fitxers amb dades utils, es pot examinar navegant per les carpetes clicant <Navegar per Carpeta>. Si estas segur que no son utils, clica <Esborra-ho tot>.
+12041= Navegar per Carpeta
+12042= Esborra-ho Tot
+12043= Fes copia de seguretat de les entrades abans de Esborrar-les.
+
+12044= No s'ha trobat la cadena cercada.
+12045= Cercar
+12046= Seguent cerca
+12047= Que Cercar:
+
+12048= S'ha trobat les seguents entrades no valides. Vols Esborrar aquestes entrades del registre?(Tambe es podran Esborrar manualment en un altre moment)
+12049= Entrada no valida
+12050= Fes copia de seguretat de les entrades abans de Esborrar-les.
+
+12051= Cal seleccionar una entrada del programa que es vol recuperar i clica <Recupera>.
+12052= Recuperar
+12053= Entrada de Programa
+12054= Data de la copia de seguretat
+12055= N'estas segur que vols recuperar l'entrada del programa %s al registre del sistema?
+
+12056= Usar la seguent informacio per demanar suport tecnic per 
+12058= Editor:
+12059= Versio:
+12060= Contacte:
+12061= Informacio de suport: 
+12062= Llegeix-me:
+12063= Actualitzacions del Producte:
+12064= Comentaris:
+12065= ID del Producte
+12066= Companyia Registrada:
+12067= Propietari enregistrat:
+12068= Localitzacio Instal.lacio:
+
+12069= Programes (*.exe;*.com;*.bat)
+12070= Tots els Fitxers (*.*)
+12071= La linia d'Ordes introduida pot ser que no sigui una entrada no es valida. N'estas segur que vols continuar?
+
+12072= Iniciar programa d'Instal.lacio
+12073= Linia d'Ordres dei programa de desInstal.lacio:
+12074= S'ha produit un error mentre es tractava de Suprimir %s. l'acces ha estat denegat a %s2 .
+12075= Despres es podra especificar una nova DesInstal.lacio del programa.
+
+12076= Fer una copia de seguretat de l'entrada
+12077= Informacio de suport
+12078= Mostrar actualitzacions de Windows
+
+12080= Icona
+12081= Llista
+12082= Detalls
+
+12083= Tots els programes
+12084= Programes Recents
+12085= Programes grans
+12086= Programes molt poc usats
+12087= Actualitzacions de Windows
+
+12088= Darrer Us:
+12089= Desa l'nformacio de la desInstal.lacio a:
+12090= Desactivar l'actualitzacio del Darrer acces
+
+[Duplicate Files Finder]
+15001= Cerca de Fitxers Duplicats
+15901= Cerca d'espais perduts i errors produits per duplificacio de Fitxers
+15002= Analisi de fitxers duplicats
+15003= Obre el Fitxer
+15004= Obre amb...
+15005= Examinar Carpeta
+15006= Propietats Fitxer
+15007= Generar Informe
+15008= Esborra els fitxers seleccionats
+15012= Una marca de Verificacio per cada Grup
+15013= Excloure aquesta carpeta de futurs analisi
+15015= Ruta
+15016= %s de %s2 Elements seleccionats per Esborrar.
+15017= Grup de Fitxers Duplicats
+15018= N'estas segur que vols excloure tots els objectes de dins de la carpeta seleccionada %s des de qualsevol cerca subsegüents?
+15019= No hi han objectes seleccionats per Esborrar.
+
+15020= Assistent de l'Analisi
+15021= Cal seleccionar les Unitats o Carpetes a analitzar.
+15022= Unitats
+15023= Carpetes
+15024= Afegir Carpeta
+15025= Els fitxers Duplicats equiparen criteris de:
+15026= Mateix NomFitxe
+15027= Mateixa Mida
+15028= Matx DataFitxe
+15029= Ignorar fitxers mida inferior 
+15030= A continuacio nomes Cercar Fitxers mes comuns
+15031= Analitzar tots elsFitxers
+15032= Tipus de Fitxer
+15033= Excloure aquesta carpeta de la cerca:
+15034= Carpeta
+15035= Analisi dels fitxers duplicats...
+
+15036= No s'ha seleccionat cap Unitat. Almenys cal seleccionar una Unitat per continuar.
+15037= No s'ha seleccionat cap Carpeta. Almenys cal seleccionar una Carpeta per continuar.
+15038= No s'ha seleccionat cap tipus de fitxer. Almenys cal seleccionar un tipus de Fitxer per continuar.
+15039= Organitzar els fitxers.  Aixo pot trigar una estona depenent del numero de fitxers. Cal esperar...
+15040= En total %s fitxers Analitzats i %s2 duplicats trobats.
+
+15041= Afegir nou nom fitxer a cercar
+15042= Es poden usar comodins, e.g., *.avi
+15043= Fitxers acabats en:
+15044= Cal introduir nom de l'extensio.
+
+15045= Introdueix Carpeta
+15046= Selecciona Carpeta
+15047= Es poden usar comodins *,?
+15048= No hauria de buidar-se.
+
+1501001= Configura els parametres de l'Analisi
+1501002= Seleccio Intel.ligent
+1501003= %d de %d Elements marcats per Esborrar
+1501004= %s ja existeix.\nEl Vols Reemplaçar?
+1501005= Confirma Anomenar i desar
+1501006= Esborrar Fitxer
+
+1502002= Excloure Fitxer
+
+1503001= Criteris matematics per duplicitats 
+
+1504001= Analitza
+1504002= Espai Total
+1504003= Espai en Us
+1504004= Espai Lliure
+1504005= Ruta del Fitxer
+
+1505001= Ubicacio
+1505002= Estat
+1505003= Esperant
+1505004= Carregant
+1505005= Total %d de fitxers Analitzats i %d duplicats trobats.
+1505006= Organitzant els fitxers, cal ser pacient...
+
+1506001= General
+1506002= Excloure Fitxer
+
+[Empty Folders Finder]
+16001= Cercador Carpetes buides
+16901= Cercar i Suprimir les carpetes buides de Windows
+16002= Analitza les Carpetes buides
+16003= Llista de Carpetes excloses
+16004= Esborra les Carpetes seleccionades
+16005= Excloure aquesta carpeta de futurs Analisi
+16006= Excloure
+16007= Carpeta
+16008= N'estas segur que vols afegir-ho %s si s'ignora la Llista aquests objectes no seran cercats de nou.
+
+16009= Control de la Llista d'exclosos
+16010= Llista actual de les entrades excloses en l'analisi de les Carpetes buides. Si vols incloure una d'aquestes entrades, Cal DesSeleccionar-la.
+
+16011= Nou Analisi
+16012= Selecciona Marcant la casella de l'Unitat(s) que vols Analitzar 
+
+1601001= Preparant l'arbre de carpetes buides...
+
+1602001= Preparant la Llista de Carpetes...
+1602002= Analisi Finalitzat.
+1602003= Analitzant %s
+1602004= Carregant discos...
+1602005= Ordenant fitxers...
+1602006= Desant dades...
+1602007= Inicialitzant...
+1602008= Examinant carpetes buides...
+1602009= Ordenant carpetes buides...
+
+[Shortcuts Fixer]
+17001= Reparador d'Accessos Directes
+17901= Corregeix errors en menu d'Inici i accessos directes d'escriptori
+17002= Analitzar
+17003= Repara Acces Directe
+17004= Suprimeix
+17005= Destinacio
+17006= Ubicacio
+17007= Navegar per la destinacio d'accessos Directes desapareguts
+17008= Nou Analisi
+17009= Opcions de l'Analisi
+17010= Nomes Analitzar el Menu d'Inici i Escriptori
+17011= Analitzar les carpetes del Menu d'Inici
+17012= Selecciona Marcant la casella de l'Unitat(s) que vols Analitzar 
+17013= No s'ha trobat Cap.
+
+1701001= Analisi Rapid
+1701002= Analisi Avançat
+1701003= Atura Analisi
+1701004= Corregir els seleccionats
+1701007= Error
+1701008= Fix
+1702001= Ubicacio:
+1702002= Desti:
+1702003= Arguments:
+1702004= Descripcio:
+1702005= Clica <Aplica> per desar els canvis.
+1702006= Has seleccionat una carpeta.
+1703001= Suprimeix
+1703002= Clica <%s> per Suprimir els accessos directes seleccionats de la Llista.{\r\n}Clica <%s2> per moure els accessos directes seleccionats a la paperera de reciclatge.{\r\n}Clica <%s3> per Esborrar permanentment els accessos directes seleccionats.
+1703003= Copia dels accessos directes seleccionats abans d'esborrar
+
+[Tracks Eraser]
+18001= Eliminar Rastres
+18901= Eliminar Tots els Rastres, evidencies, cookies, historial internet, etc.
+18002= Elimina els Rastres trobats
+18003= Nomes Mostra els Rastres disponibles d'eliminar
+18004= Elimina aquests Rastres
+18005= No s'ha marcat cap Rastre. Per Eliminar els Rastres, cal seleccionar la casella de verificacio situada a la esquerra del nom del Rastre a Elimina.
+18006= N'estas segur que vols Eliminar els %s Rastres Trobats?
+18007= Els Rastres han estat suprimits satisfactoriament.
+18008= N'estas segur que vols netejar el teus %s Rastres?
+
+18009= Administrador de Cookies IE
+18010= URLs teclejades d'IE
+18011= Seleccionar les Cookies a conservar quan vulguis fer la neteja de cookies d'internet explorer
+18012= Llocs Web
+18013= Visites
+18014= Darrera Modificacio
+18015= Caducitat
+18016= Adreça completa
+18017= Esborra Ara els Cookies seleccionats
+18018= Seleccionar les URL a conservar quan vulguis fer la neteja de Internet Explorer - Historial URL
+18019= Urls
+18020= Esborra les URLs no desmarcades
+
+18021= Eliminat
+
+18022= Finestres
+18023= Suprimir l'historial, les Llistes usades recentment (Llista de MRU) i altres evidencies de Microsoft Windows
+18024= Documents recents de Windows
+18025= Esborra la Llista de Documents Recents i Fitxers oberts. Aquesta Llista usualment es troba en el Menu Inici > Meus Documents Recents.
+18026= Menu d'Inici a l'Engegar Windows
+18027= Esborra l'historial de les darreres ordres introduides al Menu d'Inici > FUNCIO Run.Llista Fitxer/Carpeta.
+18028= Microsoft Cuadre de Dialeg - Llistar Fitxer/Carpeta
+18029= Microsoft Quadre de Dialeg es un component estandard usat per moltes aplicacions per permetre l'acces a fitxers, carpetes, colors o impressores. Aquest eliminador de Rastres neteja l'historial de seleccions que fetes a l'ordinador. Com que Microsoft Common Dialog Control l'usa per la major part de dialeg de finestres OBRIR/DESAR fitxers de Windows, aquest eliminador de rastres esborrara la darrera carpeta oberta en la majoría de les seves aplicacions. Suprimeix el darrer Llistat de carpetes i fitxers que efectuats en l'ordinador.
+18030= Iniciar Menu Cerca
+18031= Suprimir l'historial complet de cerques que hagi realitzat en cercar del Menu d'Inici de Windows.
+18032= Porta-Retalls de Windows
+18033= Treballar amb fitxers comporta normalment operacions de "copia" i "enganxa". El Porta-Retalls de Windows recorda la darrera operacio de copiat i pot contindra informacio important vers de les activitats tals com contrasenyes, targetes de credit o informacio personal. 
+18034= Fitxers Temporals de Windows
+18035= Buidar el Directori de Temporals de Windows
+18036= Paperera de Reciclatge
+18037= Buidar la Paperera de Reciclatge
+18038= Unitats mapejades de la Xarxa de Windows
+18039= En assignar unitats de xarxa per tenir acces a ells mitjançant de les Lletres d'unitat, Windows recorda totes les seves assignacions en el Registre. Desfes-te d'aquesta informacio mitjançant d'aquest ajust.
+18040= Menu Inici Clica <Historial>
+18041= Windows desa la Llista de la majoria d'objectes recientment clicats en el Menu d'Inici. Assenyalar aquesta opcio per netejar al fer Clic <Historial Menu d'Inici> Llista de sortida.
+18042= Els meus Llocs de Xarxa
+18043= Quan s'ha utilitza "Meus Llocs de Xarxa" per accedir a servidors remots, totes les accions recents son desades, qualsevol pot veure els Llocs de Xarxa simplement mirant en el Llistat de localitzacio de MRU, les carpetes de Meus Llocs de Xarxa 
+
+18044= Internet Explorer
+18045= Suprimir historial, Llistat dels mes recents usats(Llista MRU), fitxers temporals de internet i altres empremtes del navegador Internet Explorer.
+18046= Internet Explorer  -  Historial URL
+18047= Suprimir l'historial escrit de URL des de la barra d’adreces de Internet Explorer. Quan s'emmagatzema l'historial, Internet Explorer tracta d’endevinar el Lloc web que intenta visitar usant certa "Intel.ligencia" Per exemple, si tecleja www.gl - IE endevinara www.glarysoft.com, o qualsevol altre adreça que comenci per www.gl i que ja hagui estat visitada en el passat.
+18048= Internet Explorer  Historial
+18049= Suprimir l'historial de Llocs web visitats amb Internet Explorer en l'ordinador. Suprimir l'historial de Llocs web visitats amb Internet Explorer.
+18050= Internet Explorer Cookies
+18051= Els Llocs web emmagatzemen informacio en un petit fitxer de text, anomenat "cookie" (galeta) en el disc dur. Les cookies contenen informacio sobre les preferencies d'usuari. O pot se que nomes contingui un registre de pagines que hagui visitat en aquest Lloc, para ajudar a aquest Lloc web a personalitzar el visionat per el següent cop que la visitis. Com que algunes cookies son utils, potser vols desar-les. fer clic en <Opcions> per seleccionar les cookies que necessita desar. Les no marques seran esborrades.
+18052= Formularis Intel.ligents - Autocompletar Contrasenyes
+18053= Suprimir l'historial complet de Autocompletar formularis i contrasenyes de Internet Explorer. Si esta configurat, Internet Explorer emmagatzema dades pels formularis comuns, noms de usuari, i contrasenyes online. Aquestes aniran augmenten quan visites novament els Llocs pels que ha estat desats Aquest eliminador de rastres esborra aquestes dades i et protegira de que altres usuaris del ordinador entrin en el seu perfil online.
+18054= Internet Fitxers Temporals
+18055= Esborra tots els fitxers temporals desats que Internet Explorer crea al visitar Llocs Web o descarregar continguts.
+
+18056= Plug-Ins
+18057= Moltes de les aplicacions de tercers desen un registre amb els darrers fitxers oberts o executats. Usant aquesta plugins, es pot aconseguir alliberar l'historial MRU de les aplicacions mes populars.
+
+18058= Mozilla Firefox
+18059= Suprimir l'historial, Llistat de lo mes recent usat(Llista MRU), fitxers temporals de internet i altres rastres del navegador Firefox.
+18060= Mozilla Firefox - Historial
+18061= Suprimir totes les adreces teclejades en la barra d’adreces de Firefox.
+18062= Mozilla Firefox - Cookies
+18063= Suprimir les cookies desades en la carpeta de memoria cau de Firefox.
+18064= Mozilla Firefox - Cache de Internet
+18065= Suprimir els fitxers de internet memoritzats per Firefox
+18066= Mozilla Firefox - Informacio de Formularis Desats
+18067= Elimina dades de formularis desats per Firefox a l'emplenar formularis en la pagina web. 
+18068= Mozilla Firefox - Contrasenyes Desades
+18069= Suprimir dades de contrasenyes desades per Firefox a l'emplenar formularis en la pagina. 
+18070= Mozilla Firefox - Historial de Descarregues
+18071= Suprimir empremta dels fitxers recientment descarregats en l'Administrador de Descarregues.
+18072= Mozilla Firefox - Historial de cerca
+18073= Suprimir cadenes de cerca teclejades en la barra de cerques de Firefox.
+
+18074= Eliminant Rastres de %s. Aixo pot durar una estona...
+18075= Eliminant Rastres de %s...
+
+18076= Fitxers Index.dat
+18077= Els fitxers Index.dat son fitxers ocults que contenen totes els rastres de l'activitat online, des de internet, els Llocs visitats, Llistes de URL-s, fitxers i documents d'accessos recents.
+18078= Analitzant Rastres de %s.Caldra esperar uns moments...
+18079= Analitzant Rastres de %s...
+18080= Creant Informe...
+18081= INFORME DE L'ANALISI
+18082= %s elements a suprimir del registre de Windows.
+18083= %s (%s2 fitxers) per suprimir.
+18084= Detalls dels fitxers per a Esborrar:
+18085= Analitza
+
+18086= Rastres
+18087= Resultat
+
+18088= Google Chrome
+18089= Suprimir l'historial, les Llistes d'usats mes recentment (Llistes MRU), els arxius temporals d'Internet i les altres proves del navegador web Google Chrome.
+18090= Google Chrome - Historial
+18091= Suprimir totes les adreces escrites a la barra d'adreces de Google Chrome.
+18092= Google Chrome - Cookies
+18093= Suprimir les galetes guardades a la carpeta de memoria cau de Google Chrome.
+18094= Google Chrome - Memoria cau d'Internet
+18095= Suprimir els arxius emmagatzemats en memoria cau per Internet Google Chrome
+18096= Google Chrome - Informacio guardada de formularis
+18097= Suprimir dades de formularis guardades per Google Chrome quan va omplir els formularis web.
+18098= Google Chrome - l'historial de descarregues
+18099= Suprimir un registre de poc descarregar arxius en l'Administrador de Descarregues.
+
+18100= Es recomana de tancar %s abans de continuar. No es pot Eliminar els Rastres que son utilitzat per altres programes.
+
+2101001= %s Elements marcats.
+2101002= Cap seccio seleccionada. Per Analitzar les seccions cal marcar cada seccio que vols analitzar mitjançant la casella a l'esquerra del nom de la seccio.
+
+2102001= Barra Eines Windows Live
+2102002= Suprimir l'historial recent de la recerca de la barra d'eines de Windows Live.
+2102003= Google barra d'eines
+2102004= Suprimir l'historial recent de la recerca de la barra d'eines de Google del navegador d'Internet.
+2102005= Google barra d'escriptori
+2102006= Suprimir l'historial recent de la recerca de la barra d'escriptori de Google.
+2102007= Kazaa historial de recerca
+2102008= Kazaa Neteja el Fitxer de l'historial de recerca.
+2102009= eMule
+2102010= eMule Neteja el Fitxer de l'historial de recerca.
+2102011= MSN Messenger
+2102012= MSN Messenger Suprimir l'historial de la memoria cau.
+2102013= Sound Forge 6.0
+2102014= Sound Forge 6.0 Suprimir l'historial de la memoria cau.
+2102015= Fresh Download
+2102016= FreshDownload Suprimir l'historial de descarregas.
+2102017= Windows Media Player
+2102018= Suprimir els fitxers recents, URLS, i l'historial de windows media player Videos i Musica.
+2102019= Real Player
+2102020= Real Player Suprimir l'historial de fitxers de Videos recents.
+2102021= Quicktime Player
+2102022= Quicktime Player Suprimir l'historial de fitxers de Videos recents.
+2102023= SWiSH
+2102024= SWiSH Suprimir l'historial de fitxers recentment oberts.
+2102025= Windows Movie Maker
+2102026= Windows Movie Maker Suprimir l'historial de fitxers recentment oberts.
+2102027= BSPlayer
+2102028= BSPlayer Suprimir l'historial de fitxers recentment oberts.
+2102029= Media Player Classic
+2102030= Media Player Classic Suprimir l'historial de musica i fitxers de Videos recents.
+2102031= Axialis IconWorkshop
+2102032= Axialis IconWorkshop Suprimir la memoria cau l'historial de fitxers recentment oberts.
+2102033= Ulead Smart Saver Pro 3.0
+2102034= Ulead Smart Saver Pro 3.0 Suprimir l'historial de fitxers recentment oberts.
+2102035= Macromedia Flash Player
+2102036= Macromedia Flash Player Suprimir l'historial de fitxers recentment oberts.
+2102037= Macromedia Flash MX
+2102038= Macromedia Flash MXS Suprimir l'historial de fitxers recentment oberts.
+2102039= Macromedia Flash 5.0
+2102040= Macromedia Flash 5.0 Suprimir l'historial de fitxers recentment oberts.
+2102041= Macromedia Flash 4.0
+2102042= Macromedia Flash 4.0 Suprimir l'historial de fitxers recentment oberts.
+2102043= Adobe Flash Player
+;2102044=
+2102045= AVI Preview
+2102046= AVI Preview Suprimir l'historial de fitxers recentment oberts.
+2102047= Paint Shop Pro 7.0
+2102048= Paint Shop Pro 7.0 Suprimir l'historial de fitxers creats/oberts/o editats.
+2102049= Paint Shop Pro 8.0
+2102050= Paint Shop Pro 8.0 Suprimir l'historial de fitxers creats/oberts/o editats.
+2102051= Paint Shop Pro 9.0
+2102052= Paint Shop Pro 9.0 Suprimir l'historial de fitxers creats/oberts/o editats.
+2102053= Office XP
+2102054= Microsoft Office XP Suprimir l'historial de fitxers recentment oberts.
+2102055= Office 2000
+2102056= Microsoft Office 2000 Suprimir l'historial de fitxers recentment oberts.
+2102057= Office 2003
+2102058= Microsoft Office 2003 Suprimir l'historial de fitxers recentment oberts.
+2102059= Office 2007
+2102060= Microsoft Office 2007 Suprimir l'historial de fitxers recentment oberts.
+2102061= MS Management Console
+2102062= MS Management Console Suprimir l'historial de fitxers recentment oberts.
+2102063= MS Wordpad
+2102064= WordPad Suprimir l'historial de fitxers creats/oberts/o editats.
+2102065= MS Paint
+2102066= Microsoft Paint Suprimir l'historial de fitxers recentment oberts.
+2102067= Microsoft Visual Basic 6.0
+2102068= Visual Basic 6.0 developers Elimina l'historial de fitxers.
+2102069= Remote Desktop
+2102070= Remote Desktop Suprimir la memoria cau de dades desades.
+2102071= PowerArchiver
+2102072= PowerArchiver Suprimir l'historial de fitxers empaquetats/desempaquetats.
+2102073= WinISO
+2102074= WinISO Suprimir l'historial de fitxers oberts.
+2102075= WinRAR
+2102076= WinRAR Suprimir l'historial de fitxers empaquetats/desempaquetats.
+2102077= 7-Zip
+2102078= 7-Zip Suprimir l'historial de fitxers empaquetats/desempaquetats.
+2102079= WinZip
+2102080= WinZip Suprimir l'historial de fitxers empaquetats/desempaquetats.
+2102081= SpyBot Search and Destroy
+2102082= SpyBot Search and Destroy Suprimir la memoria cau de dades desades.
+2102083= WinAce 2.0
+2102084= WinAce Suprimir l'historial.
+2102085= Norton AntiVirus
+2102086= Norton AntiVirus Suprimir el fitxer 'log' desat.
+2102087= Adobe Acrobat Reader 5.0
+2102088= Adobe Acrobat 5.0 Suprimir l'historial de fitxers PDF visualitzats.
+2102089= Adobe Acrobat Reader 6.0
+2102090= Adobe Acrobat 6.0 Suprimir l'historial de fitxers PDF visualitzats.
+2102091= XML Spy
+2102092= XML Spy Suprimir l'historial de fitxers XML visualitzats.
+2102093= Installshield Developer 7.0
+2102094= Installshield Developer 7.0 Suprimir l'historial de fitxers oberts.
+2102095= Macromedia Homesite 5.0
+2102096= Macromedia Homesite 5.0 Suprimir l'historial de fitxers oberts.
+2102097= Ahead Nero Burning ROM
+2102098= Ahead Nero Burning ROM Suprimir l'historial de fitxers/carpetes obertes.
+2102099= ZipMagic
+2102100= ZipMagic Suprimir l'historial de fitxers empaquetats/desempaquetats.
+2102101= PicoZip
+2102102= PicoZip Suprimir l'historial de fitxers empaquetats/desempaquetats.
+2102103= Adobe Acrobat Reader 7.0
+2102104= Suprimir l'historial de fitxers PDF que ja has visualitzat de Adobe Acrobat 7.0.
+2102105= Adobe Reader 8.0
+2102106= Suprimir l'historial de fitxers PDF que ja has visualitzat de Adobe Reader 8.0.
+2102107= Adobe Reader 9.0
+2102108= Suprimir l'historial de fitxers PDF que ja has visualitzat de Adobe Reader 9.0.
+2102109= Adobe Reader 10.0
+2102110= Suprimir l'historial de fitxers PDF que ja has visualitzat de Adobe Reader 10.0.
+2102111= Adobe Reader 11.0
+2102112= Suprimir l'historial de fitxers PDF que ja has visualitzat de Adobe Reader 11.0.
+
+[Memory Optimizer]
+21001= Optimitzador de Memoria
+21901= Monitoritzar i optimitzar la memoria lliure en segon terme
+21002= Optimitzacio
+21003= Optimitzacio Manual
+21004= Grafic de la Memoria Fisica usada:
+21018= %s de %s2 Lliure
+21005= Us de la CPU  
+21006= Cal Indicar la quantitat de memoria que es vol alliberar i clica <Optimitza> .
+21007= Memoria Disponible
+21008= Optimitza
+21009= Neteja Porta-Retalls
+21010= Mida actual del Porta-Retalls:
+21011= Habilitar Auto Optimitzacio
+21012= Auto-Optimitzar alliberar la memoria en:
+21013= Incrementar memoria Lliure
+21014= Nomes optimitzar si l'us de CPU esta en
+21015= Iniciar automaticament a l'engegar Windows
+21016= Recomanable
+21017= Optimitzant...
+21019= Mostrar Finestra Principal
+
+[File Shredder]
+22001= Destruccio irrecuperable de Fitxers
+22901= Esborra i Destrueix fitxers de manera permanent perque ningu els puga recuperar
+22002= La utilitat Destrueix les dades sensibles perque no es puguin recuperar ni ser vistes per altres. Aquesta eina usa el metode de seguretat externa American Dod 5220.22-M desenvolupat per US Department of Defence to securely remove the data.
+22003= Tipus
+22012= Data Modificacio 
+22004= Afegir Fitxer
+22005= Afegir Carpeta
+22006= Destrueix Ara
+22007= Repetir l'operacio de Destruir:
+22008= Fitxer Carpeta
+22009= N'estas segur que vols Elimina totes les dades seleccionades de la Llista. Aquestes dades no podran ser recuperades amb cap tipus d'eina o programa. N'estas segur que vols continuar?
+22010= Destruccio
+22011= Destruits
+22019= Esborrat i Destruccio de l'espai Lliure
+22013= Quant s'esborren els fitxers i es buida la paperera de reciclatge, en realitat no son Eliminats del Disc Dur. Els Fitxers poden ser recuperats facilment amb programes de recuperacio de dades. Per assegurar que els fitxers son totalment esborrats caldria netejar l'espai Lliure del Disc Dur regularment. Aquesta opcio destrueix els fitxers que ja han estat esborrats, de tal manera que no pugin ser recuperats.
+22014= Selecciona la unitat que vols Netejar i Destruir l'espai Lliure :
+22015= Destrueix Ara
+22016= Esborrant i Destruint l'espai Lliure en %s
+22017= Operacio cancel.lada per l'usuari.
+22018= Operacio completada satisfactoriament.
+22020= Selecciona la carpeta de destinacio:
+22021= Cal seleccionar una unitat de Disc.
+22022= Destruccio MFT de l'espai Lliure - Unitat %s
+
+[Internet Explorer Assistant]
+23001= Assistent de Internet Explorer
+23901= Administrador d'Internet Explorer Afegir i recuperar config. segrestades
+23002= BHOs IE
+23003= Barra d'eines IE
+23004= Barra Navegador IE
+23005= Menus ExtraContextuals IE
+23006= Botons Extra IE
+23007= Controladors ActiveX IE Descarregats
+23008= Recupera Segrest
+23009= [Bloquejat]
+23010= Editor
+23011= Ruta del Fitxer
+23012= Ordre
+23013= Bloqueja aquest objecte
+23014= Desbloquejar aquest objecte
+23015= Esborrat definitiu d'aquest objecte
+23016= N’estas segur que vols recuperar %s ?
+23017= N’estas segur que vols bloquejar %s d'Internet Explorer?
+23018= N’estas segur que vols Suprimir permanentment %s d'Internet Explorer?
+23019= ATENCIO, El fitxer ha desaparegut
+23020= Elements Auxiliars del Navegador
+23021= Barres d'eines del Navegador d'Internet
+23022= Barrres del Navegador d'Internet
+23023= Menu ExtraContextual del Navegador d'Internet
+23024= Botons Extra del Navegador d'Internet
+23025= Controladors ActiveX Descarregats
+23026= Malmesos
+23027= Instal.lats
+
+23028= Configuracio
+23029= Configuracio actual
+23030= Recuperar la configuracio a
+23031= Canviar parametres o recuperar-los
+23032= Recuperar
+23033= Predeterminat IE
+23034= N’estas segur que vols recuperar la configuracio seleccionada?
+23035= %s els parametres del Navegador d'Internet han estat canviats satisfactoriament.
+23036= Canviar parametres per Recuperar configuracio
+23037= Canviar el parametre per Recuperar la configuracio del Navegador de la " %s ".  L'adreça URL indicada aqui sota es la predeterminada en el Navegador. Pots introduir un altre pagina o adreça URL distinta de la predeterminada en aquest camp.
+23038= Pagina d'Inici
+23039= Aquesta es l'adreça de la pagina web que sera mostrada a l'obrir una nova finestra del navegador d'Internet.
+23040= Cerca de Pagina
+23041= Aquesta es la pagina de cerca predeterminada al fer clic en el boto de cerca en el Navegador d'Internet.
+23042= Pagina URL Predeterminada
+23043= Aquesta es la pagina web predeterminada usada del Navegador d'Internet.
+23044= Pagina Local
+23045= Aquesta es la pagina que es carregara si un Lloc web no es troba en introduir-lo en la barra d'adreces del Navegador d'Internet.
+23046= Barra de Cerca
+23047= Aquesta es la pagina que sera mostrada al fer clic en l'icona de cerca del Navegador d'Internet. La barra de cerca facilita la capacitat d'emmagatzemar informacio detallada.
+23048= Cerca URL Predeterminada
+23049= Aquesta es la pagina que sera mostrada quan el Navegador d'Internet intenti efectuar una cerca.
+23050= Pagina d'Inici (tots els usuaris)
+23051= Aquesta es la pagina que sera mostrada quan s'obri una nova finestra del navegador d'Internet.
+23052= Pagina Cerca (tots els usuaris)
+23053= Aquest es el motor de cerca predeterminat al fer clic en el boto de cerca del Navegador d'Internet. Aixo es per a tots els usuaris d'aquest ordinador.
+23054= Pagina URL Predeterminada (tots usuaris)
+23055= Aquesta es la pagina web URL predeterminada usada del Navegador d'Internet. Aixo es per a tots els usuaris d’aquest ordinador.
+23056= Pagina Local (tots els usuaris)
+23057= Aquesta es la pagina que sera carregada si un Lloc web no s'ha trobat a l'introduir-lo en la barra d’adreces del Navegador d'Internet. Aixo es per a tots els usuaris d'aquest ordinador.
+23058= Barra de Cerca (tots els usuaris)
+23059= Aquesta es la pagina que sera mostrada al fer clic en l'icona de cerca del Navegador d'Internet. La barra de cerca te la capacitat d'emmagatzemar informacio detallada. Aixo es per a tots els usuaris d'aquest ordinador.
+23060= URL de cerca Predeterminada (tots usuaris)
+23061= Aquesta es la pagina que sera mostrada quan intenti efectuar una cerca del Navegador d'Internet. Aixo es per a tots els usuaris d'aquest ordinador.
+23062= Cerca (tots els usuaris)
+23063= Aquesta es la pagina que el Navegador d'Internet mostra en el requadre de cerca del Navegador d'Internet a l'executar una cerca personalitzada. L'assistent de cerca proporciona a els usuaris una unica cerca unificada mitjançant els diferents tipus de cerques. Aquest parametre es per a tots els usuaris d'aquest ordinador.
+23064= Assistent de Cerca (tots els usuaris)
+23065= Aquest es la pagina de l’assistent de cerca mostrada pel Navegador d'Internet. L'assistent de cerca proporciona als usuaris una unica i unificada cerca mitjançant els diferents tipus de cerques. Aquest parametre es per a tots els usuaris d'aquest ordinador.
+23066= Cerca URLs
+23067= Les URLs de cerca son una convenient manera de usar els diferents motors de cerca d'Internet. Per exemple, es pot tenir una URL per cercar online nous grups de noticies. A l'introduir una paraula en la barra d’adreces per automaticament enregistrar online els nous grops per a tots els articles amb relacio amb la paraula clau.
+23068= URL de Cerca (tots els usuaris)
+23069= Les URLs de cerca son una convenient manera de usar els diferents motors de cerca d'Internet. Per exemple, es pot tenir una URL per cercar online nous grops de noticies. A l'introduir una paraula en la barra d’adreces per automaticament enregistrar online els nous grops per a tots els articles amb relacio amb la paraula clau. Aixo s'ha aplica a tots els usuaris.
+23070= Pagina en Blanc
+23071= No es pot mostrar la pagina - Aquesta es la pagina del Navegador d'Internet mostra quan no pot trobar el Lloc web  o la pagina.
+23072= Navegacio d'Escriptori Fallida
+23073= Aquesta es la pagina del Navegador d'Internet mostra quan no pot tenir access a Internet.
+23074= Navegacio Cancel.lada
+23075= Aquesta es la pagina del Navegador d'Internet mostra despres de cancel.lar la navegacio.
+23076= Navegacio Fallida
+23077= Aquesta es la pagina del Navegador d'Internet mostra quan no pot tenir access a Internet.
+23078= Informacio OFF-LINE
+23079= Aquesta es la pagina del Navegador d'Internet mostra quan no pot tenir access a Internet o una pagina Web no disponible o esta offline.
+23080= Memoria cau Inaccesible
+23081= ATENCIO: La Pagina ha Expirat - Aquesta es la pagina que Internet explorer mostra quan no pot Llegir el contingut des de memoria cau.
+23100= N'estas segur que vols suprimir permanentment els elements seleccionats?
+23101= Plug-Ins
+23102= Extensions
+23103= Motors de cerca
+23104= Historial
+23105= Galetes (Cookies)
+23106= Titol
+23107= Comptador de Visites
+23109= Sota el Domini
+23110= Clau del host
+23111= Paraula Clau
+23117= N'estas segur que vols bloquejar %s de Mozilla Firefox?
+23118= N'estas segur que vols suprimir permanentment %s de Mozilla Firefox?
+23121= Plug-Ins de Mozilla Firefox
+23122= Extensions de Mozilla Firefox
+23123= Motors de cerca de Mozilla Firefox
+23124= Historial de Mozilla Firefox
+23125= Cookies de Mozilla Firefox 
+23126= Pagina d'inici de Mozilla Firefox
+23131= Plug-Ins de Google Chrome
+23132= Extensions de Google Chrome
+23133= Motors de cerca de Google Chrome
+23134= Historial de Google Chrome
+23135= Cookies de Google Chrome
+23136= Pagina d'inici de Google Chrome
+23141= Mou Amunt
+23142= Mou Avall
+23143= Afegeix Pag
+23144= Elimina Pag
+23146= Entrar Pagina d'inici
+23147= Entrar Nova Pagina d'inici pel navegador %s.
+23149=  Mostra
+23150= Es altament recomanable que tanquis\n\n %s \n\nabans de continuar, Assistent del Navegador pot no estar funcionant correctament.
+23151= %s  Elements que van ser suprimits de forma permanent
+23152= Operacio fallida, Torna-ho a fer de nou despres del tancament el navegador %s
+23153= Operatio cancel.lada per l'usuari
+23154= Elimina elements del Progres de dialeg
+23155= Suprimir elements
+23217= N'estas segur que vols bloquejar %s de Google Chrome?
+23218= N'estas segur que vols suprimir permanentment %s de Google Chrome?
+
+[Process Manager]
+24001= Administrador de Processos
+24901= Monitoritzar els processos i opcionalment aturar-los.
+24002= Nova Tasca (Executa...)
+24003= Sortir de Windows
+24004= Reiniciar el PC
+24005= Apagar el PC
+24006= Finalitzar Proces
+24007= Bloquejar Proces
+24008= Bloquejar Llistat
+24009= Google
+24010= Comentar
+24011= Mostrar Detalls
+24012= Nom
+24013= Clasificacio
+24014= Executable
+24015= Prioritat
+24016= Temes
+24017= CPU
+24018= Temps de CPU
+24019= Memoria
+24020= Companyia
+24021= Iniciat
+24022= Processos
+24023= Establir Prioritat
+24024= Temps Real
+24025= Alta
+24026= Major que normal
+24027= Normal
+24028= Menor que Normal
+24029= Baixa
+24030= AVIS: Canviar el tipus de prioritat d'aquest proces pot causar resultats no desitjats incloien l'inestabilitat del sistema. ¿N'estas segur que vols canviar el tipus de prioritat?
+24031= Informacio General
+24032= Moduls usats
+24033= Dades
+24034= Valor
+24035= Informacio del Proces
+24036= ID
+24037= Fitxer
+24038= Arguments
+24039= Carpeta
+24040= Temes
+24041= Prioritat
+24042= Memoria usada
+24043= Iniciat el
+24044= Iniciat per
+24045= Informacio de la Versio 
+24046= Tipus de fitxer
+24047= Companyia
+24048= Descripcio
+24049= Versio
+24050= Nom Intern
+24051= Copyright
+24052= Marca
+24053= Nom original del fitxer
+24054= Nom del Producte
+24055= Versio del Producte
+24056= Comentaris
+24137= Assegurat
+24139= Arriscat
+24057= Realment vols finalitzar el proces %s?
+24058= Realment vols travar el proces %s?
+24059= Realment vols reiniciar l'Ordinador ara ?
+24060= Realment vols apagar l'Ordinador ara?
+24061= Processos en execucio: 
+24062= Us de la CPU: 
+24063= Memoria Usada: 
+24064= Serveis del Sistema
+24065= Reemplaçar l'administrador de Tasques
+24066= Sempre al davant
+
+[Context Menu Manager]
+25001= Administrador del Menu Contextual
+25901= Administrar les entrades i Carpetes del menu de contextual...
+25002= Fitxers i Carpetes
+25003= Nou
+25004= Enviar a.
+25005= Clica dins la casella per activar o desactivar l'objecte, {#13#10}Per Suprimir-lo de forma permanent Clica.. [ %s ]
+25006= No Trobat
+25007= N'estas segur que vols suprimir '%s' permanentment?
+25008= Tots els fitxers(*)
+25009= Carpeta
+25010= Directoris
+25011= Unitats
+25012= Carpetes de Musica
+25013= Carpetes de Video
+25014= Carpetes d'Imatges
+25015= Tots els Objects del Sistema de Fitxers
+25016= El meu PC
+25017= Paperera
+25018= Fons d'escriptori
+25019= Accessos directes
+
+[File Encrypter and Decrypter]
+27001= Xifrar i DesXifrar Fitxers
+27901= Protegir els fitxers del seu us per persones no autoritzades.
+27002= Xifra Fitxer
+27003= DesXifra Fitxer
+27004= Cal escollir el fitxer que es vol Xifrar:
+27005= Contrasenya pel Xifrat:
+27006= Verificar Contrasenya:
+27007= Frase d'ajuda per recordar Contrasenya  
+27008= Crear un fitxer d'auto-DesXifrat EXE (El dialeg nomes sortira amb angles)
+27009= Esborra el fitxer original despres d'acabar el Xifrat
+27010= Xifrar Ara!
+27011= Cal escollir el fitxer que es vol DesXifrar:
+27012= Contrasenya pel DesXifrat:
+27013= Ajuda per recordar
+27014= Extreure a:
+27015= Obre la carpeta desti despres del DesXifrat
+27016= DesXifrar Ara!
+27017= Cal clicar <Navega>' i escollir el Fitxer a Xifrat!
+27018= El fitxer seleccionat no existeix. Cal escollir-ne un altre.
+27019= Cal introduir una contrasenya d'entre 6 i 16 caracters!
+27020= Cal introduir la mateixa contrasenya ambdos Llocs!
+27021= El seguent fitxer ja existeix, Segur que el vols sobreescriure?
+27022= Xifrat del fitxer  %s Finalitzat.
+27023= Fitxers DesXifrats
+27024= El fitxer seleccionat no ha estat DesXifrat amb aquest programa. Cal escollir-ne un altre.
+27025= Cal clicar <Navega> i escollir el Fitxer a DesXifrat!
+27026= El fitxer seleccionat no existeix. Cal escollir-ne un altre.
+27027= Cal seleccionar la carpeta on es vol desar el fitxer recuperat.
+27028= No s'ha pogut crear la carpeta destinataria %s
+27029= El fitxer %s ja existeix,! Segur que vols sobreescriure el fitxer?
+27030= DesXifrat del fitxer  %s Finalitzat.
+27031= Contrasenya incorrecte, Cal tornar-ho a intentar.
+27032= Cal seleccionar la carpeta on es vol desar el fitxer recuperat.
+27033= L'operacio ha estat fallida. Cal tornar-ho a intentar.
+27034= Xifrat en progress. Cal esperar una estona, una mica de paciencia.
+27035= DesXifrat en progress. Cal esperar una estona, una mica de paciencia.
+27036= Aquest fitxer esta xifrat amb la versio anterior del programa de desxifrat descarregar la versio anterior del programa de desxifrat que vols descarregar?
+27037= El fitxer xifrat es desara en:
+27038= Cal selecciona la carpeta on vols col.locar el fitxer xifrat.
+27039= La carpeta Destinacio no existeix, la vols crear?
+27040= Obre la carpeta Destinacio despres de acabar el xifrat
+27041= Afegeix Fitxer(s)
+27042= Suporta arrossegar i deixar anar fitxers
+27043= Fitxer(s) Local
+27044= Estat
+27045= Progres
+27046= Fitxer xifrat
+27047= Preparat
+27048= Esperant...
+27049= Xifrant..
+27050= Xifrat Finalitzat.
+27051= El fitxer origen no existeix o s'ha esborrat.
+27052= El fitxer desti ja existeix.
+27053= No s'ha pogut esborrar el fitxer d'origen.
+27054= Clica en <Afegeix Fitxer> selecciona el fitxer que vols xifrar o arrossegar un fitxer a xifrar a la Llista.
+27055= No hi ha cap Fitxer(s) seleccionat(s),  tornar-ho a intentar.
+27056= Suprimir Fitxer(s)
+27057= Seleccionar-ho Tot
+27058= DesSelecciona-ho Tot
+27059= Inverteix seleccio
+27060= Suprimeix l'objecte seleccionat
+27061= Vols Suprimir el fitxer seleccionat %s de la Llista de fitxers xifrats? 
+
+[File Splitter and Joiner]
+28001= Partir i Ajuntar Fitxers
+28901= Parteix el fitxers Llargs amb trossos mes manejables. 
+28002= Fitxer a Partir
+28003= Fitxer a Ajuntar
+28004= Cal escollir el fitxer que es vol partir en trossos mes petits
+28005= Cal Introduir l'adreça de la carpeta desti on es volen desar els fitxers
+28006= Cal escollir la mida maxima dels fitxers individuals a crear
+28007= Floppy disk (1.44MB)
+28008= Disc Zip(TM) 100MB
+28009= Disc Jaz(TM) 1GB
+28010= DVD 1-Capa 4.7GB
+28011= Mida definida per Usuari
+28012= Seran creats %s Fitxers resultats de la particio .
+28013= Afegeix funcionalitat al conjunt de la particio
+28014= Parteix Ara!
+28015= Cal seleccionar un dels fitxers de trossos que son part del fitxer original. Es pot seleccionar qualsevol dels fitxers de trosso, la resta ja seran inclosos automaticament.
+28016= Informacio configuracio dels trossos:
+28017= Cal Introduir l'adreça de la carpeta desti on es vol desar el fitxer recuperat.
+28018= Ajuntar Ara!
+28019= No s'ha pogut crear el fitxer %s
+28020= No s'ha pogut obrir el fitxer %s
+28021= Cal clicar <Navega> i escollir el Fitxer es vol partir en trossos mes petits!
+28022= El fitxer seleccionat no existeix. Clicar sobre el Boto <Navega> i escollir-ne un altre!
+28023= El fitxer seleccionat ja es mes petit que la mida maxima del primer tros.
+28024= Cal clicar <Navegar> i escollir la carpeta destinataria!
+28025= No s'ha pogut crear la carpeta destinataria %s
+28026= No hi ha suficient espai lliure en la Unitat destinataria %s
+28027= Particio del fitxer %s Finalitzada. El fitxer original ha estat esborrat.
+28028= Cal seleccionar la carpeta destinataria on es volen desar els fitxers dels trossos partits 
+28029= Fitxers Partits
+28030= Nom del Fitxer:
+28031= Mida:
+28032= Trossos Totals:
+28033= El fitxer seleccionat no forma part de un conjunt de fitxers dividits. Cal escollir-ne un altre.
+28034= No s'ha pogut trobar el següent tros de fitxer:
+28035= El fitxer ja existeix,! Segur que vols sobreescriure el fitxer?
+28036= El fitxer Original ha estat recuperat.
+28037= Cal seleccionar la carpeta on vols col.locar el fitxer restaurat.
+28038= L’operacio ha estat fallida. Cal tornar-ho a intentar.
+28039= Particio del fitxer en progress. Cal esperar una estona, una mica de paciencia.
+28040= Ajuntament de fitxer en progress. Cal esperar una estona, una mica de paciencia.
+28041= Aquesta carpeta ha estat afegida..
+
+[1-Click Maintenance]
+29001= Manteniment en 1-Clic
+29601= Netejador del Registre
+29602= Reparador de dreceres
+29603= Administrador d'Inici
+29604= Netejador Fitxers TEMP
+29605= Eliminar Rastres
+29606= Suprimir Spyware
+
+10603= Repara entrades no valides o incorrectes
+10605= Neteja dreceres no valides
+10607= Neteja entrades perilloses en l'inici
+10609= Neteja fitxers tempo i recupera espai en disc
+10611= Elimina historial d'activitat i rastres d'Internet
+10613= Suprimeix Spyware i Adware
+10614= Analitzant...
+10615= Mostra Detalls
+10616= Analitza
+10617= Cap problema trobat.
+10618= 1 problema trobat.
+10619= %s problemes trobats.
+10620= %s fitxer(es) trobat(s).
+10621= Cap fitxer trobat.
+10622= %s Rastres seleccionats.
+10623= 1 Rastre seleccionat.
+10624= Cap Rastre seleccionat.
+10625= Analitzant...
+10626= Clica <Repara Problemes> per a continuar.
+10627= Reparar Problemes
+10628= Problemes resolts.
+10629= Espai Recuperat
+10630= Rastres Eliminats.
+10631= Reparant...
+10632= Netejant...
+10633= Eliminant...
+10634= %s problemes reparats.
+10635= %s Rastres Eliminats.
+10636= %s recuperats.
+10637= Cal seleccionar i assenyalar els fitxers que vols Esborrar.
+10638= Mostra els Fitxers
+10639= Total %s Fitxers, %s2 recuperables.
+10640= Cal seleccionar i assenyalar els Rastres a Elimina.
+10641= Cal seleccionar les entrades del registre que vols Reparar. Si cliques sobre un element amb el boto dret del ratoli veuras opcions addicionals.
+10645= Cal seleccionar entrades de dreceres que vols Esborrar. Si cliques sobre un element amb boto el dret del ratoli veuras opcions addicionals.
+10642= Cal seleccionar entrades d'inici que vols Esborrar.
+10644= Cal seleccionar les entrades que vols Esborrar.
+10643= Cancel.lar Manteniment en 1-Clic
+10646= Repeteix
+10647= Clica <Reparar Problemes> per continuar, <Repeteix> per tornar a analitzar.
+
+[Glary Undelete]
+31001= Recupera Fitxers Esborrats
+31901= La manera rapida i efectiva per recuperar fitxers esborrats accidentalment
+31002= Cerca
+31003= Filtre
+31004= Carpetes
+31005= Tipus de Fitxers
+31006= Nom del Fitxer
+31007= Estat
+31008= Ruta Original
+31009= Mida
+31010= Tipus
+31011= Modificat
+31012= Recupera
+31013= Revisant les Unitats, Caldra esperar...
+31014= Selecciona la carpeta a cercar:
+31015= ! Molt bo
+31016= ! Bo
+31017= Mitja
+31018= Malmes
+31019= Sobreescrit
+31020= Selecciona la carpeta destinataria:
+31021= Recupera a la mateixa Unitat pot reduir el possible canvi de recuperar l'actualitzacio, Tot i axi, vol continuar?
+31022= ja existeix a la carpeta %s, N'estas segur que vols sobreescriure-ho?
+31023= ja hi son a la carpeta %s, N'estas segur que els vols sobreescriure?
+31024= Filtre: Si
+31025= Filtre: No
+31026= Cercant: %s, Elements seleccionats: %s2
+31027= Cercant
+31028= Progressio actual: %s%, %s2 fitxers trobats.
+31029= No es pot iniciar l'Analisi: %s
+31030= Recuperan %s..., %s2 fitxers recuperats
+31031= No es pot crear el fitxer %s
+31032= Per Nom de Fitxer
+31033= En tot o part del nom del fitxer. es poden emprar comodins, p.e., *.doc
+31034= ?   un per cada caracter a substituir 
+31035= *   per substituir els caracters que continuen 
+31036= Per Mida
+31037= Mes de
+31038= Menys de
+31039= Per Data
+31040= De
+31041= a
+31042= Per Estat
+31043= Tots els Tipus
+
+31044= No hi ha vista previa disponible
+31045= Vista Previa
+31046= Fes clic per a ampliar
+31047= Fes clic per tancar
+31048= Disc Local
+
+[Registry Defrag]
+32001= Desfragmentar el Registre
+32901= Desfragmenta el Registre de Windows per donar mes velocitat a l'ordinador
+32002= Benvingut al Desfragmentador del Registre
+32003= El Registre de Windows en el transcurs del temps es va fragmentant, ocupant mes espai en el disc dur i disminuint la seva velocitat duran el temps d'engegada. Compactar i Optimitzar el registre de Windows, suprimeix escletxes i espais inutils. Aixo pot millorar en força mesura l'execucio del PC. 
+32004= - Reduir fragmentacio 
+32005= - Corregir errors estructurals
+32006= - Recuperar espai de memoria no usada
+32007= Clica <Seguent> per analitzar el grau de Fragmentacio.
+32008= Tamany despres d'optimitzar:
+32009= Diferencia de tamany:
+32010= Desfragmenta el Registre pot reduir el tamany en %s
+32011= Clica <Seguent> per iniciar la Desfragmentacio (Caldra Reiniciar). Clica <Cancel.la> si no es vol optimitzar el registre, o si es vol optimitzar en un altre moment.
+32012= El Desfragmentador del Registre ha detectar que no es necessari fer-ho en aquest moment. Lo recomanable es fer-ho un pot al mes.
+32013= Clica <Tanca> per finalitzar el treball del programa
+32014= ATENCIO: Es totalment necessari no tenir cap programa en execucio mentres es realitza l'analisis del Desfragmentador del Registre.
+32015= Cal desar tots els treballs i tancar totes les execucions dels programes abans de procedir a la compactacio.
+32016= Es molt aconsellable aturar el programa antivirus mentres es realitza l'analisi. El Tallafocs usualment no cal deshabilitar-lo.
+32017= Despres de tenir tots els programes tancats, clica <D'acord> per continuar.
+32018= La Desfragmentacio no ha estat possible, perque una part del registre esta protegit contra modificacions. Per resoldre aquest assumpte, cal tancar tots els programes en execucio, deshabilitar l'antivirus, la proteccio antispyware i tornar-ho a provar de nou. Recorda de tornar a Habilitar l'antivirus i la proteccio antispyware despres de Desfragmentar el registre.
+32019= Advertiment: Al completar l'optimitzacio, l'ordinador sera Reiniciat.
+32020= Vols fer l'optimitzacio en aquest moment?.
+32021= Analitzant el registre
+32022= Caldra esperar una mica...
+32023= L'ordinador pot no reaccionar durant uns minuts mentres es completa l'analisi. Es pot aturar l'Analisi prement la Tecla [ Esc ]...
+32024= El registre de Windows ha estat optimitzat satisfactoriament.
+
+[System Information]
+33001= Informacio del Sistema
+33901= Recopila informacio del maquinari i programari
+33002= Crear Informe
+33003= Crea Informe (Complet)
+33004= Informacio General
+33005= Sistema Operatiu
+33006= Dispositius
+33007= Memoria
+33008= Unitats
+33009= Tarja Video + Monitor
+33010= Xarxa
+33011= Altres dispositius
+33012= General
+33013= Processador
+33014= Placa Mare
+33015= Versio de Windows
+33016= Data d'instal-lacio
+33017= Pantalla
+33018= Monitor
+33019= Adaptador de video
+33020= Dispositius d'entrada
+33021= Ratoli
+33022= Teclat
+33023= Unitat de Disc
+33024= Unitat DVD/CD-ROM
+33025= Propietats del sistema operatiu
+33026= Nom del sistema operatiu
+33027= Idioma del sistema operatiu
+33028= Versio del sistema operatiu
+33029= Instal-lat per: 
+33030= Organitzacio Registrada
+33031= ID del producte
+33032= Clau del producte
+33033= Data d'instal-lacio del S.O.
+33034= Directori arrel del S.O
+33035= Sessio actual
+33036= Nom d'equip
+33037= Nom d'usuari
+33038= Domini d'inici de sessio
+33039= Temps en Us
+33040= Versio de Components
+33041= Internet Explorer
+33042= Windows Media Player
+33043= DirectX
+33044= Carpetes del sistema
+33045= Compartir carpetes
+33046= Placa Mare
+33047= Nom de la placa
+33048= Fabricant de la placa
+33049= Propietats de la BIOS
+33050= Versio de la BIOS
+33051= Data de la BIOS del sistema
+33052= Data de la BIOS del video
+33053= Propietats de la CPU
+33054= Identificacio CPU
+33055= Nom Generic CPU
+33056= Proveidors CPU
+33057= Numero de serie
+33058= Freqüencia de la CPU
+33059= Codi Memoria Cau L1
+33060= Dades de Memoria Cau L1
+33061= Memoria cau L2
+33062= Socket CPU
+33063= Nuclis Reals
+33064= Nuclis Logics
+33065= Detalls configuracio de la CPU
+33066= Us de la CPU
+33067= Historial d'us de CPU
+33068= Memoria Fisica
+33069= Memoria Virtual
+33070= Memoria Total
+33071= Memoria Lliure
+33072= Memoria Usada
+33073= Memoria Seleccionada
+33074= Aplicacio
+33075= Memoria
+33076= Ruta
+33077= Detalls de la Unitat
+33078= Lletra de disc
+33079= Tipus de dispositiu
+33080= Numero de serie
+33081= Sistema d'arxius
+33082= Bits Totals
+33083= Bits Lliures
+33084= Bits Emprats
+33085= Sistema d'arxius
+
+33086= Habilitat Compressio d'arxius
+33087= Volum comprimit
+33088= Activat el nom d'arxiu Llargs
+33089= Nom de fitxers Unicode
+33090= Sistema d'arxius xifrats
+
+33091= Informacio Llogica
+33092= Nombre de Clusters
+33093= Clusters Lliures
+33094= Clusters utilitzats
+33095= Bits per cluster
+33096= Sectors per cluster
+33097= Sectors utilitzats
+33098= Sectors Lliures
+
+33099= Detalls configuracio Logica
+33100= Bits per sector
+33101= Sectors Totals
+
+33102= Espai total en disc
+33103= Espai Lliure en disc
+33104= Espai en disc utilitzat
+
+33105= Propietats de la tarja de Video
+33106= Descripcio del dispositiu
+33107= Fils de l'Adaptador
+33108= Identificacio de la BIOS
+33109= Tipus de Xip
+33110= Tipus de DAC
+33111= Data del controlador
+33112= Versio del controlador
+33113= Proveidor del controlador
+33114= Tamany memoria de Video
+
+33115= Propietats del monitor
+33116= Nom del monitor
+33117= Model
+33118= Data de fabricacio
+33119= Numero de serie
+33120= Mida de la pantalla Max.Visible
+33121= Gamma
+
+33122= Model de Video compatibles
+
+33123= Descripcio de l'adaptador de xarxa 
+
+33124= Propietats de l'adaptador de xarxa
+33125= Adaptador de xarxa
+33126= Tipus d'interficie
+33127= Adreça MAC
+33128= Nom de la connexio
+33129= Velocitat de connexio
+33130= MTU
+33131= Bits rebuts
+33132= Bits enviats
+
+33133= Adreça adaptador de xarxa
+33134= Mascara IPv4 / Subxarxa
+33135= Porta d'enllaç predeterminada
+33136= DNS
+
+33137= Dades rebudes
+33138= Dades enviades
+
+33139= Dispositius d'audio
+33140= Ports
+33141= USB
+33142= Controlador USB
+33143= Impressores
+
+33144= Nom
+33145= Valor
+
+33148= Carpetes del sistema
+33149= Carpetes Compartides
+33150= Fes clic a una carpeta per obrir-la en l'Explorador de Windows
+33151= Obre la carpeta
+33152= Propietats
+33153= *Segons 
+33154=  (%s Hores %s2 Minuts %s3 Segons)
+
+33155= Tipus S.O.
+33156= %s bit
+
+[GLARYUTILITIES]
+1001001= Recupera
+1001002= Feedback
+1001003= Minimitza
+1001004= Versio:
+
+[OVERVIEW]
+1002001= Visio de conjunt
+1002002= Canvia a manteniment automatic
+1002003= Eliminar Rastres privats a l'apagar Windows
+1002004= Cercar actualitzacions quan s'inicia el programa
+1002005= Netejar profundament i corregir els errors
+1002006= Temps d'engegada de Windows
+1002007= Desactivar programes d'inici innecessaris perque Windows engegui mes rapid
+1002008= Gestio del Menu d'Inici
+1002009= Estas utilitzant %s
+1002010= Actualitzar Ara
+1002011= Temps d'engegada de Windows compartida
+1002012= Hores
+1002013= Minuts
+1002014= Segons
+1002015= Selecciona Rastres
+1002016= Llicenciat a :
+1002017= Administra Llicencia
+1002018= Caducada
+1002019= Comprova si hi ha actualitzacions de forma automatica
+
+[ONECLICK]
+1003001= Reparador del Disc
+1003002= Desfragmentar Registre
+1003003= Immunitzar Malware
+1003004= Optimitza Sistema
+1003005= Desfragmentar Discos Durs
+
+[ADVANCED TOOLS]
+1004001= Eines Avançades
+1004002= Registre de Windows
+1004003= Reparar
+1004004= Desfragmentar
+1004005= Copia de Seguretat
+1004006= Recuperar Copia
+   
+1004007= Espai Disc
+1004008= Netejar
+1004009= Suprimir Duplicats
+1004010= Suprimir carpetes Buides
+1004011= Suprimir acces directe Malmesos
+1004012= Explorar l'espai ocupat del Disc
+   
+1004013= Configuracio del sistema
+1004014= Configuració del sistema
+1004015= Optimitzat inici del sistema
+1004016= Allibera memoria RAM
+1004017= Accelerar Internet
+1004018= Mode Turbo
+   
+1004019= Privacitat
+1004020= Eliminar Historial
+1004021= Destruccio irrecuperable de Fitxers
+1004022= Esborrar i Destruir l'espai Lliure
+1004023= Xifra Fitxers
+   
+1004024= Controladors
+1004025= Copies de Seguretat
+1004026= Recuperar
+1004027= DesInstal-lar
+1004028= Cerca actualitzacions
+   
+1004029= Gestio de Fitxers
+1004030= Partir/Ajuntar Fitxers
+1004031= Recuperar Fitxers Esborrats
+1004032= Cerca Rapida
+   
+1004033= Discos Durs
+1004034= Desfragmenta
+1004035= Desfragmenta a l'engegar
+1004036= Comprovar si hi ha Errors
+   
+1004037= Control Sistema
+1004038= Elements d'inici
+1004039= Serveis
+1004040= Tasques Programades
+1004041= Menu Contextual
+1004042= Processos oberts
+1004043= Assistent Navegadors Web
+   
+1004044= Estat del Sistema
+1004045= Informacio del Sistema
+1004046= Copia de Seguretat del PC
+1004056= Repara Fitxers del Sistema
+1004047= Recupera Fitxers del Sistema
+1004048= DesFer els Canvis
+   
+1004049= Anti-Malware
+1004050= Suprimir Malwares
+1004051= Immunitzar
+   
+1004052= Programari
+1004053= DesInstal-lacio
+1004054= Cerca actualitzacions
+1004055= Actualitzacio Programari
+004057=
+
+[QUICKLAUNCHBAR]
+1005001= Clica +/- per afegir o treure un acces a la barra del Dock    
+1005002= Ja existeix aqui
+1005003= No hi ha prou espai a la barra del Dock, es pot treure un fent clic -
+1005004= No hi ha espai suficient en el Dock, es pot eliminar qualsevol icona arrossegant fora de la base.
+
+[SKINSCENTER]
+1006001= Centre de pells
+1006002= Llibreria de Imatges
+1006003= Colors Solids
+1006004= El seguent fitxer ja existeix, el vols Sobreescriure?
+1006005= Tots els fitxers de suport
+1006006= Personalitza
+
+1007001= La Llicencia de troba ha caducat. 
+1007002= Fes clic a aquest missatge per activar Glary Utilities Pro Ara.
+1007003= La Llicencia ha caducat. 
+1007004= Fes clic a aquest missatge per re-activar Glary Utilities Pro Ara.
+
+
+[CHECKDISK]
+2400001= Revisa Disc
+2401001= Cal seleccionar el disc a Revisar
+2401002= Auto-Reparar errors dels Fitxers del Sistema
+2401003= Troba sectors danyats i tractar de recuperar-los
+2401004= Revisa Disc
+2401010= Nom Unitat Disc
+2401011= Darrer Analisi
+2401012= Estat
+2401013= Analisi
+2401014= Informe
+2401015= Preparat
+2401016= Te necessitat de Revisa
+2401017= Revisant %s
+2401018= Revisio Disc Interrompuda
+2401019= Errors trobats
+2401020= No s'ha trobat cap error
+2401021= Revisa errors del Disc
+2401022= Amaga detalls
+2401023= Mostra detalls
+2401024= Revisa Disc comprova la unitat i els errors dels Fitxers del Sistema.
+2401025= Els errors detectats es repararan automaticament per evitar la perdua de dades.
+2401026= Opcions
+;2401027= Auto-Reparar errors dels Fitxers del Sistema
+;2401028= Troba sectors danyats i tractar de recuperar-los
+2401029= Iniciar Revisio
+2401030= Atura
+2401031= Fallida la Revisio Programada de disc!
+2401032= S'ha programat la Revisio del Disc per la propera engegada de l'ordinador.
+2401033= Revisio Disc aturada.
+2401034= Revisio Disc Cancel.lada.
+2401035= Revisio Disc Interrompuda.
+2401036= Revisio del Disc completada. No s'ha trobat cap error.
+2401037= Revisio Disc: Trobats %s els seguents errors del Disc:
+
+2403001= Revisant %s
+2403002= Fer aixo per els seguents %s conflictes
+2403003= Sera aturada en %s segons.
+
+2405001= Funcio no trobada.
+2405002= Revisa Disc ha trobat un error. Es Necessari de reiniciar l'aplicacio.
+2405003= Revisa els fitxers del sistema en %s
+2405004= El tipus de sistema de fitxes es %s.
+
+2406001= Desa informe
+
+2407001= Resultat
+2407002= Programar Revisio del Disc
+2407003= Reiniciar Ara
+2407004= Mostrar informe
+2407005= Windows Desfragmentara i Reparara el Disc en el seguent inici.
+
+2408001= Windows no pot Revisar el Disc mentre esta en Us
+2408002= Forçar un desmuntatxa\nVols que desmuntar aquest volum per primera vegada? Nota: Tots els identificadors oberts a aquest volum no seran valids.
+2408003= Programar Revisar Disc\nVols comprovar si hi ha errors en el Disc Dur la propera vegada que s'inici l'equip?
+2408004= Saltar
+
+[RESTORE CENTER]
+
+2602001= Crear un punt de recuperacio...
+2603001= Afegeix la descripcio per ajudar a identificar el punt de recuperacio. Automaticament s'afegira la data i l'hora actuals.
+2603002= Crear
+2603003= Cal introduir la descripcio.
+2604001= Preparant la recuperacio el sistema ...
+2605001= Objectes Recuperants %s.
+
+
+[SETTINGS]
+2801001= Configuracio General
+2801002= Els elements seguents seran exclosos en realitzar l'exploracio.
+2801003= Addicional
+2801004= Investigar  els camis a traves del registre, identificar, proposar i reparar errors.
+2801005= Mostrar Text a la barra del Dock
+2801006= Defineix Multiples triggers
+2801007= Ni hi ha cap tasca programada
+2801008= Saltar l'advertiment control del compte l'usuari
+
+2802001= Programacio:
+2802002= Hora Inicial:
+2802003= No iniciar la tasca si l'equip esta funcionant amb bateries.
+2802004= Aturar la tasca si s'inicia el modus bateria.
+2802005= Activar l'equip per executar aquesta tasca.
+2802006= Gestio d'energia
+
+2803001= Log (registre)
+2803002= Opcions Log
+2803003= Logs desats
+2803004= Obre carpeta Logs
+2803005= Mostra Log
+2803006= Esborra
+2803007= Netejar-ho Tot
+2803008= Crear un registre quan es produeixi algun canvi en l'equip
+2803009= Fitxers Maxims:
+
+[Quick Search]
+3700001= Cerca rapida
+3700002= 
+
+//frmMain
+3701001= Fitxer
+3701002= Edita
+3701003= Mostra
+3701004= Ajuda
+3701005= Obre
+3701006= Obre la Carpeta
+3701007= Exporta
+3701008= Tanca
+3701009= Copia
+3701010= Ruta dels Jocs 
+3701011= Opcions
+3701012= Mida del Text
+3701013= Ordena Icones per
+3701014= Actualitza
+3701015= Aumenta
+3701016= Disminueix
+3701017= Normal
+3701018= Nom
+3701019= Ruta
+3701020= Mida
+3701021= Data Modificacio
+3701022= Lloc Web
+3701023= Quant a
+3701024= Modifica Categoria
+3701025= Mostrar-ho tot
+3701026= Accessos Rapids
+3701027= Documents   
+3701028= Imatges        
+3701029= Videos        
+3701030= Musica      
+3701031= Programacio 
+3701032= Mostra %s Fitxers
+3701033= Incloure Fitxers 
+3701034= Incloure Carpetes
+3701035= %s Elements trobats
+3701036= Analitzant %s ...
+3701037= Tipus   
+3701038= Descripcio Fitxer 
+3701039= Versio Fitxer 
+3701040= Versio Producte 
+3701041= Nom Companyia 
+3701042= Fitxer Text(*.txt)|*.txt|Tots Fitxers(*.*)|*.*
+3703043= Fitxers existents
+3703044= Consells
+3703045= %s elements seleccionats
+3701046= Carregant %s ...
+
+//frmSetting
+3702001= Opcions
+3702002= Categoria
+3702003= General
+3702004= Iniciar automaticament l'inici de sessio de Windows
+3702005= Doble-clic Tecla 'Ctrl' per Amaga/Mostra caixa de cerca
+3702006= Idioma:
+3702007= Nom Categoria
+3702008= Extensions Fitxer
+3702009= Afegeix
+3702010= Modifica
+3702011= Suprimeix
+3702012= D'acord
+3702013= Cancel.la
+3702014= Cal seleccionar una categoria!
+3702015= Aquesta categoria no es pot Esborrar
+3702016= Discos
+3702017= Cal selecciona el disc per cercar
+3702018= Nom Unitat
+3702019= Sistema de Fitxers
+3702020= Capacitat
+3702021= Espai usat
+
+//frmGroupSetting
+3703001= Nom Categoria:
+3703002= Extensions Fitxer:
+3703003= Extensio Fitxer:
+3703004= Extensio
+3703005= Tipus de Fitxer
+3703006= Introduir extensio(*.doc)
+3703007= El nom de la Categoria no pot estar buida!
+3703008= L'extensio del Fitxer no pot estar buida!
+3703009= El nom de la Categoria %s ja existeix, Cal reintroduir el nom de la categoria.
+3703010= Afegeix una categoria
+3703011= Modifica una categoria
+
+//UnitFunction
+3704001= No hi ha Text al Porta-Retalls!
+
+//frmAbout
+3705001= Quant a
+3705002= Versio:
+3705003= Lloc Web:
+3705004= Copyright @ 2013, Glarysoft ltd. Tots els drets reservats
+
+//tray icon
+3706001= Obre cerca rapida
+
+//Task
+3707001= Glary Utilities 4 QuickSearch
+
+[Disk Defrag]
+3400001= Desfragmenta Disc
+3400002= Accelerar el rendiment del Discos del PC
+
+//frmMain
+3401001= Nom Unitat
+3401002= Sistema de Fitxers
+3401003= Capacitat
+3401004= Espai Lliure
+3401005= Fragmentat
+3401006= Estat
+3401007= Data de Desfragmentacio a l'engegar
+3401008= Fitxer
+3401009= Eines
+3401010= Ajuda
+3401011= Desfragmentar Fitxer...
+3401012= Desfragmentar Carpeta...
+3401013= Analitza
+3401014= Desfragmenta
+3401015= Desfragmenta i Optimitza (mes lenta, utilitzar una vegada a la setmana)
+3401016= Surt
+3401017= Prioritat
+3401018= Baixa
+3401019= Normal
+3401020= Alta
+3401021= Opcions
+3401022= Lloc Web
+3401023= Cerca actualitzacions
+3401024= Quant a
+3401025= Desfragmenta
+3401026= Analitza
+3401027= Desfragmenta i Optimitza (mes lenta, utilitzar una vegada a la setmana)
+3401028= Pausa
+3401029= Reprendre
+3401030= Atura
+3401031= Apagar PC despres Desfragmenta
+3401032= Seleccionar-ho Tot
+3401033= Desseleccionar
+3401034= Estat
+3401035= Informe
+3401036= Espai Usat
+3401037= Espai Lliure
+3401038= Processant
+3401039= Espai Lliure
+3401040= Espai Usat
+3401041= No Fragmentat
+3401042= Fitxers Inamovibles
+3401043= Fitxers Fragmentats
+3401044= Ocupat
+3401045= Zones MFT Reservades
+3401046= Preparat
+3401047= Analitzant
+3401048= Desfragmentant
+3401049= Optimitzant
+3401050= Analitzats
+3401051= Desfragmentat
+3401052= Optimitzat
+3401053= Analisi Completat
+3401054= Desfragmentacio Completada
+3401055= Optimitzacio Completada
+3401056= Analisi Interromput
+3401057= Desfragmentacio Interrompuda
+3401058= Optimitzacio Interrompuda
+3401059= Data de la Desfragmentacio a l'engegar Activada en el Volumen.
+3401060= Data de la Desfragmentacio a l'engegar DesActivada en el Volumen.
+3401061= Apaga
+3401062= Data Desfrag
+3401063= Configura
+3401064= Desfragmentar el Fitxer de paginacio i d'Hibernacio
+3401065= Desfragmentar MFT
+3401066= Desfragmentar els Fitxers del Sistema
+3401067= Historial de les dates de la Desfragmentacio a l'engegar (Doble Clic per mostra els detalls)
+3401068= Data
+3401069= Espai Total
+3401070= Desfragmentada
+3401071= Total Fitxers i Carpetes:
+3401072= Fragments:
+3401073= Ratio Fragmentacio:
+3401074= Nom Fitxer
+3401075= Fragments
+3401076= Tamany
+3401077= Ruta
+3401078= Si
+3401079= No
+3401080= Fitxer(s)
+3401081= Selecciona Carpeta
+3401082= Advertiment
+3401083= Desfragmentacio de disc segueix funcionant.
+3401084= Unitat desconeguda
+3401085= El directori arrel no es pot afegir a la Llista d'exclusions. Selecciona un altre directori.
+3401086= Inverteix Seleccio
+3401087= Aturar-ne Un
+3401088= Aturar-ho Tot
+3401089= Aquest volum es una Unitat d'emmagatzematge d'estat solid (SSD), i no hi ha necessitat de desfragmentar.
+3401090= El Disc sembla ser d'estat solid (SSD). La desfragmentaci pot reduir la seva vida util. N'estas segur que vols continuar?
+
+//frmOption
+3402000= Options
+3402001= General
+3402002= Desfragmentar
+3402003= Auto-Desfragmentacio
+3402004= Programacio
+3402005= Data de Desfragmentacio a l'engegar
+3402006= Optimiza
+3402007= Excloure
+3402008= Idioma:
+3402009= Desfragmentacio Automatica a l'inicia la Sessio de Windows
+3402010= Minimitza a la Safata al tancar la Finestra del programa
+3402011= Mostra Globus de suggeriments al minimitzar a la safata
+3402012= Integra Desfragmentar dins el menu contextual de Windows Explorer
+3402013= Automaticament Cerca Actualitzacio
+3402014= Desfragmentacio Simultanea dels Discos
+3402015= Predeterminat
+3402016= Desfragmentacio Intel.ligent
+3402017= Aurora
+3402018= Standard de Windows
+3402019= Accessibilitat
+3402020= Arc de Sant Marti
+3402021= Brisa de Mar
+3402022= Nomes Desfragmentar els Fitxers que:
+3402023= Que tinguin fragments mes petits de
+3402024= Que tinguin mes de
+3402025= Que siguin mes grans de
+3402026= Que siguin mes petits de
+3402027= fragments
+3402028= Moure els Fitxers de grans dimensions a la final de la unitat
+3402029= Mida minima del fitxer:
+3402030= Els Fitxers que no s'ha accedit al darrer mes
+3402031= Els Fitxers de la paperera de reciclatge
+3402032= Els Fitxers dels tipus seleccionats
+3402033= Categoria
+3402034= Tipus
+3402035= Afegeix
+3402036= Edita
+3402037= Esborra
+3402038= Exclou els Fitxers que no vols Desfragmentar per exemple arxius de Video. {#13#10}Aixo fara Accelera la Desfragmentacio. 
+3402039= Afegir Fitxer
+3402040= Afegir Carpeta
+3402041= Auto-Desfragmentacio DesActiva
+3402042= Auto-Desfragmentacio Activa
+3402043= Quan la Auto-Desfragmentacio automatica esta activada, es Desfragmenta el Disc Dur de forma automatica per mantenir l'equip funcionant al maxim rendiment.
+3402044= Auto-Desfragmenta quan el sistema es inactiu. %s minuts
+3402045= Pausa quan s'accedeix a la CPU o al Disc en %s%
+3402046= Unitats
+3402047= Ultima Desfragmentacio:
+3402048= Fitxers Desfragmentats:
+3402049= Executa una Programacio
+3402050= Accio:
+3402051= Frequencia:
+3402052= Hora:
+3402053= Nomes Desfragmenta
+3402054= Desfragmenta i Optimiza
+3402055= Diari
+3402056= Setmanal
+3402057= Mensual
+3402058= Dilluns
+3402059= Dimarts
+3402060= Dimecres
+3402061= Dijous
+3402062= Divendres
+3402063= Dissabte
+3402064= Diumenge
+3402065= Activar la Data de la Desfragmentacio a l'engegar
+3402066= Model Desfragmentacio:
+3402067= Metode
+3402068= Tots els dies a l'engegar
+3402069= Tots els dies a la primera engegada
+3402070= Tots els dia  %s  a l'engegar
+3402071= Max Fitxers log:
+3402072= Iniciar Auto-Examina-Disc (CHKDSK) abans d'executar la Data de la Desfragmentacio a l'engegar       
+
+3402073= Desframentacio Avançada
+3402074= Desframentat Rapid
+3402075= Selecciona Carpeta
+3402076= Cal revisar la Unitat que vols Desfragmentar!
+3402077= Consells
+3402078= Cal selecciona una categoria! 
+3402079= N'estas segur que vols esborrar aquesta categoria?
+3402080= Afegeix categoria Fitxer
+3402081= Edita categoria Fitxer
+3402082= D'acord
+3402083= Cancel.la
+3402084= La Data de la Desfragmentacio a l'engegar. Desfragmenta els fitxers que no es poden moure amb seguretat mentre s'executa Windows.
+3402085= Atura VSS quan desfragmentis volums NTFS
+
+//frmConfig
+3403001= Arxius
+3403002= Videos
+3403003= Imatges de Disc
+
+//frmCategory
+3404001= El Nom de la categoria no pot estar buit! 
+3404002= Tipus d'error de format! Per exemple: (*.doc/*.doc,...,*.Txt).
+
+//frmFileType
+3405001= Categoria: 
+3405002= Tipus:
+3405010= El Nom de la categoria %s ja existeix, Cal tornar a introduir el nom de la categoria..
+
+[SpyRemover]
+2701001= Suprimir Malware
+2701002= Suprimir Malware
+2701003= Analisi Rapid i Supressio del Spyware i Adware
+2701004= Analitza
+2701005= Suprimeix
+2701006= Recupera
+2701007= Tornar a Analitzar
+2701008= Cal seleccionar la copia de seguretat que vols Recuperar i clica <Recupera>.
+2701010= Tipus
+2701011= Estat
+2701012= Copies  de Seguretat
+2701013= N'estas segur que vols Recuperar %s al registre de sistema?
+2701014= %s s'ha Recuperat correctament en el Registre.
+2701015= Analitzat %s
+2701016= Fitxers Analitzats: %s
+2701017= Neteja del Malware Finalitzada!
+2701018= Recuperat
+2701019= Analitzar Malware
+2701020= Analisi Completat
+2701021= %s Malwares trobats
+2701022= No h'ha trobat Malware
+2701023= S'ha trobat 1 Malware
+2701024= Cap Element revisat
+2701025= %s Element revisat
+2701026= %s Elements revisats
+2701027= Informacio Malware
+2701028= No h'ha trobat Malware!
+2702001= Detalls
+2702002= Seleciona les entrades que vols Esborrar.
+	 
+[BOOT TIME]
+2901001= Nomes com a referencia.
+2901002= El Temps d'engegada de Windows es Molt Lenta, en el %s d'usuaris es mes Lenta.
+2901003= El Temps d'engegada de Windows es Lenta, en el %s d'usuaris es mes Lenta.
+2901004= El Temps d'engegada de Windows es la General, en el %s d'usuaris es mes Lenta.
+2901005= El Temps d'engegada de Windows es Rapida, en el %s d'usuaris es mes Lenta.
+2901006= El Temps engegada de Windows es Molt Rapida, en el %s d'usuaris es mes Lenta.
+2901007= No s'ha pogut obtenir les dades, el valor de referencia no pot ser calculat.
+2901008= Obtenint el Temps d'engegada, cal espera...
+
+[DRIVER BACKUP]
+2200001= Administra Controladors
+2201001= Copia Seguretat
+2201002= DesInstal.la
+2201003= Recupera
+
+2201004= Selecciona els controladors que vols instal.lar i clica <Recupera>.
+2201005= Selecciona els controladors que vols DesInstal,lar i clica <DesInstal.la>.
+2201006= Escull la carpeta de destinacio on s'ha Desat el Fitxer de la copia de seguretat:
+2201007= Desa el Fitxer de la copia de seguretat a:
+2201008= Copia de seguretat del Controlador 
+2201009= %s Creacio fallida!
+2201010= N'estas segur que vols DesInstal.lar aquest controlador?
+2201011= Nom del Controlador
+2201012= Versio
+2201013= Data de la Copia
+2201014= L'equip pot ser que hagi de reiniciar!
+
+
+[Software Update]
+4000001= Actualitzar Programari
+4000002= Resultats Actualitzacio del programari
+
+4001001= Llegir mes...  
+4001002= Cancel.la
+4001003= Continua
+4001004= Executa Actualitzar Programari a l'nicia Windows
+4001005= Analitza
+4001006= Nou Analisi
+4001007= 100% d'escanejat completat.
+4001009= Personalitzar els resultats
+4001010= Apunt per Iniciar ...
+4001011= Analitzant el PC ...
+4001012= Enviament de dades per a l'analisi ...
+4001013= Obrint resultats ...
+4001014= Clica <Analitza> per Analitzar el PC per al programari instal.lat!
+4001015= Visita www.glarysoft.com
+4001016= Recupera des de la Safata
+4001017= Surt
+4001018= ¡Fallida! la Connexio amb el servidor
+4001019= Clica aquest missatge per veure mes.
+4001020= Mostra detalls
+4001021= Cerca actualitzacions
+
+4001022= Tens 1 nova actualitzacio disponible.
+4001023= Tens %s noves actualitzacions disponibles. 
+4001024= Tens 1 nova beta d'actualitzacio disponible. 
+4001025= Tens %s noves betes d'actualitzacio disponibles. 
+
+4001026= Tens 1 nova actualitzacio i 1 actualitzacio beta disponible.
+4001027= Tens 1 nova actualitzacio i %s  actualitzacions beta disponibles. 
+4001028= Tens %s noves actualitzacions i 1 actualitzacio beta disponible. 
+4001029= Tens %s noves actualitzacions i %s2 actualitzacions beta disponibles.
+4001030= Actualment no hi ha cap d'actualitzacio disponible.
